@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "cpc-city-of-yes-housing-opportunity-testimony-data"
+version = "0.1.0"
+description = ""
+authors = ["Vikram Oberoi <vikram@citymeetings.nyc>"]
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.12"
+instructor = "^1.3.5"
+python-dotenv = "^1.0.1"
+anthropic = "^0.31.2"
+openai = "^1.36.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
