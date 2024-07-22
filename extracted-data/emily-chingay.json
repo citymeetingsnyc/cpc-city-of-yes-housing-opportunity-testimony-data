@@ -1,0 +1,64 @@
+{
+  "testimony": {
+    "name": "Emily Chingay",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/emily-chingay-on-eliminating-parking-mandates-and",
+    "start_time_in_seconds": 28907.44,
+    "end_time_in_seconds": 28993.05,
+    "for_or_against": "For",
+    "borough": "Queens",
+    "neighborhood": "Astoria",
+    "stated_affiliations": [],
+    "key_points": [
+      "Support for City of Yes housing proposals",
+      "Concern about being priced out of the neighborhood",
+      "Support for eliminating parking mandates citywide",
+      "Need for zoning changes to address competitive housing market",
+      "Making parking optional, not eliminating it completely"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [
+        {
+          "text": "And, of course, I'd like to support eliminating parking mandate city wide.",
+          "reasoning": "This quote directly mentions the speaker's support for eliminating parking mandates, which is a key element of the City of Yes For Housing Opportunity proposal."
+        },
+        {
+          "text": "Lower Manhattan currently doesn't have these mandates, but as our city continues to grow, We need to get rid of these outdated policies that create and and create more affordable housing in all neighborhoods.",
+          "reasoning": "This quote further elaborates on the speaker's support for removing parking mandates, referring to them as 'outdated policies' and linking their removal to the creation of more affordable housing."
+        },
+        {
+          "text": "And also wanted to highlight that by eliminating parking mandates, it's just making parking these requirements. I mean, It's just making parking optional. So developers will most definitely continue to build create parking. It's just making it optional.",
+          "reasoning": "This quote directly addresses the proposal's aim to make parking optional rather than mandatory, which is a key aspect of the removing parking mandates element."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "testimony": {
+    "name": "Bryan Kelly",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/bryan-kelly-president-of-development-at-gotham",
+    "start_time_in_seconds": 38907.527,
+    "end_time_in_seconds": 39036.184,
+    "for_or_against": "For",
+    "borough": "Unknown",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [
+      "Gotham Organization"
+    ],
+    "key_points": [
+      "Support for the City of Yes legislation",
+      "Belief in supply-side economics to address housing crisis",
+      "Need for increased housing production in New York City",
+      "UAP (Unified as of Right) will generate more units and permanent affordability",
+      "City of Yes will help repurpose obsolete office buildings",
+      "Mandated parking adds unnecessary costs to housing development",
+      "Importance of small-scale developments in addition to mega projects",
+      "Support for mixed-income housing to retain the 'missing middle' in the city"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [
+        {
+          "text": "UAP, whether for all affordable housing or for mixed income housing is going to generate more units and more permanent affordability.",
+          "reasoning": "This quote directly mentions UAP (Universal Affordability Preference) and discusses how it will lead to more housing units and permanent affordability, which aligns with the proposal's intent."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [
+        {
+          "text": "The city of yes will help generate obsolete office buildings.",
+          "reasoning": "While not explicitly mentioning 'residential conversions', this quote implies support for converting obsolete office buildings, which is a key aspect of the Residential Conversions element of the proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Town centers, we cannot get our way of out of a housing crisis with only the construction of mega projects. Unit by unit, we get ourselves out of a housing crisis.",
+          "reasoning": "This quote directly mentions 'Town centers' and emphasizes the importance of smaller-scale housing development, which aligns with the Town Center Zoning element of the proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Although parking is required in many neighborhoods, it is also a marketability question and decision. To mandate parking in areas that may need may not need it. Just only adds more cost anywhere from 50 to 75,000 per unit because of the inclusion of parking, making the construction of affordable housing cheaper, they're more efficient, and more obtainable.",
+          "reasoning": "This quote discusses the issues with mandating parking, mentioning the added costs and inefficiencies, which aligns with the proposal's aim to remove parking mandates."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

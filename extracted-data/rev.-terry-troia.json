@@ -1,0 +1,74 @@
+{
+  "testimony": {
+    "name": "Rev. Terry Troia",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/rev-terry-troia-minister-of-the-reformed-church-of",
+    "start_time_in_seconds": 33555.63,
+    "end_time_in_seconds": 33739.348,
+    "for_or_against": "For",
+    "borough": "Staten Island",
+    "neighborhood": "Huguenot Park",
+    "stated_affiliations": [
+      "The Reformed Church of Huguenot Park"
+    ],
+    "key_points": [
+      "Homelessness has grown significantly on Staten Island over the past 40 years",
+      "Affordable housing crisis in Staten Island, affecting low-wage workers, families, disabled people, and seniors",
+      "Many families are living in overcrowded conditions or makeshift housing",
+      "Illegal basement apartments are common and often unsafe",
+      "Rent prices are extremely high, even for single rooms",
+      "Construction workers who build houses on Staten Island often can't afford housing themselves",
+      "Homelessness in New York City is at its highest level ever",
+      "Staten Island is experiencing a 'tale of two cities' with stark inequality in housing"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Thousands of people live in illegal basement apartments on Staten Island.",
+          "reasoning": "This quote indicates that the speaker is discussing the issue of illegal basement apartments, which is related to the residential conversions element of the proposal. The City of Yes for Housing Opportunity aims to make it easier to convert non-residential spaces into housing, including legalizing certain types of conversions."
+        },
+        {
+          "text": "The irony is that there are many new one family houses that construct basements that are ready to rent.",
+          "reasoning": "This quote further emphasizes the potential for residential conversions, particularly in basements. It relates to the proposal's aim to allow for more flexible use of existing spaces for housing."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Thousands of people live in illegal basement apartments on Staten Island.",
+          "reasoning": "This quote relates to the ADU element of the proposal, as basement apartments are a type of accessory dwelling unit. The speaker is highlighting the current prevalence of illegal basement apartments, which the City of Yes proposal aims to address by legalizing and regulating such units."
+        },
+        {
+          "text": "The irony is that there are many new one family houses that construct basements that are ready to rent.",
+          "reasoning": "This statement further emphasizes the potential for ADUs, specifically mentioning basements in single-family homes that could be converted into rental units. This aligns with the proposal's goal to allow homeowners to create additional living spaces within their properties."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

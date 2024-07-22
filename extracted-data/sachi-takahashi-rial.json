@@ -1,0 +1,69 @@
+{
+  "testimony": {
+    "name": "Sachi Takahashi-Rial",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/sachi-takahashi-rial-board-member-of-open-new-york",
+    "start_time_in_seconds": 41157.12,
+    "end_time_in_seconds": 41328.14,
+    "for_or_against": "For",
+    "borough": "Manhattan",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [
+      "Open New York",
+      "Manhattan Community Board 5"
+    ],
+    "key_points": [
+      "New York City is issuing fewer housing units per capita than other large cities, including San Francisco",
+      "Support for the entire City of Yes for Housing Opportunity policy package",
+      "Particular support for the universal affordability preference",
+      "Support for allowing office to residential conversion, especially beneficial for Midtown",
+      "Support for more flexible transfer of air rights for landmarks",
+      "The policy changes will make New York City more accessible and inclusive"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [
+        {
+          "text": "I support the entire policy package in the city of yes for housing opportunity. And in particular, the universal affordability preference since it creates permanent affordable housing and works hand in hand with state tax breaks to bring more housing and especially more affordable housing to our community.",
+          "reasoning": "This quote directly mentions the Universal Affordability Preference and expresses support for it, indicating that the speaker is discussing this element of the proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [
+        {
+          "text": "I also especially support allowing office to residential conversion. I spend most of my time in Midtown, which is an area that would really benefit from having this option.",
+          "reasoning": "This quote explicitly mentions support for office to residential conversion, which is a key aspect of the Residential Conversions element of the proposal."
+        },
+        {
+          "text": "Again, this policy works hand in hand with the state's program to pay for affordable housing in office to residential conversion. So the city should pass these zoning changes so that we can take advantage of these benefits and get new affordable housing in our community.",
+          "reasoning": "This quote further elaborates on the office to residential conversion policy, linking it to affordable housing creation, which is a core aspect of the Residential Conversions element."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

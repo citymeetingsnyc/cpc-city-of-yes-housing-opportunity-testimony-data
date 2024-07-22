@@ -1,0 +1,53 @@
+{
+  "testimony": {
+    "name": "Joy Goldberg",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/joy-goldberg-on-the-affordability-gap-in-nycs",
+    "start_time_in_seconds": 23873.885,
+    "end_time_in_seconds": 24061.191,
+    "for_or_against": "Against",
+    "borough": "Brooklyn",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [],
+    "key_points": [
+      "The gap between median renter income and required income for affordable housing in NYC is significant",
+      "Current 'affordable' housing options on Housing Connect are not truly affordable for those in dire need",
+      "Many affordable housing options still require high incomes (often above 100% AMI)",
+      "Questions who the City of Yes initiative is actually making housing affordable for",
+      "Criticizes the initiative as benefiting the 'lesser rich' rather than those truly in need",
+      "Expresses concern about rezoning and densification of the city",
+      "Suggests that dividing land for profit is harmful to the city"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

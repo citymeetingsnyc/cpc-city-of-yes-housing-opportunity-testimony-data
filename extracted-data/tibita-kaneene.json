@@ -1,0 +1,76 @@
+{
+  "testimony": {
+    "name": "Tibita Kaneene",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/tibita-kaneene-from-manhattan-community-board-7-on",
+    "start_time_in_seconds": 27158.594,
+    "end_time_in_seconds": 27339.496,
+    "for_or_against": "For",
+    "borough": "Manhattan",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [
+      "Manhattan Community Board 7"
+    ],
+    "key_points": [
+      "Strong support for City of Yes with some caveats and suggestions",
+      "Concerns about potential reduction in affordable units due to replacing voluntary inclusionary housing with UAP",
+      "Suggestion for 20% FAR credits for off-site preservation of affordable housing",
+      "Opposition to eliminating public hearings and review by elected officials",
+      "General approval of eliminating obstacles to quality housing developments in non-contextual zoning districts, but with community input",
+      "Support for conversion of nonresidential buildings to residences, with suggested 35-year age requirement",
+      "Approval of creating R11 and R12 district designations, subject to ULURP and mandatory 30% affordable housing",
+      "Disapproval of miscellaneous amendments without additional information",
+      "Disapproval of certain proposals for low-density districts",
+      "Overall support for City of Yes as it addresses the district's top need of affordable housing"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [
+        {
+          "text": "We think the replacing voluntary inclusion of housing with UAP may result in fewer affordable units in our 10 and special purpose districts.",
+          "reasoning": "This quote directly mentions UAP (Universal Affordability Preference) and discusses its potential impact on affordable housing units, which is a key aspect of this element of the proposal."
+        },
+        {
+          "text": "Also, we think that the city should allow 20 percent FAR credits for off-site preservation of affordable housing equal to 30% for original floor area.",
+          "reasoning": "While not explicitly mentioning UAP, this quote discusses affordable housing and FAR (Floor Area Ratio) credits, which are closely related to the UAP element of the proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Number 4, conversion of nonresidential buildings to residences. We generally approve or recommend instead of a specific cutoff date we should be conversion should be allowed for any building that is at least thirty five years old.",
+          "reasoning": "This quote directly addresses the residential conversions element of the proposal, suggesting a modification to the age requirement for buildings eligible for conversion."
+        },
+        {
+          "text": "And then may I also just approve of the elimination of ULLERP for this?",
+          "reasoning": "This quote, following the discussion on residential conversions, indicates approval for eliminating ULURP (Uniform Land Use Review Procedure) for these conversions, which is related to streamlining the conversion process."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

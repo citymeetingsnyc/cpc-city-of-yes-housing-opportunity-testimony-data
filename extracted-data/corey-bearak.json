@@ -1,0 +1,56 @@
+{
+  "testimony": {
+    "name": "Corey Bearak",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/corey-bearak-chair-of-community-board-13-land-use",
+    "start_time_in_seconds": 45648.336,
+    "end_time_in_seconds": 45856.64,
+    "for_or_against": "Against",
+    "borough": "Queens",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [
+      "Queens Community Board 13",
+      "Vision Long Island"
+    ],
+    "key_points": [
+      "Community Board 13 unanimously adopted a resolution recommending rejection of City of Yes for Housing Opportunity",
+      "The proposal would remove traditional community board, borough president, and city council review of uses not permitted under existing zoning",
+      "Charter-mandated community review protects neighborhoods from adverse impacts",
+      "The city should provide tools and resources to community boards to identify appropriate parcels for beneficial local development",
+      "The 'as of right' features would weaken or render useless the Charter-mandated community review provisions",
+      "Suggests implementing tools through a community review process on a case-by-case basis instead of citywide",
+      "Advocates for community-based collaborations for affordable housing and senior housing, similar to Long Island's smart growth initiatives"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

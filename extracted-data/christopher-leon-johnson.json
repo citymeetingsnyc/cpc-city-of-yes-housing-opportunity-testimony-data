@@ -1,0 +1,65 @@
+{
+  "testimony": {
+    "name": "Christopher Leon Johnson",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/christopher-leon-johnson-on-opposing-city-of-yes",
+    "start_time_in_seconds": 18384.578,
+    "end_time_in_seconds": 18570.53,
+    "for_or_against": "Against",
+    "borough": "Queens",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [],
+    "key_points": [
+      "The City of Yes initiative will result in unaffordable, luxury housing",
+      "The plan caters to developers and those with higher incomes (80-120% AMI) rather than those with lower incomes (30% AMI or less)",
+      "The initiative will displace current residents",
+      "Community boards are influenced by lobbyists and developers",
+      "Calls for term limits and elected positions for community boards",
+      "Labels the initiative as 'City of Mess' instead of 'City of Yes'"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [
+        {
+          "text": "What they want is, oh, look. 3 units where you wanna pay, like, 25, like, 5000, 6000 dollars a month. That's all they want. They're not they're not they don't care about the person that can't afford that.",
+          "reasoning": "This quote suggests that the speaker is discussing affordability, which is related to the Universal Affordability Preference (UAP) element. The speaker is criticizing the proposal, suggesting that it doesn't truly address affordability for lower-income residents."
+        },
+        {
+          "text": "They want people that can make 80 percent AMI, like like, Missus like, Missus Samir, who is a member of Oklahoma overall, could live with places like that, and they will get built put that put that type of stuff.",
+          "reasoning": "This quote directly refers to Area Median Income (AMI) percentages, which is a key component of the UAP proposal. The speaker is arguing that the proposal favors higher AMI brackets rather than lower-income residents."
+        },
+        {
+          "text": "It's not about the people that fix it, that make it 30% AMI or 4% AMI, and less than less than 30% AMI.",
+          "reasoning": "This quote further emphasizes the speaker's criticism of the affordability levels in the proposal, specifically mentioning lower AMI percentages that they believe are not adequately addressed by the City of Yes plan."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

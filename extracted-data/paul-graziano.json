@@ -1,0 +1,65 @@
+{
+  "testimony": {
+    "name": "Paul Graziano",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/paul-graziano-urban-planner-and-land-use",
+    "start_time_in_seconds": 13312.898,
+    "end_time_in_seconds": 13489.604,
+    "for_or_against": "Against",
+    "borough": "Unknown",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [],
+    "key_points": [
+      "The city's population is similar to 1960 levels, with recent population loss not accounted for in the plan",
+      "There are 800,000 more housing units now than in 1960",
+      "Current zoning can accommodate 16-20 million people if built to maximum potential",
+      "The proposed zoning could accommodate over 50 million people",
+      "The plan will devastate low, middle, and high-density communities",
+      "Single-family zoning will be eliminated, converting to two-family baseline",
+      "Potential for significant density increase in low-density areas",
+      "Claims the plan is not 'gentle density' but 'apocalyptic' for communities",
+      "Represents over 200 organizations opposing the City of Yes initiative"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [
+        {
+          "text": "And then an ADU may or may not be allowed based on the possibilities, but let's say half of those other units on the block. Convert to 2 family from one family, and then some of them also have ADUs.",
+          "reasoning": "The speaker directly mentions ADUs (Accessory Dwelling Units) in the context of discussing the potential changes to housing density in his neighborhood. This indicates that he is aware of and discussing the ADU element of the City of Yes For Housing Opportunity proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [
+        {
+          "text": "I live in a single family zone, in a transit zone. I have 20 homes on my block. Most of them are 50 by a 100 or larger, which is typical. If 2 of those houses are purchased at 50 by a 100 and they're within a 100 feet of a corner and those two parcels are eligible for an apartment building, they'll whoever buys those 2 parcels will be able to build a 20 unit apartment building up to 20 units just on that property alone.",
+          "reasoning": "The speaker mentions living in a 'transit zone' and discusses the potential for increased density near transit, which is a key aspect of Transit-Oriented Development. He describes how single-family homes in his area could be replaced with multi-unit apartment buildings, which aligns with the Transit-Oriented Development element of the proposal."
+        }
+      ],
+      "element_is_discussed": true
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "testimony": {
+    "name": "Sara Penenberg",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/sara-penenberg-representing-32bj-service-employees",
+    "start_time_in_seconds": 43226.246,
+    "end_time_in_seconds": 43383.992,
+    "for_or_against": "For",
+    "borough": "Unknown",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [
+      "32BJ SEIU",
+      "FTU, local 32 BJ"
+    ],
+    "key_points": [
+      "32BJ SEIU supports the City of Yes for Housing Opportunity zoning text amendment",
+      "32BJ members struggle with skyrocketing rents and finding affordable housing in NYC",
+      "The city is not building enough housing to keep pace with population and job growth",
+      "Supports unlocking new affordable housing through universal affordability preference density bonus",
+      "Supports facilitating more office to residential conversions",
+      "Supports allowing modern density multifamily projects in more areas of the city, including transit-rich neighborhoods",
+      "Supports removing experience restrictions to new residential developments across the city",
+      "The scale and urgency of the housing crisis demand policy interventions like this proposal"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [
+        {
+          "text": "32 BJ strongly supports the City of YEP's proposal to unlock new affordable housing through the universal affordability preference density bonnet",
+          "reasoning": "This quote directly mentions the Universal Affordability Preference, which is a key element of the City of Yes For Housing Opportunity proposal. The speaker expresses support for this element, indicating it is being discussed in the testimony."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [
+        {
+          "text": "32 BJ strongly supports the City of YEP's proposal ... to reimagine underutilized commercial buildings by facilitating more office to residential conversions",
+          "reasoning": "This quote directly references the residential conversions element of the proposal, showing that the speaker is discussing this aspect of the City of Yes For Housing Opportunity plan."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [
+        {
+          "text": "And to remove experience restrictions to new residential developments across the city.",
+          "reasoning": "While this quote doesn't explicitly mention parking mandates, it appears to be referring to the removal of restrictions on new residential developments, which could include parking mandates. The speaker seems to be summarizing multiple aspects of the proposal, and this likely refers to the parking mandate removal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [
+        {
+          "text": "32 BJ strongly supports the City of YEP's proposal ... to allowed modern density multifamily project in more areas of the city, including transit rich neighborhood.",
+          "reasoning": "This quote directly refers to allowing higher density housing in transit-rich neighborhoods, which is a key aspect of the Transit-Oriented Development element of the City of Yes For Housing Opportunity proposal."
+        }
+      ],
+      "element_is_discussed": true
+    }
+  }
+}

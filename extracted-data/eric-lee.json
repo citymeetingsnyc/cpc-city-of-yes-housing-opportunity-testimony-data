@@ -1,0 +1,57 @@
+{
+  "testimony": {
+    "name": "Eric Lee",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/eric-lee-director-of-policy-and-planning-at",
+    "start_time_in_seconds": 42482.496,
+    "end_time_in_seconds": 42663.695,
+    "for_or_against": "For",
+    "borough": "Unknown",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [
+      "Homeless Services United"
+    ],
+    "key_points": [
+      "The main driver of homelessness is the inability to afford housing",
+      "HSU endorses the City of Yes housing plan in full",
+      "The plan will eliminate zoning barriers and unlock the ability to create more affordable housing units throughout the 5 boroughs",
+      "New York City's housing is in an affordability crisis with nearly 600,000 households spending more than half their income on rent",
+      "More than 145,000 people slept in shelters in a single night in December of the previous year",
+      "The city's vacancy rate for housing is the lowest it's been since 1968",
+      "The City of Yes Plan is projected to support the creation of 150,000 new units of housing across the next 15 years in all five boroughs",
+      "Recommends prioritizing resources for more robust operational affordable housing for very low income and extremely low income households",
+      "Emphasizes the importance of ensuring that affordable housing is truly affordable for lower income New Yorkers"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

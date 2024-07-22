@@ -1,0 +1,58 @@
+{
+  "testimony": {
+    "name": "Rachel Fee",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/rachel-fee-from-new-york-housing-conference-on",
+    "start_time_in_seconds": 12328.459,
+    "end_time_in_seconds": 12509.818,
+    "for_or_against": "For",
+    "borough": "Unknown",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [
+      "New York Housing Conference",
+      "Yes to Housing Coalition"
+    ],
+    "key_points": [
+      "Strong support for City of Yes for Housing Opportunity",
+      "Need for zoning reforms to address New York City's affordable housing shortage",
+      "Inequitable housing development across city districts",
+      "Low vacancy rate (1.4%) and high rent burden for residents",
+      "Housing shortage driving people to neighboring states",
+      "Limited mobility for current residents due to housing crisis",
+      "Ineffective tools to fight homelessness due to tight housing market",
+      "Long stays in emergency shelters for families with children",
+      "Need for more housing to create a more affordable, fair, and inclusive city"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

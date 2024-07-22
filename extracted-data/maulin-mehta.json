@@ -1,0 +1,85 @@
+{
+  "testimony": {
+    "name": "Maulin Mehta",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/maulin-mehta-from-regional-plan-association-on",
+    "start_time_in_seconds": 15361.632,
+    "end_time_in_seconds": 15542.088,
+    "for_or_against": "For",
+    "borough": "Unknown",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [
+      "Regional Plan Association"
+    ],
+    "key_points": [
+      "New York City is experiencing a significant housing crisis with low vacancy rates and high demand for affordable housing",
+      "Current zoning regulations limit housing construction in many neighborhoods",
+      "The proposal will facilitate the construction of more homes across all five boroughs",
+      "The initiative includes expansion of inclusionary zoning, office conversions, middle-density housing, transit-oriented development, accessory dwelling units, and elimination of parking minimums",
+      "The proposal is designed to equitably and reasonably expand housing stock in every neighborhood",
+      "Without action, housing costs are projected to rise by 25% by 2035, leading to more housing cost burdens",
+      "The current housing deficit of over half a million units could double in the next decade without intervention"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [
+        {
+          "text": "The proposal includes significant expansion of occlusionary zoning",
+          "reasoning": "This quote refers to the Universal Affordability Preference (UAP) element of the proposal, which allows for additional housing if it includes affordable units."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [
+        {
+          "text": "enables office conversions",
+          "reasoning": "This directly refers to the Residential Conversions element of the proposal, which aims to make it easier to convert non-residential buildings, including offices, into housing."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [
+        {
+          "text": "promoting town centers",
+          "reasoning": "This directly mentions the Town Center Zoning element of the proposal, which aims to revitalize commercial corridors and create mixed-use neighborhoods."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [
+        {
+          "text": "eliminates parking minimums",
+          "reasoning": "This directly refers to the element of removing parking mandates, which aims to end the requirement for off-street parking in new housing developments."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [
+        {
+          "text": "enabling accessory dwelling units",
+          "reasoning": "This directly mentions the Accessory Dwelling Units (ADUs) element of the proposal, which aims to allow homeowners to create additional living spaces on their properties."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [
+        {
+          "text": "leveraging more transit oriented development",
+          "reasoning": "This directly refers to the Transit-Oriented Development element of the proposal, which aims to increase housing near public transit."
+        }
+      ],
+      "element_is_discussed": true
+    }
+  }
+}

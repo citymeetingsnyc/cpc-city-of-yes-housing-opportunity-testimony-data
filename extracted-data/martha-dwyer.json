@@ -1,0 +1,64 @@
+{
+  "testimony": {
+    "name": "Martha Dwyer",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/martha-dwyer-on-concerns-about-the-city-of-yes-for",
+    "start_time_in_seconds": 13725.286,
+    "end_time_in_seconds": 13905.091,
+    "for_or_against": "Against",
+    "borough": "Manhattan",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [],
+    "key_points": [
+      "Quayo (City of Yes for Housing Opportunity) would deprive citizens of a say in the city's future",
+      "The initiative gives power to the mayor and developers",
+      "It does not mandate affordable housing",
+      "Affordable housing built under this plan can become market rate in 30 years",
+      "The plan would result in less open space, less green space, more density and congestion",
+      "There are no limitations on height and setbacks",
+      "Concerns about developers manipulating lot sizes to build oversized buildings",
+      "Examples of extremely tall buildings with empty space or amusement facilities",
+      "Fear that it would turn Manhattan into a city of expensive towers"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Developers can build taller buildings if they include affordable housing. But that affordable housing can become market rate in only 30 years.",
+          "reasoning": "This quote directly relates to the Universal Affordability Preference (UAP) element of the City of Yes For Housing Opportunity proposal. It mentions the key aspect of the UAP, which is allowing developers to build larger buildings if they include affordable housing. The speaker also comments on the duration of affordability, which is related to the implementation of this policy."
+        },
+        {
+          "text": "Fire would result less open space, less green space, more density and congestion, and no limitation on heightened status.",
+          "reasoning": "While not explicitly mentioning UAP, this quote discusses the potential consequences of the policy, such as increased density and building height, which are directly related to the UAP allowing for larger buildings in exchange for affordable housing."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

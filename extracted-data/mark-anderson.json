@@ -1,0 +1,74 @@
+{
+  "testimony": {
+    "name": "Mark Anderson",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/mark-anderson-of-wesley-improvement-society-staten",
+    "start_time_in_seconds": 49024.797,
+    "end_time_in_seconds": 49219.65,
+    "for_or_against": "Against",
+    "borough": "Staten Island",
+    "neighborhood": "North Shore",
+    "stated_affiliations": [
+      "Wesley Improvement Society",
+      "Citibank Group"
+    ],
+    "key_points": [
+      "No need for more housing as housing availability has exceeded need for the past 50 years",
+      "New York City lost about 600,000 residents in the last 3 years",
+      "Current zoning is sufficient for creating needed housing",
+      "North shore of Staten Island could have 2 to 3 times the current occupancy under current zoning",
+      "The proposal is not truly about affordable housing, especially in Staten Island",
+      "Accessory dwelling units are unnecessary and potentially unsafe",
+      "Living in basements is dangerous due to flooding risks from plumbing and groundwater"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [
+        {
+          "text": "And it's been very odd to to hear that a lot of the the the folks in favor of this are touting the the fact that that this is affordable housing. When when that that's only an option in one small portion. And in Staten Island, it only seems to the proposal is only to apply that potentially in one tiny small little area. So that this is not affordable housing at all.",
+          "reasoning": "The speaker is referring to the affordable housing component of the proposal, which is a key aspect of the Universal Affordability Preference (UAP). Although he's criticizing its limited application, this shows he's aware of and discussing this element of the proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Regarding the accessory dwelling units, We don't believe they're necessary. And actually, we believe that that they would actually be creating a a situation that's unsafe.",
+          "reasoning": "The speaker directly mentions accessory dwelling units and expresses opposition to them, indicating that this element of the proposal is being discussed."
+        },
+        {
+          "text": "You know, these spaces, I'm an architect, it's horrifying to think that that this proposal would advocate for people to live in basements.",
+          "reasoning": "The speaker is referring to basement apartments, which are a type of accessory dwelling unit mentioned in the proposal. This shows he's discussing this element of the proposal, albeit critically."
+        },
+        {
+          "text": "And our experience is that the basements have been flooding in in recent years for for 2 reasons. One reason is any basement that has plumbing typically floods when when it rains heavily. And this proposal would require that if people live in a basement, that would require that they put plumbing in there. So that would create a very omnous situation.",
+          "reasoning": "The speaker is elaborating on his concerns about basement apartments, which are a type of ADU. This further demonstrates his discussion of this element of the proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

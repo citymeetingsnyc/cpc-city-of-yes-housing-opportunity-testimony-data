@@ -1,0 +1,68 @@
+{
+  "testimony": {
+    "name": "Theresa Westerdahl",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/theresa-westerdahl-from-brooklyn-community-board-9",
+    "start_time_in_seconds": 28025.41,
+    "end_time_in_seconds": 28222.273,
+    "for_or_against": "Against",
+    "borough": "Brooklyn",
+    "neighborhood": "Crown Heights",
+    "stated_affiliations": [
+      "Brooklyn Community Board 9",
+      "Sullivan Ludlam Stoddard Neighborhood Association"
+    ],
+    "key_points": [
+      "Opposition to City of Yes text amendments and changes to zoning regulations",
+      "Opposition to reducing parking mandates, believes in increasing parking mandates",
+      "Need for visionary planning including bike, EV, and micro device parking and charging stations",
+      "Concern about ongoing large-scale development projects and their environmental impacts",
+      "Lack of oversight and regulation enforcement by city agencies",
+      "Failure to conduct environmental and racial impact studies in the district",
+      "Criticism of the Bedford Army Terminal development as luxury housing instead of affordable housing",
+      "Concern about potential doubling of density in the district due to new zoning",
+      "Request for Community Board 9 to be exempt from City of Yes rezoning",
+      "Opposition to air rights sales for the historic district"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [
+        {
+          "text": "I'm here to testify in opposition of City of Yes. Text amendments, changes to zoning regulations. In addition, I am in opposition to reducing parking mandates. I believe we need to increase parking mandates.",
+          "reasoning": "The speaker directly mentions her opposition to reducing parking mandates, which is a key element of the City of Yes for Housing Opportunity proposal. She even goes further to suggest increasing parking mandates, which is the opposite of what the proposal aims to do."
+        },
+        {
+          "text": "We need to become visionary and not reactionary and include bikes, EV, and micro device parking and charging station in all new developments.",
+          "reasoning": "While this quote doesn't directly oppose removing parking mandates, it suggests an alternative approach to parking that still involves mandating certain types of parking (for bikes, EVs, and micro devices), which is related to the parking mandate element of the proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

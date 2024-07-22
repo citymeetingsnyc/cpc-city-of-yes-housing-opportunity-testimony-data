@@ -1,0 +1,75 @@
+{
+  "testimony": {
+    "name": "Daniella Lombardo Sarkis",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/daniella-lombardo-sarkis-resident-of-bay-ridge",
+    "start_time_in_seconds": 42065.582,
+    "end_time_in_seconds": 42255.035,
+    "for_or_against": "Against",
+    "borough": "Brooklyn",
+    "neighborhood": "Bay Ridge",
+    "stated_affiliations": [],
+    "key_points": [
+      "One-size-fits-all approach is not appropriate for all neighborhoods",
+      "Community Board 10 opposes the proposal",
+      "Local communities and elected representatives should have input",
+      "Concerns about antiquated drainage and sewage infrastructure",
+      "Worries about overburdening existing transportation and parking",
+      "Public safety concerns, especially regarding ADUs and illegal conversions",
+      "Fear of developers taking advantage of zoning rule changes",
+      "Potential negative impact on property values and neighborhood character",
+      "Concerns about living next to basement apartments or inhabited sheds",
+      "Urges City Council to vote no on the proposal in its current form"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [
+        {
+          "text": "utilizing empty office space and commercial days.",
+          "reasoning": "This quote suggests that the speaker is acknowledging the concept of converting empty office spaces, which aligns with the Residential Conversions element of the proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [
+        {
+          "text": "This goes for our entire infrastructure, including parking and transportation, where we have one train line in and out of Bay Ridge, the R train, a local train.",
+          "reasoning": "While the speaker doesn't directly mention removing parking mandates, they express concern about the impact on parking infrastructure, which is related to the parking mandates element of the proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Specifically with request back to the ADUs. We already have an overburden department of building staff who cannot respond to the current complaints with illegal conversions and other dangerous living conditions, which is owning it being ignored.",
+          "reasoning": "The speaker directly mentions ADUs and expresses concerns about their implementation and safety, which directly relates to the Accessory Dwelling Units element of the proposal."
+        },
+        {
+          "text": "It makes me sick to think that I could potentially be living next door to a store in someone's basement. Or inhabited shed in my neighbor's yard.",
+          "reasoning": "This quote refers to potential ADUs (basement apartments and backyard structures), showing that the speaker is discussing this element of the proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

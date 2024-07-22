@@ -1,0 +1,62 @@
+{
+  "testimony": {
+    "name": "Kate Liggett",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/kate-liggett-program-director-of-housing-rights",
+    "start_time_in_seconds": 4652.0234,
+    "end_time_in_seconds": 4816.989,
+    "for_or_against": "For",
+    "borough": "Unknown",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [
+      "Housing Rights Initiative"
+    ],
+    "key_points": [
+      "The organization has generated nearly 100 class action and fair housing lawsuits against large real estate companies",
+      "They have recovered millions of dollars in rent refunds and reductions for rent-stabilized families",
+      "Expanding housing supply is crucial to address New York City's housing affordability crisis",
+      "The City of Yes plan promotes construction of additional, denser housing in more places",
+      "The plan includes provisions to ensure geographically equitable development",
+      "Previous policies favored development in lower-cost outer borough areas, while this plan aims to build affordable units in high-opportunity, transit-rich neighborhoods",
+      "Expanding housing supply will help combat source of income discrimination",
+      "A more abundant housing market will enable voucher holders to compete more fairly",
+      "The plan will help build a more equitable and affordable city for all New Yorkers"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Whereas very few new affordable units have been built in high opportunity transit rich neighborhoods closer to the city center.",
+          "reasoning": "This quote indicates that the speaker is discussing transit-oriented development, which is a key element of the City of Yes For Housing Opportunity proposal. The speaker mentions 'transit rich neighborhoods', which aligns with the proposal's aim to add housing near public transit."
+        }
+      ],
+      "element_is_discussed": true
+    }
+  }
+}

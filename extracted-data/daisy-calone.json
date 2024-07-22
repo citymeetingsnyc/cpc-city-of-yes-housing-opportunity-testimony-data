@@ -1,0 +1,67 @@
+{
+  "testimony": {
+    "name": "Daisy Calone",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/daisy-calone-bronx-resident-on-concerns-about-city",
+    "start_time_in_seconds": 22391.074,
+    "end_time_in_seconds": 22621.482,
+    "for_or_against": "Against",
+    "borough": "Bronx",
+    "neighborhood": "LaSalle, Mayflower, Scottsdale",
+    "stated_affiliations": [],
+    "key_points": [
+      "Opposes changes to R4 and R4A districts",
+      "Concerned about allowing higher density without parking or community input",
+      "Argues that one-size-fits-all zoning doesn't consider neighborhood character",
+      "Worries about the impact of half-mile Transit-Oriented Development (TOD) zones on the community",
+      "Concerned about the conversion of owner-occupied homes to apartment buildings",
+      "Highlights low homeownership rates in the Bronx, especially among minority communities",
+      "Requests a full analysis of the potential impact of the proposed zoning changes"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [
+        {
+          "text": "It is about allowing as of right density without parking, which will give developers an as of right permit to build higher density without looking at community impact of seeking community input.",
+          "reasoning": "This quote directly mentions the removal of parking requirements, which is a key aspect of the Removing Parking Mandates element of the City of Yes For Housing Opportunity proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [
+        {
+          "text": "The Half Mount Transit District will decimate my community and change the fabric of my LaSalle Waterbury neighborhood. That half mile TLD is too drastic and would significantly impact a large land area.",
+          "reasoning": "This quote directly refers to the Transit-Oriented Development aspect of the proposal, specifically mentioning the 'Half Mount Transit District' and discussing its potential impact on the community."
+        },
+        {
+          "text": "Similarly, other large cities currently have a maximum of 1 quarter mile transit zone from subway transit stations with community input. It should also be on a 10,000 square foot lot, not 5000 because it will convert our current owner occupied homes into medium apartment buildings",
+          "reasoning": "This quote further discusses the Transit-Oriented Development aspect, comparing the proposed half-mile radius to other cities' quarter-mile radius, and mentioning the potential conversion of homes to apartment buildings near transit."
+        }
+      ],
+      "element_is_discussed": true
+    }
+  }
+}

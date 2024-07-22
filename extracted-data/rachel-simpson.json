@@ -1,0 +1,75 @@
+{
+  "testimony": {
+    "name": "Rachel Simpson",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/rachel-simpson-architect-and-brooklyn-cb6-resident",
+    "start_time_in_seconds": 39115.77,
+    "end_time_in_seconds": 39315.703,
+    "for_or_against": "For",
+    "borough": "Brooklyn",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [],
+    "key_points": [
+      "Support for City of Yes for Housing Opportunity",
+      "Acute housing crisis with rising rents and low vacancy rates",
+      "Not enough housing, especially affordable housing, being built",
+      "Zoning changes are necessary but not sufficient to solve the crisis",
+      "Proposal offers various tools to increase housing",
+      "Minor zoning changes can have significant cumulative impact",
+      "Support for UAP (Unified Affordable Proposal) benefiting nonprofit housing developers",
+      "Encouragement for deeper affordability and stronger guardrails",
+      "Importance of eliminating parking mandates to encourage more housing",
+      "Parking is expensive and values should prioritize people over cars",
+      "Urges approval of the proposal in its strongest form"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [
+        {
+          "text": "I do champion the UAP proposal, which I think will mostly on its own standalone as a zoning thing will mostly benefit the nonprofit housing developers that we work with who are already working really hard to keep their neighborhoods affordable. And when they do develop, they do 100% affordable development. That will really benefit them.",
+          "reasoning": "This quote directly mentions the UAP proposal and discusses how it will benefit nonprofit housing developers in creating affordable housing, which aligns with the UAP element of the City of Yes For Housing Opportunity proposal."
+        },
+        {
+          "text": "I do encourage PPC to investigate deeper affordability and strengthen the guardrails on this so that we can maybe not make it a carrot, but like a chocolate cake, even more enticing to developers.",
+          "reasoning": "This quote suggests modifications to the UAP proposal to make it more attractive to developers and potentially increase affordability, which is directly related to the UAP element of the proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [
+        {
+          "text": "And lastly, eliminating the parking mandate is incredibly important for encouraging more housing. This aspect should not be watered down. As Mark Ginsburg noted earlier, parking is incredibly expensive from between 75,000 to upwards of a 150,000 for sub grade structured parking. That's comparable to the per unit subsidy or more that HPD currently has on their alert term sheets.",
+          "reasoning": "This quote directly addresses the proposal to eliminate parking mandates, discussing the high costs associated with parking and how removing these mandates can encourage more housing development."
+        },
+        {
+          "text": "They say we build what we value, and I would hope that we value our neighbors more than our cars. People should always come before parking.",
+          "reasoning": "This quote further emphasizes the speaker's support for removing parking mandates, arguing that housing for people should be prioritized over parking spaces."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

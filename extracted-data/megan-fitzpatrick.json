@@ -1,0 +1,72 @@
+{
+  "testimony": {
+    "name": "Megan Fitzpatrick",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/megan-fitzpatrick-from-landmark-west-on-city-of",
+    "start_time_in_seconds": 24862.727,
+    "end_time_in_seconds": 25011.38,
+    "for_or_against": "Against",
+    "borough": "Manhattan",
+    "neighborhood": "Upper West Side",
+    "stated_affiliations": [
+      "Landmark West"
+    ],
+    "key_points": [
+      "City of Yes will not produce more environmentally conscious, viable, and affordable housing",
+      "The proposal will weaken housing standards and benefit developers at the expense of residents",
+      "It will not significantly increase affordable housing stock and will make affordable housing optional",
+      "The plan will increase market-rate development in already dense residential areas",
+      "It may create substandard and unsustainable housing",
+      "The proposal could accelerate gentrification",
+      "It may negatively impact quality of life due to increased traffic and density",
+      "The plan excludes public and City Council input from land use decisions",
+      "It loosens landmark transfer development rights, potentially allowing taller market-rate buildings",
+      "The organization supports changes that enhance livability and equity, which they feel this proposal does not do"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Contrary to claims, in support of proposals, it will not significantly increase the stock of affordable housing. In fact, it will legislatively make affordable housing optional.",
+          "reasoning": "This quote directly addresses the UAP element of the proposal. While the speaker is critical of it, they are discussing how the proposal claims to increase affordable housing but in their opinion, it will not achieve this goal and instead make it optional."
+        },
+        {
+          "text": "It also seeks to loosen landmark transfer development rights to allow taller market rate buildings, while at the same time remove these decisions from both public scrutiny scrutiny and input.",
+          "reasoning": "This quote indirectly relates to the UAP element, as it discusses allowing taller buildings (which could be a result of the 20% increase in housing that UAP allows) and mentions market-rate buildings, which is relevant to the affordability aspect of UAP."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [
+        {
+          "text": "contribute to traffic overflow in the neighborhood. Negatively impacting our neighbor's quality of life.",
+          "reasoning": "While not explicitly mentioning parking mandates, this quote discusses traffic issues which are related to the parking mandates element of the proposal. The speaker suggests that the City of Yes plan will contribute to traffic problems, which could be seen as a criticism of removing parking mandates."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "testimony": {
+    "name": "George Calderaro",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/george-calderaro-board-member-of-several-nyc-civic",
+    "start_time_in_seconds": 10603.473,
+    "end_time_in_seconds": 10771.756,
+    "for_or_against": "Against",
+    "borough": "Unknown",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [
+      "Several New York City Civic Organizations"
+    ],
+    "key_points": [
+      "City of Yes is part of a multipronged offensive to deregulate development in NYC",
+      "The proposal does not prioritize or require affordable housing",
+      "There are many empty market rate and luxury units already",
+      "The initiative is a developer-driven plot to deregulate the city for private real estate development",
+      "City of Yes eliminates important regulations including special zoning districts, landmarks commission reviews, and open space requirements",
+      "Preservation of historic districts preserves thousands of businesses and affordable housing units",
+      "Demolition of viable, historically significant buildings should be stopped",
+      "Criticism of City of Yes should not be dismissed as NIMBY-ism",
+      "Concerns for communities are considered and sincere"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "testimony": {
+    "name": "Eugene Falik",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/eugene-falik-from-bayswater-civic-association-on",
+    "start_time_in_seconds": 39854.684,
+    "end_time_in_seconds": 40742.87,
+    "for_or_against": "Against",
+    "borough": "Queens",
+    "neighborhood": "Far Rockaway",
+    "stated_affiliations": [
+      "Bayswater Civic Association",
+      "Queens Civic Congress"
+    ],
+    "key_points": [
+      "Removing council approval is antisocial and undemocratic",
+      "There's little evidence of a real housing crisis",
+      "Many apartments are vacant or held off the market",
+      "The argument about thousands of applications for affordable housing is misleading",
+      "New housing in Rockaway has inadequate parking",
+      "Transit-oriented development is impractical for suburban areas",
+      "The proposal doesn't consider the needs of older residents or those carrying groceries",
+      "Builders will only do the minimum required, not what's best for residents",
+      "Queens Community Board 14 voted unanimously against the proposal"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [
+        {
+          "text": "In Rockaway, where shopping is across the line in Nassau County, new housing as inadequate parking, and people often walk a mile to park their cars when they live in the nitrile projects at Redfern.",
+          "reasoning": "This quote directly addresses the issue of parking in relation to new housing developments, which is relevant to the proposal's element of removing parking mandates."
+        },
+        {
+          "text": "I will spend $25,000 and remove 100 of square feet of vegetation to install a driveway. Because I now have little to no parking.",
+          "reasoning": "This statement further emphasizes the speaker's concern about parking availability, which is related to the proposal's element of removing parking mandates."
+        },
+        {
+          "text": "We were acquire cars. And if you expect builders to put in anything that they're not required to, builders wouldn't put fire alarms in, They wouldn't put smoke stop doors, and they wouldn't put self closing doors if they didn't have to. Builders do the minimum.",
+          "reasoning": "This quote suggests that the speaker believes removing parking mandates would result in builders not providing any parking, as they would only do the minimum required. This directly relates to the proposal's element of removing parking mandates."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Transit oriented development is also a sham. Because while it may mean that you can get to Manhattan in an hour or 2, it doesn't mean that you can get to other facilities in the city or even in Queens. And certainly, it doesn't mean that you can get to shopping.",
+          "reasoning": "This quote directly addresses and criticizes the concept of transit-oriented development, which is one of the key elements of the City of Yes for Housing Opportunity proposal."
+        },
+        {
+          "text": "Now, I'm seventy seven years old. You this city planning commission argues, well, a half mile walk is reasonable. I don't think so. And carrying a gallon of 2 of milk and a load of groceries. You guys are off the wall.",
+          "reasoning": "This statement further criticizes the transit-oriented development concept by challenging the idea that a half-mile walk to transit is reasonable, especially for older residents or those carrying groceries. This directly relates to the proposal's element of promoting development near transit."
+        }
+      ],
+      "element_is_discussed": true
+    }
+  }
+}

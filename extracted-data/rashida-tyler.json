@@ -1,0 +1,58 @@
+{
+  "testimony": {
+    "name": "Rashida Tyler",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/rashida-tyler-from-the-new-york-city-council-of",
+    "start_time_in_seconds": 30811.22,
+    "end_time_in_seconds": 31004.117,
+    "for_or_against": "For",
+    "borough": "Unknown",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [
+      "New York City Council of Churches",
+      "Interfaith Affordable Housing Collaborative"
+    ],
+    "key_points": [
+      "Generally supportive of the City of Yes proposal",
+      "Believes changes should be made to allow more time for community boards and residents to comment",
+      "Supports policies that create more affordable housing",
+      "Current zoning often prevents houses of worship from building enough units to make projects feasible",
+      "City of Yes has potential to increase housing in communities that need it most",
+      "Zoning is only one part of the equation in addressing the housing crisis",
+      "Concerns about whether the policy will achieve its goals of creating more affordable housing",
+      "Highlights the multifaceted nature of the housing crisis, including lack of affordability and political will",
+      "Expresses skepticism about assumptions that building more housing will lower costs and lead to equitable development across the city"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "testimony": {
+    "name": "Katherine Winters",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/katherine-winters-whitestone-resident-on",
+    "start_time_in_seconds": 22116.117,
+    "end_time_in_seconds": 22291.562,
+    "for_or_against": "Against",
+    "borough": "Queens",
+    "neighborhood": "Whitestone",
+    "stated_affiliations": [],
+    "key_points": [
+      "Opposes the plan on behalf of herself and her neighbors",
+      "Importance of preserving single-family zoning for quality of life and diversity of neighborhoods",
+      "Single-family zoning areas are fragile and once changed, are difficult to reclaim",
+      "Questions the proposed benefits of the plan",
+      "Suggests focusing on underutilized areas already zoned for multifamily housing",
+      "Proposal does not address environmental impacts, parking needs, transportation issues, and school capacity",
+      "Does not adequately address low-income housing, senior housing, and homelessness",
+      "Believes the plan primarily benefits builders rather than residents"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [
+        {
+          "text": "There is diversity of neighborhoods in New York City and all great and livable cities must include and protect single family zoning with its trees, small gardens, and green spaces, which I understand is only 52 present New York City housing.",
+          "reasoning": "This quote indirectly references the Town Center Zoning proposal by emphasizing the importance of protecting single-family zoning, which the proposal aims to change by allowing mixed-use development in low-density areas."
+        },
+        {
+          "text": "Once changed with businesses, multifamily buildings, backyard, structures, it is lost and lost forever.",
+          "reasoning": "This statement relates to the Town Center Zoning proposal, which aims to allow housing above businesses in commercial areas of low-density neighborhoods. The speaker is expressing concern about the irreversible changes this could bring to single-family areas."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Also, the proposal does not address environmental impacts, does not provide critical needs for parking, rich and higher rooms, already constrained near buses and shops.",
+          "reasoning": "This quote directly mentions parking issues, which relates to the proposal's aim to remove parking mandates. The speaker is expressing concern about the lack of parking provisions in the proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Once changed with businesses, multifamily buildings, backyard, structures, it is lost and lost forever.",
+          "reasoning": "The mention of 'backyard structures' relates to the Accessory Dwelling Units (ADUs) element of the proposal, which includes allowing backyard cottages and other small structures on residential properties."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Does not address adequate transportation, and my area expressed buses are few and far between.",
+          "reasoning": "This quote indirectly relates to the Transit-Oriented Development aspect of the proposal. The speaker is criticizing the lack of consideration for transportation infrastructure, which is a key component of transit-oriented development."
+        }
+      ],
+      "element_is_discussed": true
+    }
+  }
+}

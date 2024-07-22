@@ -1,0 +1,68 @@
+{
+  "testimony": {
+    "name": "Joe Enright",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/joe-enright-from-the-community-association-of-west",
+    "start_time_in_seconds": 36361.473,
+    "end_time_in_seconds": 36557.28,
+    "for_or_against": "Against",
+    "borough": "Brooklyn",
+    "neighborhood": "West Midwood",
+    "stated_affiliations": [
+      "Community Association of West Midwood"
+    ],
+    "key_points": [
+      "Not everyone in Victorian Flatbush is opposed to City of Yes",
+      "Concern about potential multiple dwellings on Glenwood Road, which is the center of the neighborhood",
+      "Worry about 300 garages in Victorian Flatbush being converted into living spaces",
+      "Opposition to allowing 25-foot structures in backyards",
+      "Concern about increasing FAR from 0.6 to 1.0, leading to overbuilding",
+      "Acknowledges some proposals in City of Yes are supported by residents in the area"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Victorian Flatbush has about 300 garages that are flushed on the property line of neighbors. And if they start turning into, you know, I don't know, Johnny being banished to the garage to play his drums all day. I think that's going to be a problem.",
+          "reasoning": "This quote indicates that the speaker is discussing the potential conversion of garages into living spaces, which is a form of Accessory Dwelling Unit (ADU). The speaker expresses concern about the impact of such conversions on neighbors."
+        },
+        {
+          "text": "Also, the ability to build a twenty five foot structure in the back yard is something that neighbors don't look forward to having to experience.",
+          "reasoning": "This quote refers to the possibility of building structures in backyards, which aligns with the ADU proposal allowing for backyard cottages or other secondary structures on residential properties."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [
+        {
+          "text": "The center of our neighborhood is going with road. It extends the 4 Blocks from the Q Train to Kony Island Avenue. And it there are about 30 there are exactly 30 houses, 15 on each side, also an an historic church. All those houses are built in 1905. They're beautiful houses. They're mostly 5000 square feet lots. And About 20 of them would be subject to building multiple dwellings there.",
+          "reasoning": "This quote indicates that the speaker is discussing the potential for multiple dwellings to be built near the Q Train, which aligns with the Transit-Oriented Development proposal to allow more housing near public transit."
+        }
+      ],
+      "element_is_discussed": true
+    }
+  }
+}

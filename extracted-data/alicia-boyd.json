@@ -1,0 +1,66 @@
+{
+  "testimony": {
+    "name": "Alicia Boyd",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/alicia-boyd-crown-heights-resident-on-city",
+    "start_time_in_seconds": 19468.314,
+    "end_time_in_seconds": 19671.688,
+    "for_or_against": "Against",
+    "borough": "Brooklyn",
+    "neighborhood": "Crown Heights",
+    "stated_affiliations": [],
+    "key_points": [
+      "The City Planning Commission doesn't consider the impact on children in development projects",
+      "Development near Brooklyn Botanic Gardens will negatively impact sunlight for a nearby playground",
+      "The Commission prioritizes development over affordable housing",
+      "The affordable housing being created is not truly affordable for the local community",
+      "The City Planning Commission consistently fails to protect the interests of local residents",
+      "The Commission approves 99% of applications, questioning its effectiveness",
+      "The development plans do not genuinely care about communities of color"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [
+        {
+          "text": "And yet all you talk about is how you wanna provide housing for people like us, for people of color. You don't want to provide housing for us. You don't care about us.",
+          "reasoning": "This quote indirectly references the UAP element of the proposal, which aims to provide affordable housing in high-demand neighborhoods. The speaker is criticizing the effectiveness and sincerity of such efforts."
+        },
+        {
+          "text": "So even if they did create some affordable housing, it wouldn't be affordable for us.",
+          "reasoning": "This quote directly addresses the concept of affordable housing, which is a key component of the UAP. The speaker is questioning whether the proposed affordable housing would actually be accessible to lower-income residents."
+        },
+        {
+          "text": "Oh, they're gonna create affordable housing. You don't care about us.",
+          "reasoning": "This quote explicitly mentions the creation of affordable housing, which is a central aspect of the UAP. The speaker is expressing skepticism about the sincerity and effectiveness of these efforts."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

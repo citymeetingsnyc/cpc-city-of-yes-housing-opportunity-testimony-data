@@ -1,0 +1,78 @@
+{
+  "testimony": {
+    "name": "Claudia Valentino",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/claudia-valentino-president-of-forest-hills",
+    "start_time_in_seconds": 16816.38,
+    "end_time_in_seconds": 17004.633,
+    "for_or_against": "Against",
+    "borough": "Queens",
+    "neighborhood": "Forest Hills",
+    "stated_affiliations": [
+      "Forest Hills Community And Civic Association"
+    ],
+    "key_points": [
+      "Neighborhoods have unique characters that should be preserved",
+      "Community review should remain with communities",
+      "Downzoning was done to protect infrastructure and prevent inappropriate construction",
+      "ADUs are not suitable for small lot sizes in NYC",
+      "Transit zones with larger buildings looming over houses are not acceptable",
+      "Adding stories to mom and pop stores is not workable",
+      "Concerns about gentrification based on Columbia University study",
+      "The language used in the initiative is divisive",
+      "The city is wrongly blaming communities for the housing crisis",
+      "A new plan is needed instead of City of Yes"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [
+        {
+          "text": "The other is having to do. With putting extra stories on mom and pop stores. Not workable.",
+          "reasoning": "This quote appears to be referencing the residential conversions aspect of the proposal, which includes allowing non-residential buildings (like stores) to be converted to or include residential units. The speaker is expressing opposition to this idea."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [
+        {
+          "text": "The other is having to do. With putting extra stories on mom and pop stores. Not workable.",
+          "reasoning": "This quote seems to be addressing the Town Center Zoning aspect of the proposal, which aims to allow housing above businesses on commercial streets. The speaker is expressing opposition to this idea."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Of course, we know why people want don't want the ADUs. We have issues with paving over because of the flooding we're experiencing, we have problems with property sizes. My lot is 25 by a 100. These plans come to us from California and Oregon places where ADUs are placed on larger lots And yet somehow or another, New York City has decided to pick these plans up wholesale.",
+          "reasoning": "This quote directly addresses the Accessory Dwelling Units (ADUs) aspect of the proposal. The speaker is expressing opposition to ADUs, citing issues with lot sizes, flooding, and the inappropriateness of applying plans from other states to New York City."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [
+        {
+          "text": "The transit zones with apartment buildings sort of looming over houses also not acceptable and a complete change to neighborhood character.",
+          "reasoning": "This quote appears to be discussing the Transit-Oriented Development aspect of the proposal. The speaker is expressing opposition to the idea of larger apartment buildings near transit zones, citing concerns about changes to neighborhood character."
+        }
+      ],
+      "element_is_discussed": true
+    }
+  }
+}

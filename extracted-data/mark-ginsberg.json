@@ -1,0 +1,82 @@
+{
+  "testimony": {
+    "name": "Mark Ginsberg",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/mark-ginsberg-president-of-citizens-housing",
+    "start_time_in_seconds": 17832.256,
+    "end_time_in_seconds": 18018.695,
+    "for_or_against": "For",
+    "borough": "Unknown",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [
+      "Citizens Housing Planning Council",
+      "Curtis + Ginsberg Architects"
+    ],
+    "key_points": [
+      "Strong support for the proposed citywide text amendment",
+      "The changes would be the biggest and most important set of zoning reform since 1961",
+      "Essential step to address New York City's affordable housing crisis",
+      "Expansion of Ayers to UAP creates wider range of affordable housing options",
+      "Prioritizes housing needs over vehicle storage",
+      "Reducing parking requirements can lower housing costs",
+      "Importance of allowing more housing in every neighborhood",
+      "Need for simplicity in regulations to avoid delays and limitations",
+      "Maintaining flexibility for future unanticipated changes",
+      "Ensuring existing projects can be completed without disruption",
+      "Urges approval of the proposed amendment with only necessary changes"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [
+        {
+          "text": "The steps from Ayers to UAP is a common sense expansion of an existing program.",
+          "reasoning": "This quote directly mentions UAP (Universal Affordability Preference) and describes it as an expansion of an existing program, which aligns with the proposal's description."
+        },
+        {
+          "text": "It isn't an up zoning but rather creates a wider range of affordable housing options for different populations, including housing for seniors and multi generational housing.",
+          "reasoning": "This quote elaborates on the UAP, explaining that it creates more affordable housing options for various populations, which is in line with the proposal's aim to deliver affordable housing in high-cost neighborhoods."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [
+        {
+          "text": "The proposal puts our society's need for housing ahead of its needs for vehicle storage.",
+          "reasoning": "This quote indirectly refers to the removal of parking mandates by prioritizing housing over vehicle storage, which aligns with the proposal's aim to end parking mandates for new housing."
+        },
+        {
+          "text": "The cost of a structured parking space can add as much as $100,000 to the cost of an apartment.",
+          "reasoning": "This quote discusses the high cost of parking, which is one of the reasons cited in the proposal for removing parking mandates."
+        },
+        {
+          "text": "Under the proposal, we can design buildings with an amount of parking that makes sense based on the building's program that rather than making a build program workaround zoning.",
+          "reasoning": "This quote directly refers to the proposal's intent to allow flexibility in parking requirements, which is a key aspect of removing parking mandates."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

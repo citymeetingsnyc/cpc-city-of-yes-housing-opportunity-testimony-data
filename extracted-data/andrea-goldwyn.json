@@ -1,0 +1,66 @@
+{
+  "testimony": {
+    "name": "Andrea Goldwyn",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/andrea-goldwyn-from-the-new-york-landmarks",
+    "start_time_in_seconds": 3401.3323,
+    "end_time_in_seconds": 3606.252,
+    "for_or_against": "Against",
+    "borough": "Unknown",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [
+      "New York Landmarks Conservancy"
+    ],
+    "key_points": [
+      "Concerns about the rushed process and lack of meaningful public outreach",
+      "Opposition to removing ULURP requirements for many land use actions",
+      "Support for easing rules for converting commercial buildings to residential",
+      "Appreciation for new opportunities for landmarks to transfer unused development rights",
+      "Concern about potential impacts on older buildings and special districts",
+      "Worry about prioritizing new construction over green spaces and backyards",
+      "Skepticism about the proposal's ability to create affordable housing",
+      "Request for more time for residents to learn about the implications of the proposal"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [
+        {
+          "text": "It's hard to see how many will opt to create affordable units with UAP bonuses.",
+          "reasoning": "This quote directly mentions UAP bonuses, which refers to the Universal Affordability Preference element of the proposal. The speaker is expressing skepticism about the effectiveness of this element in creating affordable housing."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [
+        {
+          "text": "So we appreciate the rules for conversions of commercial buildings for residential will be eased.",
+          "reasoning": "This quote directly addresses the residential conversions element of the proposal. The speaker acknowledges that the proposal will make it easier to convert commercial buildings into residential spaces."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

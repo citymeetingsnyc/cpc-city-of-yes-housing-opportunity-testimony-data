@@ -1,0 +1,71 @@
+{
+  "testimony": {
+    "name": "Barika Williams",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/barika-williams-from-the-association-for",
+    "start_time_in_seconds": 36574.344,
+    "end_time_in_seconds": 36798.594,
+    "for_or_against": "For",
+    "borough": "Unknown",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [
+      "Association for Neighborhood & Housing Development (ANHD)"
+    ],
+    "key_points": [
+      "Support for the text amendment with modifications",
+      "Recommendation to adjust income averaging in UAP to include mandated deep affordability",
+      "Suggestion to extend the higher 77% density bump across the board in UAP areas",
+      "Concern about lack of required affordability in lower density areas under current framework",
+      "Recommendation to require mandated affordability in DOD (Detached Only Districts)"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Around specifically UAP so wait actually, let me say this part. We support the intention of the text amendment to introduce more opportunity for housing development and importantly affordability in New York City Neighborhoods and across New York City Neighborhoods, particularly and importantly, in those that have not done their fair share in the recent decades.",
+          "reasoning": "This quote directly mentions UAP and indicates support for the proposal's intention to increase housing development and affordability across NYC neighborhoods."
+        },
+        {
+          "text": "On UAP specifically, one of the things that we're recommending is that the income averaging, as Cherilyn, pointed out, it's not a 60% it's a percent averaging be adjusted to include a mandated deaffordability proportion, right?",
+          "reasoning": "This quote discusses a specific recommendation for modifying the UAP proposal, suggesting changes to the income averaging component."
+        },
+        {
+          "text": "The current UAP program takes the errors framework and it stems it from senior to affordable and from supportive to senior affordable. That means that the range in UAP stays the same. And so while you've heard a lot about a 20% density bump, in reality that range of how much extra you can get, ranges from 20 to 77 percent of a density bump because that's what exists in errors.",
+          "reasoning": "This quote discusses details of the UAP program, including its relationship to existing frameworks and the potential density increases it allows."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [
+        {
+          "text": "And then my last sentence is to require mandated affordability in DOD. Our concern is that this current framework allows the lower density areas to actually have no required affordability and the UAP higher density areas do have to produce affordability.",
+          "reasoning": "While not explicitly mentioning 'Transit-Oriented Development', the speaker refers to 'DOD', which likely means 'Transit-Oriented Development' in this context. The speaker is discussing affordability requirements in relation to density, which is a key aspect of the Transit-Oriented Development proposal."
+        }
+      ],
+      "element_is_discussed": true
+    }
+  }
+}

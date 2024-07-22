@@ -1,0 +1,70 @@
+{
+  "testimony": {
+    "name": "Sunny Ng",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/sunny-ng-north-brooklyn-resident-on-removing",
+    "start_time_in_seconds": 53647.086,
+    "end_time_in_seconds": 53752.555,
+    "for_or_against": "For",
+    "borough": "Brooklyn",
+    "neighborhood": "North Brooklyn",
+    "stated_affiliations": [],
+    "key_points": [
+      "Support for the City of Yes for Housing Opportunity initiative",
+      "Need for both affordable and market-rate housing",
+      "Strong support for lifting parking minimums",
+      "Parking requirements are unnecessary in transit-rich neighborhoods",
+      "Removing parking minimums allows market to determine actual parking needs",
+      "Reducing car dependency helps fight climate change",
+      "Current parking requirements are outdated and should be changed"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [
+        {
+          "text": "While each of the proposal has their own merits, the one I'm most excited about is lifting parking minimums.",
+          "reasoning": "This quote directly mentions the speaker's excitement about lifting parking minimums, which is a key aspect of the Removing Parking Mandates element of the proposal."
+        },
+        {
+          "text": "For a city with the best world class public transit in the whole country. It's ridiculous that we have any provisions to require parking in the first place.",
+          "reasoning": "This quote shows the speaker's support for removing parking mandates by highlighting the city's public transit system and questioning the need for parking requirements."
+        },
+        {
+          "text": "Removing parking minimums doesn't mean the city doesn't allow parking spaces to be built, as much as I wish that was true. It just allows the market to figure out how much parking is actually needed.",
+          "reasoning": "This quote directly addresses the Removing Parking Mandates element, explaining its implications and supporting the market-based approach to parking."
+        },
+        {
+          "text": "The bottom of that is developers should not be forced to be building on-site parking if it doesn't make sense for the neighborhood.",
+          "reasoning": "This quote further supports the removal of parking mandates by arguing against forcing developers to build parking where it's not needed."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

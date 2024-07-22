@@ -1,0 +1,62 @@
+{
+  "testimony": {
+    "name": "Bob Martin [Fake]",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/christopher-leon-johnson-as-bob-martin-mcdonalds",
+    "start_time_in_seconds": 52936.574,
+    "end_time_in_seconds": 53116.023,
+    "for_or_against": "Against",
+    "borough": "Brooklyn",
+    "neighborhood": "Flatbush",
+    "stated_affiliations": [],
+    "key_points": [
+      "Cannot afford housing under City of Yes due to low income ($20,000/year)",
+      "City of Yes will not benefit poor people like him",
+      "New developments in his area are unaffordable despite having good credit",
+      "City of Yes will only benefit the wealthy",
+      "Works multiple jobs (McDonald's and construction) but still can't afford housing",
+      "Concerns about displacement of current residents",
+      "Criticizes organizations supporting the plan (Open Plans, Open New York, Tri-State, Regional Plan Association, Transportation Alternatives)"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [
+        {
+          "text": "I was doing some research and these I see the rules said that yet to make 80% AMI to be able to live in the city of yes.",
+          "reasoning": "This quote indicates that the speaker is aware of the income requirements related to the Universal Affordability Preference (UAP) element of the proposal, which targets households earning a percentage of the Area Median Income (AMI)."
+        },
+        {
+          "text": "I cannot afford that. I make I make $20,000 a year. I don't make $89,000 a year.",
+          "reasoning": "The speaker is discussing his inability to afford housing under the proposed UAP, which is a key element of the City of Yes for Housing Opportunity proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

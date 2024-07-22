@@ -1,0 +1,70 @@
+{
+  "testimony": {
+    "name": "Christie Peale",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/christie-peale-from-the-center-for-new-york-city",
+    "start_time_in_seconds": 31613.75,
+    "end_time_in_seconds": 31797.129,
+    "for_or_against": "For",
+    "borough": "Unknown",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [
+      "Center for New York City Neighborhoods",
+      "MHD"
+    ],
+    "key_points": [
+      "Support for City of YES Housing proposal with conditions",
+      "Potential to increase affordable homeownership opportunities, especially for coops and condos",
+      "Opportunity to leverage new capital funds with zoning changes to increase affordable homeownership supply",
+      "Need to address racial disparities in homeownership rates",
+      "Support for creation of ADUs (Accessory Dwelling Units) for homeowners",
+      "Importance of dedicated funding for outreach, technical assistance, and construction financing for ADUs",
+      "Focus on reducing gentrification pressures and helping families stay in their communities",
+      "Need to fight against predatory pressures like defect speculation"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [
+        {
+          "text": "As a member of MHD, we support their recommendations around affordability, but I also wanted to talk about the potential for the proposal to maintain homeownership their creation of ADUs for homeowners that want to and homeowners that need to based on the fact that they've got reduced income.",
+          "reasoning": "This quote directly mentions ADUs (Accessory Dwelling Units) and discusses their potential benefits for homeowners, which aligns with the ADU element of the City of Yes For Housing Opportunity proposal."
+        },
+        {
+          "text": "Their 1,400,000, 1 to 4 family homes in the city, and many of these families could benefit from the opportunity to create ADUs.",
+          "reasoning": "This quote further elaborates on the potential for ADUs in the city, discussing the number of homes that could benefit from this proposal, which is directly related to the ADU element of the City of Yes For Housing Opportunity proposal."
+        },
+        {
+          "text": "However, we really must emphasize that without a dedicated funding for outreach technical assistance and construction financing, If we allow for ADUs without those pieces, we're just going to increase the racial disparities across communities.",
+          "reasoning": "This quote discusses potential concerns and recommendations regarding the implementation of ADUs, which shows that the speaker is engaging with this specific element of the City of Yes For Housing Opportunity proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

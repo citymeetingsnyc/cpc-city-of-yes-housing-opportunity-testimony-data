@@ -1,0 +1,56 @@
+{
+  "testimony": {
+    "name": "Micah Hunter",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/micah-hunter-from-nhp-foundation-on-city-of-yes",
+    "start_time_in_seconds": 22837.336,
+    "end_time_in_seconds": 23017.105,
+    "for_or_against": "For",
+    "borough": "Queens",
+    "neighborhood": "Laurelton",
+    "stated_affiliations": [
+      "NHP Foundation",
+      "HPD Housing Preservation Development",
+      "Administration of Children's Services"
+    ],
+    "key_points": [
+      "Personal experience of having to leave Bed-Stuy due to rising costs",
+      "Housing crisis and need for more affordable housing",
+      "Discrepancy between household growth and new housing units in NYC",
+      "Positive impact of affordable housing on families",
+      "Changing demographics affecting housing needs (e.g., baby boomers, workforce housing)",
+      "City of Yes for Housing Opportunity proposal as a step to address housing issues"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

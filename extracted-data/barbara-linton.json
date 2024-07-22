@@ -1,0 +1,54 @@
+{
+  "testimony": {
+    "name": "Barbara Linton",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/barbara-linton-from-douglaston-civic-association",
+    "start_time_in_seconds": 27057.953,
+    "end_time_in_seconds": 27132.338,
+    "for_or_against": "Against",
+    "borough": "Queens",
+    "neighborhood": "Douglaston",
+    "stated_affiliations": [
+      "Douglaston Civic Association"
+    ],
+    "key_points": [
+      "The initiative does not adequately address the need for affordable housing",
+      "New rental units will be priced at market rates, not affordable rates",
+      "Lack of infrastructure to support additional density",
+      "Some homes in the area are not connected to the city sewer system",
+      "12 out of 14 community boards in Queens have voted against the initiative",
+      "Concerns about lack of community input"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

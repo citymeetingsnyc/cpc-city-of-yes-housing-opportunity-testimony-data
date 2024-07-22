@@ -1,0 +1,90 @@
+{
+  "testimony": {
+    "name": "Jim Wright",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/jim-wright-from-aia-new-york-chapter-on-transit",
+    "start_time_in_seconds": 7087.808,
+    "end_time_in_seconds": 7283.5537,
+    "for_or_against": "For",
+    "borough": "Unknown",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [
+      "AIA New York Chapter"
+    ],
+    "key_points": [
+      "Support for the expansion of transit zones citywide, allowing modest density increases in low and moderate density areas near transit stations",
+      "Endorsement of removing minimum off-street parking requirements for most new buildings",
+      "Transit-oriented development links land use with access to public transportation and job opportunities",
+      "Current parking requirements increase housing costs and suppress full utilization of existing zoning capacity",
+      "Eliminating parking mandates and increasing density near transit will create more affordable and sustainable neighborhoods",
+      "The overlap of transit zones with Town Center zones creates opportunities for mixed-use housing with transit access",
+      "These changes will accommodate city growth in coming decades"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [
+        {
+          "text": "The overlap of transit zones with Town Center zones creates further opportunities to increase mixed use housing options with access to public transit, thus creating more cohesive sustainable neighborhoods.",
+          "reasoning": "This quote directly mentions Town Center zones and how they interact with transit zones, which is part of the Town Center Zoning element of the City of Yes For Housing Opportunity proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [
+        {
+          "text": "And the removal of current zoning or requirements that mandate a minimum number of off street parking spaces in most new buildings.",
+          "reasoning": "This quote directly addresses the proposal to remove parking mandates, which is a key element of the City of Yes For Housing Opportunity plan."
+        },
+        {
+          "text": "You've heard very clear analyses of the cost to developers and residents when Parkies provided a new residential construction Current residential zoning and most low and moderate density districts requires a minimum of one parking space per unit.",
+          "reasoning": "This quote discusses the current parking requirements and their impact on development costs, which is relevant to the proposal to remove parking mandates."
+        },
+        {
+          "text": "These parking requirements increased the cost to build new housing and suppressed the full utilization of existing zoning capacity.",
+          "reasoning": "This quote summarizes the negative effects of current parking requirements, supporting the proposal to remove parking mandates."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [
+        {
+          "text": "My testimony focuses on 2 aspects of proposed citywide rezoning, related to transit oriented development.",
+          "reasoning": "This quote directly mentions transit-oriented development as a focus of the testimony, which is a key element of the City of Yes For Housing Opportunity proposal."
+        },
+        {
+          "text": "The expansion of transit zone citywide, which allows a modest increase in density in areas of low and moderate density in R1 through R5 zone districts near transit stations.",
+          "reasoning": "This quote discusses the expansion of transit zones, which is part of the transit-oriented development element of the proposal."
+        },
+        {
+          "text": "The expansion of transit zone citywide to qualifying sites within a half a mile transit station is a perfect application of transit oriented development, which links land use with access to public transportation and more job opportunities.",
+          "reasoning": "This quote explicitly discusses transit-oriented development and its implementation in the proposal, linking it to increased housing density near transit stations."
+        },
+        {
+          "text": "Unlocking the potential for higher density transitorian development coupled with the elimination of parking mandates will create the conditions for more affordable and sustainable neighborhoods to accommodate our city's growth in the coming decades.",
+          "reasoning": "This quote summarizes the speaker's support for transit-oriented development as part of the City of Yes For Housing Opportunity proposal."
+        }
+      ],
+      "element_is_discussed": true
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "testimony": {
+    "name": "Samuel Deutsch",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/samuel-deutsch-on-transit-oriented-development-and",
+    "start_time_in_seconds": 47398.254,
+    "end_time_in_seconds": 47560.3,
+    "for_or_against": "For",
+    "borough": "Unknown",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [],
+    "key_points": [
+      "New York City should look to other cities for inspiration in housing policy",
+      "Vancouver allows 20-story apartment buildings near transit stations to reduce carbon emissions",
+      "New York's proposal for 3-5 story buildings near transit should be a 'no-brainer'",
+      "Austin, Texas has built significantly more housing per capita than New York, resulting in decreasing rents",
+      "Loosening zoning restrictions in Austin has allowed supply to meet demand",
+      "The City of Yes proposal is supported but could potentially go further",
+      "Building more housing near transit promotes sustainable, low-carbon, car-free lifestyles",
+      "The proposal will lead to more climate-friendly housing in New York"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [
+        {
+          "text": "And day as a result, proves to the extensive transferring into development policies because getting housing built near where trans exists. So people don't need to drive as much or don't even need to own cars is one of the most effective policies to reduce carbon emissions on the whole electricity level.",
+          "reasoning": "This quote directly relates to the Transit-Oriented Development element of the proposal, as it discusses the importance of building housing near transit to reduce car dependency and carbon emissions."
+        },
+        {
+          "text": "So I think the fact that we're just looking at, you know, 3 to 5 stories here in New York, that should really be a no brainer. And if anything, I would think for the long term, there should be more pressure to, like, even bigger than that and help more people live sustainable, low carbon, car free lifestyles by building more housing near transit.",
+          "reasoning": "This quote specifically references the proposal's aim to allow 3 to 5 story buildings near transit, which is a key aspect of the Transit-Oriented Development element. The speaker also suggests that even taller buildings should be considered near transit to promote sustainable lifestyles."
+        }
+      ],
+      "element_is_discussed": true
+    }
+  }
+}

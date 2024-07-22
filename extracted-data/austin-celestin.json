@@ -1,0 +1,75 @@
+{
+  "testimony": {
+    "name": "Austin Celestin",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/austin-celestin-urban-planning-graduate-student-at",
+    "start_time_in_seconds": 9639.794,
+    "end_time_in_seconds": 9764.733,
+    "for_or_against": "For",
+    "borough": "Manhattan",
+    "neighborhood": "Upper West Side",
+    "stated_affiliations": [
+      "NYU Wagner"
+    ],
+    "key_points": [
+      "Current housing situation is unaffordable for many, including the speaker and his family",
+      "Low vacancy rates, slow construction pace, high rents, and increasing homelessness are major issues",
+      "Current zoning plan has reduced buildable capacity by 80% and led to housing loss in some neighborhoods",
+      "The City of Yes proposal caters to different neighborhood needs and capacities",
+      "Proposal includes various strategies like transit-oriented development, commercial conversions, ADUs, and lifting parking mandates",
+      "The plan is modest but ambitious, covering about 20% of the housing need",
+      "Urges the City Planning Commission to approve the City of Yes proposal and consider doing even more"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Commercial conversions for Midtown Manhattan",
+          "reasoning": "The speaker mentions commercial conversions for Midtown Manhattan, which directly relates to the residential conversions element of the City of Yes For Housing Opportunity proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [
+        {
+          "text": "the underappreciated aspect of whipping parking mandates, which makes housing more expensive more expensive.",
+          "reasoning": "The speaker mentions removing parking mandates as part of the proposal, highlighting that it makes housing less expensive, which aligns with the City Planning's description of this element."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [
+        {
+          "text": "ADU's full low density residential areas",
+          "reasoning": "The speaker directly mentions ADUs (Accessory Dwelling Units) as part of the proposal, indicating that this element is discussed in the testimony."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [
+        {
+          "text": "transforming the development for those Attleboro communities near subways.",
+          "reasoning": "The speaker mentions development near subways, which aligns with the transit-oriented development element of the proposal."
+        }
+      ],
+      "element_is_discussed": true
+    }
+  }
+}

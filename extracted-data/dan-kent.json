@@ -1,0 +1,74 @@
+{
+  "testimony": {
+    "name": "Dan Kent",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/dan-kent-president-and-ceo-of-lantern-organization",
+    "start_time_in_seconds": 29008.012,
+    "end_time_in_seconds": 29196.002,
+    "for_or_against": "For",
+    "borough": "Unknown",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [
+      "Lantern Organization"
+    ],
+    "key_points": [
+      "Supports the Universal Affordability preference provision",
+      "New York City has the highest rate of homelessness despite being a leader in affordable housing production",
+      "Current zoning code and land use process reduces housing supply",
+      "Low vacancy rates contribute to homelessness and high rents",
+      "Need to allow more development of market-rate housing alongside affordable housing",
+      "New York City's housing production rate is much lower than other cities like Austin or Seattle",
+      "Current rules prevent housing from being built",
+      "Market-rate housing and private developers should be seen as part of the solution",
+      "The proposal is thoughtful and asks every neighborhood to contribute a little",
+      "Small changes like new apartment buildings or ADUs won't significantly alter neighborhoods",
+      "Increasing housing supply will help relieve pressure on New Yorkers struggling with affordability"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [
+        {
+          "text": "And first, I'd like to applaud the Universal Affordability preference provision This provision will help lantern and our peer organizations produce even more affordable in support of housing in New York City.",
+          "reasoning": "This quote directly mentions the Universal Affordability Preference provision and expresses support for it, indicating that the speaker is discussing this element of the proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [
+        {
+          "text": "If a couple of your neighbors get ADUs, your neighborhood's still gonna be a lovely place to live.",
+          "reasoning": "This quote directly mentions ADUs (Accessory Dwelling Units) in the context of neighborhood changes, indicating that the speaker is discussing this element of the proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [
+        {
+          "text": "If there's a new three or four story apartment building next to your train station.",
+          "reasoning": "This quote refers to building apartment buildings near train stations, which is a key aspect of transit-oriented development. It indicates that the speaker is discussing this element of the proposal."
+        }
+      ],
+      "element_is_discussed": true
+    }
+  }
+}

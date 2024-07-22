@@ -1,0 +1,72 @@
+{
+  "testimony": {
+    "name": "Carol McCarthy",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/carol-mccarthy-from-douglaston-civic-association",
+    "start_time_in_seconds": 10189.771,
+    "end_time_in_seconds": 10315.26,
+    "for_or_against": "Against",
+    "borough": "Queens",
+    "neighborhood": "Douglaston",
+    "stated_affiliations": [
+      "Douglaston Civic Association"
+    ],
+    "key_points": [
+      "The plan is based on a false premise and will not provide affordable housing",
+      "Only special interests and developers will benefit from the plan",
+      "Lack of infrastructure to support the proposed changes",
+      "Negative impact on health care, education, sanitation, and public safety",
+      "Will destroy the nature of the community",
+      "Accessory units (basements, attics, garages, yards) pose safety risks",
+      "Threat of secession from New York City if the plan passes",
+      "The majority of civic associations have voted against the plan",
+      "Residents pay taxes and should have their voices heard"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [
+        {
+          "text": "The end result will provide no affordable housing.",
+          "reasoning": "While not explicitly mentioning UAP, this quote addresses the affordability aspect of the proposal, which is a key component of the Universal Affordability Preference. The speaker is arguing against the effectiveness of the proposal in providing affordable housing."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [
+        {
+          "text": "There will be no infrastructure to support this. No additional parking or transportation.",
+          "reasoning": "This quote indicates that the speaker is discussing the removal of parking mandates by expressing concern about the lack of additional parking, which is directly related to the proposal's aim to remove parking requirements for new housing."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [
+        {
+          "text": "As far as accessory units are concerned, basements, attics, garages, yards. This is a recipe for disaster. Floods, fires, and civilian casualties.",
+          "reasoning": "This quote directly addresses the Accessory Dwelling Units (ADUs) element of the proposal. The speaker mentions specific types of ADUs (basements, attics, garages, yards) and expresses strong opposition to them, citing safety concerns."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "testimony": {
+    "name": "Carina Nieves",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/carina-nieves-on-opposition-to-city-of-yes-for",
+    "start_time_in_seconds": 9960.136,
+    "end_time_in_seconds": 10159.63,
+    "for_or_against": "Against",
+    "borough": "Queens",
+    "neighborhood": "Richmond Hill",
+    "stated_affiliations": [],
+    "key_points": [
+      "Low density communities are being targeted for transit-oriented development",
+      "Residents chose these communities for light, air, space, and tranquility",
+      "The proposal may lead to harassment of property owners by developers",
+      "Lower density zones have helped keep rents lower for low and middle-income residents",
+      "Community Board 9 preserved lower density zoning in 2009 after a diligent rezoning process",
+      "Previous upzoning along Jamaica Avenue and Atlantic Avenue has not resulted in significant affordable housing development",
+      "New apartment buildings in the area are not affordable for the local community",
+      "The community is against the City of Yes proposal"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [
+        {
+          "text": "This, you know, this proposal the proposal of an a ADUs in transit oriented and is one way to force property owners in these areas of the city to be harassed by developers to sell our our properties to build, baby, build, or build back better for use of political jargon.",
+          "reasoning": "The speaker directly mentions ADUs (Accessory Dwelling Units) in the context of the proposal, indicating that this element of the City of Yes For Housing Opportunity is being discussed. The speaker expresses concern that this proposal might lead to pressure on property owners to sell or develop their properties."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Low density community that is targeted for transit oriented development because we have the J train and the A train to ourself.",
+          "reasoning": "The speaker explicitly mentions transit-oriented development in relation to their community, which has access to the J and A trains. This directly addresses the Transit-Oriented Development element of the City of Yes For Housing Opportunity proposal."
+        },
+        {
+          "text": "This, you know, this proposal the proposal of an a ADUs in transit oriented and is one way to force property owners in these areas of the city to be harassed by developers to sell our our properties to build, baby, build, or build back better for use of political jargon.",
+          "reasoning": "The speaker again refers to transit-oriented development in conjunction with ADUs, expressing concerns about how this proposal might affect property owners in areas targeted for such development."
+        }
+      ],
+      "element_is_discussed": true
+    }
+  }
+}

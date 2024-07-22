@@ -1,0 +1,54 @@
+{
+  "testimony": {
+    "name": "Timothy Burke",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/timothy-burke-president-of-nyc-new-liberals-on",
+    "start_time_in_seconds": 40864.91,
+    "end_time_in_seconds": 40951.223,
+    "for_or_against": "For",
+    "borough": "Unknown",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [
+      "NYC New Liberals"
+    ],
+    "key_points": [
+      "Strong support for City of Yes for Housing Opportunity as currently written",
+      "New York City has a severe housing shortage with only 1.4% rental vacancy",
+      "Need for more housing supply at all income levels",
+      "Reforming outdated zoning code to legalize housing",
+      "Housing is connected to transportation, education, health and safety, and economic issues",
+      "City of Yes for Housing Opportunity is an important first step in ending the housing crisis"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

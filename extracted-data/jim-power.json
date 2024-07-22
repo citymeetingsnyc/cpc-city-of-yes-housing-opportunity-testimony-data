@@ -1,0 +1,67 @@
+{
+  "testimony": {
+    "name": "Jim Power",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/jim-power-from-kramer-levin-on-concerns-about-the",
+    "start_time_in_seconds": 24080.678,
+    "end_time_in_seconds": 24229.244,
+    "for_or_against": "For",
+    "borough": "Unknown",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [
+      "Kramer Levin"
+    ],
+    "key_points": [
+      "Supports many components of the housing opportunity proposal",
+      "Concerned about the proposed UAP formula for zoning lots with existing buildings",
+      "The current proposal may disincentivize housing development in certain scenarios",
+      "Suggests an alternative approach where the required affordable percentage is applied only to the enlarged portion of the zoning lot",
+      "Argues that the alternative approach would incentivize developers to build out the full amount of residential floor area available",
+      "Recommends considering alternatives to the UAP formula for infill sites"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [
+        {
+          "text": "We support many components of the housing opportunity proposal and believe it will help address the city's housing crisis. However, we are concerned that the proposed UAP formula as it applies to zoning lots with existing buildings to remain may have the unintended effect of disincentivizing housing development.",
+          "reasoning": "This quote directly mentions the UAP (Universal Affordability Preference) and expresses concerns about its implementation, indicating that the speaker is discussing this element of the proposal."
+        },
+        {
+          "text": "As proposed, the target 20% UAP affordable requirement would apply against all floor area on the zoning lot, including existing floor area to remain.",
+          "reasoning": "This quote specifically discusses the details of the UAP requirement, demonstrating that the speaker is addressing this element of the proposal."
+        },
+        {
+          "text": "We urge the commission to consider alternatives to the UAP formula as it applies to these infill sites.",
+          "reasoning": "This quote shows that the speaker is suggesting modifications to the UAP element of the proposal, further indicating that it is being discussed."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

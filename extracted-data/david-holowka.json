@@ -1,0 +1,67 @@
+{
+  "testimony": {
+    "name": "David Holowka",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/david-holowka-architect-and-chelsea-resident-on",
+    "start_time_in_seconds": 18151.643,
+    "end_time_in_seconds": 18338.906,
+    "for_or_against": "Against",
+    "borough": "Manhattan",
+    "neighborhood": "Chelsea",
+    "stated_affiliations": [],
+    "key_points": [
+      "City of Yes will discourage development in areas with vacant and underbuilt sites",
+      "The initiative will encourage luxury housing development in already built-up areas",
+      "Boosting supply hasn't lowered housing costs in other cities like Vancouver",
+      "Areas in New York with the most new housing have seen housing costs rise, not fall",
+      "The plan may lead to a loss of existing affordable housing",
+      "Development rights transfers may incentivize tearing down affordable apartment buildings",
+      "New luxury buildings may include fewer units than the buildings they replace",
+      "The market seems incapable of producing anything but luxury units in cities with high real estate investment value",
+      "Suggests studying alternatives like Vienna's social housing and Westchester's affordability mandates",
+      "Criticizes the lack of consultation with zoning experts like George Gaines",
+      "Argues that City of Yes is a gift to real estate executives packaged as an affordable housing initiative",
+      "Believes the plan may increase housing costs rather than decrease them"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [
+        {
+          "text": "City of Yes would sacrifice hard one community led zoning for a perverse plan to solve our affordable housing crisis by building luxury apartments.",
+          "reasoning": "This quote indirectly refers to the UAP element by mentioning the plan's attempt to solve the affordable housing crisis, which is a key aspect of the UAP proposal."
+        },
+        {
+          "text": "This could be true even of new buildings so they are 20% affordable for a net loss of affordability.",
+          "reasoning": "This quote directly references the 20% affordable housing component, which is a key feature of the UAP proposal, although the speaker is criticizing its potential effectiveness."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

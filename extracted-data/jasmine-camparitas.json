@@ -1,0 +1,78 @@
+{
+  "testimony": {
+    "name": "Jasmine Camparitas",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/jasmine-camparitas-resident-of-hollis-hills-queens",
+    "start_time_in_seconds": 34194.74,
+    "end_time_in_seconds": 34379.938,
+    "for_or_against": "Against",
+    "borough": "Queens",
+    "neighborhood": "Hollis Hills",
+    "stated_affiliations": [],
+    "key_points": [
+      "The proposal will destroy and eliminate low-density communities",
+      "It will replace owner-occupied housing with market-rate rental units",
+      "It will increase density without sufficient infrastructure",
+      "It will end enforcement of illegal apartments",
+      "It will negatively impact property values without benefiting the community",
+      "The environmental impact statement incorrectly assessed socioeconomic conditions and neighborhood character",
+      "The proposal will cause long-term New Yorkers to leave, changing neighborhood character",
+      "Low-density communities have fewer public transportation options and fewer police officers",
+      "The proposal benefits developers and real estate investors at the expense of current residents",
+      "There's no shortage of space in New York, but a shortage of affordable housing",
+      "The city should focus on converting underutilized existing city space into affordable housing",
+      "35 out of 59 community boards oppose the proposal",
+      "ADUs are not acceptable for the Hollis Hills neighborhood"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [
+        {
+          "text": "You should redirect your focus on converting underutilized existing city space into affordable and afford an available housing and separately address the parking mandate problems in more dense neighborhoods without just drawing the lower density neighborhoods like mine.",
+          "reasoning": "This quote directly mentions 'parking mandate problems', indicating that the speaker is aware of and discussing the parking mandates element of the City of Yes proposal. The speaker suggests addressing these problems in denser neighborhoods, implying knowledge of the proposal's aim to remove parking mandates."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [
+        {
+          "text": "As a member of the Hollis Hills community, I specifically wanna express that I believe our leader's best singer was given the opportunity to speak earlier in the day on behalf of Polls Hills misunderstood your question regarding ADUs and did not expressly It correctly expressed the views of the vast majority of Holly Hills residents with respect to ADUs.",
+          "reasoning": "This quote directly mentions ADUs (Accessory Dwelling Units) and indicates that there was a previous discussion about them in the context of the Hollis Hills community. The speaker is addressing the ADU element of the City of Yes proposal."
+        },
+        {
+          "text": "These are not accept this is not an acceptable proposal for our neighborhood. They do not provide housing for extended family as seen to be suggested. That's the reason why we would want them in our neighborhood.",
+          "reasoning": "This quote follows the mention of ADUs and expresses opposition to them, indicating that the speaker is discussing the ADU element of the proposal. The speaker also mentions the supposed benefit of housing for extended family, which is one of the arguments for ADUs in the proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [
+        {
+          "text": "There are minimal low density communities in New York, and those communities like mine have fewer reliable public transportation opportunities.",
+          "reasoning": "While not explicitly mentioning transit-oriented development, this quote discusses the relationship between density and public transportation, which is a key aspect of the transit-oriented development element of the City of Yes proposal. The speaker is highlighting the lack of reliable public transportation in low-density areas, which is relevant to the proposal's aim to increase density near transit."
+        }
+      ],
+      "element_is_discussed": true
+    }
+  }
+}

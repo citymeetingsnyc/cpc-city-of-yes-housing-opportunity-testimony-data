@@ -1,0 +1,83 @@
+{
+  "testimony": {
+    "name": "Will Kitcher",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/will-kitcher-on-personal-experiences-with-diverse",
+    "start_time_in_seconds": 15547.074,
+    "end_time_in_seconds": 15742.27,
+    "for_or_against": "For",
+    "borough": "Brooklyn",
+    "neighborhood": "Sheepshead Bay",
+    "stated_affiliations": [],
+    "key_points": [
+      "Support for missing middle housing",
+      "Personal experience living in various types of housing in Brooklyn",
+      "Support for repealing parking mandates",
+      "Need for affordable housing options for young people moving out",
+      "Belief that lifting parking mandates will allow more housing to be built",
+      "Observation that some parking lots in Sheepshead Bay are underutilized",
+      "Assertion that developers will still provide parking where needed",
+      "Support for additional housing near subway stations"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [
+        {
+          "text": "I moved into the first family of the first floor family rental with 3 roommates. That was a conversion from a single family home that had a doctor's office on the first floor. The doctor's office was removed, and I was able to live there in this mixed use house",
+          "reasoning": "This quote indicates that the speaker has personal experience with residential conversions, where a single-family home with a doctor's office was converted into a multi-family rental. This aligns with the proposal's aim to make it easier for non-residential spaces to be converted into housing."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Houses above store storefronts there.",
+          "reasoning": "This quote refers to mixed-use buildings with residential units above commercial spaces, which is a key aspect of the Town Center Zoning proposal. The speaker is describing his experience living in such areas, which aligns with the proposal's goal of revitalizing and legalizing this type of development in low-density areas."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Additionally, I want to come out in support of repealing the parking mandates because I believe that will allow more housing again to be built. This will allow more people to, you know, more housing to be built and more open spaces, if needed.",
+          "reasoning": "The speaker explicitly supports repealing parking mandates, which directly aligns with the proposal's aim to remove parking requirements for new housing developments. He also mentions the benefits of this change, such as allowing more housing to be built and creating more open spaces."
+        },
+        {
+          "text": "We have a lot of parking lots and a lot of public parking. And some of it sits empty for most of the day. And with that being said, it can be more productive use",
+          "reasoning": "This quote further supports the removal of parking mandates by pointing out that existing parking lots are often underutilized, suggesting that the space could be put to more productive use, which aligns with the proposal's goals."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [
+        {
+          "text": "They lived in the garage above, like, behind the home at that time. I don't know if it was legal or not, but I know that there was a lot of tune the from that house for people in my neighborhood, mainly.",
+          "reasoning": "This quote describes a situation where people were living in a converted garage space behind a home, which is essentially an example of an accessory dwelling unit (ADU). The speaker's uncertainty about its legality and the mention of its usefulness for people in the neighborhood aligns with the proposal's aim to legalize and promote ADUs."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [
+        {
+          "text": "But this will allow people who are closer to the subway station And in areas like that along the Q Train and the 2 line that will have additional housing that can be close by to them and they will need to rely on a vehicle.",
+          "reasoning": "This quote directly refers to the concept of transit-oriented development by mentioning the benefits of additional housing near subway stations (Q Train and 2 line). The speaker suggests that this proximity to public transit would reduce the need for vehicles, which aligns with the proposal's goal of promoting development near public transportation to support convenient lifestyles and reduce car dependency."
+        }
+      ],
+      "element_is_discussed": true
+    }
+  }
+}

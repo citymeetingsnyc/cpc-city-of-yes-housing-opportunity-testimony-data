@@ -1,0 +1,64 @@
+{
+  "testimony": {
+    "name": "Luke Lavanway",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/luke-lavanway-resident-of-fort-greene-brooklyn-on",
+    "start_time_in_seconds": 35316.996,
+    "end_time_in_seconds": 35535.44,
+    "for_or_against": "For",
+    "borough": "Brooklyn",
+    "neighborhood": "Fort Greene",
+    "stated_affiliations": [],
+    "key_points": [
+      "Supports City of Yes with no conditions due to severe housing crisis",
+      "Personal experiences with competitive and stressful rental market",
+      "Need for more housing units to stop displacement and gentrification",
+      "Supports Universal Affordability Preference (UAP) for permanently affordable housing",
+      "Criticizes those opposing development as causing gentrification and displacement",
+      "Argues that neighborhoods must evolve to meet changing needs",
+      "Supports the plan for adding more housing in every neighborhood",
+      "Suggests that the plan may not go far enough to address the housing crisis",
+      "Urges approval of City of Yes in its strongest form"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [
+        {
+          "text": "I'd like to specifically highlight the universal affordability preference or UAP aspect of City of Yes for housing opportunity, which if adopted should not only result in significantly more units being built, but will also help the groups that are most vulnerable. By adding permanently affordable housing units.",
+          "reasoning": "The speaker directly mentions and discusses the Universal Affordability Preference (UAP) element of the City of Yes proposal, highlighting its potential to increase housing units and provide affordable housing."
+        },
+        {
+          "text": "Let's get as many of those as we can and we should provide incentives for anyone who's willing to build them.",
+          "reasoning": "This quote follows the discussion of UAP and permanently affordable housing units, showing support for the concept and suggesting incentives, which aligns with the UAP proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

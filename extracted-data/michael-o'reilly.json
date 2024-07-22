@@ -1,0 +1,50 @@
+{
+  "testimony": {
+    "name": "Michael O'Reilly",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/michael-oreilly-candidate-for-state-senate-on-city",
+    "start_time_in_seconds": 20777.264,
+    "end_time_in_seconds": 20876.156,
+    "for_or_against": "Against",
+    "borough": "Queens",
+    "neighborhood": "Southeast Queens",
+    "stated_affiliations": [],
+    "key_points": [
+      "Questions why the mayor invited illegal migrants to New York City during a housing crisis",
+      "Suggests that the City Planning Commission is not listening to the community's concerns",
+      "States that people in Queens are overwhelmingly against the City of Yes initiative",
+      "Criticizes the placement of migrant shelters in Southeast Queens"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

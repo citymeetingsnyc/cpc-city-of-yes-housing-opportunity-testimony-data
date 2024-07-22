@@ -1,0 +1,104 @@
+{
+  "testimony": {
+    "name": "Alia Soomro",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/alia-soomro-from-the-new-york-league-of",
+    "start_time_in_seconds": 14953.174,
+    "end_time_in_seconds": 15139.688,
+    "for_or_against": "For",
+    "borough": "Unknown",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [
+      "New York League of Conservation Voters"
+    ],
+    "key_points": [
+      "Support for City of Yes for Housing Opportunity",
+      "Addressing both climate crisis and housing shortage",
+      "Removing parking mandates to encourage alternative transportation and free up land for housing",
+      "Support for transit-oriented development, town center zoning, accessory dwelling units, and residential conversions",
+      "Proposal will not significantly change neighborhood character or overburden city infrastructure",
+      "Proposal does not allow new development on Parkland",
+      "Urging approval of zoning text amendment without weakening provisions"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [
+        {
+          "text": "While NYCVs fully supports the entirety of the zoning proposal, we strongly support the following components, removing parking mandates, transitory oriented development, town center zoning, accessory dwelling units, and residential conversions.",
+          "reasoning": "The speaker explicitly mentions residential conversions as one of the components of the City of Yes proposal that they strongly support."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [
+        {
+          "text": "While NYCVs fully supports the entirety of the zoning proposal, we strongly support the following components, removing parking mandates, transitory oriented development, town center zoning, accessory dwelling units, and residential conversions.",
+          "reasoning": "The speaker explicitly mentions town center zoning as one of the components of the City of Yes proposal that they strongly support."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [
+        {
+          "text": "While NYCVs fully supports the entirety of the zoning proposal, we strongly support the following components, removing parking mandates, transitory oriented development, town center zoning, accessory dwelling units, and residential conversions.",
+          "reasoning": "The speaker explicitly mentions removing parking mandates as one of the components of the City of Yes proposal that they strongly support."
+        },
+        {
+          "text": "One prime example showing how zoning limits housing from being built and incentivizes fossil fuel use are parking mandates. Parking mandates were included in the city's ER in the fifties sixties as suburbanization was taking hold. To this day, our ZR contains outdated minimum parking requirements for housing developments, even for homes built close to mass transit, and despite the fact that the vast majority of city residents use public transportation.",
+          "reasoning": "The speaker discusses the current issue with parking mandates and how they limit housing development and encourage car use."
+        },
+        {
+          "text": "Parking mandates raise the cost of housing, inhibits more units from being built, and incentivizes the use of private automobiles. Eliminating these mandates not only encourages alternative modes of transportation, but also frees up valuable land for affordable housing. This shift can also reduce the urban heat island effect, improve air quality, and mitigate storm water runoff.",
+          "reasoning": "The speaker elaborates on the negative effects of parking mandates and the benefits of eliminating them, which is a key part of the City of Yes proposal."
+        },
+        {
+          "text": "Lastly, eliminating parking mandates does not ban new parking or eliminate parking entirely. This proposal allows developers to meet the needs of each neighborhood of the city.",
+          "reasoning": "The speaker clarifies what the removal of parking mandates means in practice, addressing potential concerns about the proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [
+        {
+          "text": "While NYCVs fully supports the entirety of the zoning proposal, we strongly support the following components, removing parking mandates, transitory oriented development, town center zoning, accessory dwelling units, and residential conversions.",
+          "reasoning": "The speaker explicitly mentions accessory dwelling units as one of the components of the City of Yes proposal that they strongly support."
+        },
+        {
+          "text": "Additionally, since ADUs are very small units spread across large areas, they will not put more pressure on the city sewer system.",
+          "reasoning": "The speaker addresses a potential concern about ADUs and their impact on city infrastructure, indicating that this element of the proposal is being discussed."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [
+        {
+          "text": "While NYCVs fully supports the entirety of the zoning proposal, we strongly support the following components, removing parking mandates, transitory oriented development, town center zoning, accessory dwelling units, and residential conversions.",
+          "reasoning": "The speaker explicitly mentions transit-oriented development (referred to as 'transitory oriented development', which is likely a misspeak) as one of the components of the City of Yes proposal that they strongly support."
+        },
+        {
+          "text": "This citywide zoning text amendment would update the ZR to address city's housing shortage by encouraging a modest amount of housing in every neighborhood, especially near mass transit.",
+          "reasoning": "This statement aligns with the concept of transit-oriented development, emphasizing the importance of housing near mass transit."
+        },
+        {
+          "text": "When individual buildings or proposals are built such as TODs, DCP and DEP work closely to examine existing sewer capacity to ensure any incremental demand does not over tax existing infrastructure.",
+          "reasoning": "The speaker specifically mentions TODs (Transit-Oriented Developments) and how they are evaluated in terms of infrastructure impact, indicating that this element of the proposal is being discussed."
+        }
+      ],
+      "element_is_discussed": true
+    }
+  }
+}

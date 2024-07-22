@@ -1,0 +1,88 @@
+{
+  "testimony": {
+    "name": "Carlo Casa",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/carlo-casa-director-of-policy-and-research-at-new",
+    "start_time_in_seconds": 9796.855,
+    "end_time_in_seconds": 9933.014,
+    "for_or_against": "For",
+    "borough": "Unknown",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [
+      "New York Building Congress"
+    ],
+    "key_points": [
+      "The City of Yes for Housing Opportunity is a rational initiative addressing the housing crisis",
+      "The initiative incorporates community input from over 175 community board meetings",
+      "The policy has the potential to create over 100,000 new homes",
+      "Removes outdated parking mandates that increase housing production costs",
+      "Promotes transit-oriented development by legalizing 3 to 5 storey apartments near public transit",
+      "Encourages modest housing density in sensible locations citywide",
+      "Uses zoning as a tool rather than an obstacle to meet New Yorkers' needs"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [
+        {
+          "text": "By allowing smaller scale housing to be built above storefronts, permitting ADUs, and simplifying the conversion of offices to residential spaces.",
+          "reasoning": "This quote directly mentions the simplification of converting offices to residential spaces, which is a key aspect of the Residential Conversions element of the City of Yes For Housing Opportunity proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [
+        {
+          "text": "By allowing smaller scale housing to be built above storefronts, permitting ADUs, and simplifying the conversion of offices to residential spaces.",
+          "reasoning": "This quote mentions allowing smaller scale housing to be built above storefronts, which aligns with the Town Center Zoning element of the proposal that aims to revitalize commercial corridors by allowing housing above businesses in low-density areas."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [
+        {
+          "text": "The city of Yes also removes outdated parking mandates, which today, increase the cost of housing production by roughly $100,000 per parking space.",
+          "reasoning": "This quote directly addresses the removal of parking mandates, which is a key element of the City of Yes For Housing Opportunity proposal."
+        },
+        {
+          "text": "The proposal does not ban developers from building parking rather it allows for more flexibility so that project managers can best meet the needs of each unique site rather than a one size fits all approach.",
+          "reasoning": "This quote further elaborates on the parking mandate removal, explaining that it provides flexibility rather than a complete ban, which aligns with the proposal's approach to parking."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [
+        {
+          "text": "By allowing smaller scale housing to be built above storefronts, permitting ADUs, and simplifying the conversion of offices to residential spaces.",
+          "reasoning": "This quote explicitly mentions 'permitting ADUs', which directly refers to the Accessory Dwelling Units element of the City of Yes For Housing Opportunity proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [
+        {
+          "text": "The city of yes also promotes transit oriented development, by legalizing 3 to 5 storey apartments near public transit.",
+          "reasoning": "This quote directly addresses the Transit-Oriented Development element of the proposal, mentioning the legalization of 3 to 5 story apartments near public transit."
+        },
+        {
+          "text": "This encourages modest housing density in the most sensible locations citywide. It's good for the environment and even better for our commute.",
+          "reasoning": "This quote further elaborates on the benefits of transit-oriented development, aligning with the proposal's goals of supporting convenient lifestyles and reducing carbon emissions."
+        }
+      ],
+      "element_is_discussed": true
+    }
+  }
+}

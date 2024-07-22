@@ -1,0 +1,70 @@
+{
+  "testimony": {
+    "name": "Bria Donohue",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/bria-donohue-from-american-institute-of-architects",
+    "start_time_in_seconds": 4100.27,
+    "end_time_in_seconds": 4223.8296,
+    "for_or_against": "For",
+    "borough": "Unknown",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [
+      "American Institute of Architects"
+    ],
+    "key_points": [
+      "AIA New York strongly supports the proposed citywide zoning tax amendment, City of Yes for Housing Opportunity",
+      "The proposal eliminates antiquated barriers that restrict development and burden the housing market",
+      "The proposal will create missing middle housing, which is critical for addressing the city's housing needs",
+      "The changes are necessary to address the ongoing housing crisis in NYC",
+      "The proposal will help reach Mayor Adams' goal of creating 500,000 housing units over the next decade",
+      "The proposal addresses the current housing supply deficit and potential future shortages",
+      "The zoning changes are a step in the right direction for creating more affordable housing options"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Specifically, the transit oriented development, universal affordability preference and office residential conversions proposals.",
+          "reasoning": "The speaker explicitly mentions the universal affordability preference as one of the proposals they support within the City of Yes for Housing Opportunity amendment."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Specifically, the transit oriented development, universal affordability preference and office residential conversions proposals.",
+          "reasoning": "The speaker explicitly mentions office residential conversions as one of the proposals they support within the City of Yes for Housing Opportunity amendment."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Specifically, the transit oriented development, universal affordability preference and office residential conversions proposals.",
+          "reasoning": "The speaker explicitly mentions transit oriented development as one of the proposals they support within the City of Yes for Housing Opportunity amendment."
+        }
+      ],
+      "element_is_discussed": true
+    }
+  }
+}

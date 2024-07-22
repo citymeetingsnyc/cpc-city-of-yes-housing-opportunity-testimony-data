@@ -1,0 +1,75 @@
+{
+  "testimony": {
+    "name": "Sabrina Lippman",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/sabrina-lippman-ceo-of-habitat-for-humanity-new",
+    "start_time_in_seconds": 11089.223,
+    "end_time_in_seconds": 11247.16,
+    "for_or_against": "For",
+    "borough": "Unknown",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [
+      "Habitat for Humanity New York City and Westchester County"
+    ],
+    "key_points": [
+      "Strong support for the City of Yes proposal",
+      "Importance of affordable housing and home ownership",
+      "New York City's low homeownership rate compared to national average",
+      "Support for accessory dwelling units and district fixes",
+      "Support for universal affordability preference",
+      "Support for missing middle housing through town center zoning and transit-oriented development",
+      "Proposal as a step towards building a more equitable and affordable New York"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [
+        {
+          "text": "implementing a universal affordability preference to allow buildings to add at least 20% more housing if the additional homes are permanently affordable",
+          "reasoning": "This quote directly mentions the Universal Affordability Preference and accurately describes its key feature of allowing additional housing if it's affordable, which aligns with the proposal's description."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [
+        {
+          "text": "enable and support the missing middle housing. Conducive to condo and cooperative development through town center zoning and transit oriented development.",
+          "reasoning": "This quote explicitly mentions town center zoning as part of the proposal to support missing middle housing and condo/cooperative development, which aligns with the Town Center Zoning element of the City of Yes For Housing Opportunity proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [
+        {
+          "text": "We at Habitat particularly want to emphasize strategies that will support homeowners and enable more homeownership opportunities to be created, including permitting accessory dwelling units and district fixes, This will provide more space for multigenerational families",
+          "reasoning": "This quote directly mentions permitting accessory dwelling units as a strategy to support homeowners and provide space for multigenerational families, which aligns with the Accessory Dwelling Units (ADUs) element of the City of Yes For Housing Opportunity proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [
+        {
+          "text": "enable and support the missing middle housing. Conducive to condo and cooperative development through town center zoning and transit oriented development.",
+          "reasoning": "This quote explicitly mentions transit oriented development as part of the proposal to support missing middle housing and condo/cooperative development, which aligns with the Transit-Oriented Development element of the City of Yes For Housing Opportunity proposal."
+        }
+      ],
+      "element_is_discussed": true
+    }
+  }
+}

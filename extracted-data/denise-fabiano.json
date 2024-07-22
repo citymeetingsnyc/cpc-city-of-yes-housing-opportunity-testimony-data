@@ -1,0 +1,63 @@
+{
+  "testimony": {
+    "name": "Denise Fabiano",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/denise-fabiano-resident-of-howard-beach-queens-on",
+    "start_time_in_seconds": 51254.39,
+    "end_time_in_seconds": 51455.258,
+    "for_or_against": "Against",
+    "borough": "Queens",
+    "neighborhood": "Howard Beach",
+    "stated_affiliations": [],
+    "key_points": [
+      "Cannot enforce permanent affordability",
+      "Concern about potential abuse of the system",
+      "Lack of trust in the mayor's all-or-nothing approach",
+      "Migrant and illegal immigrant problem exacerbating housing situation",
+      "35 community boards voted against, while 24 voted in favor",
+      "Suggestion to implement changes in areas that have approved and evaluate results",
+      "Concerns about infrastructure, particularly mentioning water issues in basement",
+      "Proposal to rename initiative to 'City of Those That Said Yes' and allow others to wait and see if it works"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [
+        {
+          "text": "I respect the need for housing. And affordable housing in New York City. By far, the need is there.",
+          "reasoning": "This quote indicates that the speaker acknowledges the need for affordable housing, which is directly related to the Universal Affordability Preference (UAP) element of the proposal."
+        },
+        {
+          "text": "But I do not see how the city of yes can enforce permanent affordability.",
+          "reasoning": "This quote shows that the speaker is specifically addressing the affordability aspect of the City of Yes proposal, which is a key component of the UAP."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

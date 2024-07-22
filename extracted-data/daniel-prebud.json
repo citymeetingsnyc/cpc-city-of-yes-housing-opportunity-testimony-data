@@ -1,0 +1,82 @@
+{
+  "testimony": {
+    "name": "Daniel Prebud",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/daniel-prebud-on-concerns-with-the-city-of-yes-for",
+    "start_time_in_seconds": 34397.484,
+    "end_time_in_seconds": 34582.78,
+    "for_or_against": "Against",
+    "borough": "Unknown",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [],
+    "key_points": [
+      "Concerns about emergency services access and safety for accessory dwelling units (ADUs)",
+      "Skepticism about ADUs leading to lower rental costs",
+      "Opposition to shared living arrangements, comparing them to historical tenement issues",
+      "Concerns about lifting zoning regulations and potential uncontrolled development",
+      "Lack of clear definition for 'a little bit of housing'",
+      "Opposition to lifting parking mandates, especially in outer boroughs with limited mass transit",
+      "Need for better mass transit infrastructure before implementing housing changes"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Shared living, shared kitchens and other facilities. By other facilities, I'm assuming we mean bathroom showers and toilets. This failed when this shared living was known as tenements. And phased out because of disease and crime related events There is no mention of health or safety accommodations in regard to shared living as part of this plan.",
+          "reasoning": "This quote discusses shared living spaces, which is related to the residential conversions element of the proposal, particularly the aspect of allowing commercial buildings to convert to shared housing types."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Zoning regulations, they were meant to protect neighborhoods and infrastructure if listed I'm sorry, if lifted, how will uncontrolled development be curtailed and inevitable infrastructure stress be addressed.",
+          "reasoning": "While not specifically mentioning town center zoning, this quote discusses zoning regulations and their potential lifting, which is related to the town center zoning element of the proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Lifting parking mandates. This may work in Manhattan, but not in the outer boroughs where thorough mass transit grids do not exist. The elderly and physically challenged will suffer the most in those areas.",
+          "reasoning": "This quote directly addresses the removal of parking mandates and discusses potential issues with this element of the proposal, particularly in outer boroughs."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Examples, accessory dwelling units. These will present additional complexities during emergencies for police, fire, and EMS, and thereby increased risk for all residents.",
+          "reasoning": "This quote directly mentions accessory dwelling units and discusses potential issues with emergency services, which is related to the ADU element of the proposal."
+        },
+        {
+          "text": "In the case of owners, property owners who build ADUs, do you really think that they're going to rent them at a lower rate than what's standard neighborhood?",
+          "reasoning": "This quote discusses ADUs in relation to rental rates, which is relevant to the ADU element of the proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Sensibility dictates that a vast mass transit accessibility be in order first. It is not.",
+          "reasoning": "This quote indirectly relates to transit-oriented development by emphasizing the need for better mass transit accessibility, which is a key component of transit-oriented development."
+        }
+      ],
+      "element_is_discussed": true
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "testimony": {
+    "name": "Jack Connors",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/jack-connors-from-the-permanent-citizens-advisory",
+    "start_time_in_seconds": 52173.535,
+    "end_time_in_seconds": 52358.41,
+    "for_or_against": "For",
+    "borough": "Unknown",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [
+      "Permanent Citizens Advisory Committee to the MTA"
+    ],
+    "key_points": [
+      "Support for City of Yes for Housing Opportunity proposal",
+      "Affordable housing crisis hurts MTA riders, with longer commute times compared to other cities",
+      "Racial disparities in commute times, with Black New Yorkers having longer commutes",
+      "Proposal addresses inequities by returning to transit-focused housing policies",
+      "Encourages transit-oriented development and removal of parking mandates",
+      "Potential to improve lives of current and future transit riders",
+      "Calls for additional initiatives like expanding bus lanes and Fair Fares program",
+      "Emphasizes the need to ensure transit infrastructure is accessible to working New Yorkers"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [
+        {
+          "text": "During that time, policies included in the city, yes, for housing opportunities such as accessory dwelling units, transit oriented development, and the absence of parking mandates were known by a different name. Common sense.",
+          "reasoning": "This quote directly mentions the absence of parking mandates as one of the policies included in the City of Yes for Housing Opportunity proposal, indicating that the speaker is discussing this element of the proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [
+        {
+          "text": "During that time, policies included in the city, yes, for housing opportunities such as accessory dwelling units, transit oriented development, and the absence of parking mandates were known by a different name. Common sense.",
+          "reasoning": "This quote directly mentions accessory dwelling units as one of the policies included in the City of Yes for Housing Opportunity proposal, indicating that the speaker is discussing this element of the proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [
+        {
+          "text": "During that time, policies included in the city, yes, for housing opportunities such as accessory dwelling units, transit oriented development, and the absence of parking mandates were known by a different name. Common sense.",
+          "reasoning": "This quote directly mentions transit oriented development as one of the policies included in the City of Yes for Housing Opportunity proposal, indicating that the speaker is discussing this element of the proposal."
+        },
+        {
+          "text": "City of yes for housing opportunity addresses these glaring inequities by returning to the transit focused housing policies that enabled our rail networks expansion in the early 20th century.",
+          "reasoning": "This quote discusses the proposal's focus on transit-oriented housing policies, which aligns with the transit-oriented development element of the proposal."
+        },
+        {
+          "text": "Getting back to basics will help the city and the MTA as both continue to recover. From the from pandemic ridership losses by bringing riders closer to stations, thereby encouraging and improving ridership and simultaneously fair revenue.",
+          "reasoning": "This quote implies support for transit-oriented development by discussing the benefits of bringing riders closer to stations, which is a key aspect of transit-oriented development."
+        }
+      ],
+      "element_is_discussed": true
+    }
+  }
+}

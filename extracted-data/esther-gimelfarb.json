@@ -1,0 +1,82 @@
+{
+  "testimony": {
+    "name": "Esther Gimelfarb",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/esther-gimelfarb-on-concerns-about-the-city-of-yes",
+    "start_time_in_seconds": 49640.44,
+    "end_time_in_seconds": 49834.324,
+    "for_or_against": "Against",
+    "borough": "Queens",
+    "neighborhood": "Regal Park",
+    "stated_affiliations": [],
+    "key_points": [
+      "The proposal will not alleviate affordable housing shortage or make neighborhoods more environmentally friendly",
+      "It will exacerbate overtaxed and overburdened aging drainage, sewage, and sanitation systems",
+      "Construction of big apartment buildings without parking requirements will lead to more congestion",
+      "Mass transit should be fixed to discourage driving, not removing parking",
+      "The proposal targets low-density neighborhoods like Regal Park, which already faced issues during the pandemic and recent storms",
+      "Safety concerns about legalizing basement apartments and accessory dwelling units",
+      "The proposal takes away local communities' voices",
+      "It favors real estate developers' interests",
+      "Infrastructure should be addressed with a site-specific approach, not a one-size-fits-all solution"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [
+        {
+          "text": "City of yes, land use, and rezoning proposals would allow construction of big apartment buildings with no rich farming for parking.",
+          "reasoning": "This quote directly references the proposal's intent to remove parking mandates for new housing developments, which is a key element of the City of Yes for Housing Opportunity proposal."
+        },
+        {
+          "text": "This would not have the supposedly desired effect of reducing cars, but will result in more congestion, aggravation, and resentment.",
+          "reasoning": "This statement shows that the speaker is discussing the potential consequences of removing parking mandates, which is part of the proposal's aim to reduce car dependency."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [
+        {
+          "text": "And have we forgotten in the last big storm we had a a huge flood and people literally drowned in basement apartments, and yet they wanna make them legal and supersize this.",
+          "reasoning": "This quote references the proposal's intent to legalize basement apartments, which is part of the Accessory Dwelling Units (ADUs) element of the City of Yes for Housing Opportunity proposal."
+        },
+        {
+          "text": "And what about the safety aspect of having legalized basement apartments and cottages or the what do they call the the d the to make",
+          "reasoning": "This statement directly mentions legalizing basement apartments and cottages, which are types of Accessory Dwelling Units (ADUs) proposed in the City of Yes for Housing Opportunity plan."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [
+        {
+          "text": "The way to disincentivize people from driving is to fix mass transit. Make it safe and efficient. People don't wanna take the subway. Because it's not safe, and they don't run on time.",
+          "reasoning": "While not directly mentioning Transit-Oriented Development, this quote discusses the importance of improving public transit to reduce car dependency, which is a key principle behind the Transit-Oriented Development element of the proposal."
+        },
+        {
+          "text": "My neighborhood, such as Regal Park Forest Hills, and the surrounding areas are prime targets for the city of yes, as we are considered low density.",
+          "reasoning": "This statement suggests that the speaker's neighborhood is being targeted for development, which could be related to the Transit-Oriented Development aspect of the proposal that aims to increase density near transit hubs."
+        }
+      ],
+      "element_is_discussed": true
+    }
+  }
+}

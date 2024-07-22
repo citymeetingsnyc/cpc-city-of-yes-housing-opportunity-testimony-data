@@ -1,0 +1,63 @@
+{
+  "testimony": {
+    "name": "Pedro Rodriguez",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/pedro-rodriguez-from-queens-community-board-6-on",
+    "start_time_in_seconds": 20551.828,
+    "end_time_in_seconds": 20744.824,
+    "for_or_against": "For",
+    "borough": "Queens",
+    "neighborhood": "Forest Hills",
+    "stated_affiliations": [
+      "Queens Community Board 6"
+    ],
+    "key_points": [
+      "Support for City of Yes to address the housing crisis",
+      "Neighborhood character is defined by people, not buildings",
+      "Need for a regional solution to housing problems, not piecemeal approaches",
+      "Removal of parking minimums to allow for more diverse and affordable housing options",
+      "Concern for future generations' ability to afford housing in New York City",
+      "Opposition to misinformation about the proposal"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [
+        {
+          "text": "We need to remove parking minimums. They make low height, high density housing that we are actually quite used to here in New York City. Impossible to build nowadays.",
+          "reasoning": "The speaker directly addresses the proposal to remove parking mandates, which is a key element of the City of Yes For Housing Opportunity plan."
+        },
+        {
+          "text": "By eliminating parking minimums, then we can not only not only help the environment by encouraging other modes of transportation, but we also allowed the kind of small scale, small lot apartment developments that are cheaper to create.",
+          "reasoning": "This quote further elaborates on the benefits of removing parking mandates, which aligns with the City Planning's proposal to end parking mandates for new housing."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

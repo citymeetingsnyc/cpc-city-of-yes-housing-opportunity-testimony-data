@@ -1,0 +1,64 @@
+{
+  "testimony": {
+    "name": "Nuha Ansari",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/nuha-ansari-from-friends-of-the-upper-east-side",
+    "start_time_in_seconds": 2171.3992,
+    "end_time_in_seconds": 2357.4993,
+    "for_or_against": "Against",
+    "borough": "Manhattan",
+    "neighborhood": "Upper East Side",
+    "stated_affiliations": [
+      "Friends of the Upper East Side Historic Districts"
+    ],
+    "key_points": [
+      "The market has failed to regulate prices and create affordable housing on the Upper East Side",
+      "Concerns about weakening the public review process and transparency",
+      "Potential destruction of historic district character due to changes in landmark transfer development rights",
+      "Reduction in light, air, and green space due to proposed changes in rear yard sizes and open space requirements",
+      "Need for zoning that prioritizes resident well-being and creates truly affordable housing",
+      "Urges the commission to consider alternative solutions that strengthen neighborhoods and ensure an inclusive review process"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [
+        {
+          "text": "The proposed universal affordability preference allows developers to opt out of creating affordable housing by foregoing additional SAR.",
+          "reasoning": "This quote directly mentions the Universal Affordability Preference, which is a key element of the City of Yes For Housing Opportunity proposal. The speaker is discussing how this preference might be used by developers."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Propose changes like reducing rear yard sizes and eliminating open space requirements in favor of accessory dwelling units with diminished light, air and green space.",
+          "reasoning": "This quote directly mentions accessory dwelling units, which is one of the elements of the City of Yes For Housing Opportunity proposal. The speaker is discussing potential impacts of allowing ADUs."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

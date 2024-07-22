@@ -1,0 +1,74 @@
+{
+  "testimony": {
+    "name": "Jerrod Delaine",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/jerrod-delaine-ceo-of-delaine-companies-and",
+    "start_time_in_seconds": 25884.207,
+    "end_time_in_seconds": 26075.86,
+    "for_or_against": "For",
+    "borough": "Unknown",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [
+      "Delaine Companies",
+      "Pratt",
+      "NYU"
+    ],
+    "key_points": [
+      "The current housing situation is not good and not improving",
+      "Creating more housing supply will help address the housing crisis",
+      "Public-private engagement strategy is needed to solve housing issues",
+      "Universal affordability preference program is a good step to incentivize investors and developers",
+      "Ending parking mandates will help incentivize housing creation",
+      "Allowing ADUs will provide homeowners with additional revenue opportunities",
+      "Faith-based organizations can contribute to improving communities through housing and economic development",
+      "More affordable housing is needed, both rental and ownership",
+      "Urgent solutions are required to address the current housing crisis"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [
+        {
+          "text": "I think the universal affordability preference program is a good step in the right direction as a way to incentivize you know, investors and developers to build and create more housing in the city.",
+          "reasoning": "This quote directly mentions the Universal Affordability Preference program and indicates that the speaker views it positively as a way to encourage more housing development."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Ending the parking mandates, another solution that will help incentivize the creation of warehousing instead of creating more parking. You know, it doesn't say you're not allowed to build parking on products where parking is feasible. It makes the most sense. Developers can do that, but it doesn't have to be a roadblock to stop a project because it can't build enough parking on-site.",
+          "reasoning": "This quote directly addresses the removal of parking mandates, explaining how it will incentivize housing creation and remove obstacles for development projects."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Allowing ADUs will allow some homeowners to New York City to provide more space in their property for additional revenue legally. So this gives them a path into just the right way and then a safe way.",
+          "reasoning": "This quote directly mentions ADUs (Accessory Dwelling Units) and discusses how they will benefit homeowners by allowing them to create additional living space on their property for extra income."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "testimony": {
+    "name": "Mark Greenberg",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/mark-greenberg-from-interfaith-assembly-on",
+    "start_time_in_seconds": 42672.05,
+    "end_time_in_seconds": 42858.438,
+    "for_or_against": "For",
+    "borough": "Unknown",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [
+      "Interfaith Assembly on Homelessness And Housing",
+      "Interfaith Affordable Housing Collaborative",
+      "Cathedral Church St. John the Divine"
+    ],
+    "key_points": [
+      "Supports the City of Yes for Housing Opportunity initiative as a bold and innovative plan",
+      "Emphasizes the need for affordable housing to address homelessness crisis",
+      "Highlights the increase in homeless population from under 10,000 to over 100,000 (including migrants)",
+      "Stresses the importance of safe, decent, affordable housing in rebuilding lives",
+      "Argues that inaction is not an option given the current housing crisis",
+      "Calls for New York's zoning rules to enable faith communities to contribute to housing solutions",
+      "Acknowledges fear of change but emphasizes that the status quo is more frightening for those struggling with housing",
+      "Urges bold action to address the affordability and homelessness crisis"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [
+        {
+          "text": "City of yes, for for housing opportunities and enabling housing for many income levels, will mean that more of the lowest income New Yorkers will have greater opportunity to rebuild their lives and give back to our great city.",
+          "reasoning": "This quote indicates that the speaker is discussing the Universal Affordability Preference (UAP) element of the proposal. While not explicitly mentioning UAP, the speaker refers to 'enabling housing for many income levels' and 'lowest income New Yorkers', which aligns with the UAP's goal of providing affordable housing options in high-cost neighborhoods for working families."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

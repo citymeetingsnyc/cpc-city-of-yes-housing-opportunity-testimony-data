@@ -1,0 +1,72 @@
+{
+  "testimony": {
+    "name": "Salinas Miranda",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/salinas-miranda-on-opposing-city-of-yes-for",
+    "start_time_in_seconds": 53150.535,
+    "end_time_in_seconds": 53280.05,
+    "for_or_against": "Against",
+    "borough": "Manhattan",
+    "neighborhood": "Chelsea",
+    "stated_affiliations": [],
+    "key_points": [
+      "The proposal does not include low income and very low income housing",
+      "City of Yes primarily benefits private developers",
+      "It will not solve the homeless crisis",
+      "Height restrictions should be maintained",
+      "Constituents should be included in community decision-making processes",
+      "Concerns about private developers abusing power (e.g., Related Companies in Chelsea)",
+      "Existing buildings only need maintenance and repairs, not demolition",
+      "Opposes changing zoning to increase building heights and population density",
+      "Concerned about the impact on elderly, sick, disabled, and mental well-being of tenants",
+      "Calls for protecting the city from overdevelopment",
+      "Opposes rezoning and demolition in Chelsea",
+      "Suggests implementing rent caps for all housing",
+      "Calls for a comprehensive rent control plan from the mayor"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [
+        {
+          "text": "High re high restriction should always exist.",
+          "reasoning": "This quote suggests that the speaker is against relaxing height restrictions, which is related to the Transit-Oriented Development element of the proposal. The City of Yes plan aims to allow 3- to 5-story apartment buildings near transit, which would involve changing height restrictions in some areas."
+        },
+        {
+          "text": "They want to change the zoning to double the height and increase the population and change the aesthetics of our tranquil and cozy community.",
+          "reasoning": "This quote directly addresses the issue of changing zoning to allow for taller buildings and increased population density, which is a key aspect of the Transit-Oriented Development element of the City of Yes proposal."
+        },
+        {
+          "text": "Keep our height limit and no rezoning of 14 Ellie in Chelsea.",
+          "reasoning": "This statement explicitly opposes changes to height limits and rezoning, which are central to the Transit-Oriented Development aspect of the City of Yes proposal. The speaker is advocating for maintaining current height restrictions, which goes against the proposal's aim to allow taller buildings near transit."
+        }
+      ],
+      "element_is_discussed": true
+    }
+  }
+}

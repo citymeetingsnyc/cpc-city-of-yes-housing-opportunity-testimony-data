@@ -1,0 +1,61 @@
+{
+  "testimony": {
+    "name": "Catherine Murawski",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/catherine-murawski-vice-president-of-liberty-park",
+    "start_time_in_seconds": 52415.72,
+    "end_time_in_seconds": 52618.156,
+    "for_or_against": "Against",
+    "borough": "Queens",
+    "neighborhood": "Liberty Park",
+    "stated_affiliations": [
+      "Liberty Park Homeowners Association"
+    ],
+    "key_points": [
+      "Represents 500 homes and 700 families in Community Board 5",
+      "Existing 2-family houses are small with basements that are not suitable for apartments",
+      "Basement apartments would be dangerous due to flood risk and limited exits",
+      "Concerns about the electrical grid's capacity to handle increased demand",
+      "Opposes over-development",
+      "Sympathizes with people who need housing but believes the initiative is not good for many areas of Queens",
+      "Suggests focusing on existing housing solutions for those in need",
+      "Supports the initiative in certain areas of New York City, but not in Queens"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [
+        {
+          "text": "our 2 family houses are very small. We have our basement they're not even really apartments. We were told by community about 45 that their sellers. They It it it would be flood they're not flooded, fireproof. They would be very dangerous because the only way out is by the backdoor.",
+          "reasoning": "The speaker is discussing basements in their houses, which relates to the ADU element of the proposal. While not explicitly mentioning ADUs, the discussion of basements and their potential use as living spaces is relevant to the ADU concept."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

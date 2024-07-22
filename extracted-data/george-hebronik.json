@@ -1,0 +1,83 @@
+{
+  "testimony": {
+    "name": "George Hebronik",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/george-hebronik-president-of-spencer-state-civic",
+    "start_time_in_seconds": 29473.562,
+    "end_time_in_seconds": 29682.09,
+    "for_or_against": "Against",
+    "borough": "Bronx",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [
+      "Spencer State Civic Association"
+    ],
+    "key_points": [
+      "Communities represented are adamantly opposed to the City of Yes plan",
+      "Concerns over town center development in low density neighborhoods",
+      "Concerns about commercial overlays on Ampere and Layton Avenue",
+      "Concerns about preexisting conditions on Westchester Avenue and transitory infant development",
+      "Integration of businesses within strictly residential areas, especially smoke shops",
+      "Questions about ADUs, apartment conversions, and shared apartments",
+      "Strong opposition to elimination of parking mandates",
+      "Concerns about the removal of parking spaces for Zipcars in Pelham Bay",
+      "Worries about the potential elimination of the land review process and council member deference",
+      "Increase in absentee landlords in neighborhoods"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [
+        {
+          "text": "We also have a little bit of questions on what we consider opaquely defined ADUs, apartment conversions, shared apartments or what we can what might be looked at is single room occupancy units.",
+          "reasoning": "This quote indicates that the speaker is discussing residential conversions, as they mention 'apartment conversions' and 'shared apartments', which are part of the residential conversions element of the proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [
+        {
+          "text": "The town center development specifically in the small or low density neighborhood, it's the commercial overlays on currently on Ampere and Layton Avenue.",
+          "reasoning": "This quote directly mentions 'town center development' in low-density neighborhoods, which is a key aspect of the Town Center Zoning element of the proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Now both communities are adamantly against any elimination of parking mandates because bottom line is the low density community is a car centric neighborhood.",
+          "reasoning": "This quote directly addresses the proposal to remove parking mandates, with the speaker expressing opposition to this element of the plan."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [
+        {
+          "text": "We also have a little bit of questions on what we consider opaquely defined ADUs, apartment conversions, shared apartments or what we can what might be looked at is single room occupancy units.",
+          "reasoning": "This quote explicitly mentions ADUs (Accessory Dwelling Units), indicating that the speaker is discussing this element of the proposal, though they express some uncertainty about its definition."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [
+        {
+          "text": "In the Pelham Bay area, it's the preexisting conditions on Westchester Avenue, which also would include the transitory infant development that would end from the Hutch Hutchton Road Parkway Service Road all the way to Brooklyn, the Boulevard because you're going a half mile in each direction.",
+          "reasoning": "This quote mentions 'transitory infant development' (likely a misunderstanding or mispronunciation of 'transit-oriented development') and discusses development within a half-mile radius of transit, which is a key aspect of the Transit-Oriented Development element of the proposal."
+        }
+      ],
+      "element_is_discussed": true
+    }
+  }
+}

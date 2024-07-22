@@ -1,0 +1,81 @@
+{
+  "testimony": {
+    "name": "Randy Plemel",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/randy-plemel-resident-of-long-island-city-on-city",
+    "start_time_in_seconds": 28736.748,
+    "end_time_in_seconds": 28894.03,
+    "for_or_against": "For",
+    "borough": "Queens",
+    "neighborhood": "Long Island City",
+    "stated_affiliations": [],
+    "key_points": [
+      "Support for City of Yes for Housing Opportunity due to need for more housing and wider range of legal housing types",
+      "Personal experience with high rent and frequent moves due to housing crisis",
+      "Support for building neighborhoods that resemble traditional New York City",
+      "Emphasis on incremental change across the city rather than dramatic shifts",
+      "Support for distributing new housing across all neighborhoods, not just Long Island City",
+      "Approval of provisions for various types of housing, including affordable and market-rate homes",
+      "Support for ending costly parking mandates",
+      "Endorsement of transit-oriented development and main street provisions for sustainable, walkable neighborhoods",
+      "Support for ADU and shared housing provisions to accommodate diverse living arrangements",
+      "Need for a wider variety of home types and sizes to support different families and income levels"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [
+        {
+          "text": "And the proposal allows all kinds of homes to be built across the housing spectrum, from deeply and permanently affordable homes through UAP, all the way up to market rate homes.",
+          "reasoning": "This quote directly mentions UAP (Universal Affordability Preference) as part of the proposal, indicating that the speaker is aware of and discussing this element."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [
+        {
+          "text": "The provisions to allow for transit oriented development and main streets also make sense because it's the best kind of new development It creates sustainable and walkable neighborhoods, provides places for jobs, encourages transit ridership, and reduces the demand for car ownership, and associated traffic from driving.",
+          "reasoning": "While the speaker doesn't explicitly mention 'Town Center Zoning', they discuss the concept of main streets and creating walkable neighborhoods with jobs and transit access, which aligns with the Town Center Zoning element of the proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [
+        {
+          "text": "I support the end of costly parking mandates. If builders want to build parking, they can. Let's just not require them to build that parking. Even though I own a car forcing New Yorkers to build car housing when we could rather build space for people housing doesn't make sense to me.",
+          "reasoning": "This quote directly addresses the element of removing parking mandates, showing the speaker's support for ending the requirement to build parking spaces."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [
+        {
+          "text": "The ADU and shared housing provisions also allow New Yorkers the freedom to live in the way that they desire. Not in some antiquated notion for long ago of what a family unit might look like.",
+          "reasoning": "This quote explicitly mentions ADUs (Accessory Dwelling Units) and discusses how they provide flexibility for different living arrangements, which aligns with the ADU element of the proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [
+        {
+          "text": "The provisions to allow for transit oriented development and main streets also make sense because it's the best kind of new development It creates sustainable and walkable neighborhoods, provides places for jobs, encourages transit ridership, and reduces the demand for car ownership, and associated traffic from driving.",
+          "reasoning": "This quote directly mentions transit-oriented development and discusses its benefits, clearly indicating that the speaker is addressing this element of the proposal."
+        }
+      ],
+      "element_is_discussed": true
+    }
+  }
+}

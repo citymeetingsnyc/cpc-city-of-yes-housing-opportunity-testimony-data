@@ -1,0 +1,60 @@
+{
+  "testimony": {
+    "name": "Emily Kurtz",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/emily-kurtz-from-riseboro-community-partnership-on",
+    "start_time_in_seconds": 25298.748,
+    "end_time_in_seconds": 25453.596,
+    "for_or_against": "For",
+    "borough": "Unknown",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [
+      "RiseBoro Community Partnership"
+    ],
+    "key_points": [
+      "Support for the City of Yes for Housing Opportunity zoning text amendment",
+      "The pressing need for affordable housing across all neighborhoods in New York City",
+      "The current 1.4% vacancy rate across the city, indicating demand far exceeds supply",
+      "The density bonus for affordable housing as a critical tool for addressing the housing crisis",
+      "The amendment encourages the creation of mixed-income communities, fostering diversity and economic integration",
+      "The amendment allows updating outdated zoning rules to build more housing of every type and affordable housing in every neighborhood",
+      "The importance of creating a fairer, more inclusive city with affordable housing options for all New Yorkers"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [
+        {
+          "text": "The density bonus for affordable housing included in this text amendment is a critical tool for addressing the housing crisis. It encourages the creation of mixed income communities, fostering diversity and economic integration.",
+          "reasoning": "This quote directly refers to the density bonus for affordable housing, which is a key component of the Universal Affordability Preference (UAP). The speaker is discussing how this element of the proposal will help address the housing crisis and create mixed-income communities."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

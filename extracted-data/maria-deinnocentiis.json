@@ -1,0 +1,80 @@
+{
+  "testimony": {
+    "name": "Maria Deinnocentiis",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/maria-deinnocentiis-president-of-utopia-estates",
+    "start_time_in_seconds": 25072.496,
+    "end_time_in_seconds": 25269.375,
+    "for_or_against": "Against",
+    "borough": "Queens",
+    "neighborhood": "Fresh Meadows",
+    "stated_affiliations": [
+      "Utopia Estates Civic Association",
+      "Community Board 8 in Queens"
+    ],
+    "key_points": [
+      "The proposal will eliminate current zoning and create a one-size-fits-all zoning law",
+      "What works in Manhattan does not always work in Queens",
+      "The plan will destroy the accomplishments of contextual zoning done in 2011",
+      "The plan will change the character of communities and potentially destroy neighborhoods",
+      "Housing in the community is already diverse",
+      "The plan risks homes being demolished and replaced by apartments",
+      "It reduces and removes parking requirements",
+      "The plan will eliminate zoning for historic and special districts",
+      "It will allow campus infill, potentially destroying open spaces",
+      "It will allow religious houses of worship to build apartment buildings",
+      "The plan will streamline zoning regulations, significantly changing neighborhood character"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Towns engine housing units",
+          "reasoning": "This appears to be a mispronunciation or transcription error of 'Town center housing units', which directly relates to the Town Center Zoning element of the proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [
+        {
+          "text": "It reduces and removes parking requirements.",
+          "reasoning": "This quote directly addresses the proposal's intention to remove parking mandates for new housing developments."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Their Adams housings plans, which he said would push through a transitory into development, more mandatory inclusionary housing. Towns engine housing units, religious housing, and legalized dwelling units will change the character of our communities and over time destroy our neighborhoods.",
+          "reasoning": "The phrase 'legalized dwelling units' likely refers to the Accessory Dwelling Units (ADUs) element of the proposal. The speaker is expressing concern about how this might change their community."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Their Adams housings plans, which he said would push through a transitory into development",
+          "reasoning": "The phrase 'transitory into development' appears to be a mispronunciation or transcription error of 'transit-oriented development', which directly relates to this element of the proposal."
+        }
+      ],
+      "element_is_discussed": true
+    }
+  }
+}

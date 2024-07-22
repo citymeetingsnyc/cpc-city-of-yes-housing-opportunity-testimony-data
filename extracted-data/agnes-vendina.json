@@ -1,0 +1,54 @@
+{
+  "testimony": {
+    "name": "Agnes Vendina",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/agnes-vendina-from-oakwood-residence-civic",
+    "start_time_in_seconds": 32134,
+    "end_time_in_seconds": 32327.951,
+    "for_or_against": "Against",
+    "borough": "Staten Island",
+    "neighborhood": "Oakwood",
+    "stated_affiliations": [
+      "Oakwood Residence Civic Association of Staten Island"
+    ],
+    "key_points": [
+      "Challenges the hypothesis that lack of housing is the primary cause of homelessness",
+      "Argues that addiction and mental illness are the leading causes of homelessness based on national statistics",
+      "Criticizes the city for not addressing the root causes of homelessness, particularly drug addiction",
+      "Suggests that addressing homelessness requires medical expertise and resources, not just housing solutions",
+      "Advocates for homeownership as the real solution to the housing crisis",
+      "Criticizes the lack of creative solutions for homeownership in the current proposal"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

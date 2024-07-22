@@ -1,0 +1,62 @@
+{
+  "testimony": {
+    "name": "Rev. Peter Cook",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/rev-peter-cook-of-new-york-state-council-of",
+    "start_time_in_seconds": 24394.521,
+    "end_time_in_seconds": 24579.129,
+    "for_or_against": "For",
+    "borough": "Unknown",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [
+      "New York State Council of Churches",
+      "Interfaith Affordable Housing Collaborative",
+      "Mayor's Task Force on Religious Properties"
+    ],
+    "key_points": [
+      "Support for the City of Yes text amendment",
+      "Importance of addressing zoning barriers to build affordable housing",
+      "Support for universal preference and increased density with 20% permanently affordable housing at 60% AMI",
+      "Support for provisions making it easier for congregations to build affordable housing",
+      "Support for landmark provision allowing congregations to transfer development rights",
+      "Caution against overselling the City of Yes initiative",
+      "Recognition that increasing supply is not the only solution for affordability"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [
+        {
+          "text": "We support the universal preference and the allowance to increase density with provision that you must build 60 per you must present build 20 percent more housing that is permanently affordable at an average of 60%. AMI.",
+          "reasoning": "This quote directly addresses the Universal Affordability Preference (UAP) element of the proposal, mentioning the 20% increase in housing and the 60% AMI requirement, which are key components of the UAP."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

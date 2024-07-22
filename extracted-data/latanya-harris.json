@@ -1,0 +1,66 @@
+{
+  "testimony": {
+    "name": "Latanya Harris",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/latanya-harris-on-concerns-about-accessory",
+    "start_time_in_seconds": 29737.486,
+    "end_time_in_seconds": 29927.414,
+    "for_or_against": "Against",
+    "borough": "Queens",
+    "neighborhood": "Saint Albans",
+    "stated_affiliations": [
+      "Queens Pension Fund",
+      "Department of Buildings",
+      "Department of Consumer Affairs"
+    ],
+    "key_points": [
+      "ADUs will negatively impact quality of life in residential neighborhoods",
+      "Changes to neighborhoods will be permanent and unwanted",
+      "City planners are not considering the perspectives of current homeowners",
+      "Queens has unique, diverse communities that should be preserved",
+      "ADUs were previously illegal and fined, now suddenly considered safe",
+      "The initiative seems to prioritize revenue generation over residents' concerns",
+      "The plan doesn't consider the impact on long-time New Yorkers who have worked hard for their homes"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Particularly what's what's alarming to me is the ADUs. Several people speak about the ADUs and how it will give the homeowners opportunities. Well, I'm a homeowner. And if my homeowner of my neighbors around me decide to convert a cottage, change their garage, it may be all fine to them, but it impacts me.",
+          "reasoning": "This quote directly addresses the ADU element of the proposal, expressing concern about how it would impact the speaker's neighborhood and quality of life."
+        },
+        {
+          "text": "When you come into a community and, like, I've listened to the people from Howard Beach And Forest Hills, Queens is very unique. Every community is is unique in its own. It is diversified. There's no risk issues that every every community has very unique set of distinct idealistic ways at which we choose to leave live. And so create an environment where ADUs when I worked at the department to build this They were legal. They were finding people 1000 and 1000 of dollars. How come all of a sudden they become safe?",
+          "reasoning": "This quote further discusses ADUs, questioning the change in policy towards them and emphasizing the unique character of different communities in Queens that might be affected by the introduction of ADUs."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

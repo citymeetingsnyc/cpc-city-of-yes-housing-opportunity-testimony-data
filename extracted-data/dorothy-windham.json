@@ -1,0 +1,65 @@
+{
+  "testimony": {
+    "name": "Dorothy Windham",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/dorothy-windham-from-open-new-york-on-support-for",
+    "start_time_in_seconds": 6833.4097,
+    "end_time_in_seconds": 6905.2896,
+    "for_or_against": "For",
+    "borough": "Manhattan",
+    "neighborhood": "Upper West Side",
+    "stated_affiliations": [
+      "Open New York"
+    ],
+    "key_points": [
+      "Concern about rising cost of housing for young people",
+      "Support for City of Yes plan to allow New York to grow",
+      "Excitement about creation of permanent affordable housing through UIP proposal",
+      "Support for re-legalization of new NRSROs",
+      "Belief that growth is necessary for New York's future",
+      "Concern about consequences of not building new housing (higher prices, struggling businesses, families squeezed or moving away)",
+      "Hope that City of Yes will make living in New York more affordable"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [
+        {
+          "text": "I'm particularly excited about the creation of permanent affordable housing through the UIP proposal",
+          "reasoning": "The speaker directly mentions the UAP (referred to as UIP, likely a misspeak) and expresses support for its goal of creating permanent affordable housing, which aligns with the proposal's intention."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [
+        {
+          "text": "as well as the re legalization of new NRSROs",
+          "reasoning": "The speaker mentions 're legalization of new NRSROs', which likely refers to Non-Residential Space Residential Occupancy, a concept related to residential conversions. This aligns with the proposal's aim to convert non-residential spaces into housing."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

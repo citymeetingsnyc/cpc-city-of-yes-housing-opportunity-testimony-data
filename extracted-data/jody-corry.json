@@ -1,0 +1,83 @@
+{
+  "testimony": {
+    "name": "Jody Corry",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/jody-corry-resident-of-glendale-queens-on",
+    "start_time_in_seconds": 21926.844,
+    "end_time_in_seconds": 22101.406,
+    "for_or_against": "Against",
+    "borough": "Queens",
+    "neighborhood": "Glendale",
+    "stated_affiliations": [],
+    "key_points": [
+      "The City of Yes initiative is wrong and will hurt innocent people",
+      "Glendale is a beautiful middle-class community with a strong sense of community",
+      "The quality of life in the neighborhood has been declining",
+      "The initiative will lead to overcrowding, loss of neighborhood character, and infrastructure problems",
+      "The city should focus on converting empty office buildings in Manhattan into apartments instead",
+      "The initiative is an assault on homeowners who have worked hard for their homes",
+      "The proposal is not equitable and will disrupt the lives of millions of people",
+      "Concerns about increased crime and safety issues in the neighborhood"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [
+        {
+          "text": "We all know that office buildings in Manhattan are practically empty. And are never going to be full again due to remote work. Invent, convert the empty office space into apartments. You can create many, many new wonderful homes.",
+          "reasoning": "This quote directly addresses the idea of converting empty office buildings into residential spaces, which is a key component of the Residential Conversions element of the City of Yes For Housing Opportunity proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [
+        {
+          "text": "My once quiet beautiful neighborhood will become filled with apartment buildings, rented out basements, rented out garages, stores on each corner, super overcrowded schools, nowhere to park,",
+          "reasoning": "This quote indirectly references the Town Center Zoning element by mentioning the addition of stores on corners and apartment buildings in previously low-density areas, which is part of the proposal's aim to create mixed-use neighborhoods."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [
+        {
+          "text": "They want to take away our cars, force us on unsafe subways to get victimized by criminals.",
+          "reasoning": "While not directly mentioning parking mandates, this quote expresses concern about losing the ability to use cars, which is related to the proposal's aim to remove parking mandates and reduce car dependency."
+        },
+        {
+          "text": "My once quiet beautiful neighborhood will become filled with apartment buildings, rented out basements, rented out garages, stores on each corner, super overcrowded schools, nowhere to park,",
+          "reasoning": "The speaker explicitly mentions 'nowhere to park' as a concern, which relates to the removal of parking mandates proposed in the City of Yes For Housing Opportunity plan."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [
+        {
+          "text": "My once quiet beautiful neighborhood will become filled with apartment buildings, rented out basements, rented out garages, stores on each corner, super overcrowded schools, nowhere to park,",
+          "reasoning": "The speaker mentions 'rented out basements' and 'rented out garages', which directly relates to the Accessory Dwelling Units (ADUs) element of the proposal, as these are examples of ADUs."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [
+        {
+          "text": "They want to take away our cars, force us on unsafe subways to get victimized by criminals.",
+          "reasoning": "While not explicitly mentioning transit-oriented development, this quote shows the speaker's concern about being forced to use public transit, which is indirectly related to the Transit-Oriented Development element of the proposal."
+        }
+      ],
+      "element_is_discussed": true
+    }
+  }
+}

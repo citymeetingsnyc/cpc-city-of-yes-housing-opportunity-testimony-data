@@ -1,0 +1,73 @@
+{
+  "testimony": {
+    "name": "Suwen Cheong",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/suwen-cheong-chair-of-the-land-use-committee-of",
+    "start_time_in_seconds": 16214.417,
+    "end_time_in_seconds": 16415.69,
+    "for_or_against": "Against",
+    "borough": "Brooklyn",
+    "neighborhood": "Prospect Lefferts Gardens",
+    "stated_affiliations": [
+      "Brooklyn Community Board 9"
+    ],
+    "key_points": [
+      "CB9 overwhelmingly opposes the City of Yes for Housing Opportunity in its entirety",
+      "Two-thirds of CB9 district is covered by non-contextual R6 and R7 zoning, which is slated for the highest density increases",
+      "The Universal Affordability Program (UAP) would lead to significant increases in FAR, much larger than 20%",
+      "Most lots in these districts are already significantly underbuilt",
+      "UAP income and rent levels are higher than the district's median income",
+      "The proposal would push land prices down enough to demolish thousands of small buildings",
+      "Displacement of current residents during construction without compensation",
+      "New housing will not be affordable for the median family in the district",
+      "The proposal is seen as an 'extinction level event' for the community",
+      "Rent-stabilized apartment buildings face threat of demolition or significant alteration",
+      "Concerns about increased eviction pressure on long-time tenants",
+      "The proposal doesn't consider that different areas are starting from different places in terms of density and affordability"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [
+        {
+          "text": "CB-nine overwhelmingly opposed the city of yes for housing opportunity in its entirety because 2 thirds of our district is covered by noncontextual R6 and R7 zoning, which is slated for the highest density increases under the universal affordability program.",
+          "reasoning": "This quote directly mentions the Universal Affordability Preference (UAP) program and its impact on zoning in the speaker's district."
+        },
+        {
+          "text": "The increase in R6 on Nara Street is 77% from a 2.2 f a r to a 3.9 f a r And on our 7 narrow streets, it is 50% from 3.44 to 5.",
+          "reasoning": "This quote discusses specific increases in Floor Area Ratio (FAR) that would result from the UAP program, showing the speaker's understanding of its potential impact."
+        },
+        {
+          "text": "Moreover, the UAP income and rent levels are higher than our meeting income particularly for studio apartments.",
+          "reasoning": "This quote directly addresses the affordability aspect of the UAP, suggesting that the proposed income and rent levels may not be suitable for the community's needs."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

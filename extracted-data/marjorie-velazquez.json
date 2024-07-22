@@ -1,0 +1,65 @@
+{
+  "testimony": {
+    "name": "Marjorie Velazquez",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/marjorie-velazquez-vice-president-of-technyc-on",
+    "start_time_in_seconds": 10798.22,
+    "end_time_in_seconds": 10944.785,
+    "for_or_against": "For",
+    "borough": "Unknown",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [
+      "Tech:NYC",
+      "Former NYC City Council Member"
+    ],
+    "key_points": [
+      "The housing crisis is making it difficult for the tech sector to attract and retain talent",
+      "Increasing housing supply, particularly affordable housing, will create a more inclusive city",
+      "City of Yes will make NYC more accessible to essential workers like teachers, nurses, firefighters, and sanitation workers",
+      "The proposal will foster innovation and economic growth by ensuring talented individuals can afford to live in NYC",
+      "Mixed-income housing creates more diverse and vibrant communities",
+      "The proposal is not one-size-fits-all and incorporates community input and context-sensitive planning",
+      "The status quo is not an option, and City of Yes is a bold step towards making NYC more affordable and accessible"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [
+        {
+          "text": "The city of YET's proposal offers a much needed solution by increasing the supply of housing, particularly next income housing, we can create a more inclusive city that benefits everyone.",
+          "reasoning": "This quote indicates that the speaker is discussing the UAP element of the proposal, as it mentions increasing the supply of housing, particularly affordable housing, which is a key aspect of the Universal Affordability Preference."
+        },
+        {
+          "text": "Increase affordability, more housing options, including those debts, like, needed as affordable, will drive down overall housing costs, making us to be more accessible to teachers, nurses, firefighters, sanitation workers, and the countless others who keep New York City running",
+          "reasoning": "This quote further supports the discussion of the UAP element, as it mentions increasing affordability and making housing more accessible to working families, which aligns with the goals of the Universal Affordability Preference."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

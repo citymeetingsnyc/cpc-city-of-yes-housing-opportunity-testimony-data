@@ -1,0 +1,79 @@
+{
+  "testimony": {
+    "name": "Vanessa Gibson",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/vanessa-gibson-bronx-borough-president-on-city-of",
+    "start_time_in_seconds": 11481.619,
+    "end_time_in_seconds": 11990.578,
+    "for_or_against": "For",
+    "borough": "Bronx",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [
+      "New York City Government",
+      "Bronx Borough President"
+    ],
+    "key_points": [
+      "Supports most of the City of Yes for Housing Opportunity proposal with conditions",
+      "Emphasizes the need for affordable housing and homeownership opportunities",
+      "Supports creating more housing in every neighborhood across all 59 community boards",
+      "Advocates for maintaining neighborhood character and investing in existing communities",
+      "Supports legalizing ADUs but calls for increased inspections and community engagement",
+      "Supports infill development on NYCHA campuses with focus on housing for working-class families and seniors",
+      "Opposes decreasing the dwelling unit factor and increasing small and shared housing",
+      "Advocates for more 2 and 3 bedroom apartments for families",
+      "Opposes removal of parking mandates, especially in transit-poor areas of the Bronx",
+      "Commends efforts to streamline zoning regulations but emphasizes need for careful implementation"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [
+        {
+          "text": "The town center is owning, transit orient, to development and district fixes, those proposals will add slightly more density while limiting any maximum height increases to moderate density areas.",
+          "reasoning": "This quote directly mentions 'town center zoning' as part of the proposals being discussed, indicating that the speaker is aware of and commenting on this element of the City of Yes For Housing Opportunity proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [
+        {
+          "text": "In addition, I also do not support the removal of parking mandates. No surprise there. I'll tell you why. This proposal may work in many high density areas with significant access to transit, but simply put, it does not work in many neighborhoods in the Bronx. Particularly the East Bronx where we have transit deserts today.",
+          "reasoning": "This quote directly addresses the proposal to remove parking mandates, which is a key element of the City of Yes For Housing Opportunity plan. The speaker expresses opposition to this element, particularly for areas with limited transit access."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [
+        {
+          "text": "I am absolutely in favor of the proposal to legalize the development of ADUs. However, I wanna note that there is a significant concern with this proposal that I raised to all of you today because allowing this new unit type in our city absolutely must come with an increase in the amount of inspectors at the Department of Buildings, DOB, to protect residents, safety, and their overall well-being.",
+          "reasoning": "This quote directly addresses the proposal to legalize Accessory Dwelling Units (ADUs), which is a key element of the City of Yes For Housing Opportunity plan. The speaker expresses support for this element while also raising concerns about implementation and safety."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [
+        {
+          "text": "The town center is owning, transit orient, to development and district fixes, those proposals will add slightly more density while limiting any maximum height increases to moderate density areas. By focusing on areas within a half mile of transit, We can ensure that everyone can truly get around the Bronx and the Sea without adding more cars to our already congested streets.",
+          "reasoning": "This quote directly mentions 'transit orient[ed] development' as part of the proposals being discussed. The speaker also elaborates on the benefits of focusing development near transit, which is a key aspect of the Transit-Oriented Development element of the City of Yes For Housing Opportunity proposal."
+        }
+      ],
+      "element_is_discussed": true
+    }
+  }
+}

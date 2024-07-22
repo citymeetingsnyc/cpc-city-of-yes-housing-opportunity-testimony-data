@@ -1,0 +1,56 @@
+{
+  "testimony": {
+    "name": "Chloe Sarnoff",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/chloe-sarnoff-director-of-policy-research-and",
+    "start_time_in_seconds": 19195.178,
+    "end_time_in_seconds": 19379.732,
+    "for_or_against": "For",
+    "borough": "Unknown",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [
+      "Robin Hood Foundation"
+    ],
+    "key_points": [
+      "Strong support for City of Yes for Housing Opportunity",
+      "New York City's housing and affordability crises have reached a breaking point",
+      "The housing crisis most severely harms the lowest income New Yorkers",
+      "City of Yes for Housing Opportunity is an essential part of solving the housing crisis",
+      "The initiative will create opportunities for low-income families with rental assistance vouchers to access newer units in higher opportunity neighborhoods",
+      "Support for accompanying efforts to improve the search process for voucher holders",
+      "City of Yes for Housing is a central component of a regional commitment to increase housing supply",
+      "Support for the initiative alongside efforts to increase stability for low-income New Yorkers"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

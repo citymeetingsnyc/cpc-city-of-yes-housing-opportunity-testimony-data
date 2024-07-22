@@ -1,0 +1,60 @@
+{
+  "testimony": {
+    "name": "Russell Brown",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/russell-brown-last-tenant-of-14-18-gay-street-on",
+    "start_time_in_seconds": 41608.67,
+    "end_time_in_seconds": 41788.16,
+    "for_or_against": "Against",
+    "borough": "Manhattan",
+    "neighborhood": "Greenwich Village",
+    "stated_affiliations": [],
+    "key_points": [
+      "Personal experience as the last tenant in a building where other rent-stabilized apartments have been emptied",
+      "Landlord's ability to profit from emptying rent-stabilized apartments despite legal issues",
+      "Conversion of affordable units into single-family housing",
+      "Lack of trust in the city commission, mayor, and city council",
+      "Demolition of historic buildings despite protests",
+      "Poor living conditions and lack of heat in his current apartment",
+      "Concern about developers disguising their intentions as fair housing advocates",
+      "Fear that current policies are worsening housing issues",
+      "Lack of effective enforcement by city agencies like DOB, HPD, and Landmarks Preservation Committee"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [
+        {
+          "text": "And now turning it into 2 just like a single family house for 2 brownstones that had, you know, 10 affordable units.",
+          "reasoning": "This quote suggests that the speaker is discussing the conversion of residential buildings, which relates to the Residential Conversions element of the proposal. The speaker is mentioning how affordable units are being converted into single-family houses, which is the opposite of what the proposal aims to do but still relates to the topic of residential conversions."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

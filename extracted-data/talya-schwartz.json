@@ -1,0 +1,73 @@
+{
+  "testimony": {
+    "name": "Talya Schwartz",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/talya-schwartz-from-open-plans-on-removing-parking",
+    "start_time_in_seconds": 2585.3564,
+    "end_time_in_seconds": 2780.4536,
+    "for_or_against": "For",
+    "borough": "Unknown",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [
+      "Open Plans"
+    ],
+    "key_points": [
+      "Support for removal of unnecessary parking mandates",
+      "Parking mandates increase housing costs significantly",
+      "For every 1.2 parking spaces constructed, one unit of housing is lost",
+      "Parking mandates can increase rent by an estimated 17%",
+      "Low-income households bear the brunt of additional costs from parking mandates despite owning fewer cars",
+      "Removal of parking mandates will help businesses grow and remove obstacles to the economy",
+      "In affordable developments, requiring parking spots raises total development costs by 12.5% to 25%",
+      "The cost to subsidize parking is more expensive for people in smaller and more affordable housing"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [
+        {
+          "text": "I'm testifying in support of the city of US and especially focused on the removal of the unnecessary and onerous parking mandates, which cost residents and business owners too much money.",
+          "reasoning": "This quote directly states that the speaker is focusing on the removal of parking mandates, which is a key element of the City of Yes For Housing Opportunity proposal."
+        },
+        {
+          "text": "Parking makes building houses much more expensive, And while in some cases, parking may be worth it in other areas close to public transportation, it's just an onerous obstacle.",
+          "reasoning": "This quote discusses how parking mandates increase housing costs, which aligns with the proposal's aim to remove parking mandates to reduce housing costs."
+        },
+        {
+          "text": "For a hypothetical 100 unit development of studio apartments that require a 4 to 1 base to unit ratio, there would be 40 parking spaces mandated. The cost to build 40 parking spaces is approximately the same as the cost to build 33 studio apartments.",
+          "reasoning": "This quote provides specific examples of how parking mandates reduce the number of housing units that can be built, which is a key argument for removing parking mandates in the proposal."
+        },
+        {
+          "text": "Research has shown that parking mandates have the potential to also increase rent by an estimated 17%.",
+          "reasoning": "This quote directly relates to the proposal's argument that mandating parking drives up rent, which is one of the issues the City of Yes aims to address by removing parking mandates."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

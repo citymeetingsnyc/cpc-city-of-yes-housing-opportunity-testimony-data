@@ -1,0 +1,57 @@
+{
+  "testimony": {
+    "name": "John Sheridan",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/john-sheridan-resident-of-city-island-bronx-on",
+    "start_time_in_seconds": 12854.792,
+    "end_time_in_seconds": 13041.959,
+    "for_or_against": "Against",
+    "borough": "Bronx",
+    "neighborhood": "City Island",
+    "stated_affiliations": [],
+    "key_points": [
+      "The proposal threatens zoning regulations for special purpose districts, including City Island",
+      "City Island's special purpose district was approved in 1977 and reaffirmed in 2003 and 2011, not outdated",
+      "Current City Island regulations protect low-rise character, environmental quality, and village character",
+      "The proposal ignores unique characteristics of diverse neighborhoods",
+      "The initiative represents 'a little more Manhattan in every neighborhood'",
+      "Urges commission and City Council to vote against the proposal"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Number 3, parking requirements for developers. Including the prohibition of eliminating parking availability, as well as the requirement for providing additional parking when adding 150 new square feet of floor area.",
+          "reasoning": "This quote directly addresses parking requirements, which is related to the proposal's element of removing parking mandates. The speaker is emphasizing the current parking requirements in City Island's special district regulations, which contrasts with the proposal's aim to remove parking mandates."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

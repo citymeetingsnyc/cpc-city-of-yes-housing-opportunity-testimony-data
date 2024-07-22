@@ -1,0 +1,70 @@
+{
+  "testimony": {
+    "name": "Christopher Marte",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/council-member-christopher-marte-on-concerns-with",
+    "start_time_in_seconds": 7847.6475,
+    "end_time_in_seconds": 8099.0693,
+    "for_or_against": "Against",
+    "borough": "Manhattan",
+    "neighborhood": "Lower Manhattan",
+    "stated_affiliations": [
+      "NYC City Council"
+    ],
+    "key_points": [
+      "The proposal is too large and complex for the public to fully understand in the given time frame",
+      "Lack of transparency and clear communication about the proposed changes",
+      "The plan will not create affordable housing",
+      "Conversion of office buildings to residential will not be affordable",
+      "Loss of public buildings to luxury condos",
+      "Micro apartments will force families to look elsewhere",
+      "Reduction in yard space, air, and light",
+      "Rents will continue to rise",
+      "The plan benefits those who profit from New York, not New Yorkers",
+      "Need for mandated affordability instead of trickle-down approach",
+      "Calls for strengthening the MIH program and requiring 100% affordability on public land",
+      "Opposes changes to apartment sizes and open space regulations"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [
+        {
+          "text": "When we convert our office buildings to residential, they're not gonna be affordable.",
+          "reasoning": "This quote directly references the residential conversions element of the proposal, expressing concern that such conversions will not result in affordable housing."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Our yards will shrink, our air and light will be taken away, and our rents will continue to rise.",
+          "reasoning": "While not explicitly mentioning ADUs, this quote could be interpreted as a concern about the impact of ADUs on yard space and neighborhood character, which are common concerns related to ADU implementation."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

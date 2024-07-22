@@ -1,0 +1,70 @@
+{
+  "testimony": {
+    "name": "John Woelfling",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/john-woelfling-principal-at-dattner-architects-on",
+    "start_time_in_seconds": 37283.766,
+    "end_time_in_seconds": 37468.31,
+    "for_or_against": "For",
+    "borough": "Brooklyn",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [
+      "Dattner Architects",
+      "Member of Local Community Board"
+    ],
+    "key_points": [
+      "Current zoning resolution restricts housing production",
+      "The scale of the housing problem requires a big, complex solution",
+      "Personal experience of seeing a family living in a tent in Prospect Park",
+      "Encourages the commission to not exempt some communities from playing their part",
+      "Supports all portions of the City of Yes for Housing Opportunity proposal",
+      "Advocates for a democratic approach where everyone contributes to create a more stable housing supply"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [
+        {
+          "text": "I would encourage the commission to not exempt some communities from playing their part, not pull out EDUs, not pull out the parking, not pull out UAP",
+          "reasoning": "The speaker explicitly mentions UAP (Universal Affordability Preference) as one of the elements that should not be removed from the proposal, indicating that it is part of the comprehensive plan they support."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [
+        {
+          "text": "I would encourage the commission to not exempt some communities from playing their part, not pull out EDUs, not pull out the parking, not pull out UAP",
+          "reasoning": "The speaker mentions 'parking' as one of the elements that should not be removed from the proposal, which likely refers to the removal of parking mandates as part of the comprehensive plan they support."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [
+        {
+          "text": "I would encourage the commission to not exempt some communities from playing their part, not pull out EDUs, not pull out the parking, not pull out UAP",
+          "reasoning": "The speaker mentions 'EDUs', which likely refers to ADUs (Accessory Dwelling Units). They argue that this element should not be removed from the proposal, indicating it is part of the comprehensive plan they support."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

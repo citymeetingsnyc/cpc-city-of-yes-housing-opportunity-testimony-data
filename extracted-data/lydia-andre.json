@@ -1,0 +1,81 @@
+{
+  "testimony": {
+    "name": "Lydia Andre",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/lydia-andre-from-chelsea-neighbors-coalition-on",
+    "start_time_in_seconds": 3831.9692,
+    "end_time_in_seconds": 3942.302,
+    "for_or_against": "Against",
+    "borough": "Manhattan",
+    "neighborhood": "Chelsea",
+    "stated_affiliations": [
+      "Chelsea Neighbors Coalition",
+      "300 20th Street Block Association"
+    ],
+    "key_points": [
+      "The trickle-down supply-side concept doesn't work",
+      "Affordable housing should be mandated",
+      "Local control should not be removed from neighborhoods",
+      "One-size-fits-all approach doesn't work for every neighborhood",
+      "Preserving neighborhood character and quality of life should be prioritized",
+      "The market has not succeeded in creating affordable housing",
+      "Open space is crucial to neighborhoods",
+      "The AMI numbers in the proposal don't match the actual income levels of New Yorkers most in need",
+      "The incentives for income averaging are unclear",
+      "The proposal needs improvement to better serve all New Yorkers"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [
+        {
+          "text": "For the life of me, I can't understand why we are not mandating affordable housing",
+          "reasoning": "This quote directly relates to the UAP element, which is about creating affordable housing. The speaker is criticizing the proposal for not mandating affordable housing, which is a key aspect of the UAP."
+        },
+        {
+          "text": "Right now, I see that the m AMI numbers you're using in this proposal don't jive with the actual income levels of New Yorkers in most need of affordable housing.",
+          "reasoning": "This quote refers to the Area Median Income (AMI) levels used in the proposal, which is a key component of the UAP. The speaker is criticizing the AMI levels as not accurately reflecting the needs of New Yorkers who need affordable housing."
+        },
+        {
+          "text": "And for the life of me, I don't really see the incentives for the income averaging that you're talking about.",
+          "reasoning": "This quote likely refers to the income averaging aspect of the UAP, which allows for a range of income levels in affordable housing units. The speaker is expressing skepticism about the incentives for this approach."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [
+        {
+          "text": "I don't think there's a one size fits all to every neighborhood.",
+          "reasoning": "While not directly mentioning town center zoning, this quote suggests opposition to a uniform approach to zoning, which could include the town center zoning proposal. The speaker is advocating for neighborhood-specific approaches rather than a citywide policy."
+        },
+        {
+          "text": "And preserving neighborhood character and quality of life for neighborhoods should be at the top of your list in addition to creating affordable housing.",
+          "reasoning": "This quote relates to the town center zoning proposal, which aims to create mixed-use neighborhoods. The speaker is emphasizing the importance of preserving existing neighborhood character, which could be seen as opposition to the changes proposed in the town center zoning element."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

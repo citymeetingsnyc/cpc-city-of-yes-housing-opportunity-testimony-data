@@ -1,0 +1,58 @@
+{
+  "testimony": {
+    "name": "Raul Rivera",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/raul-rivera-on-opposition-to-city-of-yes-and",
+    "start_time_in_seconds": 45364.6,
+    "end_time_in_seconds": 45553.19,
+    "for_or_against": "Against",
+    "borough": "Bronx",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [],
+    "key_points": [
+      "Opposes the City of Yes initiative",
+      "Criticizes city council members and the mayor for not supporting New Yorkers",
+      "Claims the initiative will not help homeless or low-income individuals",
+      "Argues that renovated buildings in the Bronx are now unaffordable for long-time residents",
+      "Criticizes the mayor for perceived alignment with wealthy developers",
+      "Mentions issues with the Taxi and Limousine Commission and a petition to reform it",
+      "Expresses disappointment in the mayor for not lifting mandates (likely referring to COVID-19 related mandates)"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [
+        {
+          "text": "There's plenty of buildings in the Bronx that are renovated. I used to play in those buildings. I should play in those building as a kid. That was my playground, and I can't afford to live in those buildings now.",
+          "reasoning": "While the speaker doesn't directly mention residential conversions, he talks about renovated buildings in the Bronx that he used to play in as a child but can no longer afford. This indirectly relates to the concept of converting existing buildings, which is a key aspect of the residential conversions element of the City of Yes proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "testimony": {
+    "name": "Barry Weinberg",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/barry-weinberg-from-manhattan-community-board-9-on",
+    "start_time_in_seconds": 44944.355,
+    "end_time_in_seconds": 45143.215,
+    "for_or_against": "For",
+    "borough": "Manhattan",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [
+      "Manhattan Community Board 9"
+    ],
+    "key_points": [
+      "Community Board 9 voted in favor of City of Yes for Housing Opportunity with certain conditions",
+      "Believes certain provisions do not go far enough, particularly 23-211",
+      "Recommends increasing FAR in R1-R3 zoning districts to 1.0 and R2X and R4 districts to 1.25",
+      "Suggests increasing ADU maximum square footage from 800 to 1200 square feet",
+      "Appreciates DCP staff's work and outreach efforts",
+      "Concerned about UAP (27-111) not requiring affordable housing units to be made available to the general public",
+      "Urges inclusion of provision in zoning text to ensure UAP affordable housing units are available to the public, not just institutional affiliates"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [
+        {
+          "text": "But our biggest pieces of feedback are around UAP, particularly 27 dash 111.",
+          "reasoning": "This quote directly mentions UAP (Universal Affordability Preference) and indicates that the speaker is about to discuss this element of the proposal."
+        },
+        {
+          "text": "We are extremely concerned that UAP as written does not include in the zoning text a requirement that Affordable housing units created with the bonus square footage be made available to the general public.",
+          "reasoning": "This quote discusses a specific concern about the UAP element of the proposal, particularly about the availability of affordable housing units created through this program."
+        },
+        {
+          "text": "We urge you to include a provision in 2711 and any other necessary parts to require any affordable housing units from UAP to be made available to the public and not just to affiliates of the institutional loan.",
+          "reasoning": "This quote shows the speaker suggesting a modification to the UAP element of the proposal, further demonstrating that this element is being discussed."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [
+        {
+          "text": "We also believe that the ADU maximum square footage should be bumped from 800 square feet to 1200 square feet to allow for the potential for 2 bedroom ADUs.",
+          "reasoning": "This quote directly discusses Accessory Dwelling Units (ADUs) and suggests a modification to the proposed size limits, indicating that this element of the proposal is being addressed."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

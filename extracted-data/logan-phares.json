@@ -1,0 +1,70 @@
+{
+  "testimony": {
+    "name": "Logan Phares",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/logan-phares-political-director-of-open-new-york",
+    "start_time_in_seconds": 40970.086,
+    "end_time_in_seconds": 41091.64,
+    "for_or_against": "For",
+    "borough": "Unknown",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [
+      "Open New York"
+    ],
+    "key_points": [
+      "Support for the City of Yes for Housing Opportunity zoning amendment",
+      "Current inequitable distribution of affordable housing across NYC council districts",
+      "The amendment will allow every neighborhood to participate in solving the housing shortage",
+      "The plan allows for more housing of every type in low, medium, and high-density communities",
+      "Zoning changes are critical but not sufficient to solve the housing crisis",
+      "Need for additional funding and policies to protect tenants and support fair housing",
+      "Acknowledgment of NYC's supply problem rooted in restrictive zoning",
+      "Urging the Commission to approve the proposal in full"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [
+        {
+          "text": "If these proposed changes are implemented, every neighborhood in the city will finally take part in solving our housing shortage and we will see dramatic changes in the distribution of new income restricted housing across the Five boroughs.",
+          "reasoning": "This quote suggests that the speaker is discussing the Universal Affordability Preference (UAP) element, as it mentions changes in the distribution of income-restricted housing across all neighborhoods, which is a key aspect of the UAP proposal."
+        },
+        {
+          "text": "This means more income restricted workforce housing",
+          "reasoning": "This directly refers to income-restricted housing, which is a core component of the UAP proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [
+        {
+          "text": "more backyard cottages to support homeowners",
+          "reasoning": "This directly refers to backyard cottages, which are a type of Accessory Dwelling Unit (ADU) mentioned in the proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

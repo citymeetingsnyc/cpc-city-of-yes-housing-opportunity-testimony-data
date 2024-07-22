@@ -1,0 +1,51 @@
+{
+  "testimony": {
+    "name": "Brian Shrout",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/brian-shrout-on-landmark-transfer-mechanism-in",
+    "start_time_in_seconds": 39640.79,
+    "end_time_in_seconds": 39788.418,
+    "for_or_against": "For",
+    "borough": "Manhattan",
+    "neighborhood": "Upper East Side",
+    "stated_affiliations": [],
+    "key_points": [
+      "Support for the Landmark Transfer mechanism in the City of Yes for Housing Opportunity proposal",
+      "Historical context of landmark transfers: only 12 transfers from 1968 to 2015",
+      "Geographical limitation of previous transfers to Midtown and FiDi areas",
+      "Lack of landmark transfers in other parts of Manhattan and outer boroughs",
+      "Need for more flexibility in the landmark transfer mechanism to benefit landmark buildings like churches, synagogues, and museums across the city"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

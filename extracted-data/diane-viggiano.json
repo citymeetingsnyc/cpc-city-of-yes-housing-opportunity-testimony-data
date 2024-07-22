@@ -1,0 +1,76 @@
+{
+  "testimony": {
+    "name": "Diane Viggiano",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/diane-viggiano-from-old-town-civic-association-of",
+    "start_time_in_seconds": 20985.121,
+    "end_time_in_seconds": 21135.346,
+    "for_or_against": "Against",
+    "borough": "Staten Island",
+    "neighborhood": "Old Town",
+    "stated_affiliations": [
+      "Old Town Civic Association of Staten Island"
+    ],
+    "key_points": [
+      "Opposition to high-rise buildings along Staten Island Rapid Transit",
+      "Concern about promoting multifamily habitation in attics, basements, and garages",
+      "Opposition to building cottages in backyards, which could reduce light, air, and trees",
+      "Disagreement with eliminating parking space requirements for new construction",
+      "Worry about degradation of quality of life due to increased housing, traffic, and population",
+      "Concern about strain on infrastructure, educational and medical services",
+      "Request for a borough-specific plan instead of a one-size-fits-all approach",
+      "Suggestion to consider using empty buildings in Manhattan for housing",
+      "Appeal to preserve the 'American dream' of a peaceful place to live and raise families"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [
+        {
+          "text": "To top it off, your plan would eliminate the need for parking spaces in new construction even though most presidents on Staten Island commute by car, with some homes having 4 or 5 cars, one for each family member.",
+          "reasoning": "This quote directly addresses the proposal's element of removing parking mandates for new construction. The speaker is expressing concern about this aspect of the plan, highlighting that many Staten Island residents rely on cars for commuting."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Also, your plan promotes multifamily habitation on every bit of in inhabitable space in our homes, including attics, basements, and garages.",
+          "reasoning": "This quote relates to the ADU element of the proposal, as it mentions using various parts of existing homes for additional housing, which is a key aspect of ADUs."
+        },
+        {
+          "text": "You even came up with the idea of allowing the building of cottages in backyards, which would cut off the light and air in our neighborhoods.",
+          "reasoning": "This quote directly references the ADU element of the proposal by mentioning backyard cottages, which are a type of accessory dwelling unit."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [
+        {
+          "text": "For example, you proposed the addition of high rise buildings in areas along the Staten Island Rapid Transit.",
+          "reasoning": "This quote directly addresses the transit-oriented development aspect of the proposal, as it mentions adding high-rise buildings near public transit (Staten Island Rapid Transit)."
+        }
+      ],
+      "element_is_discussed": true
+    }
+  }
+}

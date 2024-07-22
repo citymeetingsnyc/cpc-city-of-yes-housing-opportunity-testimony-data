@@ -1,0 +1,64 @@
+{
+  "testimony": {
+    "name": "Rev. Carlene Thorbs",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/rev-carlene-thorbs-chairperson-of-queens-community",
+    "start_time_in_seconds": 50131.684,
+    "end_time_in_seconds": 50326.555,
+    "for_or_against": "Against",
+    "borough": "Queens",
+    "neighborhood": "Jamaica",
+    "stated_affiliations": [
+      "Queens Community Board 12"
+    ],
+    "key_points": [
+      "No environmental impact statement has been conducted",
+      "Lack of infrastructure considerations (sanitation, schools, water, sewage lines)",
+      "Parking is necessary in South Jamaica, which is a driving community",
+      "The proposal would destroy the neighborhood",
+      "Insufficient community engagement and awareness about City of Yes",
+      "Existing apartments in downtown area are expensive and some are empty",
+      "Community Board 12 and other Queens Community Boards do not support City of Yes",
+      "The area is already carrying the weight of shelters",
+      "Affordable housing is not truly affordable",
+      "Concerns about prioritizing new New Yorkers over existing shelter residents",
+      "The proposal is not a one-size-fits-all solution and should be considered community board by community board"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Parking is necessary, especially here in South Jamaica. We are a driving community.",
+          "reasoning": "This quote directly addresses the proposal's element of removing parking mandates. The speaker is arguing against this element, stating that parking is necessary in their community, which indicates they are discussing this aspect of the City of Yes proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

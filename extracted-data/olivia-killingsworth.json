@@ -1,0 +1,65 @@
+{
+  "testimony": {
+    "name": "Olivia Killingsworth",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/olivia-killingsworth-actor-and-open-new-york",
+    "start_time_in_seconds": 43407.418,
+    "end_time_in_seconds": 43580.06,
+    "for_or_against": "For",
+    "borough": "Brooklyn",
+    "neighborhood": "South Brooklyn",
+    "stated_affiliations": [
+      "Open New York",
+      "Actor's Equity",
+      "SAG-AFTRA"
+    ],
+    "key_points": [
+      "Support for City of Yes for Housing Opportunity initiative",
+      "Importance of affordable housing for artists and creative professionals",
+      "Advocacy for shared housing and SROs (Single Room Occupancy units)",
+      "Personal experience living in micro apartments and its positive impact",
+      "Concern about the city's ability to welcome new generations of creative workers",
+      "Impact of housing affordability on the vibrancy and creative culture of New York City"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [
+        {
+          "text": "I especially wanna focus on the provisions to allow shared housing and SROs or single room occupancy units.",
+          "reasoning": "This quote directly relates to the residential conversions element of the proposal, which includes allowing for shared housing and SROs in converted buildings."
+        },
+        {
+          "text": "I understand apartments with shared kitchens and bathrooms aren't for everyone. But this kind of housing can be a real boom for people just starting out.",
+          "reasoning": "This statement further elaborates on the shared housing aspect of residential conversions, which is a key part of the proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

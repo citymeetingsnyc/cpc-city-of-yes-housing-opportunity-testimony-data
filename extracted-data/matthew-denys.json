@@ -1,0 +1,85 @@
+{
+  "testimony": {
+    "name": "Matthew Denys",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/matthew-denys-from-open-new-york-on-comprehensive",
+    "start_time_in_seconds": 48818.4,
+    "end_time_in_seconds": 48975.258,
+    "for_or_against": "For",
+    "borough": "Brooklyn",
+    "neighborhood": "Flatbush",
+    "stated_affiliations": [
+      "Open New York"
+    ],
+    "key_points": [
+      "The city is in a deep housing crisis with high prices getting worse",
+      "The proposal is a step in the right direction, though not enough to fix the entire housing shortage",
+      "The proposal will allow more housing to be built, including affordable housing",
+      "Town Center zoning will support small businesses",
+      "Lifting parking mandates will help reduce car subsidies and traffic",
+      "The transit-oriented development element is limited but a good start",
+      "Current zoning restrictions prevent building apartment buildings similar to existing historic ones in Flatbush",
+      "More ambitious building near transit is needed to meet housing demands",
+      "The proposal should be approved to address the urgency of the housing crisis"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [
+        {
+          "text": "... will allow a bit more housing to be built, including much needed affordable housing via the universal affordability preference.",
+          "reasoning": "This quote directly mentions the Universal Affordability Preference (UAP) as a means to build affordable housing, which is a key element of the City of Yes For Housing Opportunity proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Beyond simply adding homes, the proposal has other positive impacts, such as the way that Town Center is zoning, will support small businesses that provide so much to our neighborhoods.",
+          "reasoning": "This quote directly mentions Town Center zoning and its positive impact on supporting small businesses, which aligns with the Town Center Zoning element of the proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Lifting parking mandates will also help. Right? Because the way that it currently works with the minimums that we have that subsidizes cars and increases traffic, which we don't know we have way too much of already in a city where less than half of households even have a car.",
+          "reasoning": "This quote directly discusses the removal of parking mandates and its benefits, which is a key element of the City of Yes For Housing Opportunity proposal."
+        },
+        {
+          "text": "Given the negative impacts of that parking, I'd love to see further restrictions or fees or something like that for parking and denser areas near multiple subway lines. But for now, removing these current mandates is an obvious risk stuff.",
+          "reasoning": "This quote further emphasizes the speaker's support for removing parking mandates and suggests even stronger measures in the future."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [
+        {
+          "text": "And moving on to transit oriented development. The element in this proposal seems very limited to me, both in terms of it doesn't apply to many lots in the areas that are near transit, and the size of the buildings is pretty small.",
+          "reasoning": "This quote directly mentions transit-oriented development and provides criticism on its limited scope in the proposal, indicating that the speaker is discussing this element of the City of Yes For Housing Opportunity proposal."
+        },
+        {
+          "text": "Yeah. So to catch up with the number of homes that we need, we'll need to build a lot more. Going beyond the status quo of the last century, and it makes a lot of sense to focus on around the transit systems.",
+          "reasoning": "This quote further discusses the need for more housing development around transit systems, which aligns with the transit-oriented development element of the proposal."
+        }
+      ],
+      "element_is_discussed": true
+    }
+  }
+}

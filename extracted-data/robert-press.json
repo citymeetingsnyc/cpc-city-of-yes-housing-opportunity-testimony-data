@@ -1,0 +1,65 @@
+{
+  "testimony": {
+    "name": "Robert Press",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/robert-press-from-bronx-community-board-11-on-city",
+    "start_time_in_seconds": 27813.602,
+    "end_time_in_seconds": 27986.254,
+    "for_or_against": "Against",
+    "borough": "Bronx",
+    "neighborhood": "Morris Park",
+    "stated_affiliations": [
+      "Bronx Community Board 11"
+    ],
+    "key_points": [
+      "Bronx Community Board 11 voted overwhelmingly against the City of Yes for Housing Opportunity",
+      "Parking mandate may work in Manhattan but not in other boroughs",
+      "Council District 13 in the East Bronx has already produced significant affordable housing without this initiative",
+      "The process was rushed and incomplete information was provided to Community Board 11",
+      "Concerns about inadequate parking spaces for new housing developments",
+      "The plan does not control or make housing affordable, it just increases housing supply",
+      "AMI calculation method needs to be changed to make housing truly affordable in the Bronx",
+      "Current 'affordable' housing in the Bronx is still too expensive"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Let's say that the parking mandate may work in Manhattan, but not in the 4 out of boroughs.",
+          "reasoning": "This quote directly addresses the proposal's element of removing parking mandates. The speaker is expressing an opinion that while this might be suitable for Manhattan, it may not be appropriate for the other boroughs."
+        },
+        {
+          "text": "To the person who said 200 parking spaces at 1601 Bromstale Avenue is enough. There are 24108 units of housing. It is ridiculous that only 200 parking spaces will be there. Where will the other 2200 plus or more cars be parked?",
+          "reasoning": "This quote further elaborates on the speaker's concerns about removing parking mandates. They are using a specific example to illustrate why they believe reducing parking requirements would be problematic in their area."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

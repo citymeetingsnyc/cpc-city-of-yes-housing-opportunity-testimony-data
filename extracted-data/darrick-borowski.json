@@ -1,0 +1,80 @@
+{
+  "testimony": {
+    "name": "Darrick Borowski",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/darrick-borowski-architect-and-member-of-the",
+    "start_time_in_seconds": 9264.07,
+    "end_time_in_seconds": 9427.902,
+    "for_or_against": "For",
+    "borough": "Unknown",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [
+      "AIA"
+    ],
+    "key_points": [
+      "Current zoning code from 1961 has contributed to the housing crisis",
+      "Changing codes is necessary to create affordable housing for all incomes",
+      "Supports proposals in the plan such as bonuses for affordability, housing over retail, legalizing shared living, small apartments, ADUs, and eliminating parking requirements",
+      "Housing affordability is crucial for maintaining New York City's vitality and cultural diversity",
+      "Many New Yorkers, including young professionals and creatives, are struggling to afford housing",
+      "Acknowledges concerns about increased density but believes prioritizing housing creation is necessary",
+      "Urges commissioners to vote yes for City of Yes for Housing Opportunity"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [
+        {
+          "text": "In this draft, I see proposals that enable many of the possibilities my colleagues students and IFCS tools to help us get get us out of this current crisis, including bonuses for affordability",
+          "reasoning": "The speaker mentions 'bonuses for affordability' which aligns with the Universal Affordability Preference (UAP) element of the proposal that allows buildings to add more housing if it's affordable."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [
+        {
+          "text": "In this draft, I see proposals that enable many of the possibilities my colleagues students and IFCS tools to help us get get us out of this current crisis, including [...] legalizing shared living, small apartments",
+          "reasoning": "The speaker mentions 'legalizing shared living, small apartments' which aligns with the Residential Conversions element of the proposal that allows for converting non-residential spaces into various types of housing, including shared housing."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [
+        {
+          "text": "In this draft, I see proposals that enable many of the possibilities my colleagues students and IFCS tools to help us get get us out of this current crisis, including [...] housing over retail in town centers",
+          "reasoning": "The speaker directly mentions 'housing over retail in town centers' which is a key aspect of the Town Center Zoning element of the proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [
+        {
+          "text": "In this draft, I see proposals that enable many of the possibilities my colleagues students and IFCS tools to help us get get us out of this current crisis, including [...] eliminating parking requirements",
+          "reasoning": "The speaker directly mentions 'eliminating parking requirements' which aligns with the Removing Parking Mandates element of the proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [
+        {
+          "text": "In this draft, I see proposals that enable many of the possibilities my colleagues students and IFCS tools to help us get get us out of this current crisis, including [...] ADUs",
+          "reasoning": "The speaker directly mentions 'ADUs' which stands for Accessory Dwelling Units, a key element of the proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

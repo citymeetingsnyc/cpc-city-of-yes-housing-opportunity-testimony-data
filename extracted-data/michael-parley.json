@@ -1,0 +1,72 @@
+{
+  "testimony": {
+    "name": "Michael Parley",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/michael-parley-president-of-development-consulting",
+    "start_time_in_seconds": 24647.998,
+    "end_time_in_seconds": 24827.988,
+    "for_or_against": "For",
+    "borough": "Unknown",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [
+      "Development Consulting Services"
+    ],
+    "key_points": [
+      "Supports overall goals of housing opportunity",
+      "Protests the lack of expansion for off-site affordable housing option",
+      "Opposes mandating affordable housing in 12-15 FAR zones of Midtown and Lower Manhattan Special Districts",
+      "Argues that mandating affordable housing in high-value areas is economically unfeasible",
+      "Suggests making the residential FAR a flat 12 in Midtown and Lower Manhattan",
+      "Urges the commission to reconsider aspects of the housing opportunity proposal"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [
+        {
+          "text": "The first is that the off-site affordable option is not being expanded. And where it is being preserved for as an option. It is not being it's being diminished to possible insignificance.",
+          "reasoning": "This quote relates to the UAP as it discusses changes to affordable housing options, which is a key component of the UAP proposal."
+        },
+        {
+          "text": "It is unclear in the text whether you affordable must be on-site or can be off-site. But either way, it is clear that this is very misguided.",
+          "reasoning": "This quote directly discusses the provision of affordable housing, which is central to the UAP proposal."
+        },
+        {
+          "text": "It is clearly uneconomic to mandate affordable housing where land prices are already stratosphere. Particularly without any economic analyses to validate this.",
+          "reasoning": "This quote critiques the mandating of affordable housing in high-cost areas, which is a key aspect of the UAP proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [
+        {
+          "text": "I support the overall goals of housing opportunity and applaud the effort to generate more affordable housing expand opportunities for office conversions, and advance numerous changes which can facilitate building in New York.",
+          "reasoning": "This quote explicitly mentions 'office conversions', which is a key aspect of the Residential Conversions proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

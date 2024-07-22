@@ -1,0 +1,58 @@
+{
+  "testimony": {
+    "name": "Molly Anderson",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/molly-anderson-from-low-income-investment-fund-on",
+    "start_time_in_seconds": 35754.855,
+    "end_time_in_seconds": 35935.215,
+    "for_or_against": "For",
+    "borough": "Unknown",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [
+      "Low Income Investment Fund",
+      "National Community Development Finance Institution"
+    ],
+    "key_points": [
+      "Strong support for City of Yes for Housing Opportunity proposal",
+      "New York City is experiencing a severe housing and affordability crisis",
+      "Existing housing policies are unsustainable",
+      "The affordability crisis disproportionately impacts Black and Latino families",
+      "Some neighborhoods have opted out of adding new housing, perpetuating exclusionary zoning policies",
+      "Net loss of affordable housing units in recent years",
+      "City of Yes for Housing Opportunity is a vital step towards addressing housing issues",
+      "Need for citywide zoning reforms to allow more housing to be built across all neighborhoods",
+      "Building more housing is necessary for a fair and inclusive city"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

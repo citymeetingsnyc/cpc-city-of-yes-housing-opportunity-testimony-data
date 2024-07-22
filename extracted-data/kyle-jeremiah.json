@@ -1,0 +1,61 @@
+{
+  "testimony": {
+    "name": "Kyle Jeremiah",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/kyle-jeremiah-from-bowery-residence-committee-brc",
+    "start_time_in_seconds": 33753.42,
+    "end_time_in_seconds": 33945.285,
+    "for_or_against": "For",
+    "borough": "Unknown",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [
+      "Bowery Residence Committee",
+      "BRC"
+    ],
+    "key_points": [
+      "Support for City of Yes for Housing Opportunity proposal",
+      "Need for affordable housing to address homelessness crisis",
+      "Benefits of relegalizing shared housing and permitting more studio and one-bedroom apartments",
+      "Importance of converting underused spaces into housing",
+      "Support for modern SRO housing to increase affordable housing supply",
+      "Benefits of converting vacant offices and non-residential buildings into homes",
+      "Urging support for the initiative to create a more equitable and livable New York City"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Enabling the conversion of vacant offices and other nonresidential buildings into homes will increase housing supply, boost property values and create more vibrant neighborhoods, particularly in areas impacted by the pandemic.",
+          "reasoning": "This quote directly addresses the residential conversions element of the proposal, mentioning the conversion of non-residential buildings into homes, which aligns with the City Planning's description of making it easier for vacant offices and other non-residential buildings to become housing."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

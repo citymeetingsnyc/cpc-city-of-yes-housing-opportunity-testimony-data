@@ -1,0 +1,70 @@
+{
+  "testimony": {
+    "name": "Cathy Seibek",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/cathy-seibek-city-island-resident-on-concerns",
+    "start_time_in_seconds": 25476.973,
+    "end_time_in_seconds": 25649.148,
+    "for_or_against": "Against",
+    "borough": "Bronx",
+    "neighborhood": "City Island",
+    "stated_affiliations": [
+      "City Island Civic Association"
+    ],
+    "key_points": [
+      "City Island is a unique, low-density residential community with special district zoning",
+      "The proposal is a blanket zoning change that will eliminate community voices",
+      "City Island has infrastructure and geographical limitations (one road in/out, flood zone)",
+      "The community attracts visitors for its quaint, nautical village atmosphere",
+      "Concerns about increased density and lack of parking affecting local businesses",
+      "Climate change and flood risks need to be addressed before increasing density",
+      "Urges a common-sense approach to zoning that considers each community's uniqueness",
+      "Suggests focusing on homeownership and single/two-family homes for more housing"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [
+        {
+          "text": "I'm a car owner like most here in the northeast Bronx that live here in a transit desert.",
+          "reasoning": "This quote indicates that the speaker is discussing the importance of car ownership in their area, which relates to the proposal's element of removing parking mandates."
+        },
+        {
+          "text": "I don't think people wanna come here to look at big buildings and no place car.",
+          "reasoning": "This quote directly references the concern about removing parking, which is a key aspect of the removing parking mandates proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [
+        {
+          "text": "I'm a car owner like most here in the northeast Bronx that live here in a transit desert.",
+          "reasoning": "This quote indicates that the speaker is discussing the lack of transit options in their area, which is relevant to the transit-oriented development element of the proposal."
+        }
+      ],
+      "element_is_discussed": true
+    }
+  }
+}

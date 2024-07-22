@@ -1,0 +1,55 @@
+{
+  "testimony": {
+    "name": "Eric Rosenbaum",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/eric-rosenbaum-president-and-ceo-of-project",
+    "start_time_in_seconds": 9451.538,
+    "end_time_in_seconds": 9616.748,
+    "for_or_against": "For",
+    "borough": "Unknown",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [
+      "Project Renewal"
+    ],
+    "key_points": [
+      "Stable housing is the foundation for resilient families and communities",
+      "Lack of affordable housing contributes to mental health issues, overdose crises, and public safety problems",
+      "Historical housing discrimination has created profound inequity, especially for people of color",
+      "City of Yes proposals can address affordable housing availability and reduce homelessness",
+      "Increasing affordability will address root causes of mental health challenges, substance disorders, and criminal justice involvement",
+      "The alternative is increased spending on shelters, mental health treatment, and jails",
+      "City of Yes will make New York City more affordable and safer for families at all income levels"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

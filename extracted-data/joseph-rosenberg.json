@@ -1,0 +1,78 @@
+{
+  "testimony": {
+    "name": "Joseph Rosenberg",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/joseph-rosenberg-from-the-catholic-community",
+    "start_time_in_seconds": 26285.377,
+    "end_time_in_seconds": 26476.316,
+    "for_or_against": "For",
+    "borough": "Unknown",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [
+      "Catholic Community Relations Council",
+      "Archdiocese of New York",
+      "Diocese of Brooklyn"
+    ],
+    "key_points": [
+      "Supports City of Yes for Housing Opportunity",
+      "Focuses on removing zoning obstacles that prevent housing development",
+      "Unlocks use of properties owned by religious organizations",
+      "Removal of mandatory parking spaces in housing developments",
+      "20% additional affordable housing units in medium and high density districts",
+      "Expansion of landmark development rights transfer",
+      "Encourages residential conversion of office, commercial, and unused community facility buildings",
+      "Modifications needed for infill initiative, especially for houses of worship",
+      "Proposals are timely and critical for addressing housing crisis"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [
+        {
+          "text": "The UAP would also greatly benefit both Catholic Charities Housing Programs by providing a 20% additional affordable housing units in medium and high density districts where the underlying development is 100% affordable.",
+          "reasoning": "This quote directly references the UAP (Universal Affordability Preference) and describes its benefit of providing additional affordable housing units, which aligns with the proposal's description."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [
+        {
+          "text": "We are also strongly supportive of the zoning text amendment that encourages the residential conversion of office and commercial buildings.",
+          "reasoning": "This quote directly mentions support for residential conversions of office and commercial buildings, which is a key element of the Residential Conversions proposal."
+        },
+        {
+          "text": "The city of Yes would also allow the conversion to housing of many unused community facility buildings such as condos and rectories that are no longer utilized by our Parishes and sit empty.",
+          "reasoning": "This quote further elaborates on the residential conversion aspect, mentioning specific types of buildings that could be converted to housing under the proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [
+        {
+          "text": "For too long, New York City has required Wall Street parking spaces to be incorporated into housing developments regardless their proximity to public transit. Removing this mandate is long overdue. It would allow space that was once reserved for motor vehicles to now be used to produce apartments for New Yorkers.",
+          "reasoning": "This quote directly addresses the issue of parking mandates and supports their removal, which is a key element of the Removing Parking Mandates proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

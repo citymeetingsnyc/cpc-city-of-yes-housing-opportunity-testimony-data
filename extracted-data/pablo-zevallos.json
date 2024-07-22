@@ -1,0 +1,86 @@
+{
+  "testimony": {
+    "name": "Pablo Zevallos",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/pablo-zevallos-tenants-rights-attorney-and",
+    "start_time_in_seconds": 43029.527,
+    "end_time_in_seconds": 43197.223,
+    "for_or_against": "For",
+    "borough": "Manhattan",
+    "neighborhood": "Upper West Side",
+    "stated_affiliations": [],
+    "key_points": [
+      "New York City is experiencing a severe housing shortage, particularly for affordable housing",
+      "The shortage disproportionately affects low-income households and contributes to segregation",
+      "City of Yes for Housing Opportunity will facilitate increased construction of affordable housing",
+      "The policy will combat exclusionary zoning practices",
+      "Legalizing EDUs (Efficient Dwelling Units) offers various benefits, including intergenerational wealth and aging in place",
+      "Lifting restrictions on SROs (Single Room Occupancy) would help provide permanent housing opportunities",
+      "Transit-oriented development and town center zoning would add needed 'missing middle' housing",
+      "Ending required parking mandates would remove barriers to housing goals",
+      "The amendments would make affordable housing more widely available across communities",
+      "Passing these amendments would set a precedent for future city governments to address the housing crisis"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [
+        {
+          "text": "The policy is contained within city of yes for housing opportunity, but facilitate increased construction for affordable housing and combat during exclusionary zoning practices, enacting UAP with income averaging and making the deep affordability, NIH option independently available to DCP would offer lower income households greater housing opportunities, particularly in well resourced neighborhoods throughout the city.",
+          "reasoning": "This quote directly mentions UAP (Universal Affordability Preference) and discusses how it would facilitate the construction of affordable housing and provide greater housing opportunities for lower-income households in well-resourced neighborhoods, which aligns with the proposal's goal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Lifting restrictions on building SROs would help provide permanent housing opportunities, particularly for supportive housing.",
+          "reasoning": "While not explicitly mentioning residential conversions, this quote discusses lifting restrictions on Single Room Occupancy (SRO) buildings, which is related to the concept of converting non-residential spaces into housing opportunities, aligning with the residential conversions element of the proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [
+        {
+          "text": "New measures like transit oriented development and town center zoning would add badly needed missing middle housing.",
+          "reasoning": "This quote directly mentions town center zoning as one of the new measures that would add needed 'missing middle housing', which aligns with the proposal's goal of creating more housing in commercial corridors and building vibrant mixed-use neighborhoods."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [
+        {
+          "text": "And ending required parking mandates would remove spatial and cost barriers to these goals.",
+          "reasoning": "This quote directly addresses the removal of parking mandates, highlighting how it would remove spatial and cost barriers, which aligns with the proposal's goal of ending parking mandates to increase housing production and lower costs."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Legalizing EDUs offers possibilities from facilitating intergenerational wealth to permitting older adults to agent place to creating new rental opportunities where none might otherwise exist to safely legalizing existing basement apartments.",
+          "reasoning": "Although the speaker uses the term 'EDUs' (likely a misspeak for 'ADUs'), this quote discusses legalizing accessory dwelling units, mentioning benefits such as intergenerational wealth, aging in place, and legalizing basement apartments, which aligns with the proposal's goals for ADUs."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [
+        {
+          "text": "New measures like transit oriented development and town center zoning would add badly needed missing middle housing.",
+          "reasoning": "This quote directly mentions transit-oriented development as one of the new measures that would add needed 'missing middle housing', which aligns with the proposal's goal of adding housing near public transit to support convenient lifestyles and reduce car dependency."
+        }
+      ],
+      "element_is_discussed": true
+    }
+  }
+}

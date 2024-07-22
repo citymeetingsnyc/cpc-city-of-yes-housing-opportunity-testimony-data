@@ -1,0 +1,85 @@
+{
+  "testimony": {
+    "name": "Patrick Boyle",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/patrick-boyle-from-enterprise-community-partners",
+    "start_time_in_seconds": 18834.428,
+    "end_time_in_seconds": 19014.652,
+    "for_or_against": "For",
+    "borough": "Unknown",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [
+      "Enterprise Community Partners"
+    ],
+    "key_points": [
+      "Support for the City of Yes proposal as a necessary component to address the housing crisis",
+      "Excitement about the universal affordability preference",
+      "Benefits for affordable housing developers, including nonprofit and MWBE Emerging Developers",
+      "Support for enabling conversion and adaptive reuse of buildings citywide",
+      "Potential benefits of combining the proposal with state-level tax incentives for office-to-residential conversions",
+      "Elimination of barriers to infill development, particularly beneficial for faith-based organizations",
+      "Support for transit-oriented development and town center zoning in lower density districts",
+      "Urging the city to develop term sheets and tax incentive programs for smaller sites to ensure affordable housing in lower density areas"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [
+        {
+          "text": "You know, in particular, we're excited about the universal affordability preference.",
+          "reasoning": "This quote directly mentions the Universal Affordability Preference, which is a key element of the City of Yes For Housing Opportunity proposal."
+        },
+        {
+          "text": "And the city of yes is really a way to add affordable housing units one of the provisions that really specifically gets at those affordable housing units at at lower incomes.",
+          "reasoning": "This quote discusses how the City of Yes proposal, particularly the UAP, aims to add affordable housing units at lower income levels, which aligns with the UAP's goal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [
+        {
+          "text": "With respect to some of the citywide proposals, enabling conversion and adaptive reuse from for a broader set of building city wide, There's really a benefit, particularly if that compare with what was passed at the city level in terms of office to residential conversions.",
+          "reasoning": "This quote directly discusses the residential conversions aspect of the City of Yes proposal, mentioning conversion and adaptive reuse of buildings citywide, including office to residential conversions."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [
+        {
+          "text": "You know, for lower density districts on the whole, the transit oriented development and town centers owning.",
+          "reasoning": "This quote explicitly mentions 'town centers zoning' in the context of lower density districts, which is a key element of the City of Yes For Housing Opportunity proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Many of the sites in the afforded the faith based cohort we work with, you know, would qualify for this on on lots, parking lots on their sites, other types of of lot considerations that would allow them to do a little more housing there,",
+          "reasoning": "While not explicitly mentioning removing parking mandates, this quote discusses using parking lots for housing, which aligns with the proposal's aim to reduce parking requirements and use that space for housing instead."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [
+        {
+          "text": "You know, for lower density districts on the whole, the transit oriented development and town centers owning.",
+          "reasoning": "This quote explicitly mentions 'transit oriented development' in the context of lower density districts, which is a key element of the City of Yes For Housing Opportunity proposal."
+        }
+      ],
+      "element_is_discussed": true
+    }
+  }
+}

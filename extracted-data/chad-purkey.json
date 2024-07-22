@@ -1,0 +1,78 @@
+{
+  "testimony": {
+    "name": "Chad Purkey",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/chad-purkey-from-the-association-for-better-new",
+    "start_time_in_seconds": 27649.309,
+    "end_time_in_seconds": 27780.574,
+    "for_or_against": "For",
+    "borough": "Unknown",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [
+      "Association for Better New York (ABNY)"
+    ],
+    "key_points": [
+      "The city is in a housing crisis that requires impactful yet measured responses",
+      "Support for all text amendments in the proposal due to increased balance in zoning resolution",
+      "The proposal offers better balance between prescriptive regulations and expanded options for property owners",
+      "Supports relegalizing building types like apartments over stores",
+      "Advocates for easier housing conversions",
+      "Supports giving more autonomy to single-family homeowners and religious/nonprofit institutions",
+      "Encourages allowing more varied housing types, including smaller shared housing",
+      "Supports extending affordability bonuses to more neighborhoods",
+      "The proposal offers a balance between boldness and thoughtful policy solutions",
+      "The reform will offer long-term benefits to residents across all city neighborhoods"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Allowing more communities to reap benefits from affordability bonuses that today are excluded from parts to many neighborhoods.",
+          "reasoning": "This quote indirectly refers to the Universal Affordability Preference (UAP) element of the proposal. The speaker is discussing the expansion of affordability bonuses to more neighborhoods, which aligns with the UAP's goal of providing affordable housing options in high-cost neighborhoods across the city."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Allowing proven successful housing creation like conversions to be replicated more broadly and easily",
+          "reasoning": "This quote directly references the residential conversions element of the proposal. The speaker supports the idea of making it easier to convert non-residential buildings into housing, which is a key aspect of the City of Yes for Housing Opportunity plan."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [
+        {
+          "text": "This would mean relegalizing building types that nonsensically today are essentially banned despite them being present in large spots of our city like apartments over stores.",
+          "reasoning": "This quote directly refers to the Town Center Zoning element of the proposal. The speaker is discussing the concept of allowing apartments above stores, which is a key feature of the Town Center Zoning initiative aimed at creating mixed-use neighborhoods and revitalizing commercial corridors."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Allowing single family homeowners and religious or nonprofit institutions with campus is more autonomy in choosing how they use their properties to meet their short and long term needs for their families and their communities.",
+          "reasoning": "While not explicitly mentioning ADUs, this quote aligns with the concept of allowing homeowners more flexibility in using their properties, which is a key aspect of the ADU proposal. It suggests support for policies that would allow homeowners to create additional living spaces on their properties, which is the essence of the ADU initiative."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "testimony": {
+    "name": "Cathleen Shannon",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/cathleen-shannon-from-a-better-college-point-civic",
+    "start_time_in_seconds": 37802.516,
+    "end_time_in_seconds": 38001.234,
+    "for_or_against": "Against",
+    "borough": "Queens",
+    "neighborhood": "College Point",
+    "stated_affiliations": [
+      "A Better College Point Civic Association"
+    ],
+    "key_points": [
+      "The area is already overpopulated",
+      "Against building that doesn't make sense",
+      "Concerns about losing mandated parking",
+      "Limited transportation options in the area",
+      "Safety concerns on subways",
+      "Schools and public spaces are already overcrowded",
+      "Lack of enforcement of current laws",
+      "Insufficient infrastructure and public services (police, teachers, inspectors)",
+      "Request to alter the plan"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [
+        {
+          "text": "I think if you go if you lose the mandated parking, it's gonna create even more problems.",
+          "reasoning": "This quote directly addresses the proposal to remove parking mandates, which is a key element of the City of Yes for Housing Opportunity plan. The speaker expresses concern about the potential problems that could arise from removing these mandates."
+        },
+        {
+          "text": "The parking is a big thing in this area and the and the cars because we have limited transportation available, and that new transportation plan is far from perfect.",
+          "reasoning": "This statement further emphasizes the speaker's concern about parking and transportation issues, which relates to the proposal to remove parking mandates. It suggests that the area relies heavily on cars due to limited public transportation options."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

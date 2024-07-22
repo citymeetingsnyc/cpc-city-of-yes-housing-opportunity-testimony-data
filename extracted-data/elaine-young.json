@@ -1,0 +1,88 @@
+{
+  "testimony": {
+    "name": "Elaine Young",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/elaine-young-president-of-west-cunningham-park",
+    "start_time_in_seconds": 34663.207,
+    "end_time_in_seconds": 34851.375,
+    "for_or_against": "Against",
+    "borough": "Queens",
+    "neighborhood": "Fresh Meadows",
+    "stated_affiliations": [
+      "West Cunningham Park Civic Association"
+    ],
+    "key_points": [
+      "Only 17% of New York City is single family homes, yet they are being targeted by this plan",
+      "The plan will decimate communities by overturning existing zoning",
+      "The plan will increase density without supporting infrastructure",
+      "Legalizing basement, attic, and garage apartments won't address affordable housing needs",
+      "Homeowners will likely charge market rates for ADUs, not use them for family members",
+      "Infrastructure (schools, sewers, water, electric utilities) will be overwhelmed",
+      "Parking will become impossible, especially with the elimination of parking mandates",
+      "The plan doesn't consider the needs of areas with poor public transportation",
+      "Most civics in the area and 12 of 14 community boards in Queens are against this plan"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [
+        {
+          "text": "And speaking of parking, to eliminate the parking mandate citywide is another example of the one size fits all approach that does not work for everywhere.",
+          "reasoning": "This quote directly addresses the proposal to remove parking mandates, which is a key element of the City of Yes For Housing Opportunity plan."
+        },
+        {
+          "text": "This would probably be the first to go with an apartment building likely built there with zero parking. So the rest of the folks around that site will find it impossible to park.",
+          "reasoning": "This quote discusses the potential consequences of removing parking mandates, specifically mentioning the possibility of new buildings with no parking, which is directly related to the proposal."
+        },
+        {
+          "text": "Why is creating an impossible parking problem in our community something that should be done and is okay?",
+          "reasoning": "This quote further emphasizes the speaker's concerns about the removal of parking mandates and its potential impact on the community, which is directly related to this element of the proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [
+        {
+          "text": "It would create living spaces that would do nothing to address the lack of affordable housing such as legalizing basement attic and garage apartments.",
+          "reasoning": "This quote directly addresses the proposal to allow Accessory Dwelling Units (ADUs) by mentioning basement, attic, and garage apartments, which are types of ADUs."
+        },
+        {
+          "text": "The homeowners would charge market rate to think that they would only build these ADUs for family to be able to remain in New York City as the number of speakers have said today is disingenuous.",
+          "reasoning": "This quote explicitly mentions ADUs and discusses the speaker's perspective on how they might be used, which is directly related to the ADU element of the proposal."
+        },
+        {
+          "text": "As a civic association president, I have had enough experience with folks in our community who have created illegal ADS and are renting them out at market rate to pocket the money.",
+          "reasoning": "This quote discusses the speaker's experience with illegal ADUs, which is relevant to the proposal to legalize and regulate ADUs."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [
+        {
+          "text": "I say come out to our community, which is a suburban type public transportation desert and see why we need our cars.",
+          "reasoning": "While this quote doesn't directly mention transit-oriented development, it is relevant to the proposal as it highlights the speaker's perspective on the lack of public transportation in their area, which is a key consideration in transit-oriented development."
+        }
+      ],
+      "element_is_discussed": true
+    }
+  }
+}

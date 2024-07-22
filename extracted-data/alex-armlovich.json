@@ -1,0 +1,73 @@
+{
+  "testimony": {
+    "name": "Alex Armlovich",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/alex-armlovich-housing-policy-manager-at-niskanen",
+    "start_time_in_seconds": 44760.3,
+    "end_time_in_seconds": 44935.383,
+    "for_or_against": "For",
+    "borough": "Queens",
+    "neighborhood": "Jackson Heights",
+    "stated_affiliations": [
+      "Niskanen Center",
+      "Jackson Heights Historic District"
+    ],
+    "key_points": [
+      "Endorses every component of the City of Yes initiative",
+      "Concerned that the transit-oriented component allowing 3-5 story buildings near mass transit may not be enough",
+      "Argues that 3 stories near transit is too small for New York City, comparing it unfavorably to Washington DC's height limits",
+      "Believes the proposal will meet 20% of Mayor Adams' housing goal, but visible changes to neighborhoods will be minimal",
+      "Calls for bigger Transit-Oriented Development (TOD) to reach 500,000 units and restore MTA ridership to 2019 levels",
+      "Supports the initiative but warns it may not be sufficient for New York City's needs as a global megacity"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [
+        {
+          "text": "So like basically ADUs in three story buildings, it would it would end Buffalo's housing shortage.",
+          "reasoning": "The speaker mentions ADUs (Accessory Dwelling Units) in the context of the City of Yes proposal, indicating that this element is being discussed, even though the speaker is using it as a comparison to highlight that more is needed for New York City."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [
+        {
+          "text": "But I'm also here to give a modest warning on the transit oriented component. It's allowing just 3 to 5 story buildings near mass transit, and I'm concerned that it may not be enough.",
+          "reasoning": "The speaker directly addresses the transit-oriented development component of the City of Yes proposal, expressing concern that the proposed 3 to 5 story buildings near mass transit may not be sufficient."
+        },
+        {
+          "text": "3 stories may be transit oriented development in the Dallas suburbs but this is New York City. Our historic prewarvanacular is the six story walk up building. Three stories near transit and jobs is is arguably a historic and a contextual in this city.",
+          "reasoning": "The speaker continues to discuss the transit-oriented development aspect, arguing that the proposed 3-story limit is too low for New York City, comparing it to the city's historic 6-story walk-up buildings."
+        },
+        {
+          "text": "To get to 500,000 units and to get MTA ridership back to 2019 levels, we need big bigger TOD. We're gonna need to do better than half half or less of DCs, already pretty small high limits near transit.",
+          "reasoning": "The speaker explicitly mentions the need for bigger Transit-Oriented Development (TOD) to meet housing goals and increase MTA ridership, directly addressing this element of the City of Yes proposal."
+        }
+      ],
+      "element_is_discussed": true
+    }
+  }
+}

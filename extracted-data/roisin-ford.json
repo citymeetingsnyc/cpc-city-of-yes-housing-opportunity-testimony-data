@@ -1,0 +1,77 @@
+{
+  "testimony": {
+    "name": "Roisin Ford",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/roisin-ford-from-ditmas-park-west-neighborhood",
+    "start_time_in_seconds": 38694.65,
+    "end_time_in_seconds": 38902.184,
+    "for_or_against": "Against",
+    "borough": "Brooklyn",
+    "neighborhood": "Victorian Flatbush",
+    "stated_affiliations": [
+      "Ditmas Park West Neighborhood Association"
+    ],
+    "key_points": [
+      "The neighborhood association supports some aspects of City of Yes, like town center zoning and commercial conversions, but strongly opposes transit-oriented developments and district fixes as written",
+      "Affordable housing availability in their neighborhood increased by 846% in the last 10 years after a 2009 rezoning",
+      "Concerns about the potential demolition of historic Victorian homes under the proposed transit-oriented development plans",
+      "Request for the commission to visit Victorian Flatbush and acknowledge the untapped potential for more affordable housing",
+      "Suggestion to include minimum sizes for units to accommodate families, not just studios and one-bedrooms",
+      "Concern that the proposed changes would allow demolition of historic homes and replacement with larger buildings without sensitivity to the neighborhood character"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [
+        {
+          "text": "But strongly opposes transit oriented developments and district fixes as written.",
+          "reasoning": "While this quote doesn't directly mention residential conversions, the speaker is expressing opposition to certain aspects of the City of Yes proposal, which includes residential conversions. This suggests that the topic is at least indirectly addressed."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [
+        {
+          "text": "The Debit Park West Neighborhood Association of which I am a board member Membership supports somewhat what the city of GUESS is doing to increase housing, like town center zoning and commercial conversions.",
+          "reasoning": "This quote directly mentions 'town center zoning' as one of the elements of the City of Yes proposal that the speaker's neighborhood association somewhat supports."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [
+        {
+          "text": "But strongly opposes transit oriented developments and district fixes as written.",
+          "reasoning": "This quote directly mentions 'transit oriented developments' as an element of the City of Yes proposal that the speaker's neighborhood association strongly opposes."
+        },
+        {
+          "text": "In commission or graphic statements, when I was still in the room with you in Manhattan this morning, he described transit oriented development as being among other care statistics on five thousand square foot lots on commercial corridors.",
+          "reasoning": "This quote discusses the specifics of the transit-oriented development proposal, indicating that it's a significant part of the speaker's testimony."
+        },
+        {
+          "text": "6 out of 8 of them could be demolished and replaced with 3, 4, or 5 story buildings that maximize the f a r, which would nearly double. From 0.65 to 1 under the transit oriented development of city of yes or housing opportunity.",
+          "reasoning": "This quote provides specific concerns about how the transit-oriented development proposal would affect the speaker's neighborhood, showing that it's a key point of discussion in the testimony."
+        }
+      ],
+      "element_is_discussed": true
+    }
+  }
+}

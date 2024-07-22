@@ -1,0 +1,57 @@
+{
+  "testimony": {
+    "name": "Leonard Polletta",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/leonard-polletta-on-city-of-yes-for-housing",
+    "start_time_in_seconds": 46512.48,
+    "end_time_in_seconds": 46695.633,
+    "for_or_against": "Against",
+    "borough": "Manhattan",
+    "neighborhood": "Chelsea",
+    "stated_affiliations": [
+      "Penn South"
+    ],
+    "key_points": [
+      "City of Yes will not provide low-income affordable housing",
+      "Comprehensive nature and one-size-fits-all approach is wrong",
+      "Lack of mandatory affordability requirements",
+      "No provisions for building amenities and infrastructure",
+      "Will exacerbate economic and racial segregation",
+      "City should focus on building more public housing and infrastructure",
+      "Rehabilitate vacant apartments in NYCHA and warehoused units",
+      "Stronger rent control laws and enforcement needed",
+      "Current proposal favors developers over affordable housing needs"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

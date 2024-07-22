@@ -1,0 +1,87 @@
+{
+  "testimony": {
+    "name": "Thomas Devaney",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/thomas-devaney-from-municipal-art-society-on-city",
+    "start_time_in_seconds": 29221.184,
+    "end_time_in_seconds": 29412.713,
+    "for_or_against": "For",
+    "borough": "Unknown",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [
+      "Municipal Art Society"
+    ],
+    "key_points": [
+      "City of Yes for Housing Opportunity is a good start to address the housing crisis",
+      "The plan aims to unlock the 'missing middle' in housing typologies",
+      "Supports equitable distribution of housing density across the city",
+      "Supports transit-oriented development, accessory dwelling units, and universal affordability preference",
+      "Supports office-to-residential conversions and elimination of parking requirements",
+      "Projections for new housing units are modest (109,000 by 2039)",
+      "Zoning is just one tool; a comprehensive approach is needed",
+      "The city must ensure social and physical infrastructure meets neighborhood needs with increased density",
+      "MAS will provide further comments on campus infill, community engagement, and heat island impacts"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [
+        {
+          "text": "It's been encouraged to see tile centers zoning, transit oriented development, provisions for excess accessory dwelling units, universal affordability preference, including the proposal.",
+          "reasoning": "The speaker explicitly mentions 'universal affordability preference' as part of the proposal they are encouraged to see, which directly relates to the UAP element of the City of Yes For Housing Opportunity proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [
+        {
+          "text": "We also support incentives for office to residential conversions",
+          "reasoning": "The speaker explicitly mentions support for office to residential conversions, which directly relates to the Residential Conversions element of the City of Yes For Housing Opportunity proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [
+        {
+          "text": "It's been encouraged to see tile centers zoning, transit oriented development, provisions for excess accessory dwelling units, universal affordability preference, including the proposal.",
+          "reasoning": "The speaker mentions 'tile centers zoning', which appears to be a transcription error for 'town center zoning'. This directly relates to the Town Center Zoning element of the City of Yes For Housing Opportunity proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [
+        {
+          "text": "We also support incentives for office to residential conversions and the elimination of parking requirements and expanding transfer of landlord development rights.",
+          "reasoning": "The speaker mentions support for 'the elimination of parking requirements', which directly relates to the Removing Parking Mandates element of the City of Yes For Housing Opportunity proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [
+        {
+          "text": "It's been encouraged to see tile centers zoning, transit oriented development, provisions for excess accessory dwelling units, universal affordability preference, including the proposal.",
+          "reasoning": "The speaker explicitly mentions 'provisions for excess accessory dwelling units' as part of the proposal they are encouraged to see, which directly relates to the Accessory Dwelling Units (ADUs) element of the City of Yes For Housing Opportunity proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [
+        {
+          "text": "It's been encouraged to see tile centers zoning, transit oriented development, provisions for excess accessory dwelling units, universal affordability preference, including the proposal.",
+          "reasoning": "The speaker explicitly mentions 'transit oriented development' as part of the proposal they are encouraged to see, which directly relates to the Transit-Oriented Development element of the City of Yes For Housing Opportunity proposal."
+        }
+      ],
+      "element_is_discussed": true
+    }
+  }
+}

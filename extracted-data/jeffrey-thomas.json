@@ -1,0 +1,75 @@
+{
+  "testimony": {
+    "name": "Jeffrey Thomas",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/jeffrey-thomas-on-universal-affordability",
+    "start_time_in_seconds": 2820.122,
+    "end_time_in_seconds": 2942.9092,
+    "for_or_against": "For",
+    "borough": "Brooklyn",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [],
+    "key_points": [
+      "Supports the City of Yes for Housing Opportunity proposal in general",
+      "Specifically favors the Universal Affordability Preference (UAP)",
+      "UAP makes buildings more profitable while increasing affordable housing",
+      "Supports removing parking minimums",
+      "Removing parking minimums can encourage alternative transportation methods",
+      "Removing parking minimums can lower construction costs and increase affordability",
+      "Fewer parking spaces can lead to less congestion and fewer cars on the roads"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [
+        {
+          "text": "I'd like to speak specifically in favor of the universal affordability preference.",
+          "reasoning": "The speaker directly mentions and expresses support for the Universal Affordability Preference (UAP)."
+        },
+        {
+          "text": "UAP makes the buildings more profitable because say it's not saying, you know, take some of your existing housing, make make make these units affordable. So you can build even more units that are affordable. It's it's a it's a win win.",
+          "reasoning": "The speaker explains how UAP works, allowing for more affordable units to be built while still being profitable for developers, which aligns with the proposal's description."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [
+        {
+          "text": "I'd also like to speak quickly in favor for moving parking minimums.",
+          "reasoning": "The speaker directly mentions and expresses support for removing parking minimums, which is a key part of the proposal to remove parking mandates."
+        },
+        {
+          "text": "In New York City, especially when especially when you're building new buildings, if you say here's a building with no parking, people who move in will commute with some way other than a private vehicle.",
+          "reasoning": "This quote aligns with the proposal's goal of encouraging alternative transportation methods by removing parking mandates."
+        },
+        {
+          "text": "That all, as people said, lower cost construction, get us more affordability, hopefully use a space. It also means in better ways. It also means fewer cars on the roads. And less congestion.",
+          "reasoning": "The speaker highlights benefits of removing parking mandates, such as lower construction costs, increased affordability, and reduced congestion, which align with the proposal's intended outcomes."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

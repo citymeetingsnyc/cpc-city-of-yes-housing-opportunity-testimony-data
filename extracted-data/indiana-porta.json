@@ -1,0 +1,62 @@
+{
+  "testimony": {
+    "name": "Indiana Porta",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/indiana-porta-from-manhattan-community-board-9-on",
+    "start_time_in_seconds": 50524.246,
+    "end_time_in_seconds": 50721.4,
+    "for_or_against": "For",
+    "borough": "Manhattan",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [
+      "Manhattan Community Board 9"
+    ],
+    "key_points": [
+      "Requests for public availability of written and oral testimony",
+      "Clarification on the universal affordability preference proposal, specifically the fixed percentage of affordable housing",
+      "Suggestion to set a base minimum of affordable units (20%)",
+      "Question about recently rezoned areas and how the new initiative would affect them",
+      "Support for accessibility features as a wheelchair user"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Specifically for the universal affordability preference proposal, I am hearing different things. Right? It sounds like in the materials that were provided by DCP that the 20% additional housing that would be required to be affordable.",
+          "reasoning": "The speaker directly mentions the Universal Affordability Preference proposal and discusses the 20% additional affordable housing requirement, which is a key feature of this element."
+        },
+        {
+          "text": "So just clarity on that, is it a fixed percentage of the affordable housing? And I would encourage the commission and if not, the council members when they vote on this to set a base minimum of deformable units. Right? I think 20% seems fair.",
+          "reasoning": "The speaker is asking for clarification on the fixed percentage of affordable housing and suggesting a minimum requirement, which directly relates to the UAP element of the proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "testimony": {
+    "name": "Vickie Paladino",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/council-member-vickie-paladino-on-concerns-about",
+    "start_time_in_seconds": 4984.6494,
+    "end_time_in_seconds": 5188.388,
+    "for_or_against": "Against",
+    "borough": "Queens",
+    "neighborhood": "Northeast Queens",
+    "stated_affiliations": [
+      "NYC City Council"
+    ],
+    "key_points": [
+      "The initiative is being pushed through too quickly without proper consideration",
+      "Community boards in her district have voted against the initiative",
+      "There are thousands of underused or unused buildings in New York City that could be used for housing",
+      "The initiative is not a one-size-fits-all solution for all districts",
+      "Suggests implementing a pilot program to test and refine the initiative before full implementation",
+      "Concerns about the impact on residential areas",
+      "Argues that the city is not ready for the City of Yes initiative",
+      "Draws parallels to other initiatives that were rushed and led to problems (e.g., legalization of pot)",
+      "Calls for more thorough consideration and planning before implementation"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [
+        {
+          "text": "I also know that there are thousands of buildings in New York City. That are underused or not being used at all to come into residential areas",
+          "reasoning": "This statement indirectly refers to the concept of residential conversions, as it mentions underused buildings that could potentially be converted to residential use."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

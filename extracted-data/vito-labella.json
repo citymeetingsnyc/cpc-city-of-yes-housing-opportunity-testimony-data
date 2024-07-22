@@ -1,0 +1,70 @@
+{
+  "testimony": {
+    "name": "Vito Labella",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/vito-labella-senate-candidate-for-brooklyns-26th",
+    "start_time_in_seconds": 28521.064,
+    "end_time_in_seconds": 28703.178,
+    "for_or_against": "Against",
+    "borough": "Brooklyn",
+    "neighborhood": "Bay Ridge",
+    "stated_affiliations": [
+      "Political Campaign for Brooklyn's 26th District Senate Seat"
+    ],
+    "key_points": [
+      "35 community boards voted against the proposal",
+      "Opposition to the proposal is not based on racism",
+      "Transit opportunity districts will negatively impact single and 2-family homes",
+      "Special zoning should be maintained unless community boards and city council members vote otherwise",
+      "More community engagement and consensus-building is needed",
+      "Suggests a compromise on zoning for commercial strips while protecting single and 2-family zoning",
+      "Lack of infrastructure improvements in the proposal",
+      "Calls for rejection of the City of Yes proposal in its current form"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [
+        {
+          "text": "For example, the present proposal calls for retail on the bottom and then three stories of housing on top. Maybe we can compromise. Increase the number of floors for housing on on these special commercial strips and leave the present zoning in place on the other blocks, protecting single and 2 family zoning and specifically prohibiting combining lots to get the 5000 square foot threshold.",
+          "reasoning": "This quote discusses the Town Center Zoning element of the proposal, which aims to create mixed-use buildings with retail on the ground floor and housing above in commercial areas. The speaker is suggesting a compromise related to this aspect of the proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Transit opportunity districts. 4600 feet from a subway station will carve out thousands of single and 2 family homes and make them targets for developers who will buy adjacent homes and properties combine them to meet the five thousand square foot threshold and build apartment buildings there that are currently not not allowed under the prison zone.",
+          "reasoning": "This quote directly addresses the Transit-Oriented Development element of the proposal, discussing how it would affect areas near subway stations and allow for larger apartment buildings in previously single and 2-family home areas."
+        },
+        {
+          "text": "Many neighborhoods like Bay Ridge and Dyker Heights fought to have special zoning that presently prohibits these exact types of buildings.",
+          "reasoning": "This quote refers to the current zoning that prohibits the type of development proposed in the Transit-Oriented Development element, showing that the speaker is discussing this aspect of the proposal."
+        }
+      ],
+      "element_is_discussed": true
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "testimony": {
+    "name": "Sean Campion",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/sean-campion-from-citizens-budget-commission-on",
+    "start_time_in_seconds": 18619.094,
+    "end_time_in_seconds": 18805.365,
+    "for_or_against": "For",
+    "borough": "Unknown",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [
+      "Citizens Budget Commission"
+    ],
+    "key_points": [
+      "City of Yes takes the right approach to New York City's housing crisis by proposing to build more housing everywhere of all types for everyone",
+      "Housing production in NYC has failed to keep pace with demand due to policy actions intended to slow new construction",
+      "Housing scarcity degrades New Yorkers' quality of life and is bad for the city's economy and fiscal health",
+      "Negative out-migration caused by housing affordability and availability crises cost the city over $300 million in tax revenue in 2022",
+      "Allowing growth could potentially boost city tax receipts by over $2 billion a year",
+      "In CBC's 2023 resident survey, housing ranked among the top issues facing New Yorkers, with fewer than 1 in 10 feeling that government is addressing their housing needs well",
+      "Building more housing will improve affordability, quality of life, strengthen the city's economy and competitiveness",
+      "The final zoning text needs to result in a meaningful increase in development capacity citywide to improve affordability and quality of life",
+      "The housing crisis is a citywide problem that demands a citywide response"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "testimony": {
+    "name": "Erik Nilsen",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/erik-nilsen-resident-of-bushwick-brooklyn-on-full",
+    "start_time_in_seconds": 48009.06,
+    "end_time_in_seconds": 48138.58,
+    "for_or_against": "For",
+    "borough": "Brooklyn",
+    "neighborhood": "Bushwick",
+    "stated_affiliations": [],
+    "key_points": [
+      "Supports all aspects of City of Yes and urges passing the strongest form possible",
+      "Housing costs have been a major concern for himself and friends, leading to feelings of instability",
+      "Wants more housing built everywhere to address affordability concerns",
+      "Appreciates the dynamic nature of New York City and believes change is necessary for growth",
+      "Concerned about the city remaining interesting and affordable, mentioning high rental costs",
+      "Believes embracing change is part of living in New York City"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

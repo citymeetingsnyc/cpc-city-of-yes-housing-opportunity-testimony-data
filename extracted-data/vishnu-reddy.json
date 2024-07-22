@@ -1,0 +1,55 @@
+{
+  "testimony": {
+    "name": "Vishnu Reddy",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/vishnu-reddy-resident-of-sunnyside-queens-on",
+    "start_time_in_seconds": 42876.953,
+    "end_time_in_seconds": 42988.223,
+    "for_or_against": "For",
+    "borough": "Queens",
+    "neighborhood": "Sunnyside",
+    "stated_affiliations": [],
+    "key_points": [
+      "Support for City of Yes for Housing Opportunity",
+      "Skyrocketing rents in Sunnyside and across the city",
+      "Dire housing shortage affecting the city and region",
+      "Housing costs harming all but the wealthiest New Yorkers",
+      "Desire for New York to remain a welcoming city for vulnerable populations",
+      "City of Yes is a good start but more action is needed",
+      "Need for continued encouragement of home creation",
+      "Call for help from Albany to fund affordable housing and involve suburbs in housing creation",
+      "Appreciation for city planning staff and organizers working on housing issues"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "testimony": {
+    "name": "Pamela Wolff",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/pamela-wolff-on-concerns-about-the-city-of-yes-for",
+    "start_time_in_seconds": 50806.75,
+    "end_time_in_seconds": 51037.355,
+    "for_or_against": "Against",
+    "borough": "Manhattan",
+    "neighborhood": "Chelsea",
+    "stated_affiliations": [],
+    "key_points": [
+      "The initiative would compromise housing quality by allowing reduced standards (smaller windows, setbacks, no minimum unit sizes)",
+      "Lack of mandatory affordable housing provisions",
+      "Failure to conduct community impact assessments",
+      "Reduction of Council member's powers, diminishing local oversight and accountability",
+      "Provisions for transfer of development rights from landmarks could lead to oversized towers",
+      "Potential negative impact on Chelsea's community and character",
+      "Risk of deepening economic segregation",
+      "Concern about demolition of naturally occurring affordable housing"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

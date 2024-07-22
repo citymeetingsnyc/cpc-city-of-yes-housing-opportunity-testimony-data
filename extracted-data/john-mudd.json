@@ -1,0 +1,60 @@
+{
+  "testimony": {
+    "name": "John Mudd",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/john-mudd-president-of-midtown-south-community",
+    "start_time_in_seconds": 6556.3296,
+    "end_time_in_seconds": 6731.7383,
+    "for_or_against": "Against",
+    "borough": "Manhattan",
+    "neighborhood": "Midtown South",
+    "stated_affiliations": [
+      "Midtown South Community Council",
+      "Empire State Coalition",
+      "Right to Counsel NYC Coalition"
+    ],
+    "key_points": [
+      "The proposal will strip away equity opportunities for the public",
+      "The plan will feed more wealth to developers and the real estate industry",
+      "The plan is rushed and not well thought out",
+      "It will continue to increase disparity",
+      "The plan should focus on preventing and curing homelessness",
+      "Opposes social cuts, land giveaways, and selling of public assets",
+      "Concerns about the influence of the real estate industry on the city",
+      "The plan is connected to other controversial development projects in the city",
+      "Lack of oversight on housing and homelessness issues",
+      "Concerns about tenant displacement"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

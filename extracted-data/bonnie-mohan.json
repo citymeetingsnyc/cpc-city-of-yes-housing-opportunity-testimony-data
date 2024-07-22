@@ -1,0 +1,57 @@
+{
+  "testimony": {
+    "name": "Bonnie Mohan",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/bonnie-mohan-cofounder-and-executive-director-of",
+    "start_time_in_seconds": 20375.803,
+    "end_time_in_seconds": 20535.889,
+    "for_or_against": "For",
+    "borough": "Unknown",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [
+      "Health and Housing Consortium"
+    ],
+    "key_points": [
+      "Strong support for City of Yes for Housing Opportunity",
+      "Affordable and supportive housing is deeply needed across all boroughs",
+      "High numbers of people in shelters, on streets, or in unstable housing situations",
+      "Lack of affordable housing is a primary reason for families entering shelters",
+      "The consortium trains frontline workers on navigating NYC's homeless housing systems",
+      "Current housing vouchers are flawed and often not accepted by landlords",
+      "City of Yes plan is seen as a lifeline for those at risk of or experiencing homelessness",
+      "The plan is rooted in respect for communities and neighborhoods",
+      "Urges the city planning commission to support the plan to help build a New York where everyone can thrive"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

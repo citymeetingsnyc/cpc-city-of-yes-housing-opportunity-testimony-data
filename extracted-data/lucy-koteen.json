@@ -1,0 +1,65 @@
+{
+  "testimony": {
+    "name": "Lucy Koteen",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/lucy-koteen-from-brooklyn-on-environmental",
+    "start_time_in_seconds": 47583.63,
+    "end_time_in_seconds": 47774.02,
+    "for_or_against": "Against",
+    "borough": "Brooklyn",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [],
+    "key_points": [
+      "Environmental concerns related to construction and cement production",
+      "Existence of empty structures and housing units throughout the city",
+      "Criticism of MIH (Mandatory Inclusionary Housing) for not providing affordable housing",
+      "Suggestion to focus on distributing existing housing rather than building new",
+      "Recommendation to fill empty units and repurpose existing buildings",
+      "Concern about the abundance of high-end housing construction",
+      "Criticism of what is considered 'affordable' housing (80-130% AMI)",
+      "Suggestion to subsidize lower-income families in existing units instead of building new",
+      "Proposal to help landlords bring empty units up to code",
+      "Concern about the loss of sky view and increased shadows due to high-rise construction"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [
+        {
+          "text": "As we all know, office buildings have much empty space.",
+          "reasoning": "This quote indirectly refers to the potential for converting empty office spaces into residential units, which is a key aspect of the Residential Conversions element of the City of Yes For Housing Opportunity proposal."
+        },
+        {
+          "text": "Fill the empty units and build and buildings that are already standing.",
+          "reasoning": "This statement aligns with the proposal's aim to convert underused non-residential spaces into housing, which is a core principle of the Residential Conversions element."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

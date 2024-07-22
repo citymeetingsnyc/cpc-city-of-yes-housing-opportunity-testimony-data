@@ -1,0 +1,69 @@
+{
+  "testimony": {
+    "name": "Regina Myer",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/regina-myer-president-of-downtown-brooklyn",
+    "start_time_in_seconds": 31110.543,
+    "end_time_in_seconds": 31315.754,
+    "for_or_against": "For",
+    "borough": "Brooklyn",
+    "neighborhood": "Downtown Brooklyn",
+    "stated_affiliations": [
+      "Downtown Brooklyn Partnership"
+    ],
+    "key_points": [
+      "Strong support for City of Yes for Housing Opportunity zoning amendment",
+      "Downtown Brooklyn has added nearly 22,600 housing units with 77,100 more in pipeline",
+      "Support for revising height limitation rules in Downtown Brooklyn special district",
+      "Agreement with maintaining height limitations on south side of Schermerhorn Street for transition to low-rise Boerum Hill",
+      "Strong support for removing minimum parking requirements for new residential developments citywide",
+      "Reminder of successful 2012 reduction of parking requirements in Downtown Brooklyn",
+      "Support for office to residential conversion (not fully elaborated due to time constraints)"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [
+        {
+          "text": "In terms of office to residential conversion",
+          "reasoning": "The speaker begins to mention office to residential conversion, which directly relates to the Residential Conversions element of the proposal. Although the speaker is cut off before elaborating, this indicates that they were about to discuss this aspect of the proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Talking about ending parking mandates, we are strongly in support of removing removing the minimum parking requirements for new residential developments citywide to allow for more housing options and hopefully getting to lower construction costs.",
+          "reasoning": "This quote directly addresses the Removing Parking Mandates element of the proposal. The speaker explicitly mentions support for removing minimum parking requirements for new residential developments, which aligns with the proposal's aim to end parking mandates."
+        },
+        {
+          "text": "I also wanna note and remind you all that you did an incredible thing in 2012 when you reduced the parking requirement in downtown Brooklyn. By half. That was with community concurrence, and that did result in more efficient development.",
+          "reasoning": "This quote further supports the discussion of removing parking mandates by referencing a past successful reduction in parking requirements in Downtown Brooklyn. The speaker uses this as evidence to support the current proposal to remove parking mandates citywide."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

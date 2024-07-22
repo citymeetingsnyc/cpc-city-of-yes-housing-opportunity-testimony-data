@@ -1,0 +1,75 @@
+{
+  "testimony": {
+    "name": "Howard Slatkin",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/howard-slatkin-executive-director-of-citizen",
+    "start_time_in_seconds": 13968.477,
+    "end_time_in_seconds": 14154.87,
+    "for_or_against": "For",
+    "borough": "Unknown",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [
+      "Citizen Housing and Planning Council"
+    ],
+    "key_points": [
+      "The proposed zoning text amendments are an important step forward for NYC zoning",
+      "Current zoning regulations have created a persistent housing shortage",
+      "Zoning for scarcity creates unintended consequences that hurt everyone, especially those with the least",
+      "Current regulations often produce absurd results, such as losing housing units in some neighborhoods",
+      "The proposal will help reverse zoning for scarcity and better align with housing needs of New Yorkers",
+      "Zoning changes must be accompanied by sustained public investment and other regulatory changes",
+      "Suggests modifications to the proposal, including a permanent off-site option for UAP program and vesting certain existing development rights"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [
+        {
+          "text": "This includes providing a permanent off-site option everywhere that the UAP program applies.",
+          "reasoning": "The speaker explicitly mentions the UAP program, which is the Universal Affordability Preference. They suggest modifications to the proposal, indicating that this element is being discussed."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [
+        {
+          "text": "You can often combine 2 units into a single unit can't do the opposite.",
+          "reasoning": "This quote indirectly refers to residential conversions. The speaker is pointing out the current limitations on converting larger units into smaller ones, which is related to the residential conversions element of the proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [
+        {
+          "text": "It might trigger impossible parking requirements or require rezoning of the entire block.",
+          "reasoning": "The speaker mentions 'impossible parking requirements' as a barrier to housing flexibility, which relates to the proposal's aim to remove parking mandates."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [
+        {
+          "text": "We have a true story of Missus Vallez in her nineties who purchased a 2 family house in the Bronx or at least that's what she thought it was when she bought it. With a downstairs unit that she rents to a man who helps her with their chores and groceries pays her $800 a month in rent that supplements her Social Security income. But this is illegal because that unit is not illegal unit and it cannot be legalized today.",
+          "reasoning": "This anecdote about Mrs. Vallez's illegal downstairs unit is directly related to the concept of Accessory Dwelling Units (ADUs). The speaker is highlighting the current limitations on legalizing such units, which the City of Yes proposal aims to address."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "testimony": {
+    "name": "Arlene Shlesinger",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/arlene-shlesinger-from-hollis-hill-civic",
+    "start_time_in_seconds": 6329.0444,
+    "end_time_in_seconds": 6445.5776,
+    "for_or_against": "Against",
+    "borough": "Queens",
+    "neighborhood": "Hollis Hills",
+    "stated_affiliations": [
+      "Hollis Hill Civic Association"
+    ],
+    "key_points": [
+      "The initiative ignores community board decisions",
+      "The community has the right to maintain single-family home lifestyle",
+      "Local schools are already overcrowded",
+      "The initiative would benefit developers and realtors at the expense of residents",
+      "The plan would devastate local commercial areas",
+      "The initiative would transform suburban areas into high-density mixed-use zones",
+      "The initiative would undermine community stability",
+      "Introducing renters could lead to businesses operating out of homes, causing problems"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [
+        {
+          "text": "This plan would devastate our local commercial areas leaving store months empty as some 3rd world countries look.",
+          "reasoning": "This quote indicates that the speaker is discussing the impact on local commercial areas, which is related to the Town Center Zoning element of the proposal. Although the speaker is against the idea, they are addressing the potential changes to commercial corridors, which is a key aspect of the Town Center Zoning proposal."
+        },
+        {
+          "text": "The city of yes is attempting to transform our suburban areas into high density mixed use zones.",
+          "reasoning": "This quote directly relates to the Town Center Zoning element, which aims to create mixed-use neighborhoods by allowing housing above businesses in commercial areas. The speaker is expressing opposition to this transformation, but is clearly discussing this aspect of the proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [
+        {
+          "text": "While living costs are many families here have to up or live with parents or grandparents to manage the expenses.",
+          "reasoning": "This quote indirectly relates to the Accessory Dwelling Units (ADU) element of the proposal. The speaker mentions families living with parents or grandparents, which is one of the situations that ADUs are designed to address. Although the speaker doesn't explicitly mention ADUs, they are discussing a living arrangement that ADUs are intended to facilitate."
+        },
+        {
+          "text": "Introducing renters into the area would lead to businesses operating out of their homes, exacerbating power synergies and plugging chaos.",
+          "reasoning": "This quote indirectly relates to the ADU element of the proposal. The speaker is expressing concern about introducing renters into single-family home areas, which could be a result of allowing ADUs. While not explicitly mentioning ADUs, the concern about changing the character of single-family neighborhoods is related to the ADU aspect of the proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "testimony": {
+    "name": "Sharlene Jackson Mendez",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/sharlene-jackson-mendez-on-city-of-yes-housing",
+    "start_time_in_seconds": 35960.97,
+    "end_time_in_seconds": 36200.43,
+    "for_or_against": "Against",
+    "borough": "Bronx",
+    "neighborhood": "Van Nest",
+    "stated_affiliations": [
+      "Van Nest Neighorhood Alliance",
+      "Coalition of East Bronx Community Association"
+    ],
+    "key_points": [
+      "The City of Yes plan will bring 7500 new housing units to her community, which is too much development",
+      "The plan does not provide for additional infrastructure or services to support the new residents",
+      "The proposed housing will not be affordable for current community members",
+      "The plan removes local control from communities",
+      "The speaker resents implications that community concerns are rooted in racism or classism",
+      "There is no shortage of housing above $2,300/month rent",
+      "ADU units can have significant negative consequences on neighbors",
+      "The community is not against affordable housing, but concerned about how it is implemented"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [
+        {
+          "text": "ADU units and all these things, they can have very significant consequences.",
+          "reasoning": "The speaker directly mentions ADU (Accessory Dwelling Units) and implies that they can have significant consequences, which indicates that she is discussing this element of the proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Between the Bronx Metro North expansion and the city of yes, my small community is slated to receive 7500 new units of housing which will entail more than 20,000 new residents with no provisions for additional policing, firefighters, sanitation, or upgrades in infrastructure.",
+          "reasoning": "The speaker mentions the Bronx Metro North expansion in conjunction with the City of Yes plan, which suggests she is referring to transit-oriented development. She expresses concern about the large number of new housing units and residents that would result from this development near transit."
+        }
+      ],
+      "element_is_discussed": true
+    }
+  }
+}

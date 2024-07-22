@@ -1,0 +1,84 @@
+{
+  "testimony": {
+    "name": "Peter Estes",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/peter-estes-representing-bj-jones-of-the-new-new",
+    "start_time_in_seconds": 17382.182,
+    "end_time_in_seconds": 17574.742,
+    "for_or_against": "For",
+    "borough": "Unknown",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [
+      "The New New York"
+    ],
+    "key_points": [
+      "Strong support for the City of Yes for Housing Opportunity",
+      "Aligns with the New New York panel's action plan for equitable recovery",
+      "Helps tackle 3 key initiatives: reducing barriers to housing growth, increasing supportive housing supply, and making business districts more live-work-play",
+      "Allows for contextual missing middle small apartment buildings near transit",
+      "Simplifies housing development on faith-based institution campuses",
+      "Universal affordability preference paired with 485x incentive can be a game changer for affordable and supportive housing",
+      "Allows modest apartment buildings above businesses on Commercial Streets",
+      "Makes office to residential conversions easier",
+      "Creates new high-density zoning districts with strong affordability requirements",
+      "Addresses decades-long imbalance between housing demand and supply",
+      "Will benefit New Yorkers at all income levels",
+      "Ensures New York remains a livable city and magnet for global talent"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [
+        {
+          "text": "The universal affordability preference paired estate incentive 485x can be a game changer for affordable and supportive housing in New York.",
+          "reasoning": "This quote directly mentions the Universal Affordability Preference, which is a key element of the City of Yes For Housing Opportunity proposal. The speaker is highlighting its potential impact on affordable and supportive housing."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [
+        {
+          "text": "The plan before us today allows modest apartment buildings above businesses on Commercial Streets makes needed and common sense office to residential conversions much easier",
+          "reasoning": "This quote directly refers to making office to residential conversions easier, which is a key aspect of the Residential Conversions element of the City of Yes For Housing Opportunity proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [
+        {
+          "text": "The plan before us today allows modest apartment buildings above businesses on Commercial Streets",
+          "reasoning": "This quote aligns with the Town Center Zoning element of the proposal, which aims to allow housing above businesses on commercial streets in low-density areas."
+        },
+        {
+          "text": "Conversions, Town Center zoning and new high density zoning districts our breath of fresh air for the commercial corridors and core business districts that sustain our city's economic vitality.",
+          "reasoning": "This quote directly mentions Town Center zoning as part of the proposal, indicating that it is being discussed in the context of improving commercial corridors and business districts."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [
+        {
+          "text": "City of US for housing opportunity works towards this in a number of important ways such as allowing for contextual missing middle small apartment buildings near transit",
+          "reasoning": "This quote directly refers to allowing small apartment buildings near transit, which is a key aspect of the Transit-Oriented Development element of the City of Yes For Housing Opportunity proposal."
+        }
+      ],
+      "element_is_discussed": true
+    }
+  }
+}

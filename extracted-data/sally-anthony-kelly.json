@@ -1,0 +1,59 @@
+{
+  "testimony": {
+    "name": "Sally Anthony Kelly",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/sally-anthony-kelly-on-city-of-yess-impact-on",
+    "start_time_in_seconds": 46729.035,
+    "end_time_in_seconds": 46793.613,
+    "for_or_against": "Against",
+    "borough": "Queens",
+    "neighborhood": "Howard Beach",
+    "stated_affiliations": [],
+    "key_points": [
+      "Howard Beach is in a flood area with severe flooding issues that need to be addressed before any proposal",
+      "More buildings and ADUs will reduce green space, which helps with water reabsorption during high tides",
+      "Increased development will lead to more flood claims, causing already high insurance prices to increase",
+      "The city should install floodgates that were promised and approved 40 years ago",
+      "Howard Beach is a suburban area, and residents chose to live there for that reason",
+      "The proposal should be broken up by community board and allow for community board votes",
+      "Residents should have a voice in decisions affecting their areas",
+      "Request to vote no on the City of Yes proposal or exclude Community Board 10 from it"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [
+        {
+          "text": "More buildings and ADUs will take away green space, which currently helps us with reabsorption of water during high tides.",
+          "reasoning": "The speaker directly mentions ADUs (Accessory Dwelling Units) and expresses concern about their impact on green space and flooding issues in Howard Beach."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "testimony": {
+    "name": "Max Davidson",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/max-davidson-on-supporting-city-of-yes-for-housing",
+    "start_time_in_seconds": 27469.121,
+    "end_time_in_seconds": 27618.066,
+    "for_or_against": "For",
+    "borough": "Unknown",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [],
+    "key_points": [
+      "Support for City of Yes initiative to address housing shortage",
+      "New York's legacy as a haven for immigrants is at risk due to housing crisis",
+      "Housing shortage gives too much power to landlords over tenants",
+      "City of Yes provides a first step towards rebalancing power towards tenants",
+      "Support for increasing density and height for transit-oriented development, especially in affluent white neighborhoods",
+      "Recommendation to expand UAP and identify opportunities to deepen levels of affordability",
+      "Suggestion to explore ways to add market-rate units in exchange for deeper affordability",
+      "Proposal to average affordability levels between developments in different neighborhoods",
+      "Encouragement to strengthen the City of Yes initiative to meet the needs of all New Yorkers"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Additionally, I want to recommend DCP or to expand UAP and identify creative opportunities to deepen levels of affordability.",
+          "reasoning": "This quote directly mentions UAP (Universal Affordability Preference) and discusses expanding it, which is a clear reference to this element of the City of Yes For Housing Opportunity proposal."
+        },
+        {
+          "text": "From any working class New Yorkers, 60 percent AMI is too high. To offer 2 recommendations, perhaps DCP can explore ways to make to add additional as of right market rate units on the condition that that allows for deeper affordability at 50% or 40% AMI.",
+          "reasoning": "This quote discusses the affordability levels of the UAP, mentioning the 60% AMI threshold and suggesting modifications to allow for deeper affordability, which is directly related to the UAP element of the proposal."
+        },
+        {
+          "text": "Alternatively, if a developer is building in, say, the West Village And Crown Heights, perhaps they can average between 2 different developments. So reaching 70 percent AMI in the village, whether it's a high willingness to pay, but achieving 50% afford AMI in Crown Heights, which is a much more working class neighborhood.",
+          "reasoning": "This quote proposes modifications to the UAP element, suggesting a way to adjust affordability levels based on neighborhood characteristics, which is directly related to the Universal Affordability Preference part of the proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [
+        {
+          "text": "I support his proposal to increase density and height for transit oriented development, particularly in affluent white neighborhoods that were down zoned under the Bloomberg administration ratio.",
+          "reasoning": "This quote directly mentions transit-oriented development and discusses increasing density and height near transit, which is a key aspect of the Transit-Oriented Development element of the City of Yes For Housing Opportunity proposal."
+        }
+      ],
+      "element_is_discussed": true
+    }
+  }
+}

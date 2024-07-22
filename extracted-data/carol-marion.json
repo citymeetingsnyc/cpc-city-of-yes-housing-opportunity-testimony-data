@@ -1,0 +1,71 @@
+{
+  "testimony": {
+    "name": "Carol Marion",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/carol-marion-from-bayside-on-opposition-to-city-of",
+    "start_time_in_seconds": 19720.637,
+    "end_time_in_seconds": 19902.592,
+    "for_or_against": "Against",
+    "borough": "Queens",
+    "neighborhood": "Bayside",
+    "stated_affiliations": [],
+    "key_points": [
+      "The plan does not address the diversity of NYC neighborhoods",
+      "It will destroy communities over time",
+      "It will not create affordable housing",
+      "It will replace owner-occupied housing with market-rate rental units",
+      "It will increase density without infrastructure improvements",
+      "The plan benefits rich developers, architects, and real estate developers",
+      "The city has not listened to community board feedback",
+      "One-size-fits-all approach doesn't work for diverse NYC neighborhoods",
+      "Against accessory dwelling units",
+      "Concerns about loss of green space and increased flooding",
+      "Lack of flexibility for different community needs"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [
+        {
+          "text": "many of us here and I talk to my neighbors are against the accessory units.",
+          "reasoning": "The speaker directly mentions being against accessory units, which is a clear reference to the Accessory Dwelling Units (ADU) element of the City of Yes For Housing Opportunity proposal."
+        },
+        {
+          "text": "enforcement of illegal Basement Apartments, which I'd like to ask you guys, where do you stand with the egress window requirement?",
+          "reasoning": "While not directly mentioning ADUs, the speaker's concern about basement apartments and egress windows is related to the ADU element of the proposal, as basement apartments are a type of ADU."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [
+        {
+          "text": "We are against the DOD",
+          "reasoning": "The speaker mentions being against 'DOD', which in this context likely refers to 'Transit-Oriented Development' (TOD). The speaker may have misspoken or the transcription may be incorrect, but it appears they are referencing this element of the proposal."
+        }
+      ],
+      "element_is_discussed": true
+    }
+  }
+}

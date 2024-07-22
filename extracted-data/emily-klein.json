@@ -1,0 +1,91 @@
+{
+  "testimony": {
+    "name": "Emily Klein",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/emily-klein-from-community-preservation",
+    "start_time_in_seconds": 23247.469,
+    "end_time_in_seconds": 23431.703,
+    "for_or_against": "For",
+    "borough": "Unknown",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [
+      "Community Preservation Corporation"
+    ],
+    "key_points": [
+      "New York is experiencing a housing crisis with low vacancy rates and high rent burdens",
+      "Outdated zoning regulations and exclusionary practices have led to insufficient housing development",
+      "City of Yes for Housing Opportunity provides a citywide roadmap to build more housing in every neighborhood",
+      "The proposal updates zoning codes to meet current housing needs and promote equitable neighborhoods",
+      "Specific proposals include reintroducing Town Center zoning, allowing apartment buildings near transit, permitting accessory dwelling units",
+      "Introduction of Universal Affordability Preference to increase affordable housing",
+      "Removal of parking mandates, allowing conversion of non-residential buildings to housing, and permitting smaller shared housing",
+      "The proposals are designed to match existing neighborhood character while addressing outdated regulations",
+      "Urges the commission to approve City of Yes for Housing Opportunity as currently written"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [
+        {
+          "text": "In medium and high density neighborhood, City of Yes would introduce universal affordability preference, which will allow buildings to add at least 20% more housing if those additional homes are permanently affordable at 60% of area median income.",
+          "reasoning": "This quote directly discusses the Universal Affordability Preference (UAP) element of the proposal, accurately describing its core features of allowing 20% more housing if it's affordable at 60% AMI."
+        },
+        {
+          "text": "We strongly support UAP and its affordability levels, which would specifically serve lower income New Yorkers.",
+          "reasoning": "This quote explicitly mentions support for the UAP and its affordability levels, indicating that the speaker is discussing this element of the proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Finally, City of Yes includes city wide proposals to remove costly parking mandates, allow for the conversions of non residential buildings to housing, and allow for smaller shared housing and campus infill development.",
+          "reasoning": "This quote directly mentions the proposal to allow conversions of non-residential buildings to housing, which is a key aspect of the Residential Conversions element of the City of Yes plan."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [
+        {
+          "text": "For low density neighborhoods, CVS would reintroduce Towne Centre zoning to allow Ground Floor Commercial with 2 to 4 stories of housing above.",
+          "reasoning": "This quote directly discusses the Town Center Zoning element of the proposal, accurately describing its core feature of allowing ground floor commercial use with housing above in low-density neighborhoods."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Finally, City of Yes includes city wide proposals to remove costly parking mandates, allow for the conversions of non residential buildings to housing, and allow for smaller shared housing and campus infill development.",
+          "reasoning": "This quote directly mentions the proposal to remove costly parking mandates, which is the core aspect of the Removing Parking Mandates element of the City of Yes plan."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [
+        {
+          "text": "It would allow 3 to 5 story apartment buildings with a half mile of subway and rail stations would permit accessory dwelling units give homeowners the flexibility to adopt their homes to meet their families needs.",
+          "reasoning": "This quote directly mentions permitting accessory dwelling units, which is the core aspect of the Accessory Dwelling Units (ADU) element of the City of Yes plan."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [
+        {
+          "text": "It would allow 3 to 5 story apartment buildings with a half mile of subway and rail stations would permit accessory dwelling units give homeowners the flexibility to adopt their homes to meet their families needs.",
+          "reasoning": "This quote discusses allowing 3 to 5 story apartment buildings within half a mile of subway and rail stations, which is a key aspect of Transit-Oriented Development as proposed in the City of Yes plan."
+        }
+      ],
+      "element_is_discussed": true
+    }
+  }
+}

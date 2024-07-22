@@ -1,0 +1,82 @@
+{
+  "testimony": {
+    "name": "Eric McClure",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/eric-mcclure-of-streetspac-on-eliminating-parking",
+    "start_time_in_seconds": 41864.176,
+    "end_time_in_seconds": 41999.9,
+    "for_or_against": "For",
+    "borough": "Brooklyn",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [
+      "StreetsPAC",
+      "Brooklyn Community Board 6"
+    ],
+    "key_points": [
+      "Strong support for eliminating parking requirements",
+      "Support for expansion of transit-oriented development",
+      "Endorsement of town center zoning initiative",
+      "Increasing density around transit to combat climate change and promote housing creation",
+      "Reducing reliance on cars and making streets safer",
+      "Improving public transit"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [
+        {
+          "text": "We also strongly support the expansion of transit oriented development including growing the footprint of transit zones across the city as well as the town center zoning initiative.",
+          "reasoning": "The speaker explicitly mentions and expresses support for the town center zoning initiative, which is a key element of the City of Yes For Housing Opportunity proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [
+        {
+          "text": "First, we strongly support the initiative to eliminate parking requirements. These onerous mandates have impeded the creation of housing across large expanses of the city for decades adding tremendous cost to new housing development and in many cases compelling developers to build fewer units and zoning allows in order to avoid triggering expensive parking requirements.",
+          "reasoning": "The speaker directly addresses and strongly supports the removal of parking mandates, which is a key element of the City of Yes For Housing Opportunity proposal. They discuss how current parking requirements impede housing development and increase costs."
+        },
+        {
+          "text": "Eliminating these mandates will help spur housing growth while also reducing the perverse incentive for car ownership and driving the and and driving that the existing requirements create.",
+          "reasoning": "This quote further elaborates on the benefits of removing parking mandates, aligning with the proposal's goals of increasing housing and reducing car dependency."
+        },
+        {
+          "text": "We'll also note that there are significant misconceptions about what lifting parking mandates will mean in the real world. Ending parking mandates is not banned parking, far from it. Developers will build parking where there's demand for it, but zoning won't force its inclusion where it isn't warranted.",
+          "reasoning": "The speaker addresses common misconceptions about removing parking mandates, clarifying that it doesn't ban parking but allows for more flexibility, which is in line with the proposal's intent."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [
+        {
+          "text": "We also strongly support the expansion of transit oriented development including growing the footprint of transit zones across the city as well as the town center zoning initiative.",
+          "reasoning": "The speaker explicitly mentions and expresses strong support for transit-oriented development, which is a key element of the City of Yes For Housing Opportunity proposal."
+        },
+        {
+          "text": "Increasing density around transit, whether that be subway and commuter rail stations, select service routes or the future path of the inner borough express and walkable and vikable neighborhoods is a crucial policy for combating climate change as well as burning housing creation and will make it much easier for New Yorkers to avoid the tremendous financial burden of car ownership should they so choose.",
+          "reasoning": "This quote elaborates on the benefits of transit-oriented development, highlighting its importance for climate change, housing creation, and reducing car dependency, which aligns with the goals of the proposal."
+        }
+      ],
+      "element_is_discussed": true
+    }
+  }
+}

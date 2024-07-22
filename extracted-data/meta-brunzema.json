@@ -1,0 +1,94 @@
+{
+  "testimony": {
+    "name": "Meta Brunzema",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/meta-brunzema-from-the-collective-for-community",
+    "start_time_in_seconds": 8432.573,
+    "end_time_in_seconds": 8624.033,
+    "for_or_against": "Against",
+    "borough": "Unknown",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [
+      "Collective for Community, Culture, and Environment, LLC"
+    ],
+    "key_points": [
+      "Appreciates the goal of affordable housing but cannot endorse current proposals without modifications",
+      "Zoning changes are too numerous to be adequately reviewed as a whole",
+      "Lack of affordability requirements in the proposal",
+      "Increased supply is needed for low-income housing, not luxury housing",
+      "Universal affordability preference is unpredictable and voluntary",
+      "Proposal neglects local context beyond zoning density",
+      "Concerns about reduced rear and side yards, lot sizes, and FAR increases in low-density districts",
+      "Worries about loss of trees and permeability in medium to high-density districts",
+      "Elimination of public review for many zoning changes",
+      "Issues with campus development changes reducing open space and potentially causing displacement",
+      "Agrees with increased housing density in town centers and transit-oriented districts, but notes lack of affordability requirements",
+      "Concerns about allowing R5 density in R1 and R2 districts",
+      "Supports allowing accessory dwelling units but worried about increased lot coverage",
+      "Suggests that expanded transfer of air rights from landmark buildings should include affordable housing requirements",
+      "Adaptive reuse changes are potentially positive but lack affordability requirements",
+      "Reducing parking is commendable but must consider limitations of on-street parking and mass transit accessibility"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Unfortunately, as it is voluntary, universal affordability preference is unpredictable, and in higher income neighborhoods, South may elect not to take advantage of the increased SAR.",
+          "reasoning": "This quote directly mentions the Universal Affordability Preference (UAP) element of the proposal. The speaker expresses concerns about its voluntary nature and potential unpredictability, especially in higher-income neighborhoods."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [
+        {
+          "text": "While adaptive reuse changes and enable conversions to a wider range housing types like supportive housing, dorms, and rooming units are pot potentially positive. It is unclear why these do not include affordability requirements.",
+          "reasoning": "This quote discusses the residential conversions element of the proposal, mentioning adaptive reuse and conversions to various housing types, which aligns with the residential conversions proposal. The speaker also raises a concern about the lack of affordability requirements in these conversions."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [
+        {
+          "text": "We agree with Increased housing density in town center in transit oriented districts. However, there are no affordability requirements in either. Also, we are concerned that in R1 and R2 districts, R5 density would be allowed.",
+          "reasoning": "This quote directly mentions increased housing density in town centers, which is a key aspect of the Town Center Zoning proposal. The speaker agrees with this element but raises concerns about the lack of affordability requirements and potential density increases in certain districts."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Finally, while reducing parking is commendable, eliminating parking mandates must consider the limitations of on street parking As it is voluntary, parking may be included in market rate developments. However, without adequate mass transit in low income neighborhoods, residents may need to rely on car services.",
+          "reasoning": "This quote directly addresses the proposal to remove parking mandates, discussing both the positive aspects and potential concerns, especially in low-income neighborhoods with limited public transit."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [
+        {
+          "text": "We agree that there are real benefits to allowing accessory dwelling units. However, there are concerns about increasing lot coverage, especially for smaller lux.",
+          "reasoning": "This quote directly mentions accessory dwelling units, acknowledging their benefits while also expressing concerns about lot coverage, which is related to the ADU proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [
+        {
+          "text": "We agree with Increased housing density in town center in transit oriented districts. However, there are no affordability requirements in either.",
+          "reasoning": "This quote explicitly mentions 'transit oriented districts' and increased housing density, which directly relates to the Transit-Oriented Development element of the proposal. The speaker agrees with this aspect but raises concerns about the lack of affordability requirements."
+        }
+      ],
+      "element_is_discussed": true
+    }
+  }
+}

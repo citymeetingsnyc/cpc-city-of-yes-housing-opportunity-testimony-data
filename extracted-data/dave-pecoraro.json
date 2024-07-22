@@ -1,0 +1,68 @@
+{
+  "testimony": {
+    "name": "Dave Pecoraro",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/dave-pecoraro-from-rosedale-civic-association-and",
+    "start_time_in_seconds": 49869.49,
+    "end_time_in_seconds": 50043.336,
+    "for_or_against": "Against",
+    "borough": "Queens",
+    "neighborhood": "Rosedale",
+    "stated_affiliations": [
+      "Rosedale Civic Association",
+      "Queens Community Board 13"
+    ],
+    "key_points": [
+      "Universal opposition to City of Yes from his neighbors",
+      "Community Board 13 unanimously voted no",
+      "Residents chose to live in Eastern Queens to avoid congestion",
+      "Concerns about environmental impact on already strained infrastructure",
+      "Lack of required parking fails to recognize needs of areas with limited mass transit",
+      "Half-mile transit zones from LIRR stations are excessive",
+      "Paving green spaces could increase flooding risks",
+      "Some neighborhoods are considering seceding from the city due to this plan",
+      "Plan is seen as benefiting Manhattan realtors and elites at the expense of local communities"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [
+        {
+          "text": "The lack of required parking fails to recognize the needs of those of us who live in mass transit wastelands.",
+          "reasoning": "This quote directly addresses the proposal's element of removing parking mandates. The speaker is criticizing this aspect of the plan, indicating that it doesn't account for areas with poor public transportation access."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [
+        {
+          "text": "The proposal of half mile transit zones from LIR or state agents that have been insufficient trades is excessive. A 1 or 2 block radius might be more reasonable.",
+          "reasoning": "This quote directly addresses the transit-oriented development aspect of the proposal. The speaker is criticizing the proposed half-mile radius around transit stations as excessive, suggesting a smaller radius would be more appropriate."
+        }
+      ],
+      "element_is_discussed": true
+    }
+  }
+}

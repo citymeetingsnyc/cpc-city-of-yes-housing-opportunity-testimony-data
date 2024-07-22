@@ -1,0 +1,55 @@
+{
+  "testimony": {
+    "name": "Alexander McCoy",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/alexander-mccoy-marine-corps-veteran-on-city-of",
+    "start_time_in_seconds": 44547.625,
+    "end_time_in_seconds": 44736.562,
+    "for_or_against": "For",
+    "borough": "Manhattan",
+    "neighborhood": "Upper Manhattan",
+    "stated_affiliations": [
+      "Marine Corps",
+      "Open New York"
+    ],
+    "key_points": [
+      "Support for City of Yes initiative, especially for its benefits to veterans",
+      "Current housing prices and rent are unaffordable for many veterans, even with generous benefits",
+      "Exclusionary zoning forces veterans to live in substandard conditions or have long commutes",
+      "New York City has a lower percentage of veterans per capita due to housing issues",
+      "Some community members exploit veterans as props against building new homes",
+      "City of Yes program should be implemented in full to address these issues"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

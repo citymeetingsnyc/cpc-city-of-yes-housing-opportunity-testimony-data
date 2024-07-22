@@ -1,0 +1,71 @@
+{
+  "testimony": {
+    "name": "Henry Euler",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/henry-euler-president-of-auburndale-improvement",
+    "start_time_in_seconds": 10345.422,
+    "end_time_in_seconds": 10530.734,
+    "for_or_against": "Against",
+    "borough": "Queens",
+    "neighborhood": "Auburndale",
+    "stated_affiliations": [
+      "Auburndale Improvement Association"
+    ],
+    "key_points": [
+      "The proposal hasn't been completely vetted and more work is needed",
+      "Opposition to transit-oriented development, especially in low-density and single-family zoning areas",
+      "Concern about unfairness to homeowners who have invested in their properties",
+      "Against ADUs in basements, cellars, and garages due to safety concerns",
+      "Preference for expanding existing homes rather than creating ADUs",
+      "Criticism of the 'one size fits all' approach",
+      "Concern about deregulation in single-family and low-density zones",
+      "Lack of clarity on what 'a little more housing' means",
+      "Potential impacts on infrastructure and school enrollments not addressed"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [
+        {
+          "text": "As far as the ADUs are concerned, what's wrong with people expanding their homes. I don't think a basement or a cellar is is a as a good place for people to live based on the flooding and and the fires that have occurred in recent years. And garages as well. Garages is not I'm not a a place for people.",
+          "reasoning": "The speaker directly addresses ADUs (Accessory Dwelling Units) and discusses specific types of ADUs such as basements, cellars, and garages. He expresses concerns about the safety and suitability of these spaces for living, which directly relates to the ADU element of the City of Yes For Housing Opportunity proposal."
+        },
+        {
+          "text": "So it seems like you've kind of stuffed people into the smallest area as possible. Why not just expand the home?",
+          "reasoning": "This quote continues the speaker's discussion on ADUs, suggesting that instead of creating separate dwelling units in small spaces, homes should be expanded. This directly relates to the ADU element of the proposal, as the speaker is offering an alternative to the proposed ADU policy."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [
+        {
+          "text": "We don't approve of transit oriented development. We feel that around a station, perhaps that that would be okay to have a little bit more development there. But as you move full out outward from from the center, I I I had heard it's gonna be a half a mile in wall directions. Well, you're gonna start going into neighborhoods that have low density zoning. Single family zoning. And that that's not fair to those people.",
+          "reasoning": "The speaker directly addresses the Transit-Oriented Development element of the proposal. He expresses disapproval of the concept, particularly the extent of the proposed development area (half a mile in all directions from transit stations). He raises concerns about how this would affect low-density and single-family zoning areas, which is directly related to the Transit-Oriented Development element of the City of Yes For Housing Opportunity proposal."
+        }
+      ],
+      "element_is_discussed": true
+    }
+  }
+}

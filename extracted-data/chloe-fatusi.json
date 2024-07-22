@@ -1,0 +1,57 @@
+{
+  "testimony": {
+    "name": "Chloe Fatusi",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/chloe-fatusi-resident-of-cobble-hill-brooklyn-on",
+    "start_time_in_seconds": 27372.43,
+    "end_time_in_seconds": 27447.055,
+    "for_or_against": "For",
+    "borough": "Brooklyn",
+    "neighborhood": "Cobble Hill",
+    "stated_affiliations": [],
+    "key_points": [
+      "Support for City of Yes initiative",
+      "Concerned about friends' and children's ability to stay in the city",
+      "Housing supply and cost directly impact affordability",
+      "Excited about lifting parking minimums",
+      "Need to move away from car dependency",
+      "City stepping up to solve housing problems"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [
+        {
+          "text": "I'm especially excited to see parking minimums lifted, not only because it will help build more housing, but because it is a recognition of a need to move away from car dependency.",
+          "reasoning": "This quote directly addresses the removal of parking mandates, which is a key element of the City of Yes For Housing Opportunity proposal. The speaker expresses support for this change, recognizing its potential to increase housing supply and reduce car dependency."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

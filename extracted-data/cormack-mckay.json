@@ -1,0 +1,63 @@
+{
+  "testimony": {
+    "name": "Cormack McKay",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/cormack-mckay-visitor-and-possible-future-resident",
+    "start_time_in_seconds": 51788.86,
+    "end_time_in_seconds": 51980.938,
+    "for_or_against": "For",
+    "borough": "Unknown",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [],
+    "key_points": [
+      "Support for the City of Yes proposal with additional amendments",
+      "Concern about deliberately leaving property empty and its negative effects on the city",
+      "Proposal for a vacant property tax or fine of $1 per square foot per day or 100% of expected rent",
+      "Suggestion to encourage rapid renovation and development of empty sites",
+      "Promotion of prefabrication and off-site construction methods",
+      "Proposal for a citizen reporting program for vacant properties",
+      "Suggestion to convert vacant commercial properties to emergency residential or tourist accommodation within 30-90 days",
+      "Recommendation for short-term tourist accommodation in buildings not suitable for long-term residential use"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Office vacancy rates are expected to rise from the current 1 in 5 to 104 by 2026 according to Moody's, and they can resonate using their units probably could be much higher than the estimate of 100,000 or 1.4 as reported.",
+          "reasoning": "This quote discusses the high office vacancy rates, which is related to the proposal's element of converting vacant offices to residential use."
+        },
+        {
+          "text": "All sites, offices, and commercial property should be converted to emergency residential at accommodation, our tourist visitor accommodation within 30 days of becoming vacant, with allowances of up to 90 days for refurbishment in a 15 year period.",
+          "reasoning": "This quote directly addresses the conversion of vacant offices and commercial properties to residential use, which aligns with the Residential Conversions element of the proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

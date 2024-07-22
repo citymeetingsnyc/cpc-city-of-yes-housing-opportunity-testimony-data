@@ -1,0 +1,70 @@
+{
+  "testimony": {
+    "name": "Carin Bail",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/carin-bail-president-of-hollis-hills-civic",
+    "start_time_in_seconds": 39362.6,
+    "end_time_in_seconds": 39544.324,
+    "for_or_against": "Against",
+    "borough": "Queens",
+    "neighborhood": "Hollis Hills",
+    "stated_affiliations": [
+      "Hollis Hills Civic Association"
+    ],
+    "key_points": [
+      "Questions the definition and effectiveness of 'affordable housing'",
+      "Criticizes the lack of detail in the City of Yes initiative",
+      "Suggests the initiative benefits real estate industry and developers rather than communities",
+      "Points out existing empty apartments that could be used for affordable housing",
+      "Argues that Queens residents don't want to live in a more dense community",
+      "Questions why Eastern Queens should handle the city's affordability housing crisis",
+      "Highlights the community's existing contributions to other city issues (homeless shelters, migrant shelters)",
+      "Calls for more meaningful dialogue and public health review of the initiative"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [
+        {
+          "text": "So the affordable studios where I work, going for about $28100 a month in Jamaica, So I'm just wondering, is that affordable housing?",
+          "reasoning": "While not directly mentioning UAP, this quote shows the speaker is discussing affordability, which is a key component of the UAP element."
+        },
+        {
+          "text": "Because after listening to a day of affordability needs, I'm not really sure what affordable means. I'm just wondering what the definition is by the city because it seems like there is severe lack of detail in that.",
+          "reasoning": "This quote further emphasizes the speaker's concern about the definition and implementation of affordability, which is central to the UAP element."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Because there are thousands of apartments that we know are empty, folks left due to COVID, nitri units are empty and distraught. So why hasn't the city put some attention there?",
+          "reasoning": "This quote indirectly relates to the residential conversions element, as the speaker is discussing empty apartments and suggesting attention be given to existing vacant units rather than new conversions."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

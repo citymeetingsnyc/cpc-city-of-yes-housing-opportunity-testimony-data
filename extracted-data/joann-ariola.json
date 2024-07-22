@@ -1,0 +1,68 @@
+{
+  "testimony": {
+    "name": "Joann Ariola",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/council-member-joann-ariola-on-opposition-to-city",
+    "start_time_in_seconds": 2991.2424,
+    "end_time_in_seconds": 3198.5134,
+    "for_or_against": "Against",
+    "borough": "Queens",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [
+      "NYC City Council"
+    ],
+    "key_points": [
+      "The City of Yes would be an unmitigated disaster in its current form",
+      "Current building regulations exist to protect quality of life",
+      "Homeowners deserve to raise families in the environment they bought into",
+      "The proposal would devastate quality of life for many taxpayers and residents",
+      "It would eliminate community input via ULURP",
+      "It favors large developers over small businesses and homeowners",
+      "New Yorkers deserve a say in their neighborhoods",
+      "Advocating for smart, sustainable development that doesn't destroy suburban community character",
+      "Concerns about preserving one and two-family homes and mom-and-pop shops",
+      "Not opposed to creating more housing, but wants it done in a smarter and more sustainable manner"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [
+        {
+          "text": "But there are other suburban communities throughout the borough of Queens and throughout the Five boroughs. Where people bought because they are in 1 and 2 family homes. There are mom and pop shops and not mega stores that have come into the areas that oftentimes don't have the investment in the community that a mom and pop would have",
+          "reasoning": "This quote indirectly addresses the Town Center Zoning element by discussing the character of suburban communities with 1 and 2 family homes and small businesses, which is relevant to the proposal's aim to legalize housing above businesses on commercial streets in low-density areas."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Where people bought because they are in 1 and 2 family homes. There are mom and pop shops and not mega stores that have come into the areas that oftentimes don't have the investment in the community that a mom and pop would have or people who are 1 and 2 family homeowners and not and and wanna live in an area that doesn't have skyscrapers and lots of rentals.",
+          "reasoning": "This quote indirectly relates to the Transit-Oriented Development element by discussing the current character of low-density areas with 1 and 2 family homes, which contrasts with the proposal's aim to allow 3- to 5-story apartment buildings near public transit."
+        }
+      ],
+      "element_is_discussed": true
+    }
+  }
+}

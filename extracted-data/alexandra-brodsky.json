@@ -1,0 +1,51 @@
+{
+  "testimony": {
+    "name": "Alexandra Brodsky",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/alexandra-brodsky-on-city-of-yes-for-housing",
+    "start_time_in_seconds": 48182.965,
+    "end_time_in_seconds": 48252.36,
+    "for_or_against": "For",
+    "borough": "Brooklyn",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [],
+    "key_points": [
+      "The root of NYC's housing crisis is a housing shortage",
+      "City of Yes for Housing Opportunity is an elegant solution to add more housing in every neighborhood",
+      "The plan can create a lot of new housing without drastic changes to any one community",
+      "Failing to act will lead to more gentrification, displacement, segregation, and longer commutes",
+      "Urges the commission to vote yes on City of Yes and support the strongest possible version"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

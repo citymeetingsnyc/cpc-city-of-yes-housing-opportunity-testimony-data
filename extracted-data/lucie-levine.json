@@ -1,0 +1,72 @@
+{
+  "testimony": {
+    "name": "Lucie Levine",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/lucie-levine-from-the-historic-district-council-on",
+    "start_time_in_seconds": 38018.695,
+    "end_time_in_seconds": 38208.945,
+    "for_or_against": "Against",
+    "borough": "Unknown",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [
+      "Historic District Council"
+    ],
+    "key_points": [
+      "COYHO will have a significant impact on historic neighborhoods and districts",
+      "Concerns about creating market-rate and luxury housing while incentivizing demolition of historic neighborhoods",
+      "Support for relegalizing shared and supportive housing, Town Center zoning, and commercial to residential conversion",
+      "Support with caveats for accessory dwelling units and expanded transferable development rights",
+      "Opposition to the lack of affordable housing requirements in COYHO",
+      "Concerns about streamlining regulations and removing public oversight",
+      "Need to address loss of affordable housing through building combination, unit warehousing, and 'big footing'",
+      "Suggestion to include historic preservation as a tool for housing opportunity",
+      "Historic districts retain rent-subsidized units at a higher rate than non-designated areas"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [
+        {
+          "text": "We also strongly support commercial to residential conversion and adaptive reuse citywide aligning COYHO with financial incentives like historic tax credits will allow property owners to maximize funding for conversion and restoration.",
+          "reasoning": "This quote directly addresses the residential conversions element of the proposal, showing support for converting commercial spaces to residential use citywide."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [
+        {
+          "text": "We also endorse Town Center zoning",
+          "reasoning": "This quote explicitly mentions and expresses support for the Town Center Zoning element of the proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [
+        {
+          "text": "HTC supports accessory dwelling units, but seeks confirmation from the Landmark's preservation commission that they will have jurisdiction over ADU design and placement in his districts and on landmark sites.",
+          "reasoning": "This quote directly addresses the Accessory Dwelling Units (ADU) element of the proposal, showing support with some concerns about preservation in historic districts."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

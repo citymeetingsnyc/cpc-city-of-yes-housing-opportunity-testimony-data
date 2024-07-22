@@ -1,0 +1,60 @@
+{
+  "testimony": {
+    "name": "Paul DiBenedetto",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/paul-dibenedetto-chair-of-queens-community-board",
+    "start_time_in_seconds": 37507.836,
+    "end_time_in_seconds": 37745.22,
+    "for_or_against": "Against",
+    "borough": "Queens",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [
+      "Queens Community Board 11"
+    ],
+    "key_points": [
+      "Most community boards in Queens, Bronx, Staten Island, and Brooklyn voted against the City of Yes for Housing Opportunity",
+      "The initiative would destroy the character of historic suburban neighborhoods",
+      "There are better opportunities to create housing without tearing down existing homes",
+      "New York City already has a low percentage (15%) of single-family zoned areas compared to other major U.S. cities",
+      "Low-density neighborhoods in Queens are racially and ethnically diverse",
+      "The City Planning Commission did not engage community boards and council members in the planning process",
+      "The initiative is seen as a top-down approach, unlike previous contextual rezonings that were done in partnership with community boards and civics"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [
+        {
+          "text": "So anyway, my small fourteen ten square foot home and your proposed TOD zone has an assessment of $9000 a year at paying taxes.",
+          "reasoning": "The speaker directly mentions 'TOD zone', which refers to Transit-Oriented Development. This indicates that the speaker is aware of and discussing this element of the City of Yes For Housing Opportunity proposal."
+        }
+      ],
+      "element_is_discussed": true
+    }
+  }
+}

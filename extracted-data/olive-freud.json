@@ -1,0 +1,71 @@
+{
+  "testimony": {
+    "name": "Olive Freud",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/olive-freud-president-of-the-committee-for",
+    "start_time_in_seconds": 16006.036,
+    "end_time_in_seconds": 16194.06,
+    "for_or_against": "Against",
+    "borough": "Manhattan",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [
+      "Committee for Environmentally Sound Development"
+    ],
+    "key_points": [
+      "Concerned about global warming and its impact on city planning",
+      "Opposes increased density and congestion in Manhattan",
+      "Criticizes the lack of mandated affordable housing in the plan",
+      "Worried about loss of open space, light, and air in the city",
+      "Objects to reduced distances between buildings and potential infill development",
+      "Concerns about the reduction of public input and City Council involvement in decision-making",
+      "Argues that Manhattan is already the densest borough and shouldn't be made denser",
+      "Criticizes the reliance on developers for affordable housing",
+      "Emphasizes the importance of preserving existing affordable housing"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Nowhere in c o y h o is affordable housing. The city's most pressing need. Man it's it's the the most pressing need and it's not mandate mandated Developers are given the option of doing of adding such tuners and raising the height allowing allowing for buildings.",
+          "reasoning": "This quote indirectly references the UAP element of the proposal. While the speaker doesn't mention UAP by name, they are criticizing the lack of mandated affordable housing in the proposal, which is related to the UAP's optional nature for developers to add affordable units in exchange for increased building height."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Syndian White House, the opportunity threatens to undo These welcome efforts with infill infill, I call it, into precious open space. Reduce mandatory distances between buildings and the outside of and the outside of windows. And ever taller buildings by expanding zoning lots and spurious air rights transfers. This is an increase in density congestion, shadows of a overcapacity use of use of infrastructure.",
+          "reasoning": "While not explicitly mentioning transit-oriented development, this quote discusses concerns about increased density and taller buildings, which are key aspects of transit-oriented development. The speaker is expressing opposition to these changes, which align with the goals of transit-oriented development in the City of Yes proposal."
+        },
+        {
+          "text": "Matt Manhattan is the densest borough. It will suffer the most. It's almost insanity to insist on greater density in the dentist place in the city and in the country, I would say.",
+          "reasoning": "This quote directly addresses the issue of increased density, which is a key component of transit-oriented development. The speaker is opposing the idea of further increasing density in Manhattan, which goes against the transit-oriented development goals of the City of Yes proposal."
+        }
+      ],
+      "element_is_discussed": true
+    }
+  }
+}

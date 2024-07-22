@@ -1,0 +1,75 @@
+{
+  "testimony": {
+    "name": "Jean Hahn",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/jean-hahn-resident-of-forest-hills-queens-on",
+    "start_time_in_seconds": 48625.992,
+    "end_time_in_seconds": 48794.156,
+    "for_or_against": "Against",
+    "borough": "Queens",
+    "neighborhood": "Forest Hills",
+    "stated_affiliations": [],
+    "key_points": [
+      "Opposes the City of Yes plan as it strips zoning decisions from local community boards",
+      "Concerned about loss of daylight, air, and open space",
+      "Believes the plan won't guarantee more affordable or low-income housing",
+      "Worried about strain on aging infrastructure and lack of plans for additional public services",
+      "Opposes expansion of transit and town center zones in low-density neighborhoods",
+      "Against ADUs in basements and rear yards due to quality of life concerns",
+      "Opposes eliminating parking requirements, citing needs of families, elderly, and disabled",
+      "Advocates for local community board control in housing decisions",
+      "Urges City Planning Commission to vote against the City of Yes housing plan"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [
+        {
+          "text": "I'm opposed to expansion of transit and town center zones, which would negatively affect the historic and contextual fabric of my low density neighborhood, which my neighbors and I pay a hefty property tax premium to live in.",
+          "reasoning": "This quote directly mentions the speaker's opposition to town center zones, which is a key element of the Town Center Zoning proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [
+        {
+          "text": "I'm opposed to eliminating the parking requirement. Many families rely on cars to transport our children to and from school and activities in our elderly and disabled family members. To say that we don't need parking, it's discriminatory against that live against those that live in transit deserts, which are pretty much everywhere outside of Manhattan high density areas.",
+          "reasoning": "This quote directly addresses the proposal to remove parking mandates, expressing opposition and concerns about the impact on families and those living in areas with less public transit."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [
+        {
+          "text": "I own close to committing ADUs in basements, in rearguard, as a bright. Cramped spaces are not quality of life for our either the resident or the neighbors, and again brings up the question of infrastructure. Legalizing illegal basement conversions does not make a space any safer.",
+          "reasoning": "This quote directly mentions ADUs (Accessory Dwelling Units) and discusses concerns about their impact on quality of life and safety, which relates to the ADU element of the proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [
+        {
+          "text": "I'm opposed to expansion of transit and town center zones, which would negatively affect the historic and contextual fabric of my low density neighborhood, which my neighbors and I pay a hefty property tax premium to live in.",
+          "reasoning": "This quote mentions opposition to the expansion of transit zones, which is related to the Transit-Oriented Development element of the proposal. The speaker expresses concern about its impact on low-density neighborhoods."
+        }
+      ],
+      "element_is_discussed": true
+    }
+  }
+}

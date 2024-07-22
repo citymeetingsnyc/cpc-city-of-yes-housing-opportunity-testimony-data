@@ -1,0 +1,58 @@
+{
+  "testimony": {
+    "name": "Phil Koenigsberg",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/phil-koenigsberg-health-chair-of-queens-community",
+    "start_time_in_seconds": 45966.08,
+    "end_time_in_seconds": 46148.54,
+    "for_or_against": "Against",
+    "borough": "Queens",
+    "neighborhood": "Bay Terrace",
+    "stated_affiliations": [
+      "Bay Terrace Community Lions",
+      "Queens Community Board 7"
+    ],
+    "key_points": [
+      "Opposes the City of Yes for Housing Opportunity",
+      "Believes the proposal will lead to chaos in all boroughs except Manhattan",
+      "Argues it will destroy communities, especially in low density areas",
+      "Claims it won't create affordable housing",
+      "Suggests it will replace owner-occupied housing with market-rate rentals",
+      "Concerns about increased density without adequate infrastructure",
+      "Worries about enforcement of illegal occupancy",
+      "Urges media to investigate and expose the potential negative impacts of the proposal",
+      "Suggests implementing a pilot program in a neighborhood that favors the proposal"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

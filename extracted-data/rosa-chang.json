@@ -1,0 +1,72 @@
+{
+  "testimony": {
+    "name": "Rosa Chang",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/rosa-chang-member-of-manhattan-community-board-1",
+    "start_time_in_seconds": 23042.209,
+    "end_time_in_seconds": 23234.988,
+    "for_or_against": "For",
+    "borough": "Manhattan",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [
+      "Manhattan Community Board 1"
+    ],
+    "key_points": [
+      "Support for City of Yes with conditions",
+      "Need for infrastructure improvements to keep up with increased density",
+      "Suggestion for a ZIP code set aside for civic infrastructural needs",
+      "Reduction of 10-year sunset provision for offsetting affordable housing to 5 years",
+      "Mandating essential building infrastructure for garbage collection, storage, and package rooms",
+      "100% permanently affordable housing for large campus infill projects",
+      "Continued requirement for community board and community engagement",
+      "Support for eliminating or reducing the 680 square foot dwelling unit factor",
+      "Need for more emphasis on creating truly affordable housing",
+      "Addressing quality of life concerns and increasing need for physical infrastructure and hospital beds"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [
+        {
+          "text": "I am in support of the city of yes with conditions.",
+          "reasoning": "While this quote doesn't explicitly mention UAP, it indicates that the speaker is discussing the City of Yes proposal in general, which includes UAP."
+        },
+        {
+          "text": "I do not find that it does enough to require the creation of truly affordable housing specifically",
+          "reasoning": "This quote directly relates to the UAP element, as it criticizes the proposal for not doing enough to create affordable housing, which is the main goal of the Universal Affordability Preference."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [
+        {
+          "text": "For convergence and enlargements above size, we must mandate that essential building infrastructure include garbage collection and storage rooms, package rooms.",
+          "reasoning": "This quote suggests that the speaker is discussing residential conversions, as they mention 'convergence and enlargements', which likely refers to converting or enlarging existing buildings for residential use."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

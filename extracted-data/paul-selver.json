@@ -1,0 +1,54 @@
+{
+  "testimony": {
+    "name": "Paul Selver",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/paul-selver-chair-of-zoning-and-design-committee",
+    "start_time_in_seconds": 17588.695,
+    "end_time_in_seconds": 17775.04,
+    "for_or_against": "For",
+    "borough": "Unknown",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [
+      "Real Estate Board of New York",
+      "Kramer Levin"
+    ],
+    "key_points": [
+      "Proposal for a vesting provision in the City of YES for Housing Opportunity zoning change",
+      "Current vesting standards are outdated and need to be updated to reflect modern challenges in real estate development",
+      "Proposed vesting provision based on principles of fairness and due process",
+      "Four main parts of the proposal: filing work permit within 6 months, 20% enlargement allowance, extended timelines for large and 421A buildings, and protection against frivolous challenges",
+      "Need to protect investments in producing affordable housing under current Inclusionary Housing program"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

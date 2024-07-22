@@ -1,0 +1,62 @@
+{
+  "testimony": {
+    "name": "Diana Finch",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/diana-finch-from-bronx-park-eastpelham-parkway-on",
+    "start_time_in_seconds": 46894.06,
+    "end_time_in_seconds": 47054.797,
+    "for_or_against": "For",
+    "borough": "Bronx",
+    "neighborhood": "Bronx Park East/Pelham Parkway",
+    "stated_affiliations": [],
+    "key_points": [
+      "Supports City of Yes for Housing Opportunity",
+      "Believes opposition is based on exaggeration and fear mongering",
+      "Emphasizes that not all allowed new buildings will be built immediately or ever",
+      "Suggests including caps on the amount and pace of new building allowed by City of Yes",
+      "Shares personal experience of new apartment buildings in her neighborhood within current zoning regulations",
+      "Expresses concern about the impact of campus provisions on NYCHA developments",
+      "Highlights the importance of green spaces for quality of life in her neighborhood"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [
+        {
+          "text": "On the other hand, perhaps a good compromised solution would be to include caps on the amount and pace of some in the new building that would be allowed by city of yes.",
+          "reasoning": "While this quote doesn't explicitly mention transit-oriented development, it discusses the pace and amount of new building allowed by City of Yes, which could include transit-oriented development. The speaker is suggesting a compromise that could apply to various elements of the proposal, including transit-oriented development."
+        },
+        {
+          "text": "The neighborhood I live in is an r 6 zoning. And in the past 2 years, within a twelve square block area, 10 new six and seven story apartment buildings have gone up. Each one in place of either a 1 or 2 family house or an empty lot, all within the current zoning regulations, but yet with a significant impact on the local community.",
+          "reasoning": "This quote discusses the recent development in the speaker's neighborhood, which aligns with the transit-oriented development aspect of City of Yes. The speaker mentions the construction of multi-story apartment buildings replacing single-family homes or empty lots, which is consistent with the proposal's aim to allow denser housing near transit."
+        }
+      ],
+      "element_is_discussed": true
+    }
+  }
+}

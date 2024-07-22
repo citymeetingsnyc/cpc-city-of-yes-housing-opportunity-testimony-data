@@ -1,0 +1,54 @@
+{
+  "testimony": {
+    "name": "Amie Gross",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/amie-gross-president-of-amie-gross-architects-on",
+    "start_time_in_seconds": 32429.93,
+    "end_time_in_seconds": 32695.068,
+    "for_or_against": "For",
+    "borough": "Queens",
+    "neighborhood": "Glen Oaks",
+    "stated_affiliations": [
+      "Amie Gross Architects"
+    ],
+    "key_points": [
+      "The cost to construct affordable housing has increased drastically",
+      "Building larger buildings (more units) reduces the cost per unit",
+      "New safety regulations increase construction costs",
+      "Economy of scale is crucial for affordable housing development",
+      "Non-profit developers need to build more units to make projects financially viable",
+      "Increasing building size in the same zoning lot can lead to more affordable rents"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

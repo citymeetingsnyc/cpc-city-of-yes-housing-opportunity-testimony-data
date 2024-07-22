@@ -1,0 +1,66 @@
+{
+  "testimony": {
+    "name": "Lo van der Valk",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/lo-van-der-valk-president-of-carnegie-hill",
+    "start_time_in_seconds": 43708.895,
+    "end_time_in_seconds": 43932.78,
+    "for_or_against": "Against",
+    "borough": "Manhattan",
+    "neighborhood": "Upper East Side",
+    "stated_affiliations": [
+      "Carnegie Hill Neighbors"
+    ],
+    "key_points": [
+      "Supports goals of increasing affordable housing but has specific concerns",
+      "Opposes changes to Madison Avenue special preservation district",
+      "Concerned about height increase from 75 to 105 feet in RBH zones",
+      "Objects to shortening of required minimum rear yards from 30 to 20 feet",
+      "Opposes allowing rear yards to be completely covered to a height of 15 feet for non-dwelling residential uses",
+      "Suggests avenues and avenue corners as appropriate places for height increases",
+      "Concerned about increased reliance on CPC authorizations instead of public reviews",
+      "Believes extended boundaries for transferring development rights may be too generous",
+      "Fears that 20% height increase for affordable housing may displace existing affordable units and mainly provide luxury housing"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Regarding universal affordability preferences, this would create a blanket 20% increase. And if they are an allowed height and exchange for affordable house,",
+          "reasoning": "This quote directly addresses the Universal Affordability Preference (UAP) element of the proposal, mentioning the 20% increase in exchange for affordable housing, which aligns with the proposal's description."
+        },
+        {
+          "text": "While the goal is laudable, we fear that the new building or additions may displace existing portable units and the newly built expansions will often mainly provide luxury housing.",
+          "reasoning": "This quote discusses concerns about the implementation of the UAP, specifically mentioning potential displacement of existing affordable units and the risk of mainly providing luxury housing, which relates to the UAP element of the proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "testimony": {
+    "name": "Phyllis Inserillo",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/phyllis-inserillo-co-president-of-howard-beach",
+    "start_time_in_seconds": 13071.69,
+    "end_time_in_seconds": 13268.376,
+    "for_or_against": "Against",
+    "borough": "Queens",
+    "neighborhood": "Howard Beach",
+    "stated_affiliations": [
+      "Howard Beach Lindenwood Civic Association"
+    ],
+    "key_points": [
+      "Howard Beach community is overwhelmingly opposed to the City of Yes Housing Opportunity amendment",
+      "The community faces significant coastal flooding issues, which make increased development unsafe",
+      "Increasing FAR and adding ADUs will worsen flooding and strain infrastructure",
+      "The plan should be voted on piece by piece by community boards and City Council, not as a citywide change",
+      "Howard Beach says no to overcrowded classrooms, longer waits for infrastructure fixes, and housing units on top of stores",
+      "The community needs more police officers, EMS workers, firefighters, and better laws to protect families",
+      "Better infrastructure for sewers and utilities, and solutions to flooding issues are needed",
+      "Homeowners are burdened with high property taxes and mortgages",
+      "12 out of 14 community boards in Queens have voted against this plan"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [
+        {
+          "text": "We are saying no to housing units on top of stores on Crosby Boulevard.",
+          "reasoning": "This quote directly references the Town Center Zoning element of the proposal, which aims to allow housing above businesses on commercial streets in low-density areas. The speaker is explicitly opposing this aspect of the plan for their community."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [
+        {
+          "text": "They did not choose to live in a community that is overburdened with too many people, minimal parking, or overdevelopment.",
+          "reasoning": "While not explicitly mentioning the removal of parking mandates, this quote indicates that the speaker is concerned about 'minimal parking,' which is related to the proposal's aim to remove parking mandates. The speaker sees this as a potential negative outcome of the City of Yes plan."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [
+        {
+          "text": "ADUs can put extra stress on existing infrastructure, especially in areas where the drainage systems may already be under pressure during heavy rains or floods.",
+          "reasoning": "This quote directly mentions ADUs (Accessory Dwelling Units) and discusses potential issues with them in relation to infrastructure and flooding. It shows that the speaker is aware of and opposing this element of the City of Yes proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

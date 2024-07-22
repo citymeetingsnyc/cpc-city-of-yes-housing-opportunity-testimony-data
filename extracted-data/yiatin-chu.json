@@ -1,0 +1,90 @@
+{
+  "testimony": {
+    "name": "Yiatin Chu",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/yiatin-chu-president-of-asian-wave-alliance-on",
+    "start_time_in_seconds": 44197.184,
+    "end_time_in_seconds": 44354.715,
+    "for_or_against": "Against",
+    "borough": "Unknown",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [
+      "Asian Wave Alliance"
+    ],
+    "key_points": [
+      "The proposal will destroy communities",
+      "Asian New Yorkers have high homeownership rates in outer boroughs",
+      "The plan will create uncertainty in property values",
+      "It will degrade quality of life in 1 and 2 family zoned neighborhoods",
+      "Elimination of parking requirements is problematic",
+      "Areas lack efficient public transportation and rely on cars",
+      "Opposition to legalization of ADUs (Accessory Dwelling Units)",
+      "Existing infrastructure cannot support increased density",
+      "Schools are already overcrowded",
+      "Each neighborhood should be respected for its unique composition",
+      "The proposal favors developers' interests over community needs"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [
+        {
+          "text": "It is absurd that the city of yes will eliminate parking requirements for new residential housing.",
+          "reasoning": "This quote directly addresses the proposal's element of removing parking mandates for new residential housing."
+        },
+        {
+          "text": "We are already stressed with the lack of parking and bayside flushing Bensonhurst and Gravesend.",
+          "reasoning": "This quote provides context for the speaker's opposition to removing parking mandates, highlighting existing parking issues in specific neighborhoods."
+        },
+        {
+          "text": "In Queens, we cannot support more development around LIR stations. The parking is near impossible to find now.",
+          "reasoning": "This quote further emphasizes the speaker's concern about parking issues, particularly in relation to transit-oriented development, which is related to the removal of parking mandates."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [
+        {
+          "text": "We oppose the dangerous legalization of ADUs. Basement apartments, garage conversions, and backyard houses.",
+          "reasoning": "This quote directly addresses the proposal's element of legalizing Accessory Dwelling Units (ADUs), mentioning specific types of ADUs that the proposal aims to allow."
+        },
+        {
+          "text": "illegal ADUs are already a huge problem for many residential areas. And permissive zoning in the city of yes will make the quality of life much worse.",
+          "reasoning": "This quote further elaborates on the speaker's opposition to ADUs, expressing concern about the potential negative impact on quality of life if ADUs are legalized."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [
+        {
+          "text": "In Queens, we cannot support more development around LIR stations.",
+          "reasoning": "This quote directly addresses the proposal's element of transit-oriented development, specifically mentioning development around LIRR (Long Island Rail Road) stations, which is a key aspect of transit-oriented development."
+        },
+        {
+          "text": "The congestion and infrastructure demands in these less dense suburban areas cannot be supported without major investments in sewer lines, electrical capacity, roadwork, and essential services like schools, police, fire departments and hospitals.",
+          "reasoning": "While not explicitly mentioning transit-oriented development, this quote discusses the potential impact of increased density in suburban areas, which is a consequence of transit-oriented development as proposed in the City of Yes plan."
+        }
+      ],
+      "element_is_discussed": true
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "testimony": {
+    "name": "Ryder Kessler",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/ryder-kessler-manhattan-community-board-2-member",
+    "start_time_in_seconds": 53480.887,
+    "end_time_in_seconds": 53627.74,
+    "for_or_against": "For",
+    "borough": "Manhattan",
+    "neighborhood": "West Village",
+    "stated_affiliations": [
+      "Manhattan Community Board 2"
+    ],
+    "key_points": [
+      "The current housing crisis is due to not creating enough homes to keep up with population and job growth",
+      "The city is stuck in a 60+ year old zoning regime that needs to change",
+      "There is a crisis of housing affordability, not just affordable housing",
+      "New York needs to add housing of all types across the city",
+      "The City of Yes for Housing Opportunity is necessary but not sufficient to address the crisis",
+      "Dense, walkable neighborhoods are important for fighting climate change",
+      "Making the city affordable, equitable, and sustainable is crucial for maintaining New York's vitality"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

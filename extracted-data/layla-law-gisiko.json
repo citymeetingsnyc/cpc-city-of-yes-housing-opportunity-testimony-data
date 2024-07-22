@@ -1,0 +1,69 @@
+{
+  "testimony": {
+    "name": "Layla Law-Gisiko",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/layla-law-gisiko-president-of-the-city-club-of-new",
+    "start_time_in_seconds": 3611.9673,
+    "end_time_in_seconds": 3811.012,
+    "for_or_against": "Against",
+    "borough": "Unknown",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [
+      "City Club of New York"
+    ],
+    "key_points": [
+      "The proposal fails to address affordable housing needs",
+      "Increasing housing supply does not automatically result in more affordable housing",
+      "The initiative may reduce housing quality by allowing reduced standards",
+      "The proposal lacks assessment of environmental impact and infrastructure needs",
+      "Concerns about the transfer of development rights from landmarks potentially creating disproportionately large towers",
+      "Urges for mandatory affordable housing provisions",
+      "Calls for protection of housing standards and local oversight",
+      "Emphasizes the need for planning community infrastructure"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [
+        {
+          "text": "The city of yes may be a housing proposal, but it is not really an affordable housing proposal.",
+          "reasoning": "This quote indicates that the speaker is discussing the UAP element, as it directly addresses the lack of focus on affordable housing in the proposal."
+        },
+        {
+          "text": "Many wrongly assume that increasing housing supply will automatically result in more affordable housing. This is a dangerous misconception.",
+          "reasoning": "This quote challenges the assumption that increasing housing supply (which is part of the UAP element) will lead to more affordable housing, showing that the speaker is discussing this aspect of the proposal."
+        },
+        {
+          "text": "New York must mandate affordable housing.",
+          "reasoning": "This statement directly relates to the UAP element, suggesting that the current proposal doesn't do enough to mandate affordable housing."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

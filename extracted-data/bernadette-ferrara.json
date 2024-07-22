@@ -1,0 +1,76 @@
+{
+  "testimony": {
+    "name": "Bernadette Ferrara",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/bernadette-ferrara-president-of-van-ness",
+    "start_time_in_seconds": 26555.027,
+    "end_time_in_seconds": 26732.916,
+    "for_or_against": "Against",
+    "borough": "Bronx",
+    "neighborhood": "Van Ness",
+    "stated_affiliations": [
+      "Van Ness Neighborhood Alliance"
+    ],
+    "key_points": [
+      "The majority of Bronx Community Boards (7 out of 11) have voted against the initiative",
+      "The initiative is a deregulatory program that will increase density in low-density neighborhoods",
+      "The proposals will damage neighborhoods throughout the city, especially in the Bronx",
+      "The initiative will burden specific Bronx neighborhoods with new shelters and up-zoning proposals",
+      "The proposal shifts decision-making away from communities and city council to commissioners",
+      "Suggests addressing warehoused rent-stabilized apartments as an alternative solution",
+      "Opposes the reintroduction of SROs (Single Room Occupancy)",
+      "Believes the initiative benefits developers, not communities",
+      "Urges commissioners to vote against the initiative due to its many components"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [
+        {
+          "text": "The city of yes housing opportunity is a deregulatory program with the ultimate goal of creating massive increases in in density in currently low density neighborhoods.",
+          "reasoning": "While not explicitly mentioning UAP, this quote discusses the overall aim of the City of Yes for Housing Opportunity proposal to increase density in low-density neighborhoods, which is a key aspect of the Universal Affordability Preference."
+        },
+        {
+          "text": "Mayor Adam states that this initiative will give a little more housing in each barrel.",
+          "reasoning": "This quote refers to the mayor's statement about increasing housing in each area, which aligns with the UAP's goal of adding more housing, particularly affordable housing, in various neighborhoods."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [
+        {
+          "text": "And as far as reintroducing SROs, Oh my god. That will be such a negative impact.",
+          "reasoning": "This quote suggests that the speaker is discussing the residential conversions aspect of the proposal, specifically mentioning SROs (Single Room Occupancy), which is a type of shared housing that the residential conversions element aims to allow."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Simultaneously, my neighborhoods of Van Ness and Mars Park along with Barchester And Westchester Square are being burdened with the 46 Blocks of new up zoning proposals with the Bronx Metro North Train Study proposing additional 75100 apart new apartments.",
+          "reasoning": "This quote indicates that the speaker is discussing transit-oriented development, as they mention up-zoning proposals near the Metro North Train, which aligns with the proposal's aim to add housing near public transit."
+        }
+      ],
+      "element_is_discussed": true
+    }
+  }
+}

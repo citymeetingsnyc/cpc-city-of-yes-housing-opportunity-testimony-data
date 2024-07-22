@@ -1,0 +1,55 @@
+{
+  "testimony": {
+    "name": "David West",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/david-west-from-zoning-and-design-committee-on",
+    "start_time_in_seconds": 21361.02,
+    "end_time_in_seconds": 21551.219,
+    "for_or_against": "For",
+    "borough": "Unknown",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [
+      "REBNY's Zoning and Design Committee"
+    ],
+    "key_points": [
+      "Supportive of the overall initiative, particularly changes in R6 through R9 districts",
+      "Concerns about height and setback changes in medium and high density districts",
+      "Issues with the proposed text regarding towers and street walls",
+      "Suggestion to exempt residential towers from certain provisions or modify encroachment zone limits",
+      "Request to restore all current exemptions for street walls",
+      "Concern that mandatory setbacks may make buildings more expensive and less efficient",
+      "Broad support for Housing Opportunity initiative with suggestions for improvement"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

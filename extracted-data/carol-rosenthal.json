@@ -1,0 +1,77 @@
+{
+  "testimony": {
+    "name": "Carol Rosenthal",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/carol-rosenthal-from-fried-frank-law-firm-on",
+    "start_time_in_seconds": 31929.379,
+    "end_time_in_seconds": 32085.049,
+    "for_or_against": "For",
+    "borough": "Unknown",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [
+      "Fried Frank Law Firm",
+      "REBNY Zoning and Design Committee"
+    ],
+    "key_points": [
+      "Support for residential conversion regulations in the City of Yes text",
+      "The proposed text eliminates most zoning issues for commercial to residential conversions",
+      "The text broadens the geographical area for special conversion rules",
+      "Allows buildings up to 1990 to use the conversion rules",
+      "Allows existing building floor area and bulk for conversions",
+      "Allows conversions to supportive housing and dormitories",
+      "Eliminates or reduces the dwelling unit factor",
+      "New tax benefit (AHHC) aligns with conversion rules, requiring 25% affordable units",
+      "Suggests clarification on elimination of required parking for conversions",
+      "Supports the opportunity to convert underutilized space to needed housing"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [
+        {
+          "text": "My testimony is focused on the residential conversion regulations that are part of the proposed city of yes text.",
+          "reasoning": "This quote directly states that the speaker is discussing the residential conversion regulations, which is a key element of the City of Yes For Housing Opportunity proposal."
+        },
+        {
+          "text": "The proposed text would eliminate most of those zoning issues. And will be eminently useful for increasing the production of much needed housing in the city.",
+          "reasoning": "This quote indicates that the speaker is discussing how the proposed changes will facilitate residential conversions, which aligns with the proposal's goal of making it easier to convert non-residential buildings into housing."
+        },
+        {
+          "text": "Importantly, the tax broadens the geographical area that can use the special conversion rules, allows buildings up to 1990 to use it, allows existing building floor area and bulk for conversions, allows conversions to supportive housing and dormitories and eliminates or reduces the dwelling unit factor.",
+          "reasoning": "This quote directly discusses specific aspects of the residential conversion proposal, including expanding eligible areas and buildings, which is in line with the City of Yes proposal for residential conversions."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [
+        {
+          "text": "The we do ask the revenue committee asks that the new tax clarify the elimination of required parking for conversions, especially in buildings where there had been existing accessory commercial park parking. In order to put conversions on par with the parking requirements for residential new construction.",
+          "reasoning": "This quote indicates that the speaker is discussing the elimination of parking requirements for conversions, which aligns with the proposal's element of removing parking mandates for new housing and conversions."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

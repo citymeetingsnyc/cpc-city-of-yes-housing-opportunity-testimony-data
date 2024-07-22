@@ -1,0 +1,70 @@
+{
+  "testimony": {
+    "name": "Sara Bronin",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/sara-bronin-chair-of-the-advisory-council-on",
+    "start_time_in_seconds": 7642.7695,
+    "end_time_in_seconds": 7805.732,
+    "for_or_against": "For",
+    "borough": "Unknown",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [
+      "Advisory Council on Historic Preservation"
+    ],
+    "key_points": [
+      "The proposal aligns with ACHP's federal historic preservation policy",
+      "Support for legalizing conversion of nonresidential structures for residential uses",
+      "Support for legalization of accessory dwelling units to increase density in historic neighborhoods",
+      "Elimination of parking minimums is a positive step",
+      "Changes to rules concerning transfer of development rights from landmark buildings can provide financial support for rehabilitation",
+      "Changes to how historic campuses are treated could help utilize excess land for new density without demolition",
+      "The proposal leverages the city's historic built environment to support housing"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [
+        {
+          "text": "First, ACHP policy supports stoning changes to legalize the conversion of nonresidential structures for residential uses As you've seen in the financial district, this can have tremendous impact in ensuring our historic resources continue to serve our community.",
+          "reasoning": "This quote directly addresses the residential conversions element of the proposal. The speaker mentions support for legalizing the conversion of non-residential structures into residential uses, which aligns with the City of Yes For Housing Opportunity's goal of making it easier to convert vacant offices and other non-residential buildings into homes."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [
+        {
+          "text": "3rd, the elimination of parking minimums. It's a positive step for the city.",
+          "reasoning": "This quote directly addresses the removal of parking mandates, which is a key element of the City of Yes For Housing Opportunity proposal. The speaker explicitly mentions the elimination of parking minimums and views it positively."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [
+        {
+          "text": "2nd, the legalization of accessory dwelling units can increase density in historic neighborhoods without demolition while providing much needed housing.",
+          "reasoning": "This quote directly mentions the legalization of accessory dwelling units, which is a key element of the City of Yes For Housing Opportunity proposal. The speaker is discussing how ADUs can increase housing density without demolishing existing structures."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

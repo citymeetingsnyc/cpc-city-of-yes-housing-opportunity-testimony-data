@@ -1,0 +1,56 @@
+{
+  "testimony": {
+    "name": "Juan Rivero",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/juan-rivero-from-village-preservation-on",
+    "start_time_in_seconds": 6157.1274,
+    "end_time_in_seconds": 6296.523,
+    "for_or_against": "Against",
+    "borough": "Manhattan",
+    "neighborhood": "Greenwich Village",
+    "stated_affiliations": [
+      "Village Preservation"
+    ],
+    "key_points": [
+      "Rejects the assumption that increasing unaffordable housing will make the city more affordable",
+      "Opposes increasing allowable size and height of market-rate development in contextual zoning districts in Manhattan Community Boards 1-8",
+      "Opposes increasing allowable FAR for purely market-rate development in voluntary inclusionary housing zones",
+      "Against vastly increasing the area for air rights transfers from individual landmarks",
+      "Opposes reducing rear yard requirements in medium and high-density zones",
+      "Against allowing building on open space on campuses",
+      "Opposes removing language from special district provisions",
+      "Believes City of Yes for Housing Opportunity moves in the wrong direction for city development"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

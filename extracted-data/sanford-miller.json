@@ -1,0 +1,77 @@
+{
+  "testimony": {
+    "name": "Sanford Miller",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/sanford-miller-from-manhattan-community-board-4-on",
+    "start_time_in_seconds": 46215.656,
+    "end_time_in_seconds": 46403.12,
+    "for_or_against": "For",
+    "borough": "Manhattan",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [
+      "Manhattan Community Board 4",
+      "Health care team"
+    ],
+    "key_points": [
+      "Concerned about rising rental costs in the city",
+      "Supports increasing housing supply across the city (both market-rate and affordable)",
+      "Supports dropping parking requirements to reduce housing costs and increase housing production",
+      "Endorses the UAP (Unified Affordable Housing Program) as a nuanced approach to increase affordable housing in high-density districts",
+      "Appreciates how UAP preserves special districts while allowing for 20% additional density",
+      "Impressed with the presentation and execution of UAP mapping across the city"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Another call too that I think is. I wanna call out is UAP, which I believe is I I will honestly, I think it is a very nuanced way to get some more affordable housing in large parts of the city. They call the high density districts.",
+          "reasoning": "The speaker directly mentions UAP and describes it as a way to increase affordable housing in high-density districts, which aligns with the proposal's description of the Universal Affordability Preference."
+        },
+        {
+          "text": "Connecticut before has a lot of special districts. And the application UIT to the special districts. You preserve the concept of the special districts and and reflected them while still allowing for that additional 20% density on what would have otherwise been allowed and get us that marginal affordable housing.",
+          "reasoning": "This quote further elaborates on the UAP, mentioning the 20% additional density for affordable housing, which directly corresponds to the proposal's description of allowing buildings to add at least 20% more housing for affordable units."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Want to talk about the dropping of parking requirements is something I'd probably support, both from a trended perspective and from a housing perspective.",
+          "reasoning": "The speaker directly mentions supporting the removal of parking requirements, which aligns with the proposal's element of ending parking mandates for new housing."
+        },
+        {
+          "text": "As I think other people have mentioned, it costs $67,000, I believe, with the estimate. It's built apart from vitamin Hannon, but it's astronomical. And surely does. Both prevent housing from being built and increase the cost of housing that is built.",
+          "reasoning": "This quote discusses the high cost of building parking and how it affects housing costs and production, which is in line with the proposal's rationale for removing parking mandates."
+        },
+        {
+          "text": "And parking mandates require people to pay for housing or taking parking that they're not even using. Which just seems totally unfair to me than someone who wants to, you know, use some very medical can't say nothing. They're still forced to do, like, somewhere worth talking that they are paying for.",
+          "reasoning": "The speaker criticizes the current parking mandates for forcing people to pay for parking they don't use, which aligns with the proposal's argument for making parking optional rather than mandatory."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

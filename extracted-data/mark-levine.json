@@ -1,0 +1,90 @@
+{
+  "testimony": {
+    "name": "Mark Levine",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/manhattan-borough-president-mark-levine-on-city-of",
+    "start_time_in_seconds": 4265.615,
+    "end_time_in_seconds": 4604.8213,
+    "for_or_against": "For",
+    "borough": "Manhattan",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [
+      "New York City Government",
+      "Manhattan Borough President"
+    ],
+    "key_points": [
+      "The city is experiencing a severe housing shortage and high rents",
+      "Current zoning code from 1961 is an obstacle to building needed housing",
+      "City of Yes for Housing Opportunity would help alleviate the housing shortage",
+      "Universal Affordable Preference (UAP) would increase affordable housing stock",
+      "The proposal would reduce roadblocks for converting vacant offices to residential units",
+      "Changes would allow for development on large residential campuses, including those owned by faith-based organizations",
+      "Manhattan Borough Board approved 15 key recommendations in the proposal",
+      "The proposal could potentially catalyze the production of 100,000 new units"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [
+        {
+          "text": "The proposal for universal affordable pre affordability preference promises to significantly increase our affordable housing stock throughout Manhattan with a relatively low income target of 60% AMI.",
+          "reasoning": "This quote directly mentions the Universal Affordability Preference (UAP) element of the proposal, discussing its potential to increase affordable housing in Manhattan with a specific income target."
+        },
+        {
+          "text": "In order to ensure that UAP is maximized, I recommend that CPC be required to certify that the UAP option has been effectively used by condo and co op developments prior to eliminating the off-site option.",
+          "reasoning": "This quote further discusses the UAP element, providing recommendations for its implementation and maximization."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [
+        {
+          "text": "City of Yes for housing opportunity would also reduce roadblocks for the conversion of vacant and underutilized offices into residential and unlock unlock a projected 6000 units over the next 16 years.",
+          "reasoning": "This quote directly addresses the Residential Conversions element of the proposal, mentioning the conversion of vacant offices into residential units and providing a specific projection of units that could be created."
+        },
+        {
+          "text": "Our current zoning code makes it hard to convert vacant office buildings to residences.",
+          "reasoning": "This quote identifies the current problem that the Residential Conversions element of the proposal aims to address."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [
+        {
+          "text": "It leaves little housing next to some transit hubs, and prevents apartments from being built on top of stores in some commercial districts.",
+          "reasoning": "This quote indirectly addresses the Town Center Zoning element by mentioning the current limitations on building apartments above stores in commercial districts, which is a key aspect of the Town Center Zoning proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [
+        {
+          "text": "It prioritizes construction of parking over apartments.",
+          "reasoning": "This quote indirectly addresses the issue of parking mandates by highlighting the current problem of prioritizing parking construction over housing, which the Removing Parking Mandates element aims to address."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [
+        {
+          "text": "It leaves little housing next to some transit hubs",
+          "reasoning": "This quote indirectly addresses the Transit-Oriented Development element by mentioning the current lack of housing near transit hubs, which is a key issue that the Transit-Oriented Development proposal aims to address."
+        }
+      ],
+      "element_is_discussed": true
+    }
+  }
+}

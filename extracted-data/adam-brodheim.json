@@ -1,0 +1,69 @@
+{
+  "testimony": {
+    "name": "Adam Brodheim",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/adam-brodheim-housing-researcher-and-community",
+    "start_time_in_seconds": 6953.9033,
+    "end_time_in_seconds": 7070.8687,
+    "for_or_against": "For",
+    "borough": "Manhattan",
+    "neighborhood": "Upper West Side",
+    "stated_affiliations": [],
+    "key_points": [
+      "Support for easing the transfer of development rights for landmark buildings",
+      "Importance of preserving historic buildings while allowing for new housing",
+      "Potential benefits for religious and cultural institutions",
+      "Support for office-to-residential conversions",
+      "Support for ending parking minimums",
+      "Support for legalizing ADUs",
+      "Support for making changes to zoning on campuses",
+      "Allowing density in historic districts without changing their character"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [
+        {
+          "text": "The whole city of YesPlan is great, but I quickly wanna call out the other specific proposals that are particularly compatible with integration, including office presidential conversions",
+          "reasoning": "This quote directly mentions 'office presidential conversions', which is clearly referring to the residential conversions element of the proposal. The speaker is expressing support for this element."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [
+        {
+          "text": "The whole city of YesPlan is great, but I quickly wanna call out the other specific proposals that are particularly compatible with integration, including office presidential conversions, any parking minimums.",
+          "reasoning": "The speaker mentions 'any parking minimums' in their list of proposals they support. This is likely a reference to removing parking mandates, which is part of the City of Yes For Housing Opportunity proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [
+        {
+          "text": "The whole city of YesPlan is great, but I quickly wanna call out the other specific proposals that are particularly compatible with integration, including office presidential conversions, any parking minimums. Legalizing ADUs",
+          "reasoning": "The speaker explicitly mentions 'Legalizing ADUs' (Accessory Dwelling Units) as one of the proposals they support, which directly corresponds to this element of the City of Yes For Housing Opportunity proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "testimony": {
+    "name": "Laura Spalter",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/laura-spalter-co-chair-of-broadway-community",
+    "start_time_in_seconds": 8825.107,
+    "end_time_in_seconds": 8988.745,
+    "for_or_against": "Against",
+    "borough": "Bronx",
+    "neighborhood": "North Riverdale",
+    "stated_affiliations": [
+      "Broadway Community Alliance"
+    ],
+    "key_points": [
+      "City Planning failed to conduct a full environmental review of the City of Yes for Housing Opportunity",
+      "The projected number of housing units is too low to trigger significant adverse impact assessments",
+      "The proposal will likely lead to luxury and fair market development rather than affordable housing",
+      "The plan does not adequately address climate change concerns",
+      "Increased density and construction will worsen sewage and flooding issues",
+      "The changes will increase impervious surfaces and exacerbate the urban heat island effect"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Affordable housing is a mere afterthought in this plan, which offers development developers a 20% bonus in FAR if they voluntarily provide a small number of affordable units in R6 through 8.",
+          "reasoning": "This quote directly references the Universal Affordability Preference (UAP) element of the proposal, which allows for a 20% increase in floor area ratio (FAR) for providing affordable housing units."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [
+        {
+          "text": "ADU's town center transit oriented development will not result in providing affordable housing.",
+          "reasoning": "This quote directly mentions 'town center' as part of the City of Yes proposal, indicating that the speaker is aware of and discussing this element, even though they are criticizing its effectiveness in providing affordable housing."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [
+        {
+          "text": "ADU's town center transit oriented development will not result in providing affordable housing.",
+          "reasoning": "This quote directly mentions 'ADU's' (Accessory Dwelling Units) as part of the City of Yes proposal, indicating that the speaker is aware of and discussing this element, even though they are criticizing its effectiveness in providing affordable housing."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [
+        {
+          "text": "ADU's town center transit oriented development will not result in providing affordable housing.",
+          "reasoning": "This quote directly mentions 'transit oriented development' as part of the City of Yes proposal, indicating that the speaker is aware of and discussing this element, even though they are criticizing its effectiveness in providing affordable housing."
+        }
+      ],
+      "element_is_discussed": true
+    }
+  }
+}

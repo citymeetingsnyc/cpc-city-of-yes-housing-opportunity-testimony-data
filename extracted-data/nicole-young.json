@@ -1,0 +1,66 @@
+{
+  "testimony": {
+    "name": "Nicole Young",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/nicole-young-department-of-education-doe-teacher",
+    "start_time_in_seconds": 43974.758,
+    "end_time_in_seconds": 44157.08,
+    "for_or_against": "Against",
+    "borough": "Unknown",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [
+      "New York City Teaching Collaborative"
+    ],
+    "key_points": [
+      "Opposes the City of Yes initiative",
+      "Advocates for affordable home ownership programs like Mitchell-Lama instead of luxury buildings with a small percentage of affordable units",
+      "Criticizes the idea that increased housing production automatically leads to affordable housing",
+      "Expresses concern about the ability of city employees (teachers, police officers, firefighters) to afford living in the city",
+      "Points out issues with existing affordable housing programs like Camden Plaza's privatization and RAD-PAC's rent increases",
+      "Highlights problems with developers not complying with public space requirements in exchange for tax abatements",
+      "Argues that the city cannot keep up with building inspections",
+      "Suggests that the housing crisis is due to high rent burdens and that legislative changes to prevent landlord abuses are needed rather than zoning changes"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [
+        {
+          "text": "The reason why I bring this up is because I actually benefited from a program offered by the city to become a teacher later in life called the New York City Teaching Collaborative. I think we should be doing more during this time of recruitment when we need more police officers, more firemen, more teachers. To be offering opportunities and gateways and pathways to programs like Mittalama instead of the disguise with the city of yes, that we're gonna create more luxury buildings, and then suddenly 20% are gonna go to affordable.",
+          "reasoning": "The speaker is indirectly discussing the UAP element by criticizing the approach of creating luxury buildings with a small percentage of affordable units. This is in contrast to the UAP proposal, which aims to add at least 20% more housing for affordable units."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [
+        {
+          "text": "And so the AUDs really are the new SROs.",
+          "reasoning": "The speaker mentions AUDs (likely meaning ADUs - Accessory Dwelling Units) and compares them to SROs (Single Room Occupancy), indicating that they are discussing this element of the proposal, albeit critically."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

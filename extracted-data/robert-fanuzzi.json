@@ -1,0 +1,60 @@
+{
+  "testimony": {
+    "name": "Robert Fanuzzi",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/robert-fanuzzi-president-of-bronx-council-for",
+    "start_time_in_seconds": 16602.78,
+    "end_time_in_seconds": 16787.209,
+    "for_or_against": "Against",
+    "borough": "Bronx",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [
+      "Bronx Council for Environmental Quality"
+    ],
+    "key_points": [
+      "The City of Yes for Housing proposal and its EIS (Environmental Impact Statement) are fatally flawed",
+      "The EIS needs to document more specific housing needs",
+      "Affordability should be scoped as a need, not just a desired outcome",
+      "The EIS should include alternative analyses to measure least impactful steps",
+      "The proposal does not adequately address sustainability and climate adaptation needs",
+      "The proposal rewards the real estate industry without addressing specific housing needs",
+      "A new or supplemental EIS is needed to realistically calculate housing growth and its impact on communities"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [
+        {
+          "text": "UAP lettuce recall is voluntary.",
+          "reasoning": "This quote directly mentions UAP (Universal Affordability Preference) and indicates that the speaker is discussing this element of the proposal, specifically noting its voluntary nature."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

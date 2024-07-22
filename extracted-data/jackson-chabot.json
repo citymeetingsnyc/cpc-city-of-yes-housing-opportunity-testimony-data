@@ -1,0 +1,73 @@
+{
+  "testimony": {
+    "name": "Jackson Chabot",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/jackson-chabot-from-open-plans-on-lifting-parking",
+    "start_time_in_seconds": 17036.695,
+    "end_time_in_seconds": 17220.666,
+    "for_or_against": "For",
+    "borough": "Unknown",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [
+      "Open Plans"
+    ],
+    "key_points": [
+      "Lifting parking mandates is necessary for improved livability",
+      "Parking mandates contribute to climate change and unsafe streets",
+      "Requiring parking encourages car ownership and perpetuates a cycle of demand for more parking",
+      "Lifting mandates encourages use of public and active transportation",
+      "Surface parking lots create dead zones in neighborhoods",
+      "Prioritizing people over parking can create more public space and a more livable city",
+      "Developers have stated they will still build parking even when not required",
+      "Lifting parking requirements is necessary for future housing needs"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Parking mandates are an archaic part of our zoning code and do not meet the current moment.",
+          "reasoning": "This quote directly addresses the proposal to remove parking mandates, indicating that the speaker views them as outdated."
+        },
+        {
+          "text": "But by requiring parking to be built in new developments, we're encouraging residents to build or sorry to buy and own vehicles.",
+          "reasoning": "This statement criticizes the current parking mandates, aligning with the proposal's aim to remove these requirements."
+        },
+        {
+          "text": "Instead of continuing this cycle, lifting mandates breaks it by encouraging the use of public and active modes of transportation.",
+          "reasoning": "The speaker explicitly mentions 'lifting mandates', which directly relates to the proposal to remove parking mandates."
+        },
+        {
+          "text": "Please keep this proposal whole. Please include the parking mandates being lifted.",
+          "reasoning": "This is a direct appeal to maintain the proposal to remove parking mandates, showing that the speaker is discussing this specific element."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

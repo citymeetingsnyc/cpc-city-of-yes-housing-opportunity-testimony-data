@@ -1,0 +1,69 @@
+{
+  "testimony": {
+    "name": "Samir Lavingia",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/samir-lavingia-former-manhattan-community-board-5",
+    "start_time_in_seconds": 15746.208,
+    "end_time_in_seconds": 15931.602,
+    "for_or_against": "For",
+    "borough": "Manhattan",
+    "neighborhood": "Midtown",
+    "stated_affiliations": [
+      "Manhattan Community Board 5"
+    ],
+    "key_points": [
+      "Personal experience with rent burden and risk of displacement",
+      "Support for adding more housing in every neighborhood",
+      "Excitement about Universal Affordable Housing (UAP) proposal",
+      "Support for office to residential conversions",
+      "Belief that City of Yes will bring more affordable homes",
+      "Support for all proposals in City of Yes for low, medium, and high density districts",
+      "Desire for rent reduction through increased housing supply"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [
+        {
+          "text": "I'm personally excited about a few of the proposals that I want to talk about UAP. I personally make around 80% AMI and it would add so many options for me and others to live all over the city in our own communities instead of where the affordable housing has been really shunted to in the city.",
+          "reasoning": "The speaker directly mentions UAP and discusses how it would benefit people like him who make around 80% AMI, allowing them to live in various parts of the city. This aligns with the UAP proposal's goal of providing affordable housing options in high-cost neighborhoods."
+        },
+        {
+          "text": "We need permanently affordable income restricted housing. And personally in my neighborhood, again, I live in Midtown, if you're adding 20% additional floor area, you may be going from a forty story building to a fifty story building, we're just not going to notice that from the street level.",
+          "reasoning": "This quote discusses the 20% additional floor area aspect of the UAP proposal, which allows buildings to add more housing if it's affordable. The speaker supports this idea, noting that the increase in building size would be minimal in areas like Midtown."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [
+        {
+          "text": "I'm also excited about office to residential conversions. I personally love the garment district area. I love Olive Broadway, and I'd like to be able to live there. It will make the area safer with more residents. It will allow businesses to have more customers within walking distance. It will help workers live closer to their jobs.",
+          "reasoning": "The speaker explicitly mentions and supports office to residential conversions, which is a key aspect of the Residential Conversions proposal. They discuss the benefits of such conversions, including increased safety, support for local businesses, and allowing people to live closer to their workplaces."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

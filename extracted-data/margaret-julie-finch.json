@@ -1,0 +1,66 @@
+{
+  "testimony": {
+    "name": "Margaret Julie Finch",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/margaret-julie-finch-former-manhattan-community",
+    "start_time_in_seconds": 28258.174,
+    "end_time_in_seconds": 28340.398,
+    "for_or_against": "Against",
+    "borough": "Manhattan",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [
+      "Manhattan Community Board 2"
+    ],
+    "key_points": [
+      "Opposed to many items in the program",
+      "Supports mandated or portable housing",
+      "Against allowing more density in historic districts",
+      "Against shifting decision making from neighborhoods to commissioners",
+      "Against giving city planning more discretionary powers without going through the current land use process",
+      "Against eliminating use districts that limit where casinos, nightclubs, and strip clubs can be located",
+      "Long-time resident of Manhattan (48 years in a rent-stabilized loft)",
+      "Does not own a car"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [
+        {
+          "text": "I do not own a car.",
+          "reasoning": "While the speaker doesn't directly mention removing parking mandates, her statement about not owning a car is relevant to the proposal's aim to reduce mandatory parking requirements. It suggests that not all residents need parking spaces, which aligns with the proposal's intent."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [
+        {
+          "text": "I'm against allowing more density in historic districts",
+          "reasoning": "This statement relates to the Transit-Oriented Development proposal, which aims to increase density near transit areas. While the speaker doesn't explicitly mention transit, her opposition to increased density in certain areas is relevant to this aspect of the proposal."
+        }
+      ],
+      "element_is_discussed": true
+    }
+  }
+}

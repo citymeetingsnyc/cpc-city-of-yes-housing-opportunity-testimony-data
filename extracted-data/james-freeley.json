@@ -1,0 +1,59 @@
+{
+  "testimony": {
+    "name": "James Freeley",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/james-freeley-on-questioning-the-city-of-yes-for",
+    "start_time_in_seconds": 47104.3,
+    "end_time_in_seconds": 47315.13,
+    "for_or_against": "Against",
+    "borough": "Unknown",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [],
+    "key_points": [
+      "Questions the accuracy and implications of the 1.41% vacancy rate used to justify the City of Yes proposal",
+      "Argues that there are already 230,000 vacant housing units available, which would significantly change the vacancy rate if utilized",
+      "Points out that 25,000 units are unavailable due to lacking appliances, suggesting addressing this issue instead of converting office spaces",
+      "Mentions that 60,000 vacant units are held for occasional or short-term use",
+      "Argues that the addition of 43,000 former Airbnb units and 153,000 rental units did not improve affordability",
+      "Questions the effectiveness of increasing supply to address the housing crisis",
+      "Suggests that factors like inflation, interest rates, lending practices, and real estate taxes have more impact on affordability than supply",
+      "Expresses doubt that the City of Yes goal of 500,000 units will guarantee affordable housing"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Manhattan borough president Levin was excited about unlocking 6000 units in office spaces.",
+          "reasoning": "This quote indicates that the speaker is discussing the residential conversions element of the proposal, as it refers to converting office spaces into housing units, which is a key aspect of the residential conversions policy."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

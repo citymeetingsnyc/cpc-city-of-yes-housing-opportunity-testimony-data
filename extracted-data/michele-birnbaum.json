@@ -1,0 +1,83 @@
+{
+  "testimony": {
+    "name": "Michele Birnbaum",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/michele-birnbaum-from-historic-park-avenue-on",
+    "start_time_in_seconds": 21584.76,
+    "end_time_in_seconds": 21791.512,
+    "for_or_against": "Against",
+    "borough": "Manhattan",
+    "neighborhood": "Upper East Side",
+    "stated_affiliations": [
+      "Historic Park Avenue"
+    ],
+    "key_points": [
+      "Zoning laws are important for avoiding chaos and preserving history",
+      "Removing height limits for new residential construction will increase carbon footprint and negatively impact light and air",
+      "The proposal lacks detail and will lower the standard of living",
+      "Concerns about apartments with shared bathrooms and mixing residential with commercial uses",
+      "Potential increase in Airbnb-style rentals in stable neighborhoods",
+      "Safety concerns about strangers in residential buildings due to mixed-use",
+      "Lack of proper ventilation for proposed home businesses like nail salons",
+      "Difficulty in enforcing time limits on home businesses"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [
+        {
+          "text": "However, in our 10a district, which we have proposed, has a high limit of 210 feet, but affords a 20% bonus to a developer who adds affordable housing.",
+          "reasoning": "This quote directly references the concept of providing a bonus for adding affordable housing, which is a key aspect of the Universal Affordability Preference (UAP) proposal."
+        },
+        {
+          "text": "I don't see that areas without height limits are going to yield any affordable housing as that they're not mounting.",
+          "reasoning": "This statement indirectly relates to the UAP by expressing skepticism about the effectiveness of removing height limits in generating affordable housing, which is one of the goals of the UAP."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Apartments with bathrooms in the hall and neighbors that have nail salons, barbershops, and agriculture, which will be mainly cannabis in the apartment next to yours, does not represent an improvement in the name of creating affordable housing.",
+          "reasoning": "This quote indirectly references the concept of residential conversions by mentioning the possibility of having various business types in residential spaces, which is related to the proposal's aim to allow for more flexible use of space."
+        },
+        {
+          "text": "Businesses and residential buildings mean that strangers will be in the hallways, and bars and rooftops will increase noise for residents at all hours.",
+          "reasoning": "This statement discusses the potential consequences of mixing businesses and residences, which is related to the residential conversions proposal that aims to allow for more flexible use of buildings."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [
+        {
+          "text": "An area zone for one family homes has not been approved by committing additional adjacent structures on the land. Infringing on your neighbor's privacy and safety even if you choose to do it.",
+          "reasoning": "This quote indirectly references the concept of Accessory Dwelling Units (ADUs) by mentioning additional structures on land zoned for single-family homes, which is a key aspect of the ADU proposal."
+        },
+        {
+          "text": "You can expect air b and b's to pop up all over the place putting transits and unaccountable populations in the middle of stable neighborhoods. You can't guarantee that a family extension will be in those ADUs.",
+          "reasoning": "This statement directly mentions ADUs and expresses concerns about their potential use, which is directly related to the ADU element of the City of Yes For Housing Opportunity proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

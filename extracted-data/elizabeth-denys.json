@@ -1,0 +1,86 @@
+{
+  "testimony": {
+    "name": "Elizabeth Denys",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/elizabeth-denys-from-open-new-york-on-transit",
+    "start_time_in_seconds": 2394.6694,
+    "end_time_in_seconds": 2568.547,
+    "for_or_against": "For",
+    "borough": "Brooklyn",
+    "neighborhood": "Flatbush",
+    "stated_affiliations": [
+      "Open New York"
+    ],
+    "key_points": [
+      "Support for the City of Yes for Housing Opportunity initiative",
+      "Concern about housing shortage and skyrocketing rents forcing people to leave the city",
+      "Support for transit-oriented development and lifting parking minimums",
+      "Support for allowing 3 to 5 story apartment buildings near transit, which are contextual with existing buildings in Flatbush",
+      "Support for Accessory Dwelling Units (ADUs) as a way to add housing in lower density neighborhoods",
+      "ADUs can help families live closer together and provide additional income for homeowners",
+      "Urges approval of the proposal in its strongest possible form"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Lifting parking minimums also helps reduce the cost of building homes and thus the resulting rents where cars aren't needed to get around.",
+          "reasoning": "This quote directly addresses the removal of parking mandates (referred to as 'lifting parking minimums') and its potential benefits, which aligns with the proposal's intent to reduce housing costs."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Next, I want to speak about how accessory dwelling units are another great way to add more housing in lower density neighborhoods like mine.",
+          "reasoning": "The speaker directly mentions accessory dwelling units as part of the proposal."
+        },
+        {
+          "text": "ADUs will help families live closer to one another by creating spaces for young adults and aging relatives, and they also help homeowners themselves creating new revenue streams to help offset increasing home maintenance costs and cover mortgage and property tax payments.",
+          "reasoning": "This quote discusses the benefits of ADUs, which aligns with the proposal's intent to support homeowners and provide more housing options."
+        },
+        {
+          "text": "Cities and state across the country have already allowed ADUs with widespread success, and it's time for New York City to do the same.",
+          "reasoning": "The speaker advocates for implementing ADUs in New York City, which is a key part of the City of Yes for Housing Opportunity proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [
+        {
+          "text": "First, I wanna speak about transitory into development and lifting parking minimums. Creating apartment buildings near transit is the best of new development. They create sustainable walkable communities where people don't need to own cars.",
+          "reasoning": "This quote directly addresses the transit-oriented development aspect of the proposal, highlighting its benefits for creating sustainable communities near transit."
+        },
+        {
+          "text": "Transit oriented development proposal would create modest 3 to 5 story apartment buildings, buildings that are contextual throughout Flatbush already.",
+          "reasoning": "This quote specifically mentions the transit-oriented development proposal and describes the type of buildings it would allow, which aligns with the proposal's intent."
+        },
+        {
+          "text": "Bringing back modest apartment buildings near train stations in our community is the perfect way to fix our housing crisis.",
+          "reasoning": "This statement supports the transit-oriented development aspect of the proposal by advocating for building apartments near transit as a solution to the housing crisis."
+        }
+      ],
+      "element_is_discussed": true
+    }
+  }
+}

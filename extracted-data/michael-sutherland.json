@@ -1,0 +1,72 @@
+{
+  "testimony": {
+    "name": "Michael Sutherland",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/michael-sutherland-from-open-plans-on-lifting",
+    "start_time_in_seconds": 2001.6682,
+    "end_time_in_seconds": 2156.429,
+    "for_or_against": "For",
+    "borough": "Brooklyn",
+    "neighborhood": "Deep Southern Brooklyn",
+    "stated_affiliations": [
+      "Open Plans"
+    ],
+    "key_points": [
+      "Lifting parking mandates will not ban parking, but allow it to be built where appropriate",
+      "Many cities across the US have already lifted parking mandates, including less transit-oriented cities",
+      "Buffalo's experience shows that lifting parking mandates works, with 47% of major developments including fewer parking spaces than previously required",
+      "In New York City, more parking than required has been built in areas with high car dependency",
+      "Parking mandates have driven up the cost of building and lowered the number of housing units built in areas with less car dependency",
+      "Lifting mandates will allow for more housing creation in areas where parking is unnecessary",
+      "Urges the inclusion of parking mandate reform in the City of Yes for Housing Opportunity initiative"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [
+        {
+          "text": "I'm here to focus specifically on parking mediate reform.",
+          "reasoning": "This quote directly indicates that the speaker is focusing on the parking mandate reform, which is a key element of the City of Yes For Housing Opportunity proposal."
+        },
+        {
+          "text": "Lifting parking mandates will not ban parking from being created. It simply allows parking to be built where it's appropriate, and evidence from other cities that are significantly less robust transit networks and ours shows that parking is still built where it's demanded.",
+          "reasoning": "This quote explains the concept of removing parking mandates, which aligns with the proposal's goal of ending mandatory parking requirements for new housing."
+        },
+        {
+          "text": "The impacts of listing parking mandates span decades, early findings from Buffalo already indicate that listing mandates citywide works.",
+          "reasoning": "The speaker provides evidence from another city (Buffalo) that has implemented similar parking mandate reforms, supporting the proposal's approach."
+        },
+        {
+          "text": "Lifting mandates wouldn't ban parking and it wouldn't permit or require less parking to be built anywhere in particular. In fact, in areas where there is high car dependency parking will often still be built. However, in areas where parking is unnecessary or unneeded, lifting mandates will allow the creation of more sorely needed housing.",
+          "reasoning": "This quote directly addresses the benefits and impacts of removing parking mandates, which is a key element of the City of Yes For Housing Opportunity proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

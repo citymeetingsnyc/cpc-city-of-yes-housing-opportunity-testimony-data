@@ -1,0 +1,65 @@
+{
+  "testimony": {
+    "name": "Joel Siegel",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/joel-siegel-on-city-of-yes-zoning-changes-in",
+    "start_time_in_seconds": 30049.434,
+    "end_time_in_seconds": 30253.137,
+    "for_or_against": "Against",
+    "borough": "Brooklyn",
+    "neighborhood": "Victorian Flatbush",
+    "stated_affiliations": [
+      "Brooklyn Community Board 14"
+    ],
+    "key_points": [
+      "Residents of Victorian Flatbush feel blindsided by the proposed changes",
+      "Lack of proper communication and community engagement from the city",
+      "Previous successful rezoning in 2009 resulted from good faith collaboration with city planning",
+      "Current proposal is seen as unnecessary and destructive to the neighborhood",
+      "Willingness to work with city planners to create housing while preserving neighborhood character",
+      "Challenge to city planners to visit Victorian Flatbush and engage with community leaders",
+      "Offer to upzone and create housing units in a way that preserves the neighborhood"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [
+        {
+          "text": "The city of yes is a kick in the teeth to my neighbors and I'm talking about transit oriented development district fixes and ancillary structures.",
+          "reasoning": "The speaker mentions 'ancillary structures' which is likely referring to Accessory Dwelling Units (ADUs). Although he doesn't use the exact term 'ADU', ancillary structures in the context of housing often refer to additional living spaces on a property, which is what ADUs are."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [
+        {
+          "text": "The city of yes is a kick in the teeth to my neighbors and I'm talking about transit oriented development district fixes and ancillary structures.",
+          "reasoning": "The speaker directly mentions 'transit oriented development' which is one of the key elements of the City of Yes For Housing Opportunity proposal. He seems to be opposing this aspect of the proposal."
+        }
+      ],
+      "element_is_discussed": true
+    }
+  }
+}

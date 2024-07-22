@@ -1,0 +1,72 @@
+{
+  "testimony": {
+    "name": "Emanuel Kokinakis",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/emanuel-kokinakis-from-mega-contracting",
+    "start_time_in_seconds": 44385.98,
+    "end_time_in_seconds": 44525.535,
+    "for_or_against": "For",
+    "borough": "Unknown",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [
+      "MEGA Contracting Development"
+    ],
+    "key_points": [
+      "The City of Yes proposal is necessary and beneficial for affordable housing development",
+      "Current provisions have required unnecessary ULURPs and rezonings for 100% affordable projects",
+      "The proposal will allow for mixed income development, generating low income affordable housing without city subsidy",
+      "The current 485x tax break alone is not sufficient for financial feasibility of new developments in outer boroughs",
+      "The proposal will benefit 100% affordable units providing truly affordable low income housing",
+      "Parking benefits in the proposal will make previously infeasible projects feasible"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [
+        {
+          "text": "This city of yes proposal will allow for mixed income development, which will generate low income affordable housing, without the new to city subsidy.",
+          "reasoning": "This quote indicates that the speaker is discussing the UAP element, as it mentions mixed income development and generating low income affordable housing without city subsidy, which aligns with the UAP's goal of adding more affordable housing in high-cost neighborhoods."
+        },
+        {
+          "text": "Under the current provisions here, we've undergone U Alerts and rezoning and pretty much every borough of the city for a 100% affordable projects that had this been adopted would not have been necessary.",
+          "reasoning": "This quote suggests that the speaker is discussing the UAP element, as it mentions that the new provisions would eliminate the need for rezoning for 100% affordable projects, which is in line with the UAP's goal of streamlining the process for creating affordable housing."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [
+        {
+          "text": "So we we thank you for taking on this endeavor, and we'll conclude my testimony.",
+          "reasoning": "While this quote doesn't explicitly mention parking, it comes immediately after the speaker mentions parking benefits, indicating that the removal of parking mandates is part of the overall proposal they are supporting."
+        },
+        {
+          "text": "So we absolutely are for this proposal and think that also the parking benefits, which render a lot of projects infeasible, will now become fusible.",
+          "reasoning": "This quote directly refers to the parking benefits of the proposal, indicating that the speaker is discussing the removal of parking mandates, which will make previously infeasible projects feasible."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

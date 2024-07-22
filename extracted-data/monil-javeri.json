@@ -1,0 +1,80 @@
+{
+  "testimony": {
+    "name": "Monil Javeri",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/monil-javeri-on-support-for-city-of-yes-and-its",
+    "start_time_in_seconds": 33972.758,
+    "end_time_in_seconds": 34161.46,
+    "for_or_against": "For",
+    "borough": "Queens",
+    "neighborhood": "Woodside",
+    "stated_affiliations": [],
+    "key_points": [
+      "Supports City of Yes proposal, especially for families",
+      "ADUs will allow for caring for aging parents while maintaining some separation",
+      "Reducing parking requirements promotes walkability and community connections",
+      "Increased housing supply can help reduce homelessness",
+      "Affordable housing allows young people to stay in their communities",
+      "Building more housing makes it easier to build and maintain communities",
+      "Personal experience of improved quality of life after moving from car-dependent Long Island to walkable Woodside"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Secondly, I think park Game of Marketing is great is great. It's fantastic.",
+          "reasoning": "Although the speaker mispronounces 'parking mandates', it's clear from the context that they are referring to the removal of parking mandates. They express strong support for this element of the proposal."
+        },
+        {
+          "text": "Having lived in Long Island where I had to where I had to get my mom to drive me everywhere until I was sixteen, severely limited my independence growing up And and now I live in Woodside where I can walk to get groceries, and I can walk to the train station, I can walk and I can I can walk to work even has allowed me to I've lost weight because I I'm able to do that?",
+          "reasoning": "This quote demonstrates the speaker's support for removing parking mandates by contrasting their car-dependent lifestyle in Long Island with their current walkable lifestyle in Woodside. This aligns with the proposal's goal of reducing car dependency and promoting walkable neighborhoods."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Having a having ADUs will let me Take care of my take care of my elderly parents at the same time that I can At the same time, I can raise kids when I have them.",
+          "reasoning": "The speaker explicitly mentions ADUs (Accessory Dwelling Units) and describes how they would allow him to care for his elderly parents while also raising his own family. This directly relates to the ADU element of the City of Yes proposal."
+        },
+        {
+          "text": "I'm Indian. And as an Indian person, I was always told that I'm going to be taking care of my parents as I get older. One day when I buy a home, I wanna be able to take care of my aging parents and an aging place with them. And And and as anyone who's ever had parents annoy them, you want a little bit of separation.",
+          "reasoning": "While not explicitly mentioning ADUs, this quote provides context for why the speaker supports ADUs. It aligns with the proposal's intention to support multi-generational living arrangements and aging in place, which are key benefits of ADUs."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [
+        {
+          "text": "And now I live in Woodside where I can walk to get groceries, and I can walk to the train station, I can walk and I can I can walk to work even has allowed me to I've lost weight because I I'm able to do that?",
+          "reasoning": "While the speaker doesn't explicitly mention transit-oriented development, they describe living in a neighborhood (Woodside) that exemplifies the principles of transit-oriented development. They mention being able to walk to the train station and other amenities, which is a key feature of transit-oriented development."
+        },
+        {
+          "text": "And I actually know my neighbors in Woodside, even though I've only lived there for 2 years, much more than I knew my neighbors in Long Island where where I grew up because I see them every day when I go get groceries, when I walk to go get groceries, when I walk to the near this coffee shop.",
+          "reasoning": "This quote further supports the speaker's implicit discussion of transit-oriented development by highlighting the community benefits of living in a walkable, transit-accessible neighborhood. This aligns with the goals of transit-oriented development in creating more vibrant, connected communities."
+        }
+      ],
+      "element_is_discussed": true
+    }
+  }
+}

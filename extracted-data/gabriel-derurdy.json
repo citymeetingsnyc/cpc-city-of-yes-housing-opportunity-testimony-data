@@ -1,0 +1,59 @@
+{
+  "testimony": {
+    "name": "Gabriel DeRurdy",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/gabriel-derurdy-on-supporting-the-city-of-yes-for",
+    "start_time_in_seconds": 9148.045,
+    "end_time_in_seconds": 9245.8,
+    "for_or_against": "For",
+    "borough": "Manhattan",
+    "neighborhood": "Hell's Kitchen",
+    "stated_affiliations": [],
+    "key_points": [
+      "Personal experience with difficult rental market in NYC",
+      "Support for the universal affordability preference",
+      "Belief that the proposal will incrementally add housing without radically changing neighborhood scale",
+      "Affordability requirement benefits those most burdened by the housing crisis"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [
+        {
+          "text": "One section I'd like to speak in favor of is the universal affordability preference. I think it's a good tool for our neighborhood and for the city since it incrementally adds that extra 20 percent of housing on top of the buildings.",
+          "reasoning": "This quote directly mentions the Universal Affordability Preference and accurately describes its key feature of allowing 20% more housing on top of buildings, which aligns with the proposal's description."
+        },
+        {
+          "text": "This doesn't radically change the scale of our neighborhoods in my view and it has the 100 percent affordability requirement, which means it benefits the people most burdened by this crisis first.",
+          "reasoning": "This quote further elaborates on the speaker's understanding of the UAP, mentioning the affordability requirement, which is consistent with the proposal's aim to provide affordable housing in high-cost neighborhoods."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

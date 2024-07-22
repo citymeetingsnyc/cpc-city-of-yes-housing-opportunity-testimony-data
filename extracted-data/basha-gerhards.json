@@ -1,0 +1,84 @@
+{
+  "testimony": {
+    "name": "Basha Gerhards",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/basha-gerhards-senior-vice-president-of-planning",
+    "start_time_in_seconds": 15168.902,
+    "end_time_in_seconds": 15328.182,
+    "for_or_against": "For",
+    "borough": "Unknown",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [
+      "Real Estate Board of New York"
+    ],
+    "key_points": [
+      "Support for the City of Yes for Housing Opportunity initiative",
+      "Approval of transit-oriented development, accessory dwelling units, and parking changes",
+      "Support for new R11 and R12 districts to unlock housing opportunities",
+      "Support for expanded radius of potential receiving sites for landmark development rights",
+      "Importance of Article 1 Chapter 5 changes to facilitate office-to-residential conversions",
+      "Concern about elimination of existing voluntary inclusionary housing and inclusionary housing certificate program",
+      "Opposition to reduction in maximum preventive density for market-rate housing in Lower Manhattan and Midtown districts",
+      "Need for carefully crafted vesting and transition provisions to protect existing housing pipeline",
+      "Recommendation for refinement of bulk rules to accommodate additional density",
+      "Urge to treat conversions, new construction, and enlargements equally in determining parking",
+      "Recognition of the proposal as a significant change to zoning text"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [
+        {
+          "text": "The universal affordability preference has the potential to be well utilized in many neighborhoods deliver apartments.",
+          "reasoning": "This quote directly mentions the Universal Affordability Preference, which is a key element of the City of Yes For Housing Opportunity proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Among the most important components of this proposal are the proposed expansion of provisions of Article 1 chapter 5 and other related regulatory changes. These are aligned with the recommendations of the Office Adaptive Reuse Task force and will help facilitate more office to residential conversions.",
+          "reasoning": "This quote directly refers to facilitating office to residential conversions, which is a key aspect of the Residential Conversions element of the proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [
+        {
+          "text": "The reduction in parking mandates is an important change, and we urge the commission to treat equally conversions, new construction, and enlargements into terminating the amount of parking permitted.",
+          "reasoning": "This quote directly addresses the reduction in parking mandates, which is a key element of the City of Yes For Housing Opportunity proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Remi supports the goals of the tax and commends the department for aligning the city zoning with best practices around transit oriented development, accessory dwelling units, and parking.",
+          "reasoning": "This quote explicitly mentions accessory dwelling units as one of the elements that the speaker's organization supports in the proposal."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [
+        {
+          "text": "Remi supports the goals of the tax and commends the department for aligning the city zoning with best practices around transit oriented development, accessory dwelling units, and parking.",
+          "reasoning": "This quote directly mentions transit oriented development as one of the elements that the speaker's organization supports in the proposal."
+        }
+      ],
+      "element_is_discussed": true
+    }
+  }
+}

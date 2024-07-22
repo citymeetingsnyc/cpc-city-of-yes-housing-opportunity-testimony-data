@@ -1,0 +1,55 @@
+{
+  "testimony": {
+    "name": "Roger Gendron",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/roger-gendron-president-of-new-hamilton-beach",
+    "start_time_in_seconds": 19931.506,
+    "end_time_in_seconds": 20123.432,
+    "for_or_against": "Against",
+    "borough": "Queens",
+    "neighborhood": "Hamilton Beach",
+    "stated_affiliations": [
+      "New Hamilton Beach Civic Association"
+    ],
+    "key_points": [
+      "Concerns about coastal flooding and sea level rise in low-lying areas of New York City",
+      "Potential increase in flood mitigation costs and insurance",
+      "Risk of displacement during extreme weather events",
+      "Inadequate safeguards in the City of Yes proposal to mitigate flooding risks",
+      "Challenges for emergency responders during flooding events",
+      "Request for recognition of all coastal communities as Special Coastal Risk Districts",
+      "Specific flooding concerns for Hamilton Beach and Howard Beach communities"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}

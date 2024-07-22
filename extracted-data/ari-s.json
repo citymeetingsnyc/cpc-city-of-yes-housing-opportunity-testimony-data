@@ -1,0 +1,72 @@
+{
+  "testimony": {
+    "name": "Ari S",
+    "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/ari-s-structural-engineer-on-concerns-about-city",
+    "start_time_in_seconds": 52708.902,
+    "end_time_in_seconds": 52893.117,
+    "for_or_against": "Against",
+    "borough": "Unknown",
+    "neighborhood": "Unknown",
+    "stated_affiliations": [],
+    "key_points": [
+      "The proposal does not guarantee affordable housing",
+      "Neighborhoods with increased development have become less affordable",
+      "Neighborhoods with individual homeowners and 2-3 family homes are more affordable",
+      "Concerns about one-size-fits-all approach without considering neighborhood-specific needs",
+      "Lack of access to public transportation in some neighborhoods leads to parking issues",
+      "Concerns about reduction in green spaces, sunlight, and shared community spaces",
+      "Need for infrastructure and resource updates before introducing new housing",
+      "Suggestion to explore other means of addressing housing affordability, such as not increasing rent stabilization"
+    ]
+  },
+  "elements_discussed": {
+    "uap_analysis": {
+      "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+      "quotes_indicating_discussion": [
+        {
+          "text": "I agree that this proposal as I've read it and as I understand it. Does not guarantee affordable housing",
+          "reasoning": "While not explicitly mentioning UAP, this quote addresses the overall proposal's impact on affordable housing, which is a key aspect of the Universal Affordability Preference (UAP) element. The speaker is expressing doubt about the proposal's ability to guarantee affordable housing, which is directly related to the UAP's goal."
+        },
+        {
+          "text": "I don't see from my lived experience that changes like this have brought about affordable housing. In fact, I see the opposite where neighborhoods where a lot of development has been encouraged like Williamsburg, Bedstuy, Long Island City has actually become extremely unaffordable",
+          "reasoning": "This quote further elaborates on the speaker's concerns about the proposal's impact on affordability. While not mentioning UAP by name, it directly addresses the issue of affordable housing in relation to development changes, which is a core aspect of the UAP element."
+        },
+        {
+          "text": "I fear that pushing a lot of these changes at this large one size fits all scale is just gonna create more housing that is unaffordable.",
+          "reasoning": "This quote expresses concern about the proposal's approach to creating affordable housing, which is directly related to the UAP element. The speaker is skeptical that the proposed changes will result in affordable housing, which is the primary goal of the UAP."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "residential_conversions_analysis": {
+      "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "town_center_zoning_analysis": {
+      "element_of_proposal": "TOWN_CENTER_ZONING",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "removing_parking_mandates_analysis": {
+      "element_of_proposal": "REMOVING_PARKING_MANDATES",
+      "quotes_indicating_discussion": [
+        {
+          "text": "I live in a neighborhood where most people do not have access to the train. So A lot of the buildings that have gone up have eliminated parking, and people in my neighborhood drive around for 1 hour trying to find parking and a parking space in some of these new buildings. Sells for $90,000.",
+          "reasoning": "This quote directly addresses the issue of removing parking mandates. The speaker is discussing how new buildings in their neighborhood have eliminated parking, which is in line with the proposal's aim to end parking mandates. They are highlighting the negative consequences they've observed from this change, such as difficulty finding parking and high costs for available parking spaces."
+        }
+      ],
+      "element_is_discussed": true
+    },
+    "accessory_dwelling_units_analysis": {
+      "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    },
+    "transit_oriented_development_analysis": {
+      "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
+      "quotes_indicating_discussion": [],
+      "element_is_discussed": false
+    }
+  }
+}
