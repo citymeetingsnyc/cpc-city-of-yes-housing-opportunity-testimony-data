@@ -10,6 +10,7 @@ from dotenv import load_dotenv
 from openai import OpenAI
 from pydantic import BaseModel, Field
 from rich.logging import RichHandler
+from rich.prompt import Confirm
 
 from models import Transcript
 
@@ -24,7 +25,7 @@ load_dotenv()
 PROMPT = """
 I will provide a transcript of a testimony by an individual at a NYC City Planning Commission public hearing regarding a zoning proposal called "City of Yes for Housing Opportunity".
 
-Your job is to determine all the elements of the proposal that the speaker discussed, whether or not they were against it.
+Your job is to determine all the elements of the proposal that the speaker discussed.
 
 From NYC City Planning's website, City of Yes for Housing Opportunity has the following elements:
 
@@ -120,6 +121,24 @@ Adding housing near public transit is a commonsense approach to support convenie
 However, current zoning bans apartment buildings like these, forcing New Yorkers into long commutes, increasing traffic congestion and worsening climate change.  
 
 City of Yes would relegalize modest, 3- to 5-story apartment buildings where they fit best: large lots on wide streets or corners within a half-mile of public transit.
+
+# Campuses
+
+Across the city, many residential, faith-based, or other campuses have underused space that they could turn into housing. That new construction can pay for repairs to existing buildings, breathe new life into community institutions, and help address our housing crisis.
+
+Today, arbitrary rules get in the way. 
+
+For example, if existing buildings are too tall or too far back from the street, zoning prohibits new development on the property - even if the new developments would comply with current regulations.
+
+City of Yes would make it easier for campuses to add new buildings if they wish to by removing obstacles and streamlining outdated rules. The new buildings could bring money for repairs, new facilities, and housing.
+
+# Small and Shared Housing
+
+NYC banned shared housing in the 1950s and apartment buildings full of studio apartments in the 1960s. This has contributed to the homelessness crisis in the decades since, and forced people who would prefer to live alone into living with roommates.
+
+City of Yes for Housing Opportunity would re-legalize housing with shared kitchens or other common facilities. It would also allow buildings with more studios and one-bedrooms for the many New Yorkers who want to live alone but don't have that option today.
+
+These apartments are important for so many people - recent college graduates, older households that are downsizing, and everyone who lives with roommates but would prefer to live alone. Allowing more small and shared apartments will also open up larger, family-sized apartments otherwise be occupied by roommates.
 """
 
 
@@ -130,18 +149,122 @@ class CityofYesForHousingOpportunityProposalElement(str, Enum):
     REMOVING_PARKING_MANDATES = "REMOVING PARKING MANDATES"
     ACCESSORY_DWELLING_UNITS_ADU = "ACCESSORY DWELLING UNITS (ADU)"
     TRANSIT_ORIENTED_DEVELOPMENT = "TRANSIT-ORIENTED DEVELOPMENT"
+    CAMPUSES = "CAMPUSES"
+    SMALL_AND_SHARED_HOUSING = "SMALL AND SHARED HOUSING"
 
 
-class CityOfYesForHousingOpportunityElementsDiscussed(BaseModel):
-    chain_of_thought: str = Field(
-        description="""Think step by step about which elements of the City of Yes For Housing Opportunity proposal the individual giving testimony discussed.
-
-        1. Which elements are explicitly stated in the testimony?
-        2. Which elements are implicit in the testimony? The connection to the element must be very clear in order to be included.
-        """
+class Quote(BaseModel):
+    text: str = Field(
+        description="The quote from the testimony that indicates the speaker is discussing an element of the proposal. It is irrelevant whether the speaker is for or against the proposal."
     )
-    elements: List[CityofYesForHousingOpportunityProposalElement] = Field(
-        description="A list of all the of the elements of City of Yes For Housing Opportunity discussed by the individual giving testimony. All elements discussed must be listed, whether or not the individual is for or against the proposal, and there should be no duplicates."
+    reasoning: str = Field(
+        description="Your reasoning for why the quote indicates that the speaker is discussing an element of the proposal. It should tie back directly to the proposal put forth by City Planning. It is irrelevant whether the speaker is for or against the proposal."
+    )
+
+
+class CityOfYesForHousingOpportunityElementDiscussionAnalysis(BaseModel):
+    element_of_proposal: Literal[
+        "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
+        "RESIDENTIAL_CONVERSIONS",
+        "TOWN_CENTER_ZONING",
+        "REMOVING_PARKING_MANDATES",
+        "ACCESSORY_DWELLING_UNITS_ADU",
+        "TRANSIT_ORIENTED_DEVELOPMENT",
+        "CAMPUSES",
+        "SMALL_AND_SHARED_HOUSING",
+    ] = Field(
+        description="The element of the City of Yes For Housing Opportunity proposal that you are looking for in the testimony."
+    )
+    quotes_indicating_discussion: List[Quote] = Field(
+        description="A list of quotes from the testimony that indicate the speaker is discussing the element of the proposal you are analyzing. This should be empty if the element is not discussed."
+    )
+    element_is_discussed: bool = Field(
+        description="Whether or not the element of the proposal is discussed by the testimony."
+    )
+
+
+class UAPAnalysis(CityOfYesForHousingOpportunityElementDiscussionAnalysis):
+    element_of_proposal: Literal["UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP"] = Field(
+        description="The element of the City of Yes For Housing Opportunity proposal that you are looking for in the testimony."
+    )
+
+
+class ResidentialConversionsAnalysis(
+    CityOfYesForHousingOpportunityElementDiscussionAnalysis
+):
+    element_of_proposal: Literal["RESIDENTIAL_CONVERSIONS"] = Field(
+        description="The element of the City of Yes For Housing Opportunity proposal that you are looking for in the testimony."
+    )
+
+
+class TownCenterZoningAnalysis(CityOfYesForHousingOpportunityElementDiscussionAnalysis):
+    element_of_proposal: Literal["TOWN_CENTER_ZONING"] = Field(
+        description="The element of the City of Yes For Housing Opportunity proposal that you are looking for in the testimony."
+    )
+
+
+class RemovingParkingMandatesAnalysis(
+    CityOfYesForHousingOpportunityElementDiscussionAnalysis
+):
+    element_of_proposal: Literal["REMOVING_PARKING_MANDATES"] = Field(
+        description="The element of the City of Yes For Housing Opportunity proposal that you are looking for in the testimony."
+    )
+
+
+class AccessoryDwellingUnitsAnalysis(
+    CityOfYesForHousingOpportunityElementDiscussionAnalysis
+):
+    element_of_proposal: Literal["ACCESSORY_DWELLING_UNITS_ADU"] = Field(
+        description="The element of the City of Yes For Housing Opportunity proposal that you are looking for in the testimony."
+    )
+
+
+class TransitOrientedDevelopmentAnalysis(
+    CityOfYesForHousingOpportunityElementDiscussionAnalysis
+):
+    element_of_proposal: Literal["TRANSIT_ORIENTED_DEVELOPMENT"] = Field(
+        description="The element of the City of Yes For Housing Opportunity proposal that you are looking for in the testimony."
+    )
+
+
+class CampusesAnalysis(CityOfYesForHousingOpportunityElementDiscussionAnalysis):
+    element_of_proposal: Literal["CAMPUSES"] = Field(
+        description="The element of the City of Yes For Housing Opportunity proposal that you are looking for in the testimony."
+    )
+
+
+class SmallAndSharedHousingAnalysis(
+    CityOfYesForHousingOpportunityElementDiscussionAnalysis
+):
+    element_of_proposal: Literal["SMALL_AND_SHARED_HOUSING"] = Field(
+        description="The element of the City of Yes For Housing Opportunity proposal that you are looking for in the testimony."
+    )
+
+
+class CityOfYesForHousingOpportunityAnalysis(BaseModel):
+    uap_analysis: UAPAnalysis = Field(
+        description="An analysis of whether or not the UAP element of the City of Yes For Housing Opportunity proposal is discussed in the testimony."
+    )
+    residential_conversions_analysis: ResidentialConversionsAnalysis = Field(
+        description="An analysis of whether or not the Residential Conversions element of the City of Yes For Housing Opportunity proposal is discussed in the testimony."
+    )
+    town_center_zoning_analysis: TownCenterZoningAnalysis = Field(
+        description="An analysis of whether or not the Town Center Zoning element of the City of Yes For Housing Opportunity proposal is discussed in the testimony."
+    )
+    removing_parking_mandates_analysis: RemovingParkingMandatesAnalysis = Field(
+        description="An analysis of whether or not the Removing Parking Mandates element of the City of Yes For Housing Opportunity proposal is discussed in the testimony."
+    )
+    accessory_dwelling_units_analysis: AccessoryDwellingUnitsAnalysis = Field(
+        description="An analysis of whether or not the Accessory Dwelling Units element of the City of Yes For Housing Opportunity proposal is discussed in the testimony."
+    )
+    transit_oriented_development_analysis: TransitOrientedDevelopmentAnalysis = Field(
+        description="An analysis of whether or not the Transit-Oriented Development element of the City of Yes For Housing Opportunity proposal is discussed in the testimony."
+    )
+    campuses_analysis: CampusesAnalysis = Field(
+        description="An analysis of whether or not the Campuses element of the City of Yes For Housing Opportunity proposal is discussed in the testimony."
+    )
+    small_and_shared_housing_analysis: SmallAndSharedHousingAnalysis = Field(
+        description="An analysis of whether or not the Small and Shared Housing element of the City of Yes For Housing Opportunity proposal is discussed in the testimony."
     )
 
 
@@ -149,7 +272,7 @@ def extract_housing_opportunity_elements_discussed(
     testimony_transcript: Transcript,
     model_provider: Literal["ANTHROPIC", "OPENAI"] = "ANTHROPIC",
     model_name: str = "claude-3-5-sonnet-20240620",
-) -> CityOfYesForHousingOpportunityElementsDiscussed:
+) -> CityOfYesForHousingOpportunityAnalysis:
     if model_provider == "ANTHROPIC":
         client = instructor.from_anthropic(
             Anthropic(api_key=os.getenv("ANTHROPIC_API_KEY"))
@@ -165,7 +288,7 @@ def extract_housing_opportunity_elements_discussed(
     serialized_transcript = serialize_transcript(testimony_transcript)
 
     kwargs = {
-        "response_model": CityOfYesForHousingOpportunityElementsDiscussed,
+        "response_model": CityOfYesForHousingOpportunityAnalysis,
         "model": model_name,
         "messages": [
             {"role": "system", "content": PROMPT},
@@ -201,9 +324,21 @@ def serialize_transcript(transcript: Transcript) -> str:
 SPEAKERS_PATH = "speakers.json"
 TRANSCRIPT_PATH = "transcript.json"
 TESTIMONIES_PATH = "testimonies.json"
+EXTRACTED_DATA_DIR = "extracted-data"
 
 
 def main():
+    if not os.path.exists(EXTRACTED_DATA_DIR):
+        os.makedirs(EXTRACTED_DATA_DIR)
+
+    if os.listdir(EXTRACTED_DATA_DIR):
+        overwrite = Confirm.ask(
+            "Files already exist in the extracted-data directory. Overwrite them?"
+        )
+        if not overwrite:
+            logger.info("Operation cancelled. Existing files will not be overwritten.")
+            return
+
     transcript = Transcript.from_speakers_and_transcript_path(
         SPEAKERS_PATH, TRANSCRIPT_PATH
     )
@@ -211,7 +346,6 @@ def main():
     with open(TESTIMONIES_PATH, "r") as f:
         testimonies = json.load(f)
 
-    testimonies_with_elements_discussed = []
     for testimony in testimonies:
         testimony_transcript = transcript.from_start_time_to_end_time(
             testimony["start_time_in_seconds"], testimony["end_time_in_seconds"]
@@ -220,15 +354,14 @@ def main():
             testimony_transcript
         )
 
-        testimonies_with_elements_discussed.append(
-            {
-                "testimony": testimony,
-                "elements_discussed": elements_discussed.model_dump(),
-            }
-        )
+        testimony_with_elements_discussed = {
+            "testimony": testimony,
+            "elements_discussed": elements_discussed.model_dump(),
+        }
 
-    with open("extracted-data.json", "w") as f:
-        json.dump(testimonies_with_elements_discussed, f, indent=4)
+        name_slug = testimony["name"].replace(" ", "-").lower()
+        with open(f"{EXTRACTED_DATA_DIR}/{name_slug}.json", "w") as f:
+            json.dump(testimony_with_elements_discussed, f, indent=4)
 
 
 if __name__ == "__main__":
