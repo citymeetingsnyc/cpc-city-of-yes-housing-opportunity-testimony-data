@@ -11,7 +11,7 @@ This repo contains:
   - The name of the person testifying
   - Various attributes extracted from each testimony using language models
 - Code that demonstrates how to extract which elements of the zoning proposal were discussed from every testimony using language models.
-- The output of this code for every testimony in `extracted-data`.
+- The output of this code for every testimony in `extracted-data`: https://github.com/citymeetingsnyc/cpc-city-of-yes-housing-opportunity-testimony-data/tree/main/extracted-data
 
 ## Running the code
 
@@ -26,76 +26,7 @@ poetry run python analyze.py
 
 This will generate directory `extracted-data` in your current directory and write to it.
 
-Each file will contain an analysis of one testimony's transcript, which looks like this:
-
-```
-{
-    "testimony": {...}, // This will be the testimony data as it appears in `testimonies.json`
-    "elements_discussed": {
-        "uap_analysis": {
-            "element_of_proposal": "UNIVERSAL_AFFORDABILITY_PREFERENCE_UAP",
-            "quotes_indicating_discussion": [],
-            "element_is_discussed": false
-        },
-        "residential_conversions_analysis": {
-            "element_of_proposal": "RESIDENTIAL_CONVERSIONS",
-            "quotes_indicating_discussion": [],
-            "element_is_discussed": false
-        },
-        "town_center_zoning_analysis": {
-            "element_of_proposal": "TOWN_CENTER_ZONING",
-            "quotes_indicating_discussion": [],
-            "element_is_discussed": false
-        },
-        "removing_parking_mandates_analysis": {
-            "element_of_proposal": "REMOVING_PARKING_MANDATES",
-            "quotes_indicating_discussion": [
-                {
-                    "text": "I'm here to focus specifically on parking mediate reform.",
-                    "reasoning": "This quote directly states that the speaker is focusing on parking mandate reform, which is a key part of the proposal to remove parking mandates."
-                },
-                {
-                    "text": "Lifting parking mandates will not ban parking from being created. It simply allows parking to be built where it's appropriate, and evidence from other cities that are significantly less robust transit networks and ours shows that parking is still built where it's demanded.",
-                    "reasoning": "This quote explains the concept of removing parking mandates, which aligns with the proposal's intent to end mandatory parking requirements for new housing."
-                },
-                {
-                    "text": "Parking mandates have been listed across the country in places you might expect like Seattle and San Francisco, but also in less likely places. Austin, Texas, Birmingham, Alabama, and Lexington, Kentucky.",
-                    "reasoning": "The speaker provides examples of other cities that have implemented similar policies, supporting the proposal to remove parking mandates in New York City."
-                },
-                {
-                    "text": "Research has shown that in New York City, more parking than required has been built in areas where there is deep car dependency. Even yesterday, we saw builders in the Bronx come for the city council and express their commitment to building parking even in spite of the planned lifting of parking mandates.",
-                    "reasoning": "This quote addresses the concern that removing parking mandates would eliminate all parking, showing that parking will still be built where needed, which aligns with the proposal's intent."
-                },
-                {
-                    "text": "We urge you to maintain the inclusion of parking mandates parkumentary performance issue as it is and for us to take the step that dozens of other cities have already taken. LIFT parking mandate citywide.",
-                    "reasoning": "This is a direct call to action supporting the removal of parking mandates citywide, which is exactly what the proposal aims to do."
-                }
-            ],
-            "element_is_discussed": true
-        },
-        "accessory_dwelling_units_analysis": {
-            "element_of_proposal": "ACCESSORY_DWELLING_UNITS_ADU",
-            "quotes_indicating_discussion": [],
-            "element_is_discussed": false
-        },
-        "transit_oriented_development_analysis": {
-            "element_of_proposal": "TRANSIT_ORIENTED_DEVELOPMENT",
-            "quotes_indicating_discussion": [],
-            "element_is_discussed": false
-        },
-        "campuses_analysis": {
-            "element_of_proposal": "CAMPUSES",
-            "quotes_indicating_discussion": [],
-            "element_is_discussed": false
-        },
-        "small_and_shared_housing_analysis": {
-            "element_of_proposal": "SMALL_AND_SHARED_HOUSING",
-            "quotes_indicating_discussion": [],
-            "element_is_discussed": false
-        }
-    }
-}
-```
+Each file will contain an analysis of one testimony's transcript, which looks like this: https://github.com/citymeetingsnyc/cpc-city-of-yes-housing-opportunity-testimony-data/blob/main/extracted-data/adam-brodheim.json.
 
 ## Reading the data
 
