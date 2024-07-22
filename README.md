@@ -133,10 +133,6 @@ The kinds of contributions I'll accept are:
 
 Questions? Email me at [vikram@citymeetings.nyc](mailto:vikram@citymeetings.nyc).
 
-## License
-
-<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/citymeetingsnyc/cpc-city-of-yes-housing-opportunity-testimony-data">This dataset and code</a> by <span property="cc:attributionName">Vikram Oberoi (citymeetings.nyc)</span> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
-
 - Do whatever you want with it as long as it's not commercial.
 - Attribution is required.
 - Please link to [citymeetings.nyc](https://citymeetings.nyc) in your work.
