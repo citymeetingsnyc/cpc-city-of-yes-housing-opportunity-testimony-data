@@ -4,7 +4,7 @@
 
 This repo contains:
 
-- The transcript of this 15-hour NYC City Planning Commission hearing on City of Yes for Housing Opportunity ([Part 1](https://www.youtube.com/watch?v=70a3WS0l_GI), [Part 2](https://www.youtube.com/watch?v=2SMvuto6tEw))
+- The transcript of a 15-hour NYC City Planning Commission hearing on City of Yes for Housing Opportunity (YouTube: [Part 1](https://www.youtube.com/watch?v=70a3WS0l_GI), [Part 2](https://www.youtube.com/watch?v=2SMvuto6tEw))
 - 211 speakers identified at the meeting.
 - Data about all 203 testimonies:
   - Start and end times
