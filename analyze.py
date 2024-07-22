@@ -73,7 +73,7 @@ By relegalizing housing above businesses on commercial streets in low-density ar
 
 # Parking Mandates
 
-New York City currently mandates off-street parking along with new housing even where it’s not needed, driving down housing production and driving up rents. 
+New York City currently mandates off-street parking along with new housing even where it's not needed, driving down housing production and driving up rents. 
 
 City of Yes would end parking mandates for new housing, as many cities across the country have successfully done. The proposal will preserve the option to add parking, but no one will be forced to build unnecessary parking.
 
@@ -133,6 +133,13 @@ class CityofYesForHousingOpportunityProposalElement(str, Enum):
 
 
 class CityOfYesForHousingOpportunityElementsDiscussed(BaseModel):
+    chain_of_thought: str = Field(
+        description="""Think step by step about which elements of the City of Yes For Housing Opportunity proposal the individual giving testimony discussed.
+
+        1. Which elements are explicitly stated in the testimony?
+        2. Which elements are implicit in the testimony? The connection to the element must be very clear in order to be included.
+        """
+    )
     elements: List[CityofYesForHousingOpportunityProposalElement] = Field(
         description="A list of all the of the elements of City of Yes For Housing Opportunity discussed by the individual giving testimony. All elements discussed must be listed, whether or not the individual is for or against the proposal, and there should be no duplicates."
     )
@@ -216,7 +223,7 @@ def main():
         testimonies_with_elements_discussed.append(
             {
                 "testimony": testimony,
-                "elements_discussed": elements_discussed.elements,
+                "elements_discussed": elements_discussed.model_dump(),
             }
         )
 
