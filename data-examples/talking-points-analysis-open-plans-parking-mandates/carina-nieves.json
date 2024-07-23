@@ -1,0 +1,28 @@
+{
+    "testimony": {
+        "name": "Carina Nieves",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/carina-nieves-on-opposition-to-city-of-yes-for",
+        "start_time_in_seconds": 9960.136,
+        "end_time_in_seconds": 10159.63,
+        "for_or_against": "Against",
+        "borough": "Queens",
+        "neighborhood": "Richmond Hill",
+        "stated_affiliations": [],
+        "key_points": [
+            "Low density communities are being targeted for transit-oriented development",
+            "Residents chose these communities for light, air, space, and tranquility",
+            "The proposal may lead to harassment of property owners by developers",
+            "Lower density zones have helped keep rents lower for low and middle-income residents",
+            "Community Board 9 preserved lower density zoning in 2009 after a diligent rezoning process",
+            "Previous upzoning along Jamaica Avenue and Atlantic Avenue has not resulted in significant affordable housing development",
+            "New apartment buildings in the area are not affordable for the local community",
+            "The community is against the City of Yes proposal"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "1. The testimony primarily focuses on concerns about development in low-density communities, particularly in Richmond Hill, Queens.\n2. The speaker is against the \"City of Yes\" proposal, which seems to be related to transit-oriented development and increasing housing density.\n3. The testimony doesn't directly address most of the points made in the reference talking points, which mainly focus on parking mandates and their effects.\n4. There are some indirect connections we can draw:\n   a. The testimony mentions \"transit oriented development,\" which relates to the reference points about reducing car dependency.\n   b. The speaker expresses concern about developers targeting their area, which could be indirectly related to the reference points about encouraging development.\n5. However, the overall focus and specific arguments made in the testimony are quite different from the reference talking points.\n6. The testimony doesn't mention parking mandates, climate change, or the specific benefits of reducing parking requirements, which are central to the reference talking points.\n7. The speaker's concerns are more about preserving the character of low-density neighborhoods and preventing unwanted development, which isn't addressed in the reference talking points.",
+        "quotes": [],
+        "analysis": "The testimony provided by Carina Nieves is largely unrelated to the specific reference talking points provided. While both the testimony and the talking points address aspects of urban development and housing, they focus on different aspects and have different overall messages.\n\nThe reference talking points primarily discuss the benefits of eliminating parking mandates, emphasizing how this could lead to more affordable housing, combat climate change, and create more walkable neighborhoods. They also touch on transit-oriented development and reducing car dependency.\n\nIn contrast, Carina Nieves's testimony focuses on preserving low-density neighborhoods and expressing concerns about transit-oriented development in her community. She argues against increased density and development, viewing it as a threat to the character of her neighborhood and the affordability of housing for current residents.\n\nThere is a slight connection in that both mention transit-oriented development, but they approach it from opposite perspectives. The reference talking points seem to support it as a way to reduce car dependency, while Nieves sees it as a threat to her community.\n\nThe testimony doesn't directly address or oppose the specific points made in the reference talking points about parking mandates, climate change, or the relationship between parking and housing costs. Instead, it focuses on different aspects of urban development and zoning.\n\nGiven this analysis, the testimony cannot be classified as having high similarity to the talking points, supporting them, or being in direct opposition to them. The testimony is addressing different concerns and arguments altogether.",
+        "similarity": "NOT_SIMILAR"
+    }
+}

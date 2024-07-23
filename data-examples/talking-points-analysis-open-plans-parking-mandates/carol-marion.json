@@ -1,0 +1,31 @@
+{
+    "testimony": {
+        "name": "Carol Marion",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/carol-marion-from-bayside-on-opposition-to-city-of",
+        "start_time_in_seconds": 19720.637,
+        "end_time_in_seconds": 19902.592,
+        "for_or_against": "Against",
+        "borough": "Queens",
+        "neighborhood": "Bayside",
+        "stated_affiliations": [],
+        "key_points": [
+            "The plan does not address the diversity of NYC neighborhoods",
+            "It will destroy communities over time",
+            "It will not create affordable housing",
+            "It will replace owner-occupied housing with market-rate rental units",
+            "It will increase density without infrastructure improvements",
+            "The plan benefits rich developers, architects, and real estate developers",
+            "The city has not listened to community board feedback",
+            "One-size-fits-all approach doesn't work for diverse NYC neighborhoods",
+            "Against accessory dwelling units",
+            "Concerns about loss of green space and increased flooding",
+            "Lack of flexibility for different community needs"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "1. The testimony is primarily against the City of Yes for Housing Opportunity proposal.\n2. The speaker, Carol Marian, expresses concerns about the plan destroying communities, not creating affordable housing, and increasing density without infrastructure improvements.\n3. She mentions that the plan will benefit rich developers, architects, and real estate developers.\n4. The testimony touches on issues of zoning, community diversity, and the need for different plans for different communities.\n5. The speaker is against accessory units and expresses concerns about eliminating open space and increasing concrete cover, leading to flooding.\n6. The reference talking points focus mainly on parking reform, which is not directly addressed in this testimony.\n7. There is no explicit mention of parking issues in the testimony.\n8. The testimony does touch on some broader themes that are tangentially related to the talking points, such as affordability and neighborhood character, but from an opposing viewpoint.\n9. The speaker's concerns about infrastructure and density could be seen as indirectly related to the talking points' discussion of transportation and urban planning, but the connection is weak.\n10. Overall, the testimony does not closely align with or directly oppose the specific points made in the reference talking points.",
+        "quotes": [],
+        "analysis": "The testimony provided by Carol Marian does not closely align with the reference talking points. The reference talking points primarily focus on parking reform, discussing how reducing parking mandates can lead to increased housing affordability, better urban planning, and environmental benefits. However, the testimony does not directly address parking issues at all.\n\nThe testimony is generally opposing the City of Yes for Housing Opportunity proposal, but it does so on grounds that are different from the specific issues raised in the reference talking points. The speaker expresses concerns about the plan destroying community character, failing to create affordable housing, and increasing density without proper infrastructure. While some of these themes (like affordability and urban planning) are tangentially related to the talking points, the specific arguments and focus are quite different.\n\nThe testimony does touch on some broader urban planning issues that could be seen as indirectly related to the talking points' discussion of transportation and urban development. For instance, the speaker's concerns about infrastructure and density could be seen as loosely connected to the talking points' discussion of transportation and urban planning. However, these connections are weak and not directly addressing the same points.\n\nIt's important to note that while the testimony is opposing the overall City of Yes for Housing Opportunity proposal, it is not directly opposing the specific points made in the reference talking points about parking reform. The speaker's arguments are focused on different aspects of the proposal.\n\nGiven this analysis, the testimony is best classified as \"NOT_SIMILAR\" to the reference talking points. While it opposes the overall proposal that the talking points support, it does so on different grounds and does not engage with the specific arguments made in the talking points.",
+        "similarity": "NOT_SIMILAR"
+    }
+}

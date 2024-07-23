@@ -1,0 +1,32 @@
+{
+    "testimony": {
+        "name": "Daisy Calone",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/daisy-calone-bronx-resident-on-concerns-about-city",
+        "start_time_in_seconds": 22391.074,
+        "end_time_in_seconds": 22621.482,
+        "for_or_against": "Against",
+        "borough": "Bronx",
+        "neighborhood": "LaSalle, Mayflower, Scottsdale",
+        "stated_affiliations": [],
+        "key_points": [
+            "Opposes changes to R4 and R4A districts",
+            "Concerned about allowing higher density without parking or community input",
+            "Argues that one-size-fits-all zoning doesn't consider neighborhood character",
+            "Worries about the impact of half-mile Transit-Oriented Development (TOD) zones on the community",
+            "Concerned about the conversion of owner-occupied homes to apartment buildings",
+            "Highlights low homeownership rates in the Bronx, especially among minority communities",
+            "Requests a full analysis of the potential impact of the proposed zoning changes"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Daisy Calone, is testifying against the proposed zoning amendments, particularly changes to R4 and R4A districts.\n\n2. She argues that the amendments will allow higher density development without community input or consideration of neighborhood character.\n\n3. The testimony focuses on concerns about homeownership, especially for minority communities in the Bronx.\n\n4. The speaker mentions parking, but only in the context of allowing higher density development without parking requirements.\n\n5. There is no direct mention of climate change, transportation emissions, or encouragement of public transit use.\n\n6. The testimony does not discuss the cost of building parking or its impact on housing affordability.\n\n7. The speaker is concerned about the half-mile transit-oriented development zone, which is not directly addressed in the reference talking points.\n\n8. The testimony emphasizes the importance of homeownership for building wealth and reducing inequalities, which is not a focus of the reference talking points.\n\nComparing this to the reference talking points:\n\n1. The testimony does not align with the points about parking choice, climate change, or encouraging public transportation.\n\n2. The speaker's concerns about density and neighborhood character are not addressed in the reference talking points.\n\n3. The testimony does not discuss the cost of parking or its impact on housing affordability, which is a key point in the reference talking points.\n\n4. The speaker's focus on homeownership and community stability is not reflected in the reference talking points.\n\nGiven this analysis, the testimony appears to be largely unrelated to the specific arguments made in the reference talking points. While both address zoning changes, they focus on different aspects and concerns.",
+        "quotes": [
+            {
+                "text": "It is about allowing as of right density without parking, which will give developers an as of right permit to build higher density without looking at community impact of seeking community input.",
+                "reasoning": "This quote mentions parking, which is a key topic in the reference talking points. However, the speaker's concern is about higher density development without community input, rather than the benefits of reducing parking mandates as outlined in the talking points."
+            }
+        ],
+        "analysis": "The testimony is largely unrelated to the specific arguments made in the reference talking points. While both address zoning changes, they focus on different aspects and concerns. The testimony primarily emphasizes preserving neighborhood character, maintaining homeownership opportunities, and concerns about high-density development without community input. In contrast, the reference talking points focus on the benefits of reducing parking mandates, such as increased housing affordability, climate change mitigation, and encouraging public transportation use.\n\nThe only significant overlap is the mention of parking, but the contexts are quite different. The testimony briefly mentions parking in relation to allowing higher density development, while the talking points extensively discuss the benefits of reducing parking mandates.\n\nThe testimony does not engage with or directly oppose the specific arguments made in the reference talking points about parking costs, climate change, or transportation choices. Instead, it presents a different set of concerns related to zoning changes, which are not addressed in the provided talking points.\n\nGiven this analysis, the testimony is best classified as \"NOT_SIMILAR\" to the reference talking points. While both discuss zoning changes, the specific focus, arguments, and concerns are largely different and do not directly engage with each other.",
+        "similarity": "NOT_SIMILAR"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "testimony": {
+        "name": "George Calderaro",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/george-calderaro-board-member-of-several-nyc-civic",
+        "start_time_in_seconds": 10603.473,
+        "end_time_in_seconds": 10771.756,
+        "for_or_against": "Against",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Several New York City Civic Organizations"
+        ],
+        "key_points": [
+            "City of Yes is part of a multipronged offensive to deregulate development in NYC",
+            "The proposal does not prioritize or require affordable housing",
+            "There are many empty market rate and luxury units already",
+            "The initiative is a developer-driven plot to deregulate the city for private real estate development",
+            "City of Yes eliminates important regulations including special zoning districts, landmarks commission reviews, and open space requirements",
+            "Preservation of historic districts preserves thousands of businesses and affordable housing units",
+            "Demolition of viable, historically significant buildings should be stopped",
+            "Criticism of City of Yes should not be dismissed as NIMBY-ism",
+            "Concerns for communities are considered and sincere"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "To analyze the similarity between the testimony and the reference talking points, I'll go through the main points of the testimony and compare them to the talking points:\n\n1. The testimony is largely critical of the \"City of Yes\" proposal, viewing it as part of a \"multipronged offensive to deregulate development\".\n2. The speaker argues that the proposal doesn't require or incentivize affordable housing, contrary to its promises.\n3. The testimony claims the proposal eliminates important regulations including special zoning districts, landmarks commission reviews, and open space requirements.\n4. The speaker emphasizes the importance of preservation in maintaining affordable housing and businesses.\n5. There's criticism of allowing demolition of viable buildings that could be used for housing.\n6. The speaker rejects the label of \"NIMBY\" for those who criticize aspects of the proposal.\n\nComparing these points to the reference talking points:\n1. The talking points focus heavily on parking reform, which is not mentioned at all in the testimony.\n2. The talking points argue for increased housing affordability and availability, while the testimony argues that the proposal doesn't actually address affordable housing.\n3. The talking points discuss environmental benefits and encouraging public transit use, which are not addressed in the testimony.\n4. The testimony focuses on preservation and regulation, while the talking points focus on deregulation of parking requirements.\n\nOverall, there seems to be very little overlap between the content of the testimony and the reference talking points. The testimony is opposed to deregulation and focuses on preservation, while the talking points advocate for specific deregulation (of parking) and focus on different aspects of housing and urban planning.",
+        "quotes": [],
+        "analysis": "The testimony is not closely related to the reference talking points. The testimony focuses on criticizing the \"City of Yes\" proposal as a deregulation effort that doesn't address affordable housing, while emphasizing the importance of preservation. On the other hand, the reference talking points primarily discuss parking reform and its potential benefits for housing affordability, climate action, and urban design.\n\nThe testimony does not directly address any of the specific issues raised in the reference talking points, such as parking mandates, transportation emissions, or the relationship between parking and housing costs. While both the testimony and the talking points touch on the broad theme of housing affordability, they approach it from completely different angles.\n\nThe testimony is critical of the overall \"City of Yes for Housing Opportunity\" proposal, but it doesn't specifically oppose the points made in the reference talking points about parking reform. Instead, it focuses on different aspects of the proposal and urban development in general.\n\nGiven this lack of direct engagement with the specific points raised in the reference talking points, the testimony should be classified as \"not similar\" to the talking points. While it opposes the broader initiative that the talking points support, it does so on grounds not addressed in the provided talking points.",
+        "similarity": "NOT_SIMILAR"
+    }
+}

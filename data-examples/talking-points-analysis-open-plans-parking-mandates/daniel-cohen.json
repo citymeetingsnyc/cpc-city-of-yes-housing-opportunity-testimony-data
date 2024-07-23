@@ -1,0 +1,39 @@
+{
+    "testimony": {
+        "name": "Daniel Cohen",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/daniel-cohen-from-the-upper-west-side-on-support",
+        "start_time_in_seconds": 10971.182,
+        "end_time_in_seconds": 11061.569,
+        "for_or_against": "For",
+        "borough": "Manhattan",
+        "neighborhood": "Upper West Side",
+        "stated_affiliations": [],
+        "key_points": [
+            "Supports City of Yes because it would make housing more affordable by alleviating the city's housing shortage",
+            "Strongly in favor of repealing parking mandates, which is environmentally friendly and economically progressive",
+            "Argues that mandatory parking increases rents for all, including those who don't own cars",
+            "Supports legalizing SROs (Single Room Occupancy) as an affordable housing option",
+            "Has personal experience living in an SRO when unable to afford a full apartment",
+            "Hopes City of Yes passes in its full form without any modifications"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Daniel Cohen, strongly supports the City of Yes proposal, specifically mentioning that it would make housing more affordable by alleviating the housing shortage.\n\n2. He highlights two parts of the proposal:\n   a) Repealing parking mandates\n   b) Legalizing SROs (Single Room Occupancy)\n\n3. On parking mandates:\n   - He argues that forcing developers to build parking increases rents.\n   - He mentions it's environmentally friendly.\n   - He states it's economically progressive, as it stops less wealthy non-car owners from subsidizing wealthier car owners.\n\n4. On SROs:\n   - He supports legalizing them based on personal experience.\n   - He sees them as a way to provide more affordable housing options.\n\n5. Comparing to the reference talking points:\n   - The testimony aligns closely with several points about parking mandates.\n   - The environmental and economic arguments in the testimony mirror those in the talking points.\n   - The testimony doesn't mention specific statistics or examples from the talking points, but the overall message is very similar.\n   - The testimony doesn't address all aspects of the talking points, focusing mainly on parking and briefly on SROs.\n\n6. The testimony doesn't contradict any of the talking points and strongly supports the overall message.",
+        "quotes": [
+            {
+                "text": "Parking spots don't get billed for free. So when we force developers to build parking, they pass on the costs in the form of higher rents.",
+                "reasoning": "This quote aligns with the talking point that states 'Building below-ground parking can reach an astounding $150,000 per space, increasing rents by an estimated 17%.' Both highlight how mandatory parking increases housing costs."
+            },
+            {
+                "text": "Rechealing park park mandates is a great way to be economically progressive.",
+                "reasoning": "This statement echoes the talking points about how removing parking mandates can increase housing affordability and reduce rent burdens, which are economically progressive goals."
+            },
+            {
+                "text": "So so not only is this environmental for environmentally friendly, it's also economically progressive.",
+                "reasoning": "This quote touches on two key aspects mentioned in the talking points: addressing the climate crisis (environmental friendliness) and increasing housing affordability (economic progressiveness)."
+            }
+        ],
+        "analysis": "The testimony shows a high level of similarity to the reference talking points, particularly regarding the parking mandate aspect of the City of Yes proposal. While the testimony doesn't use the exact language or statistics from the talking points, it presents very similar arguments and reasoning.\n\nThe speaker's focus on how parking mandates increase housing costs and disproportionately affect less wealthy residents aligns closely with the talking points about affordability and the economic impact of parking requirements. The mention of environmental benefits, though brief, also echoes the talking points' emphasis on addressing climate change.\n\nHowever, the testimony does not cover all aspects of the talking points. It doesn't mention specific examples like other cities that have implemented similar policies, nor does it go into detail about the benefits for street life or public transportation. The testimony also includes support for legalizing SROs, which is not mentioned in the provided talking points.\n\nDespite these differences, the overall message and main arguments of the testimony are very much in line with the reference talking points, suggesting a high level of similarity in the core ideas and support for the City of Yes proposal.",
+        "similarity": "SUPPORTING_TALKING_POINTS"
+    }
+}

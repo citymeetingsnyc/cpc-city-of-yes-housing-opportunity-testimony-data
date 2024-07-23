@@ -1,0 +1,36 @@
+{
+    "testimony": {
+        "name": "Carol McCarthy",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/carol-mccarthy-from-douglaston-civic-association",
+        "start_time_in_seconds": 10189.771,
+        "end_time_in_seconds": 10315.26,
+        "for_or_against": "Against",
+        "borough": "Queens",
+        "neighborhood": "Douglaston",
+        "stated_affiliations": [
+            "Douglaston Civic Association"
+        ],
+        "key_points": [
+            "The plan is based on a false premise and will not provide affordable housing",
+            "Only special interests and developers will benefit from the plan",
+            "Lack of infrastructure to support the proposed changes",
+            "Negative impact on health care, education, sanitation, and public safety",
+            "Will destroy the nature of the community",
+            "Accessory units (basements, attics, garages, yards) pose safety risks",
+            "Threat of secession from New York City if the plan passes",
+            "The majority of civic associations have voted against the plan",
+            "Residents pay taxes and should have their voices heard"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Carol McCarthy, is strongly opposed to the City of Yes for Housing Opportunity plan.\n2. She claims the plan is based on a false premise and will not provide affordable housing.\n3. She mentions concerns about infrastructure, including parking and transportation.\n4. The speaker is worried about negative impacts on various community services.\n5. She expresses concerns about accessory dwelling units (basements, attics, garages, yards) leading to safety issues.\n6. The testimony does not directly address most of the points mentioned in the reference talking points.\n7. The only overlap is the mention of parking, but the speaker's perspective is different from the talking points.\n8. The testimony does not use similar language or arguments as the reference talking points.\n9. In fact, the testimony seems to be in opposition to the overall proposal, but not specifically addressing the points made in the reference talking points.",
+        "quotes": [
+            {
+                "text": "There will be no infrastructure to support this. No additional parking or transportation.",
+                "reasoning": "This quote mentions parking, which is a topic addressed in the reference talking points. However, the speaker's concern is about lack of parking, while the talking points argue for reducing parking mandates."
+            }
+        ],
+        "analysis": "The testimony by Carol McCarthy shows very little similarity to the reference talking points. While the testimony does mention parking, it does so from a completely different perspective than the talking points. The speaker is concerned about a lack of parking, while the talking points argue for reducing parking mandates.\n\nThe testimony is largely focused on opposing the City of Yes for Housing Opportunity plan as a whole, citing concerns about community impact, safety, and infrastructure. However, it does not directly address or refute the specific points made in the reference talking points about parking mandates, affordability, climate change, or transportation priorities.\n\nThe speaker's arguments are more general in nature, expressing worry about the overall impact on the community, rather than engaging with the specific policy points outlined in the reference talking points. As such, while the testimony is clearly in opposition to the proposed changes, it doesn't directly counter the arguments presented in the talking points.\n\nGiven this analysis, the testimony should be classified as \"NOT_SIMILAR\" to the reference talking points. While it opposes the overall proposal, it does not directly address or refute the specific points made in the reference talking points.",
+        "similarity": "NOT_SIMILAR"
+    }
+}

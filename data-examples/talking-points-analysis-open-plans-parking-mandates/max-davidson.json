@@ -1,0 +1,38 @@
+{
+    "testimony": {
+        "name": "Max Davidson",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/max-davidson-on-supporting-city-of-yes-for-housing",
+        "start_time_in_seconds": 27469.121,
+        "end_time_in_seconds": 27618.066,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [],
+        "key_points": [
+            "Support for City of Yes initiative to address housing shortage",
+            "New York's legacy as a haven for immigrants is at risk due to housing crisis",
+            "Housing shortage gives too much power to landlords over tenants",
+            "City of Yes provides a first step towards rebalancing power towards tenants",
+            "Support for increasing density and height for transit-oriented development, especially in affluent white neighborhoods",
+            "Recommendation to expand UAP and identify opportunities to deepen levels of affordability",
+            "Suggestion to explore ways to add market-rate units in exchange for deeper affordability",
+            "Proposal to average affordability levels between developments in different neighborhoods",
+            "Encouragement to strengthen the City of Yes initiative to meet the needs of all New Yorkers"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "1. The testimony focuses primarily on the housing shortage and affordability issues in New York City.\n2. The speaker supports the City of Yes proposal as a step towards addressing these issues.\n3. While the testimony doesn't directly mention parking mandates, it does touch on related themes such as increasing housing density and affordability.\n4. The speaker calls for further expansion of the City of Yes proposal, particularly in transit-oriented development and increasing density in affluent neighborhoods.\n5. The testimony doesn't directly address most of the specific points mentioned in the reference talking points about parking mandates.\n6. However, there is an underlying theme of supporting policy changes that would increase housing affordability and availability, which aligns with some of the goals mentioned in the reference talking points.\n7. The speaker's emphasis on transit-oriented development indirectly supports the idea of reducing car dependence, which is a theme in the reference talking points.\n8. Overall, while the testimony doesn't directly reference the talking points about parking mandates, it supports the broader goals of increasing housing affordability and availability that the parking mandate reforms aim to address.",
+        "quotes": [
+            {
+                "text": "The city of yes provides a strong first step towards rate that hitting the balance of power towards tenants.",
+                "reasoning": "This quote shows support for the City of Yes proposal, which aligns with the overall goal of the reference talking points, even though it doesn't specifically mention parking mandates."
+            },
+            {
+                "text": "I support his proposal to increase density and height for transit oriented development, particularly in affluent white neighborhoods that were down zoned under the Bloomberg administration ratio.",
+                "reasoning": "While not directly about parking mandates, this quote supports increased density and transit-oriented development, which aligns with the reference talking points' goal of reducing car dependence and promoting alternative transportation."
+            }
+        ],
+        "analysis": "The testimony is generally supportive of the City of Yes proposal and advocates for policies that would increase housing affordability and availability in New York City. While it doesn't directly address the specific issue of parking mandates mentioned in the reference talking points, it does touch on related themes such as increasing housing density, promoting transit-oriented development, and addressing affordability issues.\n\nThe speaker's support for transit-oriented development and increased density in affluent neighborhoods indirectly aligns with some of the goals mentioned in the reference talking points, such as reducing car dependence and prioritizing active and public transportation. However, the testimony doesn't explicitly mention parking mandates or their impact on housing costs and urban development.\n\nThe testimony focuses more on broader housing policy issues and ways to increase affordability, rather than the specific parking-related arguments presented in the reference talking points. While there is some overlap in the overall goals (increasing housing affordability and availability), the specific approaches and focus areas differ significantly between the testimony and the reference talking points.",
+        "similarity": "SUPPORTING_TALKING_POINTS"
+    }
+}

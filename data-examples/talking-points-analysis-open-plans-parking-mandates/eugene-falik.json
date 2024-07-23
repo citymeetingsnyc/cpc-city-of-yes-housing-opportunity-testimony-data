@@ -1,0 +1,41 @@
+{
+    "testimony": {
+        "name": "Eugene Falik",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/eugene-falik-from-bayswater-civic-association-on",
+        "start_time_in_seconds": 39854.684,
+        "end_time_in_seconds": 40742.87,
+        "for_or_against": "Against",
+        "borough": "Queens",
+        "neighborhood": "Far Rockaway",
+        "stated_affiliations": [
+            "Bayswater Civic Association",
+            "Queens Civic Congress"
+        ],
+        "key_points": [
+            "Removing council approval is antisocial and undemocratic",
+            "There's little evidence of a real housing crisis",
+            "Many apartments are vacant or held off the market",
+            "The argument about thousands of applications for affordable housing is misleading",
+            "New housing in Rockaway has inadequate parking",
+            "Transit-oriented development is impractical for suburban areas",
+            "The proposal doesn't consider the needs of older residents or those carrying groceries",
+            "Builders will only do the minimum required, not what's best for residents",
+            "Queens Community Board 14 voted unanimously against the proposal"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "1. The testimony strongly opposes the City of Yes for Housing Opportunity proposal.\n2. The speaker criticizes the concept of transit-oriented development, which is indirectly related to the parking mandate reforms mentioned in the reference talking points.\n3. The testimony argues against removing parking, while the talking points clarify that the proposal doesn't remove existing parking or ban new parking.\n4. The speaker emphasizes the need for parking in certain areas, particularly in outer boroughs, which contrasts with the talking points' emphasis on reducing parking mandates.\n5. The testimony doesn't directly address most of the specific points made in the reference talking points, such as climate change, housing affordability, or comparisons to other cities.\n6. The speaker's arguments are primarily based on personal experience and local concerns, rather than addressing the broader policy arguments presented in the talking points.",
+        "quotes": [
+            {
+                "text": "In Rockaway, where shopping is across the line in Nassau County, new housing as inadequate parking, and people often walk a mile to park their cars when they live in the nitrolo projects at Redfern.",
+                "reasoning": "This quote opposes the idea of reducing parking mandates, which is a key point in the reference talking points. It highlights local concerns about parking availability, which the talking points aim to address by allowing flexible parking based on demand."
+            },
+            {
+                "text": "Transit oriented development is also a sham. Because while it may mean that you can get to Manhattan in an hour or 2, it doesn't mean that you can get to other facilities in the city or even in Queens. And certainly, it doesn't mean that you can get to shopping.",
+                "reasoning": "This quote criticizes the concept of transit-oriented development, which is indirectly related to the talking points' emphasis on reducing car dependency and promoting alternative transportation options."
+            }
+        ],
+        "analysis": "The testimony is largely in opposition to the overall City of Yes for Housing Opportunity proposal, particularly focusing on concerns about parking availability and the practicality of transit-oriented development in outer boroughs. However, the testimony doesn't directly address many of the specific points made in the reference talking points.\n\nThe speaker's arguments are primarily based on local concerns and personal experiences, emphasizing the need for parking in areas like Far Rockaway. This contrasts with the talking points' broader policy arguments about housing affordability, climate change, and urban planning.\n\nWhile the testimony opposes reducing parking availability, it doesn't engage with the specific arguments made in the talking points about the costs of parking mandates, their impact on housing affordability, or the potential benefits of flexible parking requirements.\n\nThe testimony does indirectly challenge some assumptions underlying the talking points, such as the viability of transit-oriented development in all parts of the city. However, it doesn't provide counter-arguments to many of the specific claims made in the talking points.\n\nOverall, while the testimony is opposed to the proposal, it doesn't demonstrate a high similarity to the reference talking points in terms of the specific issues and arguments addressed.",
+        "similarity": "NOT_SIMILAR"
+    }
+}

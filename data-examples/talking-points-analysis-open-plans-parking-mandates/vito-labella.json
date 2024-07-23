@@ -1,0 +1,30 @@
+{
+    "testimony": {
+        "name": "Vito Labella",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/vito-labella-senate-candidate-for-brooklyns-26th",
+        "start_time_in_seconds": 28521.064,
+        "end_time_in_seconds": 28703.178,
+        "for_or_against": "Against",
+        "borough": "Brooklyn",
+        "neighborhood": "Bay Ridge",
+        "stated_affiliations": [
+            "Political Campaign for Brooklyn's 26th District Senate Seat"
+        ],
+        "key_points": [
+            "35 community boards voted against the proposal",
+            "Opposition to the proposal is not based on racism",
+            "Transit opportunity districts will negatively impact single and 2-family homes",
+            "Special zoning should be maintained unless community boards and city council members vote otherwise",
+            "More community engagement and consensus-building is needed",
+            "Suggests a compromise on zoning for commercial strips while protecting single and 2-family zoning",
+            "Lack of infrastructure improvements in the proposal",
+            "Calls for rejection of the City of Yes proposal in its current form"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Vito Labella, is a senate candidate and resident of Bay Ridge, Brooklyn.\n2. He expresses strong opposition to the City of Yes for Housing Opportunity proposal.\n3. He mentions that 35 community boards voted against the proposal.\n4. He argues against the notion that opposing neighborhood character changes is racist.\n5. His main focus is on the Transit Opportunity Districts, which he sees as problematic.\n6. He expresses concern about the potential for developers to combine properties and build apartment buildings in areas currently zoned for single and two-family homes.\n7. He advocates for maintaining special zoning unless community boards and city council members vote otherwise.\n8. He suggests a compromise: increasing housing on commercial strips while preserving existing zoning elsewhere.\n9. He criticizes the lack of discussion on infrastructure improvements in the proposal.\n\nComparing this to the reference talking points:\n1. The testimony doesn't directly address parking mandates, which is a major focus of the talking points.\n2. The speaker's concerns about zoning changes and neighborhood character are not directly addressed in the talking points.\n3. The testimony doesn't mention affordability, climate change, or transportation emissions, which are key points in the reference talking points.\n4. The speaker's emphasis on community board decisions and local input is not reflected in the talking points.\n\nOverall, the testimony seems to be addressing different aspects of the proposal than those highlighted in the reference talking points.",
+        "quotes": [],
+        "analysis": "The testimony by Vito Labella is largely unrelated to the specific points made in the reference talking points. While both the testimony and the talking points discuss the City of Yes for Housing Opportunity proposal, they focus on different aspects and concerns.\n\nThe testimony primarily focuses on:\n1. Community opposition to the proposal\n2. Concerns about zoning changes, particularly in Transit Opportunity Districts\n3. Preservation of neighborhood character\n4. The need for community input and consensus\n5. Infrastructure concerns\n\nOn the other hand, the reference talking points emphasize:\n1. Parking mandate reforms\n2. Housing affordability\n3. Climate change and emissions reduction\n4. Transportation choices and incentives\n\nThe testimony does not directly address or oppose the specific points made in the reference talking points. Instead, it presents a different set of concerns and arguments against the proposal. The speaker's main issues (zoning changes, community input, and infrastructure) are not directly addressed in the provided talking points.\n\nWhile both the testimony and the talking points are discussing the same overall proposal, they are approaching it from very different angles and with different priorities. The testimony is not using language or arguments that align with or directly oppose the specific points in the reference talking points.",
+        "similarity": "NOT_SIMILAR"
+    }
+}

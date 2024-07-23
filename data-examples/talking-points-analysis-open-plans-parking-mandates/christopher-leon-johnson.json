@@ -1,0 +1,26 @@
+{
+    "testimony": {
+        "name": "Christopher Leon Johnson",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/christopher-leon-johnson-on-opposing-city-of-yes",
+        "start_time_in_seconds": 18384.578,
+        "end_time_in_seconds": 18570.53,
+        "for_or_against": "Against",
+        "borough": "Queens",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [],
+        "key_points": [
+            "The City of Yes initiative will result in unaffordable, luxury housing",
+            "The plan caters to developers and those with higher incomes (80-120% AMI) rather than those with lower incomes (30% AMI or less)",
+            "The initiative will displace current residents",
+            "Community boards are influenced by lobbyists and developers",
+            "Calls for term limits and elected positions for community boards",
+            "Labels the initiative as 'City of Mess' instead of 'City of Yes'"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "To analyze this testimony, I'll break it down step-by-step:\n\n1. The speaker, Christopher Leon Johnson, identifies himself as a public citizen, not affiliated with any organization or lobbyist.\n2. He expresses opposition to the \"City of Yes\" proposal, referring to it as \"City of Mes.\"\n3. His main concerns are:\n   a. The proposal will lead to unaffordable, luxury housing.\n   b. It benefits developers and people with higher incomes (80-120% AMI) rather than those with lower incomes (30% AMI or less).\n   c. It will displace current residents.\n4. He criticizes organizations like Open Plans, Open New York, and TransAlt for supporting the proposal.\n5. He calls for reform of community boards, suggesting they are influenced by developers and lobbyists.\n\nComparing this to the reference talking points:\n1. The testimony doesn't directly address parking issues, which is a significant focus of the talking points.\n2. The testimony focuses on affordability concerns, but from a different perspective than the talking points. The talking points argue that reducing parking mandates will increase affordability, while the testimony argues the proposal will lead to luxury housing.\n3. The testimony doesn't mention climate change, transportation emissions, or street safety, which are key points in the reference talking points.\n4. The testimony doesn't discuss the potential benefits of the proposal that are outlined in the talking points, such as creating more housing or improving street life.\n5. The overall tone and perspective of the testimony is in opposition to the proposal, while the talking points are in support of it.",
+        "quotes": [],
+        "analysis": "The testimony is largely unrelated to the specific points made in the reference talking points. While both the testimony and the talking points discuss housing affordability, they approach it from very different perspectives. The testimony focuses on concerns about luxury housing and displacement of lower-income residents, while the talking points argue that reducing parking mandates will increase affordability.\n\nThe testimony does not address the main themes of the talking points, such as parking reform, transportation choices, climate change, or street safety. Instead, it focuses on criticizing the proposal as benefiting developers and higher-income residents at the expense of lower-income residents.\n\nThe speaker's opposition to the \"City of Yes\" proposal seems to stem from concerns about gentrification and displacement, rather than specific opposition to the parking and transportation-related aspects highlighted in the talking points.\n\nGiven this analysis, the testimony appears to be addressing different aspects of the \"City of Yes\" proposal than those covered in the reference talking points. While the testimony is in opposition to the overall proposal, it's not directly opposing the specific points made in the reference talking points.",
+        "similarity": "NOT_SIMILAR"
+    }
+}

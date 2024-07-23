@@ -1,0 +1,28 @@
+{
+    "testimony": {
+        "name": "Barbara Linton",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/barbara-linton-from-douglaston-civic-association",
+        "start_time_in_seconds": 27057.953,
+        "end_time_in_seconds": 27132.338,
+        "for_or_against": "Against",
+        "borough": "Queens",
+        "neighborhood": "Douglaston",
+        "stated_affiliations": [
+            "Douglaston Civic Association"
+        ],
+        "key_points": [
+            "The initiative does not adequately address the need for affordable housing",
+            "New rental units will be priced at market rates, not affordable rates",
+            "Lack of infrastructure to support additional density",
+            "Some homes in the area are not connected to the city sewer system",
+            "12 out of 14 community boards in Queens have voted against the initiative",
+            "Concerns about lack of community input"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Barbara Linton, represents the Douglaston Civic Association and is speaking on behalf of residents in Douglaston and Little Neck, Queens.\n\n2. She states they are \"100% opposed\" to the City of Yes for Housing Opportunity proposal.\n\n3. Her main points of opposition are:\n   a) The proposal doesn't adequately address affordable housing needs.\n   b) New rental units will be priced at market rates, not affordable rates.\n   c) There's a lack of infrastructure to support additional density.\n   d) Some areas (like her own home) are not connected to the city sewer system.\n\n4. She mentions that 12 out of 14 community boards in Queens have voted against this initiative.\n\n5. The testimony doesn't directly address or mention any of the specific points raised in the reference talking points, such as parking mandates, climate change, or transportation issues.\n\n6. The testimony seems to focus on local infrastructure concerns and affordability, which are not directly addressed in the provided talking points.\n\nGiven this analysis, the testimony appears to be opposed to the overall proposal but doesn't directly engage with the specific arguments presented in the reference talking points.",
+        "quotes": [],
+        "analysis": "The testimony by Barbara Linton on behalf of the Douglaston Civic Association shows opposition to the City of Yes for Housing Opportunity proposal, but it does not directly address or engage with the specific points mentioned in the reference talking points.\n\nThe testimony focuses on local concerns such as affordability, infrastructure capacity, and community board opposition. These issues are not directly addressed in the provided talking points, which mainly discuss parking mandates, climate change, and transportation.\n\nWhile the testimony is against the proposal, it doesn't use similar language, quotes, claims, or arguments as those found in the reference talking points. The speaker's concerns are more localized and specific to her community's context, rather than addressing the broader city-wide issues mentioned in the talking points.\n\nTherefore, although the testimony is in opposition to the overall proposal, it cannot be classified as being in direct opposition to the specific talking points provided. The testimony and the talking points seem to be addressing different aspects of the proposal.",
+        "similarity": "NOT_SIMILAR"
+    }
+}

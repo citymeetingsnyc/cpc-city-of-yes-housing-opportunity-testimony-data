@@ -1,0 +1,28 @@
+{
+    "testimony": {
+        "name": "Joe Enright",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/joe-enright-from-the-community-association-of-west",
+        "start_time_in_seconds": 36361.473,
+        "end_time_in_seconds": 36557.28,
+        "for_or_against": "Against",
+        "borough": "Brooklyn",
+        "neighborhood": "West Midwood",
+        "stated_affiliations": [
+            "Community Association of West Midwood"
+        ],
+        "key_points": [
+            "Not everyone in Victorian Flatbush is opposed to City of Yes",
+            "Concern about potential multiple dwellings on Glenwood Road, which is the center of the neighborhood",
+            "Worry about 300 garages in Victorian Flatbush being converted into living spaces",
+            "Opposition to allowing 25-foot structures in backyards",
+            "Concern about increasing FAR from 0.6 to 1.0, leading to overbuilding",
+            "Acknowledges some proposals in City of Yes are supported by residents in the area"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "The testimony by Joe Enright, representing the Community Association of West Midwood, provides perspectives on the City of Yes proposal that are somewhat mixed but largely not directly related to the specific talking points provided. Let's analyze step-by-step:\n\n1. The testimony begins by stating that not everyone in Victorian Flatbush is opposed to the City of Yes proposal, indicating some level of support.\n\n2. The main concerns expressed in the testimony are:\n   a) The potential for multiple dwellings to be built on larger lots in the heart of their community.\n   b) The possibility of garages being converted into living spaces.\n   c) The ability to build 25-foot structures in backyards.\n   d) An increase in the Floor Area Ratio (FAR) from 0.6 to 1.0, leading to fears of overbuilding.\n\n3. These concerns are mostly about preserving the character of the neighborhood and preventing overdevelopment, rather than specifically addressing parking issues or other points mentioned in the reference talking points.\n\n4. The testimony does not directly mention parking mandates, climate change, transportation emissions, or housing affordability, which are key themes in the reference talking points.\n\n5. There is no explicit opposition to the talking points provided, but also no clear support for them. The testimony is focused on different aspects of the City of Yes proposal.\n\nGiven this analysis, the testimony appears to be largely unrelated to the specific talking points provided, focusing instead on local neighborhood concerns about potential changes to the built environment.",
+        "quotes": [],
+        "analysis": "The testimony provided by Joe Enright on behalf of the Community Association of West Midwood is largely unrelated to the specific talking points provided about parking mandates and their effects on housing affordability, climate change, and urban planning.\n\nThe testimony focuses on local concerns about potential changes to the neighborhood character, such as the conversion of single-family homes to multiple dwellings, the transformation of garages, and the potential for larger structures in backyards. These issues are not directly addressed in the provided talking points.\n\nWhile the testimony does mention that not everyone in the area is opposed to the City of Yes proposal, it does not explicitly support or oppose the specific arguments made in the reference talking points. The concerns raised are more about preserving the existing neighborhood character rather than addressing broader city-wide issues like parking mandates, housing affordability, or climate change.\n\nThe lack of direct references to parking, transportation, or housing affordability in the testimony makes it difficult to draw clear connections to the provided talking points. The testimony seems to be addressing different aspects of the City of Yes proposal than those highlighted in the reference talking points.",
+        "similarity": "NOT_SIMILAR"
+    }
+}

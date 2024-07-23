@@ -1,0 +1,27 @@
+{
+    "testimony": {
+        "name": "Barika Williams",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/barika-williams-from-the-association-for",
+        "start_time_in_seconds": 36574.344,
+        "end_time_in_seconds": 36798.594,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Association for Neighborhood & Housing Development (ANHD)"
+        ],
+        "key_points": [
+            "Support for the text amendment with modifications",
+            "Recommendation to adjust income averaging in UAP to include mandated deep affordability",
+            "Suggestion to extend the higher 77% density bump across the board in UAP areas",
+            "Concern about lack of required affordability in lower density areas under current framework",
+            "Recommendation to require mandated affordability in DOD (Detached Only Districts)"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Barika Williams, represents the Association for Neighborhood & Housing Development (ANHD).\n2. She expresses support for the intention of the text amendment to introduce more housing development and affordability across New York City neighborhoods.\n3. The testimony focuses on specific aspects of the Urban Affordable Program (UAP) and does not directly address parking or transportation issues.\n4. The speaker recommends modifications to the UAP, including:\n   a. Adjusting income averaging to include mandated deep affordability\n   b. Extending the higher density bonus (up to 77%) across the board in UAP areas\n   c. Requiring mandated affordability in lower density areas\n5. The testimony does not mention parking mandates, climate change, or transportation-related issues.\n\nGiven this analysis, the testimony does not appear to be directly related to the reference talking points provided. The testimony focuses on affordable housing policies and zoning adjustments, while the talking points primarily address parking mandates and their effects on housing affordability, transportation, and climate change.",
+        "quotes": [],
+        "analysis": "The testimony by Barika Williams is NOT_SIMILAR to the reference talking points provided. While both the testimony and the talking points touch on the broader theme of housing affordability, they approach it from very different angles.\n\nThe testimony focuses specifically on the Urban Affordable Program (UAP) and proposes modifications to improve affordability through zoning and income averaging adjustments. It does not address any of the specific issues raised in the reference talking points, such as parking mandates, transportation, or climate change.\n\nThe reference talking points primarily discuss the removal of parking mandates and their effects on housing affordability, transportation choices, and climate change. These topics are not mentioned or alluded to in the testimony.\n\nWhile both the testimony and the talking points aim to improve housing affordability in New York City, they propose entirely different methods and focus on different aspects of urban planning and development. The testimony is concerned with specific zoning and affordability programs, while the talking points argue for the removal of parking mandates as a means to achieve affordability and other urban planning goals.\n\nGiven this analysis, it's clear that the testimony is not similar to the reference talking points in terms of specific content, arguments, or proposals.",
+        "similarity": "NOT_SIMILAR"
+    }
+}

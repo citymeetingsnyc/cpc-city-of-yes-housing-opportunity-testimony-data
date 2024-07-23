@@ -1,0 +1,34 @@
+{
+    "testimony": {
+        "name": "John Mudd",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/john-mudd-president-of-midtown-south-community",
+        "start_time_in_seconds": 6556.3296,
+        "end_time_in_seconds": 6731.7383,
+        "for_or_against": "Against",
+        "borough": "Manhattan",
+        "neighborhood": "Midtown South",
+        "stated_affiliations": [
+            "Midtown South Community Council",
+            "Empire State Coalition",
+            "Right to Counsel NYC Coalition"
+        ],
+        "key_points": [
+            "The proposal will strip away equity opportunities for the public",
+            "The plan will feed more wealth to developers and the real estate industry",
+            "The plan is rushed and not well thought out",
+            "It will continue to increase disparity",
+            "The plan should focus on preventing and curing homelessness",
+            "Opposes social cuts, land giveaways, and selling of public assets",
+            "Concerns about the influence of the real estate industry on the city",
+            "The plan is connected to other controversial development projects in the city",
+            "Lack of oversight on housing and homelessness issues",
+            "Concerns about tenant displacement"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze this testimony step by step:\n\n1. The speaker, John Mudd, represents the Midtown South Community Council and other coalitions.\n2. He acknowledges the housing crisis but expresses concern about the proposed changes.\n3. Mudd argues that the proposal will strip away equity opportunities for the public and benefit developers and the real estate industry.\n4. He mentions issues like homelessness, tenant displacement, and increased disparity.\n5. The testimony criticizes the rushed nature of the proposal and suggests it's not well thought out.\n6. Mudd opposes what he sees as social cuts, land giveaways, and the flow of capital to the top.\n7. The testimony doesn't directly address parking mandates or transportation issues.\n8. There's no mention of climate change, affordability related to parking, or specific zoning reforms.\n\nComparing this to the reference talking points:\n- The testimony doesn't address any of the specific points about parking mandates or their effects.\n- There's no discussion about transportation, climate change, or the relationship between parking and housing affordability.\n- The speaker's concerns are more general, focusing on broader issues of equity, homelessness, and the influence of the real estate industry.\n- While both the testimony and the talking points address housing issues, they do so from very different perspectives.\n",
+        "quotes": [],
+        "analysis": "The testimony by John Mudd is not closely related to the reference talking points provided. While both address housing issues in New York City, they approach the topic from very different angles:\n\n1. The reference talking points focus specifically on parking mandates and their effects on housing affordability, climate change, and urban design.\n2. Mudd's testimony, on the other hand, is a broader critique of city development policies, focusing on issues of equity, homelessness, and the influence of the real estate industry.\n\nMudd doesn't mention parking mandates, transportation issues, or the specific zoning reforms that are the focus of the talking points. His concerns are more general and relate to what he perceives as rushed development that benefits developers at the expense of the public.\n\nWhile Mudd acknowledges the housing crisis, which is a theme in the talking points, his proposed solutions and areas of concern are entirely different. He calls for preventing homelessness and addressing its root causes, rather than discussing zoning reforms or parking policies.\n\nThe testimony is not in direct opposition to the talking points because it doesn't address their specific claims. Instead, it presents a different set of concerns about city development and housing policies. Therefore, this testimony is best classified as \"not similar\" to the reference talking points, as it does not engage with or address the specific issues raised in those points.",
+        "similarity": "NOT_SIMILAR"
+    }
+}

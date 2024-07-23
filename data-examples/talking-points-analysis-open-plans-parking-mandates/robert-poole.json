@@ -1,0 +1,43 @@
+{
+    "testimony": {
+        "name": "Robert Poole",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/robert-poole-from-bronx-pro-group-on-city-of-yes",
+        "start_time_in_seconds": 41381.93,
+        "end_time_in_seconds": 41567.453,
+        "for_or_against": "For",
+        "borough": "Manhattan",
+        "neighborhood": "Harlem",
+        "stated_affiliations": [
+            "Bronx Pro Group"
+        ],
+        "key_points": [
+            "Bronx Pro Group supports the City of Yes zoning reform legislation",
+            "There is a dire need for more affordable housing options in NYC",
+            "Their Melrose North project received 67,000 applicants for just 67 lottery units",
+            "Every district should help address the housing affordability crisis",
+            "New York is stronger when people of all economic circumstances can live here",
+            "Personal experience of living in various housing situations in NYC",
+            "City of Yes is a step in the right direction to alleviate the housing crunch",
+            "The legislation will help ensure young families and newcomers can make it in the city"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Robert Poole, represents Bronx Pro Group, an affordable housing developer.\n2. He expresses support for the City of Yes zoning reform legislation.\n3. The testimony focuses heavily on the need for affordable housing and the current housing crisis in New York City.\n4. He provides personal anecdotes about his own housing journey in the city.\n5. The testimony does not directly mention parking mandates, transportation, or climate change.\n6. While the speaker supports the legislation, which includes parking reforms, he doesn't explicitly discuss these aspects.\n7. The testimony aligns with the general spirit of increasing housing affordability and availability, which is mentioned in the reference talking points.\n8. However, the specific arguments and examples used in the testimony do not closely match the language or specific points made in the reference talking points.",
+        "quotes": [
+            {
+                "text": "Bronxboro supports the city of Yes Don't even reform legislation.",
+                "reasoning": "This quote shows support for the legislation, which is in line with the general stance of the reference talking points, although it doesn't specifically mention parking reforms."
+            },
+            {
+                "text": "There's a dire need for more affordable housing options in our city.",
+                "reasoning": "This aligns with the reference talking point about increasing housing affordability and availability, although it doesn't specifically mention parking mandates."
+            },
+            {
+                "text": "City of yes, a step in the right direction to alleviate the housing crunch and ensure young families or people just move into the city can make it here.",
+                "reasoning": "This quote supports the legislation as a means to address housing affordability, which is mentioned in the reference talking points, but doesn't specifically discuss parking reforms."
+            }
+        ],
+        "analysis": "The testimony is generally supportive of the City of Yes zoning reform legislation, which includes the parking reforms mentioned in the reference talking points. However, the testimony focuses almost exclusively on the need for affordable housing and does not directly address the specific issues of parking mandates, transportation, or climate change that are central to the reference talking points.\n\nThe speaker's arguments align with the general goal of increasing housing affordability and availability, which is mentioned in the reference talking points. However, the testimony does not use similar language, quotes, claims, or arguments as those presented in the reference talking points. The speaker's focus is narrower, concentrating on the affordable housing crisis and his personal experiences, rather than discussing the broader implications of parking reforms on climate, transportation, and urban planning.\n\nWhile the testimony is supportive of the legislation that includes parking reforms, it does not explicitly engage with or repeat the specific arguments provided in the reference talking points. Therefore, while it is not in opposition to the talking points, it cannot be classified as having high similarity or directly supporting the specific arguments about parking reforms.",
+        "similarity": "SUPPORTING_TALKING_POINTS"
+    }
+}

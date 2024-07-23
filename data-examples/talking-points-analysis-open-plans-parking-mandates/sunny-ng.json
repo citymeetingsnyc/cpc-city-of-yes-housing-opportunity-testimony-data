@@ -1,0 +1,44 @@
+{
+    "testimony": {
+        "name": "Sunny Ng",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/sunny-ng-north-brooklyn-resident-on-removing",
+        "start_time_in_seconds": 53647.086,
+        "end_time_in_seconds": 53752.555,
+        "for_or_against": "For",
+        "borough": "Brooklyn",
+        "neighborhood": "North Brooklyn",
+        "stated_affiliations": [],
+        "key_points": [
+            "Support for the City of Yes for Housing Opportunity initiative",
+            "Need for both affordable and market-rate housing",
+            "Strong support for lifting parking minimums",
+            "Parking requirements are unnecessary in transit-rich neighborhoods",
+            "Removing parking minimums allows market to determine actual parking needs",
+            "Reducing car dependency helps fight climate change",
+            "Current parking requirements are outdated and should be changed"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Sunny Ng, is a renter in North Brooklyn for over 10 years.\n2. They express support for the City of Yes for Housing Opportunity initiative.\n3. They specifically mention excitement about lifting parking minimums.\n4. They argue that parking requirements are ridiculous for a city with excellent public transit.\n5. They point out that parking is not free and is a form of subsidy for car owners.\n6. They emphasize that removing parking minimums doesn't ban parking, but allows the market to determine parking needs.\n7. They mention that reducing car dependency is a strategy to reduce carbon footprint and fight climate change.\n\nNow, let's compare this to the reference talking points:\n\n1. The testimony aligns with the point about not banning new parking, but allowing market-driven decisions.\n2. It echoes the idea of parking choice and meeting neighborhood needs.\n3. The testimony touches on affordability, climate crisis, and transportation, which are mentioned in the talking points.\n4. The speaker criticizes the outdated nature of parking minimums, similar to the talking points.\n5. They mention the subsidy aspect of parking, which aligns with the talking points about increased costs.\n6. The climate change argument in the testimony matches the talking points.\n7. The testimony doesn't explicitly mention walking difficulties or street life, but it does support the overall idea of reducing car dependency.\n\nThe testimony shows high similarity to the reference talking points, using similar arguments and logic, though not quoting them directly.",
+        "quotes": [
+            {
+                "text": "For a city with the best world class public transit in the whole country. It's ridiculous that we have any provisions to require parking in the first place.",
+                "reasoning": "This quote aligns with the talking point about the outdated nature of parking minimums and the emphasis on public transportation."
+            },
+            {
+                "text": "Parking is not free, and it is a form of subsidy provided to those to less than half of all households in this city that drive. That cost is passed on to renters and owners who may not need the space.",
+                "reasoning": "This quote reflects the talking points about the high cost of parking and how it affects housing affordability."
+            },
+            {
+                "text": "Removing parking minimums doesn't mean the city doesn't allow parking spaces to be built, as much as I wish that was true. It just allows the market to figure out how much parking is actually needed.",
+                "reasoning": "This quote directly aligns with the talking point about the reform allowing parking to meet the needs of each neighborhood and creating parking choice."
+            },
+            {
+                "text": "Not to mention that there's location and reducing carb dependency is our city's best strategy to reduce our carbon footprint and to fight climate change.",
+                "reasoning": "This quote echoes the talking point about parking mandates incentivizing driving and the need to combat the climate crisis."
+            }
+        ],
+        "analysis": "The testimony shows a high degree of similarity to the reference talking points. The speaker, Sunny Ng, presents arguments that closely align with several key points from the reference talking points, although they do not appear to be directly quoting from them.\n\nThe testimony strongly supports the initiative to lift parking minimums, which is a central theme in the reference talking points. Ng's arguments mirror those in the talking points, including:\n\n1. The idea that removing parking minimums doesn't ban parking but allows for market-driven decisions.\n2. The recognition that parking requirements are outdated, especially in areas with good public transit.\n3. The acknowledgment that parking adds costs to housing, which is passed on to residents.\n4. The connection between reducing car dependency and fighting climate change.\n\nWhile the testimony doesn't cover all aspects mentioned in the talking points (such as specific statistics or examples from other cities), the overall message and reasoning are highly consistent with the provided talking points. The speaker seems well-informed on the issue and presents arguments that could have been influenced by or derived from similar sources as the reference talking points.\n\nIt's worth noting that while the testimony shows high similarity in content and reasoning, the language used is more colloquial and personal, suggesting that the speaker is expressing their own views rather than reciting prepared talking points verbatim.",
+        "similarity": "HIGH_SIMILARITY_TO_TALKING_POINTS"
+    }
+}

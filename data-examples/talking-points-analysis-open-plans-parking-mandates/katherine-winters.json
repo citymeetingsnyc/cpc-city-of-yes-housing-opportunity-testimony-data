@@ -1,0 +1,33 @@
+{
+    "testimony": {
+        "name": "Katherine Winters",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/katherine-winters-whitestone-resident-on",
+        "start_time_in_seconds": 22116.117,
+        "end_time_in_seconds": 22291.562,
+        "for_or_against": "Against",
+        "borough": "Queens",
+        "neighborhood": "Whitestone",
+        "stated_affiliations": [],
+        "key_points": [
+            "Opposes the plan on behalf of herself and her neighbors",
+            "Importance of preserving single-family zoning for quality of life and diversity of neighborhoods",
+            "Single-family zoning areas are fragile and once changed, are difficult to reclaim",
+            "Questions the proposed benefits of the plan",
+            "Suggests focusing on underutilized areas already zoned for multifamily housing",
+            "Proposal does not address environmental impacts, parking needs, transportation issues, and school capacity",
+            "Does not adequately address low-income housing, senior housing, and homelessness",
+            "Believes the plan primarily benefits builders rather than residents"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Katherine Winters, is expressing opposition to the plan (City of Yes for Housing Opportunity).\n2. She emphasizes the importance of single-family zoning, green spaces, and neighborhood diversity.\n3. The testimony doesn't directly address many of the specific points mentioned in the reference talking points.\n4. There is one mention of parking, but it's not in the same context as the reference talking points.\n5. The speaker expresses concerns about infrastructure, transportation, and schools, but not in relation to parking mandates.\n6. The testimony doesn't discuss climate change, housing affordability, or car dependency, which are key points in the reference talking points.\n7. The speaker seems to be arguing against increased density and for preserving single-family zoning, which is not directly addressed in the reference talking points.\n\nOverall, while the testimony is in opposition to the plan, it doesn't specifically address or refute the points made in the reference talking points about parking mandates and their effects.",
+        "quotes": [
+            {
+                "text": "Also, the proposal does not address environmental impacts, does not provide critical needs for parking, rich and higher rooms, already constrained near buses and shops.",
+                "reasoning": "This quote mentions parking, which is a central theme in the reference talking points. However, the context is different. The speaker is concerned about a lack of parking, while the talking points argue for reducing parking mandates."
+            }
+        ],
+        "analysis": "The testimony is largely not similar to the reference talking points. While both the testimony and the talking points discuss aspects of urban planning and development, they focus on different issues and arguments.\n\nThe testimony primarily focuses on preserving single-family zoning, protecting green spaces, and maintaining neighborhood diversity. It expresses concerns about infrastructure, transportation, and schools, but not in the context of parking mandates or car dependency.\n\nOn the other hand, the reference talking points primarily discuss the negative impacts of parking mandates on housing affordability, climate change, and urban design. They argue for reducing or eliminating these mandates to encourage more housing development and less car dependency.\n\nThe only point of overlap is a brief mention of parking in the testimony, but the context and argument are different. The speaker expresses concern about a lack of parking, while the talking points argue for reducing parking requirements.\n\nOverall, while the testimony is in opposition to the City of Yes for Housing Opportunity proposal, it doesn't directly address or refute the specific arguments made in the reference talking points about parking mandates and their effects on housing and urban development.",
+        "similarity": "NOT_SIMILAR"
+    }
+}

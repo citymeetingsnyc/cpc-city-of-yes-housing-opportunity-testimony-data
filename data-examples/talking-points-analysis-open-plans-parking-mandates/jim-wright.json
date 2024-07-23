@@ -1,0 +1,42 @@
+{
+    "testimony": {
+        "name": "Jim Wright",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/jim-wright-from-aia-new-york-chapter-on-transit",
+        "start_time_in_seconds": 7087.808,
+        "end_time_in_seconds": 7283.5537,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "AIA New York Chapter"
+        ],
+        "key_points": [
+            "Support for the expansion of transit zones citywide, allowing modest density increases in low and moderate density areas near transit stations",
+            "Endorsement of removing minimum off-street parking requirements for most new buildings",
+            "Transit-oriented development links land use with access to public transportation and job opportunities",
+            "Current parking requirements increase housing costs and suppress full utilization of existing zoning capacity",
+            "Eliminating parking mandates and increasing density near transit will create more affordable and sustainable neighborhoods",
+            "The overlap of transit zones with Town Center zones creates opportunities for mixed-use housing with transit access",
+            "These changes will accommodate city growth in coming decades"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Jim Wright, is representing AIA New York and supports the City of Yes for Housing Opportunity proposal.\n\n2. He focuses on two aspects of the proposed rezoning:\n   a) Expansion of transit zones citywide\n   b) Removal of minimum off-street parking requirements\n\n3. The speaker views these changes positively, stating they will remove barriers to housing production and costs.\n\n4. On transit-oriented development:\n   - He supports expanding transit zones to areas within half a mile of transit stations.\n   - He sees this as promoting better access to public transportation and job opportunities.\n   - He mentions the overlap with Town Center zones as creating more sustainable neighborhoods.\n\n5. On parking requirements:\n   - The speaker outlines how current parking requirements increase costs and inefficiencies in housing development.\n   - He explains how mandatory parking affects site development, increases construction costs, and sometimes leads to underutilization of allowable FAR.\n\n6. The speaker concludes by reinforcing support for the zoning reform, stating it will create conditions for more affordable and sustainable neighborhoods.\n\nComparing this to the reference talking points:\n- The testimony aligns closely with several key points about parking mandates increasing costs and hindering development.\n- It supports the idea of allowing parking to meet actual needs rather than arbitrary requirements.\n- The testimony touches on themes of sustainability and transit-oriented development, which are present in the talking points.\n- However, the testimony doesn't go into as much detail on specific figures or comparisons to other cities as the talking points do.\n- The testimony doesn't directly address climate change or street safety, which are mentioned in the talking points.\n\nOverall, while the testimony doesn't use the exact language of the talking points, it strongly supports the same general ideas and arguments.",
+        "quotes": [
+            {
+                "text": "Current residential zoning and most low and moderate density districts requires a minimum of one parking space per unit. This can affect how site is developed for new housing and civil waves.",
+                "reasoning": "This quote is similar to the talking point about how the city forces new housing to build expensive and unnecessary off-street parking. It highlights how current zoning mandates parking requirements."
+            },
+            {
+                "text": "These parking requirements increased the cost to build new housing and suppressed the full utilization of existing zoning capacity.",
+                "reasoning": "This quote aligns with the talking point about how parking mandates increase housing costs. It directly states that parking requirements increase building costs and limit development potential."
+            },
+            {
+                "text": "Unlocking the potential for higher density transitorian development coupled with the elimination of parking mandates will create the conditions for more affordable and sustainable neighborhoods to accommodate our city's growth in the coming decades.",
+                "reasoning": "This quote supports the talking points about how reducing parking mandates can address multiple issues including housing affordability and sustainability. It captures the overall spirit of the reform as presented in the talking points."
+            }
+        ],
+        "analysis": "The testimony shows a strong alignment with the reference talking points, particularly in its support for eliminating parking mandates and promoting transit-oriented development. The speaker, Jim Wright, presents arguments that are very similar in spirit to those in the talking points, focusing on how current parking requirements increase housing costs and hinder development.\n\nWhile the testimony doesn't use the exact language or specific examples from the talking points, it conveys many of the same core ideas. For instance, both the testimony and the talking points emphasize how parking mandates increase construction costs and limit housing development. The testimony also touches on themes of sustainability and improved transit access, which are present in the talking points.\n\nHowever, the testimony doesn't go into as much detail on some aspects mentioned in the talking points, such as specific cost figures, comparisons to other cities, or direct mentions of climate change and street safety. The focus is more on the development and cost aspects rather than the broader environmental and urban planning implications outlined in the talking points.\n\nDespite these minor differences, the overall message and reasoning of the testimony strongly support the same objectives as the talking points, namely the removal of parking mandates and the promotion of transit-oriented development to create more affordable and sustainable housing options.",
+        "similarity": "SUPPORTING_TALKING_POINTS"
+    }
+}

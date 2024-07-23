@@ -1,0 +1,24 @@
+{
+    "testimony": {
+        "name": "Michael O'Reilly",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/michael-oreilly-candidate-for-state-senate-on-city",
+        "start_time_in_seconds": 20777.264,
+        "end_time_in_seconds": 20876.156,
+        "for_or_against": "Against",
+        "borough": "Queens",
+        "neighborhood": "Southeast Queens",
+        "stated_affiliations": [],
+        "key_points": [
+            "Questions why the mayor invited illegal migrants to New York City during a housing crisis",
+            "Suggests that the City Planning Commission is not listening to the community's concerns",
+            "States that people in Queens are overwhelmingly against the City of Yes initiative",
+            "Criticizes the placement of migrant shelters in Southeast Queens"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Michael O'Reilly, is running for state senate in Southeast Queens.\n2. He acknowledges that there is a housing shortage in the city, which aligns with the general premise of the City of Yes proposal.\n3. However, he quickly shifts focus to the issue of illegal migrants and questions why the mayor encouraged them to come to New York City during a housing crisis.\n4. O'Reilly expresses skepticism about the comprehensive nature of the plan.\n5. He claims that people in Queens are overwhelmingly against the City of Yes proposal.\n6. The speaker doesn't directly address any specific points mentioned in the reference talking points.\n7. There's no mention of parking, transportation, climate change, or any of the other key issues highlighted in the talking points.\n8. The testimony seems more focused on the speaker's concerns about illegal migration and the perceived lack of listening to community feedback, rather than the specifics of the housing proposal.",
+        "quotes": [],
+        "analysis": "The testimony provided by Michael O'Reilly shows very little similarity to the reference talking points. While O'Reilly acknowledges the housing shortage, which is a underlying premise for the City of Yes proposal, his testimony quickly diverges to focus on issues related to illegal migration and perceived lack of community input.\n\nThe reference talking points mainly discuss parking mandates, housing affordability, climate change, and transportation issues. None of these specific topics are addressed in O'Reilly's testimony. He doesn't mention parking, doesn't discuss the potential benefits or drawbacks of the proposal, and doesn't engage with any of the arguments presented in the talking points.\n\nInstead, O'Reilly's testimony appears to be generally critical of the City of Yes proposal, but not for reasons directly related to the content of the reference talking points. His criticism seems to stem from concerns about illegal migration and a perception that community voices are not being heard, rather than specific objections to the policy changes outlined in the talking points.\n\nGiven this analysis, the testimony cannot be classified as having high similarity to the talking points, supporting the talking points, or being in direct opposition to specific points made in the reference talking points. The testimony is addressing different concerns altogether.",
+        "similarity": "NOT_SIMILAR"
+    }
+}

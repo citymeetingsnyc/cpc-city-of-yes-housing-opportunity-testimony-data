@@ -1,0 +1,30 @@
+{
+    "testimony": {
+        "name": "Michele Birnbaum",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/michele-birnbaum-from-historic-park-avenue-on",
+        "start_time_in_seconds": 21584.76,
+        "end_time_in_seconds": 21791.512,
+        "for_or_against": "Against",
+        "borough": "Manhattan",
+        "neighborhood": "Upper East Side",
+        "stated_affiliations": [
+            "Historic Park Avenue"
+        ],
+        "key_points": [
+            "Zoning laws are important for avoiding chaos and preserving history",
+            "Removing height limits for new residential construction will increase carbon footprint and negatively impact light and air",
+            "The proposal lacks detail and will lower the standard of living",
+            "Concerns about apartments with shared bathrooms and mixing residential with commercial uses",
+            "Potential increase in Airbnb-style rentals in stable neighborhoods",
+            "Safety concerns about strangers in residential buildings due to mixed-use",
+            "Lack of proper ventilation for proposed home businesses like nail salons",
+            "Difficulty in enforcing time limits on home businesses"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The testimony is from Michele Birnbaum, who represents Historic Park Avenue.\n2. She expresses opposition to the proposed zoning changes, which appears to be part of the \"City of Yes for Housing Opportunity\" initiative.\n3. Her main concerns are:\n   a. Removing height limits for new residential construction\n   b. Potential negative impacts on light, air, and carbon footprint\n   c. Mixing businesses with residential areas\n   d. Privacy and safety concerns with additional structures (ADUs)\n   e. Potential for increased noise and disruption in residential areas\n4. She doesn't directly address parking mandates or transportation issues, which are the main focus of the reference talking points.\n5. Her testimony seems to be more concerned with preserving the current character of neighborhoods and opposing what she sees as drastic changes to zoning laws.\n6. There are no direct quotes that align with the reference talking points. In fact, her concerns seem to be in opposition to the general spirit of the proposed changes, although not specifically addressing the parking and transportation issues mentioned in the talking points.\n\nGiven this analysis, the testimony does not appear to be closely related to the specific reference talking points provided.",
+        "quotes": [],
+        "analysis": "The testimony by Michele Birnbaum is not closely related to the reference talking points provided. While both the testimony and the talking points concern zoning changes in New York City, they focus on different aspects of these changes.\n\nThe reference talking points primarily discuss the removal of parking mandates and its potential benefits, including increased housing affordability, environmental benefits, and improved urban planning. However, Michele Birnbaum's testimony does not address parking or transportation issues at all.\n\nInstead, Birnbaum's testimony focuses on concerns about removing height limits, mixing businesses with residential areas, and potential negative impacts on neighborhood character and quality of life. These topics are not addressed in the provided talking points.\n\nThe overall tone and perspective of the testimony are in opposition to the zoning changes, which seems to be at odds with the supportive stance of the talking points. However, since the testimony doesn't directly address the specific points raised in the reference talking points, it cannot be classified as being in direct opposition to them.\n\nGiven this analysis, the testimony is best classified as \"NOT_SIMILAR\" to the reference talking points. While it opposes zoning changes in general, it does not address the specific issues raised in the talking points, nor does it use similar language or arguments.",
+        "similarity": "NOT_SIMILAR"
+    }
+}

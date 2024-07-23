@@ -1,0 +1,41 @@
+{
+    "testimony": {
+        "name": "Rachel Fee",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/rachel-fee-from-new-york-housing-conference-on",
+        "start_time_in_seconds": 12328.459,
+        "end_time_in_seconds": 12509.818,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "New York Housing Conference",
+            "Yes to Housing Coalition"
+        ],
+        "key_points": [
+            "Strong support for City of Yes for Housing Opportunity",
+            "Need for zoning reforms to address New York City's affordable housing shortage",
+            "Inequitable housing development across city districts",
+            "Low vacancy rate (1.4%) and high rent burden for residents",
+            "Housing shortage driving people to neighboring states",
+            "Limited mobility for current residents due to housing crisis",
+            "Ineffective tools to fight homelessness due to tight housing market",
+            "Long stays in emergency shelters for families with children",
+            "Need for more housing to create a more affordable, fair, and inclusive city"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Rachel Fee, expresses strong support for the \"City of Yes for Housing Opportunity\" proposal.\n2. She mentions that the proposal aims to add residential zoning capacity in every NYC neighborhood.\n3. The testimony focuses heavily on the housing affordability crisis in NYC, citing low vacancy rates and high rent burdens.\n4. Fee discusses the negative impacts of the housing shortage, including people moving to neighboring states and limitations on mobility within the city.\n5. She mentions the ineffectiveness of tools to fight homelessness due to the tight housing market.\n6. The testimony does not directly mention parking or transportation issues, which are a significant part of the reference talking points.\n7. While the testimony supports the same overall proposal, it focuses on different aspects than the provided talking points.\n\nGiven this analysis, the testimony seems to be supporting the same initiative but from a different angle, focusing on housing affordability rather than parking and transportation issues.",
+        "quotes": [
+            {
+                "text": "Housing opportunity zoning reforms make changes add residential zoning capacity in every New York City neighborhood.",
+                "reasoning": "This quote aligns with the overall goal of the City of Yes for Housing Opportunity proposal, which is to increase housing availability across the city. While it doesn't directly reference the talking points about parking, it supports the same initiative."
+            },
+            {
+                "text": "New York City's housing affordability crisis reached a critical point and this crisis will worsen if we do not add more housing.",
+                "reasoning": "This quote supports the general idea behind the proposal, which is to increase housing availability and affordability. It aligns with the spirit of the talking points, even though it doesn't directly address parking issues."
+            }
+        ],
+        "analysis": "The testimony is largely supporting the City of Yes for Housing Opportunity proposal, which is the same initiative addressed in the reference talking points. However, the focus and specific arguments differ significantly.\n\nThe testimony concentrates on the housing affordability crisis, the need for more housing in all neighborhoods, and the negative impacts of the current housing shortage. It does not directly address the parking and transportation issues that are central to the provided talking points.\n\nWhile both the testimony and the talking points support the same overall initiative, they approach it from different angles. The testimony argues for the proposal based on housing needs, while the talking points focus on the benefits of reducing parking mandates.\n\nThe testimony doesn't contradict the talking points, but it also doesn't directly reinforce them. Instead, it provides complementary arguments in favor of the same proposal, focusing on different aspects of the initiative.",
+        "similarity": "SUPPORTING_TALKING_POINTS"
+    }
+}

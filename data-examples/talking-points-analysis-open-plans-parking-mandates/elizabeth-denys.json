@@ -1,0 +1,38 @@
+{
+    "testimony": {
+        "name": "Elizabeth Denys",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/elizabeth-denys-from-open-new-york-on-transit",
+        "start_time_in_seconds": 2394.6694,
+        "end_time_in_seconds": 2568.547,
+        "for_or_against": "For",
+        "borough": "Brooklyn",
+        "neighborhood": "Flatbush",
+        "stated_affiliations": [
+            "Open New York"
+        ],
+        "key_points": [
+            "Support for the City of Yes for Housing Opportunity initiative",
+            "Concern about housing shortage and skyrocketing rents forcing people to leave the city",
+            "Support for transit-oriented development and lifting parking minimums",
+            "Support for allowing 3 to 5 story apartment buildings near transit, which are contextual with existing buildings in Flatbush",
+            "Support for Accessory Dwelling Units (ADUs) as a way to add housing in lower density neighborhoods",
+            "ADUs can help families live closer together and provide additional income for homeowners",
+            "Urges approval of the proposal in its strongest possible form"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Elizabeth Denys, is a board member of Open New York, a pro-housing organization.\n2. She expresses strong support for the City of Yes for Housing Opportunity initiative.\n3. She specifically mentions and supports lifting parking minimums, which is a key point in the reference talking points.\n4. The speaker focuses on transit-oriented development, which aligns with the reference talking points about reducing car dependence and prioritizing public transportation.\n5. While the speaker doesn't use the exact language from the talking points, her arguments about reducing car dependency and creating more affordable housing options align closely with the spirit of the talking points.\n6. The speaker doesn't mention specific statistics or figures that are present in the talking points, such as the cost of parking spaces or the percentage of New Yorkers who commute by car.\n7. The testimony also covers topics not mentioned in the talking points, such as accessory dwelling units (ADUs).\n8. The speaker's overall message supports the goals outlined in the talking points, particularly regarding housing affordability and reducing car dependency.\n",
+        "quotes": [
+            {
+                "text": "Creating apartment buildings near transit is the best of new development. They create sustainable walkable communities where people don't need to own cars.",
+                "reasoning": "This quote aligns with the talking points about reducing car dependence and prioritizing public transportation. It supports the idea of planning for a less car-centric city."
+            },
+            {
+                "text": "Lifting parking minimums also helps reduce the cost of building homes and thus the resulting rents where cars aren't needed to get around.",
+                "reasoning": "This directly addresses the talking point about how parking mandates increase housing costs. It supports the argument for lifting parking minimums to improve affordability."
+            }
+        ],
+        "analysis": "The testimony shows a significant level of alignment with the reference talking points, although it does not directly quote or reference them. The speaker, Elizabeth Denys, strongly supports the City of Yes for Housing Opportunity initiative, which includes lifting parking minimums - a key focus of the talking points.\n\nThe testimony emphasizes the benefits of transit-oriented development and reducing car dependency, which aligns closely with several of the talking points. The speaker argues for creating more affordable housing options and sustainable, walkable communities, which echoes the goals outlined in the talking points.\n\nHowever, the testimony doesn't delve into specific statistics or detailed arguments present in the talking points, such as the cost of parking spaces or the percentage of New Yorkers who commute by car. Instead, it provides a more personal and localized perspective on the benefits of the proposed changes.\n\nWhile the testimony supports the overall goals mentioned in the talking points, it also covers additional topics not present in the talking points, such as accessory dwelling units (ADUs). This suggests that while the speaker's views align with the talking points, she is not directly referencing or exclusively relying on them for her testimony.\n\nIn conclusion, the testimony shows strong support for the key ideas presented in the talking points, particularly regarding reducing parking minimums and promoting transit-oriented development. However, the lack of specific references to the talking points' language or statistics suggests that the speaker is independently advocating for similar ideas rather than directly using the provided talking points.",
+        "similarity": "SUPPORTING_TALKING_POINTS"
+    }
+}

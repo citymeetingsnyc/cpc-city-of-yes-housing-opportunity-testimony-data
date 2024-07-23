@@ -1,0 +1,30 @@
+{
+    "testimony": {
+        "name": "Juan Rivero",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/juan-rivero-from-village-preservation-on",
+        "start_time_in_seconds": 6157.1274,
+        "end_time_in_seconds": 6296.523,
+        "for_or_against": "Against",
+        "borough": "Manhattan",
+        "neighborhood": "Greenwich Village",
+        "stated_affiliations": [
+            "Village Preservation"
+        ],
+        "key_points": [
+            "Rejects the assumption that increasing unaffordable housing will make the city more affordable",
+            "Opposes increasing allowable size and height of market-rate development in contextual zoning districts in Manhattan Community Boards 1-8",
+            "Opposes increasing allowable FAR for purely market-rate development in voluntary inclusionary housing zones",
+            "Against vastly increasing the area for air rights transfers from individual landmarks",
+            "Opposes reducing rear yard requirements in medium and high-density zones",
+            "Against allowing building on open space on campuses",
+            "Opposes removing language from special district provisions",
+            "Believes City of Yes for Housing Opportunity moves in the wrong direction for city development"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The testimony is from Juan Rivero, representing Village Preservation, a community-based nonprofit.\n\n2. The speaker rejects the basic premise of the \"City of Yes for Housing Opportunity\" proposal, stating that increasing unaffordable housing won't make the city more affordable.\n\n3. The testimony focuses on opposing several specific provisions of the plan:\n   a. Increasing size and height of market-rate development in certain areas\n   b. Increasing allowable FAR for market-rate development\n   c. Expanding air rights transfers from landmarks\n   d. Reducing rear yard requirements\n   e. Allowing building on open spaces in campuses\n   f. Removing language from special district provisions\n\n4. The speaker does not mention parking mandates, transportation, or climate change, which are key points in the reference talking points.\n\n5. The testimony is primarily concerned with preserving existing zoning regulations and opposing increases in market-rate development, which is not directly addressed in the reference talking points.\n\n6. There is no overlap in the specific issues raised by the testimony and those mentioned in the reference talking points.\n\nGiven this analysis, the testimony appears to be not similar to the reference talking points. The speaker is opposing the \"City of Yes for Housing Opportunity\" proposal, but for reasons entirely different from those addressed in the talking points.",
+        "quotes": [],
+        "analysis": "The testimony from Juan Rivero on behalf of Village Preservation is NOT_SIMILAR to the provided reference talking points. \n\nThe testimony focuses on opposing specific aspects of the \"City of Yes for Housing Opportunity\" proposal, particularly those that would increase market-rate development, reduce open spaces, and alter existing zoning regulations. The speaker's main concern is that these changes would not actually improve affordability and would harm existing communities.\n\nIn contrast, the reference talking points primarily discuss parking mandates, transportation issues, and climate change. These topics are not mentioned at all in the testimony. The talking points advocate for reducing parking requirements to increase housing affordability and availability, promote public transportation, and address climate change. \n\nWhile both the testimony and the talking points touch on the broader theme of housing affordability, they approach it from completely different angles. The testimony argues against increasing market-rate housing, while the talking points focus on how reducing parking mandates could lower housing costs.\n\nThere is no evidence that the speaker is using or referencing the provided talking points. The arguments, examples, and specific policy points mentioned in the testimony are entirely different from those in the talking points. Therefore, the similarity between the testimony and the reference talking points is classified as NOT_SIMILAR.",
+        "similarity": "NOT_SIMILAR"
+    }
+}

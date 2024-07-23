@@ -1,0 +1,46 @@
+{
+    "testimony": {
+        "name": "Yiatin Chu",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/yiatin-chu-president-of-asian-wave-alliance-on",
+        "start_time_in_seconds": 44197.184,
+        "end_time_in_seconds": 44354.715,
+        "for_or_against": "Against",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Asian Wave Alliance"
+        ],
+        "key_points": [
+            "The proposal will destroy communities",
+            "Asian New Yorkers have high homeownership rates in outer boroughs",
+            "The plan will create uncertainty in property values",
+            "It will degrade quality of life in 1 and 2 family zoned neighborhoods",
+            "Elimination of parking requirements is problematic",
+            "Areas lack efficient public transportation and rely on cars",
+            "Opposition to legalization of ADUs (Accessory Dwelling Units)",
+            "Existing infrastructure cannot support increased density",
+            "Schools are already overcrowded",
+            "Each neighborhood should be respected for its unique composition",
+            "The proposal favors developers' interests over community needs"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step in relation to the reference talking points:\n\n1. The testimony is primarily against the City of Yes proposal, particularly focusing on parking and housing density issues.\n\n2. The speaker strongly opposes eliminating parking requirements, which is in direct contrast to the reference talking points that support reducing parking mandates.\n\n3. The testimony claims that areas like Queens, Brooklyn, and Staten Island already face parking challenges, while the talking points suggest that developers will still build parking in less dense areas to meet demand.\n\n4. The speaker argues that these areas lack efficient public transportation and rely on cars, whereas the talking points promote prioritizing active and public transportation over car-centric infrastructure.\n\n5. The testimony expresses concerns about property values and quality of life in 1 and 2 family zoned neighborhoods, which isn't directly addressed in the talking points.\n\n6. The speaker opposes the legalization of ADUs (Accessory Dwelling Units), which isn't specifically mentioned in the talking points.\n\n7. The testimony raises concerns about infrastructure and essential services capacity, which isn't addressed in the provided talking points.\n\n8. While the talking points focus on affordability and environmental benefits of reducing parking mandates, the testimony doesn't engage with these arguments directly.\n\n9. The speaker represents Asian Wave Alliance, advocating for the interests of Asian New Yorkers, particularly homeowners in outer boroughs. This specific demographic focus isn't addressed in the talking points.\n\n10. Overall, the testimony presents arguments that are largely in opposition to the ideas presented in the reference talking points, particularly regarding parking and development.",
+        "quotes": [
+            {
+                "text": "It is absurd that the city of yes will eliminate parking requirements for new residential housing.",
+                "reasoning": "This quote directly opposes the talking point that supports reducing parking mandates. It shows a clear disagreement with the policy proposed in the City of Yes plan."
+            },
+            {
+                "text": "We are already stressed with the lack of parking and bayside flushing Bensonhurst and Gravesend. With more multi generation families living in one family and 2 family homes. These areas lack efficient public transportation and rely on cars to get around.",
+                "reasoning": "This quote contradicts the talking points that suggest reducing parking mandates and prioritizing public transportation. It emphasizes the current reliance on cars in certain neighborhoods, which goes against the vision presented in the talking points."
+            },
+            {
+                "text": "In Queens, we cannot support more development around LIR stations. The parking is near impossible to find now.",
+                "reasoning": "This statement opposes the idea in the talking points that suggest developers will still build parking to meet demand in less dense areas. It presents a contrasting view of the current parking situation in Queens."
+            }
+        ],
+        "analysis": "The testimony presents arguments that are largely in opposition to the reference talking points, particularly regarding parking requirements and increased housing density. The speaker, representing Asian Wave Alliance, focuses on the concerns of homeowners in outer boroughs, emphasizing current parking challenges and reliance on cars in areas with less efficient public transportation. This directly contradicts the talking points' support for reducing parking mandates and promoting alternative transportation methods.\n\nThe testimony doesn't engage with many of the specific arguments presented in the talking points, such as affordability, environmental benefits, or comparisons to other cities that have implemented similar policies. Instead, it focuses on quality of life concerns, property values, and infrastructure capacity issues that aren't directly addressed in the provided talking points.\n\nWhile the testimony is clearly against the City of Yes proposal, it doesn't specifically refute all the points made in the reference talking points. Rather, it presents a different perspective based on the current living situations and concerns of a specific demographic in outer borough neighborhoods.\n\nGiven this analysis, the testimony can be characterized as being in opposition to the overall City of Yes for Housing Opportunity proposal, but it doesn't directly address or refute all the specific points made in the reference talking points. The opposition is more focused on the perceived negative impacts on specific communities rather than engaging with the broader policy arguments presented in the talking points.",
+        "similarity": "IN_OPPOSITION"
+    }
+}

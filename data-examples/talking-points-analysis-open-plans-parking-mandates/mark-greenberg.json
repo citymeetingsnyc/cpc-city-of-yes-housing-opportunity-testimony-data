@@ -1,0 +1,41 @@
+{
+    "testimony": {
+        "name": "Mark Greenberg",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/mark-greenberg-from-interfaith-assembly-on",
+        "start_time_in_seconds": 42672.05,
+        "end_time_in_seconds": 42858.438,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Interfaith Assembly on Homelessness And Housing",
+            "Interfaith Affordable Housing Collaborative",
+            "Cathedral Church St. John the Divine"
+        ],
+        "key_points": [
+            "Supports the City of Yes for Housing Opportunity initiative as a bold and innovative plan",
+            "Emphasizes the need for affordable housing to address homelessness crisis",
+            "Highlights the increase in homeless population from under 10,000 to over 100,000 (including migrants)",
+            "Stresses the importance of safe, decent, affordable housing in rebuilding lives",
+            "Argues that inaction is not an option given the current housing crisis",
+            "Calls for New York's zoning rules to enable faith communities to contribute to housing solutions",
+            "Acknowledges fear of change but emphasizes that the status quo is more frightening for those struggling with housing",
+            "Urges bold action to address the affordability and homelessness crisis"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "1. The testimony focuses on homelessness, affordable housing, and the need for zoning changes to address these issues.\n2. The speaker supports the \"City of Yes for Housing Opportunity\" plan, calling it \"bold and innovative.\"\n3. While the testimony doesn't directly mention parking or transportation, it emphasizes the need for affordable housing and zoning changes to address the housing crisis.\n4. The speaker mentions that the plan will \"enable housing for many income levels\" and provide opportunities for low-income New Yorkers.\n5. The testimony doesn't use language or arguments directly from the reference talking points, but it supports the overall goal of increasing housing affordability and availability.\n6. The speaker's emphasis on the urgency of addressing the housing crisis aligns with the spirit of the talking points, which argue for removing barriers to affordable housing construction.",
+        "quotes": [
+            {
+                "text": "I applaud New York City Department of Planning for putting forward this bold and innovative plan to enable New York City to live up to its great promise",
+                "reasoning": "This quote shows support for the City of Yes for Housing Opportunity plan, which aligns with the overall goal of the talking points to reform zoning and increase housing affordability."
+            },
+            {
+                "text": "the city of yes, for for housing opportunities and enabling housing for many income levels, will mean that more of the lowest income New Yorkers will have greater opportunity to rebuild their lives and give back to our great city.",
+                "reasoning": "This quote supports the idea of increasing housing affordability and availability, which is a key theme in the talking points, although it doesn't specifically mention parking reforms."
+            }
+        ],
+        "analysis": "The testimony is generally supportive of the City of Yes for Housing Opportunity proposal, focusing on the need to address the housing affordability crisis and homelessness in New York City. While the testimony doesn't directly reference the specific talking points about parking mandates and their effects on housing costs, it does align with the overall goal of increasing housing affordability and availability.\n\nThe speaker, Mark Greenberg, emphasizes the urgent need for change in zoning rules to enable the creation of more affordable housing. This aligns with the spirit of the talking points, which argue for removing barriers to affordable housing construction, such as parking mandates.\n\nHowever, the testimony doesn't mention any specific policy changes related to parking, transportation, or the environmental impacts of car-centric infrastructure. Instead, it focuses on the broader need for zoning reform to address the housing crisis, particularly for low-income residents and those experiencing homelessness.\n\nGiven this analysis, the testimony can be considered as supporting the overall goals of the City of Yes for Housing Opportunity proposal, but it doesn't directly reference or closely mirror the specific talking points provided about parking reforms and their benefits.",
+        "similarity": "SUPPORTING_TALKING_POINTS"
+    }
+}

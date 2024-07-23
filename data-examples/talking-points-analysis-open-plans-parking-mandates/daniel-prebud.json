@@ -1,0 +1,32 @@
+{
+    "testimony": {
+        "name": "Daniel Prebud",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/daniel-prebud-on-concerns-with-the-city-of-yes-for",
+        "start_time_in_seconds": 34397.484,
+        "end_time_in_seconds": 34582.78,
+        "for_or_against": "Against",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [],
+        "key_points": [
+            "Concerns about emergency services access and safety for accessory dwelling units (ADUs)",
+            "Skepticism about ADUs leading to lower rental costs",
+            "Opposition to shared living arrangements, comparing them to historical tenement issues",
+            "Concerns about lifting zoning regulations and potential uncontrolled development",
+            "Lack of clear definition for 'a little bit of housing'",
+            "Opposition to lifting parking mandates, especially in outer boroughs with limited mass transit",
+            "Need for better mass transit infrastructure before implementing housing changes"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Daniel Prebud, is opposed to the City of Yes proposal in its current state, despite being in favor of affordable housing.\n\n2. He raises concerns about accessory dwelling units (ADUs), shared living spaces, zoning regulation changes, and lifting parking mandates.\n\n3. Regarding parking mandates, which is a key point in the reference talking points, the speaker argues that lifting them may work in Manhattan but not in outer boroughs where mass transit is less accessible.\n\n4. The speaker doesn't directly address many of the points made in the reference talking points, such as the relationship between parking and housing affordability, climate change, or the success of similar policies in other cities.\n\n5. The testimony seems to be generally opposed to the changes proposed in the City of Yes plan, which aligns with being opposed to the talking points, but it doesn't directly refute most of the specific claims made in the talking points.\n\n6. The speaker's concerns are more focused on potential negative consequences of the changes, rather than directly opposing the arguments made in the talking points.",
+        "quotes": [
+            {
+                "text": "Lifting parking mandates. This may work in Manhattan, but not in the outer boroughs where thorough mass transit grids do not exist. The elderly and physically challenged will suffer the most in those areas.",
+                "reasoning": "This quote is related to the talking points about parking mandates, but it presents an opposing view. While the talking points argue for the benefits of lifting parking mandates, the speaker highlights potential negative consequences in areas with less developed public transportation."
+            }
+        ],
+        "analysis": "The testimony is only loosely related to the reference talking points. While it addresses some of the same topics, particularly parking mandates, it does not directly engage with most of the specific arguments presented in the talking points. \n\nThe speaker expresses opposition to the City of Yes proposal, which includes the parking mandate changes discussed in the talking points. However, the reasoning and focus of the testimony are quite different from the talking points. The speaker is more concerned with potential negative consequences of the proposed changes, particularly in outer boroughs, rather than addressing the benefits outlined in the talking points.\n\nThe testimony doesn't engage with key arguments from the talking points such as the relationship between parking mandates and housing affordability, the climate impact of car-centric infrastructure, or the success of similar policies in other cities. \n\nWhile the speaker is opposed to the proposal, which puts him at odds with the overall message of the talking points, he doesn't directly refute most of the specific claims made. His opposition seems to stem from concerns about implementation and unintended consequences rather than a fundamental disagreement with the goals of affordability and sustainability.\n\nGiven this analysis, the testimony cannot be classified as having high similarity to the talking points or directly supporting them. It's also not comprehensively opposing the specific points made in the talking points. Instead, it's presenting a different set of concerns about the same general topic.",
+        "similarity": "NOT_SIMILAR"
+    }
+}

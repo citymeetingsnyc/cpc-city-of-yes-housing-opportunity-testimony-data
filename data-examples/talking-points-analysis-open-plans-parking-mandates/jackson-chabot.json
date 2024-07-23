@@ -1,0 +1,51 @@
+{
+    "testimony": {
+        "name": "Jackson Chabot",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/jackson-chabot-from-open-plans-on-lifting-parking",
+        "start_time_in_seconds": 17036.695,
+        "end_time_in_seconds": 17220.666,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Open Plans"
+        ],
+        "key_points": [
+            "Lifting parking mandates is necessary for improved livability",
+            "Parking mandates contribute to climate change and unsafe streets",
+            "Requiring parking encourages car ownership and perpetuates a cycle of demand for more parking",
+            "Lifting mandates encourages use of public and active transportation",
+            "Surface parking lots create dead zones in neighborhoods",
+            "Prioritizing people over parking can create more public space and a more livable city",
+            "Developers have stated they will still build parking even when not required",
+            "Lifting parking requirements is necessary for future housing needs"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "To analyze the similarity between the testimony and the reference talking points, let's break down the key points made in the testimony and compare them to the talking points:\n\n1. The testimony argues against parking mandates, calling them \"archaic\" and not meeting \"the current moment\". This aligns with the talking points about reforming outdated parking rules.\n\n2. The speaker mentions that cars contribute to climate change, create unsafe streets, and make the city less livable. This is similar to the talking points about addressing climate crisis and making streets safer.\n\n3. The testimony acknowledges that some people need vehicles and parking, but argues against requiring parking in new developments. This is in line with the talking points about allowing parking to meet neighborhood needs without mandates.\n\n4. The speaker describes a cycle of parking demand and construction, which the talking points also mention as a cycle of car dependence.\n\n5. The testimony advocates for encouraging public and active transportation, which aligns with the talking points about prioritizing active and public transportation.\n\n6. The speaker mentions negative impacts of parking on neighborhood vibrancy, which is similar to the talking points about harm to street life and walkability.\n\n7. The testimony explicitly calls for lifting parking mandates, which is the core message of the talking points.\n\n8. The speaker provides additional context about developers still building parking even without mandates, which supports the talking points about allowing parking choice.\n\nGiven these similarities, the testimony shows a high level of alignment with the reference talking points.",
+        "quotes": [
+            {
+                "text": "Parking mandates are an archaic part of our zoning code and do not meet the current moment.",
+                "reasoning": "This quote aligns with the talking point about outdated parking rules created more than 50 years ago that need reform."
+            },
+            {
+                "text": "Cars contribute to the climate change crisis They create unsafe streets, and overall, they make our city less livable.",
+                "reasoning": "This quote directly relates to the talking points about addressing climate crisis and making streets safer."
+            },
+            {
+                "text": "Instead of continuing this cycle, lifting mandates breaks it by encouraging the use of public and active modes of transportation.",
+                "reasoning": "This quote reflects the talking points about breaking the cycle of car dependence and prioritizing active and public transportation."
+            },
+            {
+                "text": "On a ground floor basis and surface parking lots negatively impact the vibrancy of neighborhood because they create dead zones without community space or vibrant retail or other things that neighbors can use.",
+                "reasoning": "This quote aligns with the talking point about parking mandates harming street life and making neighborhoods less walkable."
+            },
+            {
+                "text": "Please keep this proposal whole. Please include the parking mandates being lifted.",
+                "reasoning": "This quote directly supports the main goal of the talking points, which is to lift parking mandates."
+            }
+        ],
+        "analysis": "The testimony shows a high level of similarity to the reference talking points. The speaker, Jackson Chabot from Open Plans, presents arguments that closely align with many of the key points in the reference talking points. \n\nThe testimony strongly advocates for lifting parking mandates, which is the central theme of the talking points. It addresses several key issues mentioned in the talking points, including climate change, street safety, and neighborhood livability. The speaker also touches on the cycle of parking demand and construction, which mirrors the talking points' discussion of car dependence.\n\nWhile the testimony doesn't cover all aspects of the talking points (such as specific mentions of housing affordability or rent increases due to parking construction costs), it does provide additional context that supports the overall argument. For example, the speaker cites a developer's statement about still building parking even without mandates, which reinforces the talking point about allowing parking to meet neighborhood needs without strict requirements.\n\nThe language and arguments used in the testimony closely resemble those in the talking points, suggesting that the speaker may be familiar with or influenced by similar messaging. However, the testimony also includes personal observations and additional context, indicating that it's not a direct recitation of prepared talking points but rather a well-informed perspective that aligns strongly with the provided talking points.",
+        "similarity": "HIGH_SIMILARITY_TO_TALKING_POINTS"
+    }
+}

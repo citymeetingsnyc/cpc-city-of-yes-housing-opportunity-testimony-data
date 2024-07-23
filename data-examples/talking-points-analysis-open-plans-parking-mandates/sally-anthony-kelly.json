@@ -1,0 +1,28 @@
+{
+    "testimony": {
+        "name": "Sally Anthony Kelly",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/sally-anthony-kelly-on-city-of-yess-impact-on",
+        "start_time_in_seconds": 46729.035,
+        "end_time_in_seconds": 46793.613,
+        "for_or_against": "Against",
+        "borough": "Queens",
+        "neighborhood": "Howard Beach",
+        "stated_affiliations": [],
+        "key_points": [
+            "Howard Beach is in a flood area with severe flooding issues that need to be addressed before any proposal",
+            "More buildings and ADUs will reduce green space, which helps with water reabsorption during high tides",
+            "Increased development will lead to more flood claims, causing already high insurance prices to increase",
+            "The city should install floodgates that were promised and approved 40 years ago",
+            "Howard Beach is a suburban area, and residents chose to live there for that reason",
+            "The proposal should be broken up by community board and allow for community board votes",
+            "Residents should have a voice in decisions affecting their areas",
+            "Request to vote no on the City of Yes proposal or exclude Community Board 10 from it"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Sally, is a resident and homeowner in Howard Beach, Queens.\n2. She expresses concerns about flooding issues in her area.\n3. She argues that more buildings and ADUs (Accessory Dwelling Units) will reduce green space, which helps with water absorption.\n4. She mentions that this could lead to more flood claims and higher insurance prices.\n5. Sally requests that floodgates promised 40 years ago be installed.\n6. She emphasizes that she lives in a suburban area and chose to do so deliberately.\n7. She asks why the proposal can't be broken up by community board and allow for community votes.\n8. Sally requests that Community Board 10 be taken out of the equation.\n9. She asks the committee to vote no on the \"City of Yes\" proposal.\n\nComparing this to the reference talking points:\n\n1. The testimony doesn't mention parking at all, which is a major focus of the reference talking points.\n2. The testimony doesn't discuss housing affordability, which is mentioned in the talking points.\n3. The speaker does indirectly touch on climate issues by mentioning flooding, but not in the context presented in the talking points.\n4. The testimony doesn't address any of the specific benefits mentioned in the talking points, such as reducing rent burdens or opening new commercial opportunities.\n5. The speaker's concern about suburban character is somewhat related to the talking points' mention of planning for the future, but from an opposing perspective.\n\n  ",
+        "quotes": [],
+        "analysis": "The testimony provided by Sally is largely unrelated to the reference talking points. While both the testimony and the talking points touch on urban planning issues, they approach the subject from very different angles and with different concerns.\n\nThe reference talking points focus heavily on parking reform, housing affordability, climate change in relation to transportation, and urban density. In contrast, Sally's testimony is primarily concerned with local flooding issues, preserving green space, and maintaining the suburban character of her neighborhood.\n\nThere are no direct quotes from the testimony that align with or directly oppose the specific points made in the reference talking points. The closest connection might be Sally's concern about preserving the suburban nature of her area, which could be seen as indirectly opposing the talking points' emphasis on urban density and reducing car dependence. However, this connection is tenuous at best.\n\nSally's request for community-based decision making and her opposition to the \"City of Yes\" proposal suggest she is against the overall initiative. However, her reasons for opposition don't directly address or refute the specific arguments made in the reference talking points.\n\nGiven this analysis, the testimony cannot be classified as having high similarity to the talking points, supporting them, or being in direct opposition to them. The testimony is addressing different concerns altogether.\n  ",
+        "similarity": "NOT_SIMILAR"
+    }
+}

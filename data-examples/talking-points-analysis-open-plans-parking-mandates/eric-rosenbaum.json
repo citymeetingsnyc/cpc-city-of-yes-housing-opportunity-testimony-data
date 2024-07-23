@@ -1,0 +1,38 @@
+{
+    "testimony": {
+        "name": "Eric Rosenbaum",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/eric-rosenbaum-president-and-ceo-of-project",
+        "start_time_in_seconds": 9451.538,
+        "end_time_in_seconds": 9616.748,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Project Renewal"
+        ],
+        "key_points": [
+            "Stable housing is the foundation for resilient families and communities",
+            "Lack of affordable housing contributes to mental health issues, overdose crises, and public safety problems",
+            "Historical housing discrimination has created profound inequity, especially for people of color",
+            "City of Yes proposals can address affordable housing availability and reduce homelessness",
+            "Increasing affordability will address root causes of mental health challenges, substance disorders, and criminal justice involvement",
+            "The alternative is increased spending on shelters, mental health treatment, and jails",
+            "City of Yes will make New York City more affordable and safer for families at all income levels"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Eric Rosenbaum, is speaking in favor of the City of Yes proposal.\n2. He focuses on the importance of affordable housing and its impact on homelessness, mental health, substance use disorders, and criminal justice involvement.\n3. He discusses the historical context of housing inequity, including discriminatory practices like the GI bill and urban renewal projects.\n4. The speaker mentions that the City of Yes proposals can make a difference in overhauling zoning regulations and addressing the availability of affordable housing.\n5. He argues that increasing affordability will reduce homelessness and address root causes of various social issues.\n6. The testimony does not directly mention parking or transportation issues, which are a significant part of the reference talking points.\n7. While the testimony supports the City of Yes proposal, it does so from a different angle than the reference talking points, focusing on affordable housing and its social impacts rather than parking and transportation issues.",
+        "quotes": [
+            {
+                "text": "The city of yes proposals can make a real difference in overhauling zoning regulations and addressing the availability of affordable housing.",
+                "reasoning": "This quote aligns with the general spirit of the reference talking points, which also discuss zoning reforms and housing affordability. However, it does not specifically mention parking or transportation issues."
+            },
+            {
+                "text": "Increasing affordability will reduce homelessness and address this key root cause of generational mental health challenges substitute disorders and criminal justice involvement.",
+                "reasoning": "While this quote supports the City of Yes proposal, it focuses on different aspects than the reference talking points. It emphasizes the social benefits of affordable housing rather than the specific zoning changes related to parking."
+            }
+        ],
+        "analysis": "The testimony is generally supportive of the City of Yes for Housing Opportunity proposal, but it focuses on different aspects compared to the reference talking points. The speaker emphasizes the importance of affordable housing and its impact on social issues such as homelessness, mental health, and criminal justice involvement. He discusses the historical context of housing inequity and argues that the City of Yes proposals can help address these long-standing issues.\n\nHowever, the testimony does not directly address the specific points mentioned in the reference talking points, such as parking mandates, transportation emissions, or the relationship between parking and housing costs. The speaker's perspective is more focused on the social and historical aspects of housing affordability rather than the technical zoning changes related to parking.\n\nWhile both the testimony and the reference talking points support the City of Yes proposal, they do so from different angles. The testimony provides a broader social context for the need for affordable housing, while the reference talking points focus more specifically on the benefits of removing parking mandates and their impact on housing affordability and urban planning.",
+        "similarity": "SUPPORTING_TALKING_POINTS"
+    }
+}

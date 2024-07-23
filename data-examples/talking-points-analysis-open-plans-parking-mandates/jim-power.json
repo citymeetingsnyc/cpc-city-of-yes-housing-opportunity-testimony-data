@@ -1,0 +1,28 @@
+{
+    "testimony": {
+        "name": "Jim Power",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/jim-power-from-kramer-levin-on-concerns-about-the",
+        "start_time_in_seconds": 24080.678,
+        "end_time_in_seconds": 24229.244,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Kramer Levin"
+        ],
+        "key_points": [
+            "Supports many components of the housing opportunity proposal",
+            "Concerned about the proposed UAP formula for zoning lots with existing buildings",
+            "The current proposal may disincentivize housing development in certain scenarios",
+            "Suggests an alternative approach where the required affordable percentage is applied only to the enlarged portion of the zoning lot",
+            "Argues that the alternative approach would incentivize developers to build out the full amount of residential floor area available",
+            "Recommends considering alternatives to the UAP formula for infill sites"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Jim Power, represents clients who own property in R10 equivalent zoning districts.\n2. He supports many components of the housing opportunity proposal, acknowledging it will help address the city's housing crisis.\n3. His main concern is about the Uniform Affordable Program (UAP) formula and how it applies to zoning lots with existing buildings.\n4. He argues that the current proposal might disincentivize housing development, especially for enlargement projects.\n5. He provides a specific example of how the current formula could lead to requiring 50% affordable housing in an enlargement project, which he believes is not economically feasible.\n6. He suggests an alternative approach where the affordable percentage would only apply to the enlarged portion of the zoning lot, not the existing floor area.\n7. This testimony focuses entirely on zoning technicalities and affordable housing requirements. It does not mention parking, transportation, or any of the specific points raised in the reference talking points.\n\nGiven this analysis, the testimony does not seem to directly address or relate to the reference talking points provided.",
+        "quotes": [],
+        "analysis": "The testimony provided by Jim Power is focused on very specific zoning and affordable housing issues related to the City of Yes for Housing Opportunity proposal. It does not address any of the points mentioned in the reference talking points, which primarily discuss parking mandates, transportation, and climate change.\n\nThe speaker's concerns are centered around the Uniform Affordable Program (UAP) formula and its potential impact on housing development, particularly for enlargement projects on existing properties. He suggests modifications to the formula to incentivize more housing development.\n\nOn the other hand, the reference talking points focus on the benefits of reducing parking mandates, such as increasing housing affordability, addressing climate change, and improving street life. These points are not mentioned or alluded to in Jim Power's testimony.\n\nGiven the complete lack of overlap between the testimony and the reference talking points, it appears that the testimony is addressing a different aspect of the City of Yes for Housing Opportunity proposal than what is covered in the provided talking points.",
+        "similarity": "NOT_SIMILAR"
+    }
+}

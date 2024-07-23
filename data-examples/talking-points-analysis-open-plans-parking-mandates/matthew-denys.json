@@ -1,0 +1,40 @@
+{
+    "testimony": {
+        "name": "Matthew Denys",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/matthew-denys-from-open-new-york-on-comprehensive",
+        "start_time_in_seconds": 48818.4,
+        "end_time_in_seconds": 48975.258,
+        "for_or_against": "For",
+        "borough": "Brooklyn",
+        "neighborhood": "Flatbush",
+        "stated_affiliations": [
+            "Open New York"
+        ],
+        "key_points": [
+            "The city is in a deep housing crisis with high prices getting worse",
+            "The proposal is a step in the right direction, though not enough to fix the entire housing shortage",
+            "The proposal will allow more housing to be built, including affordable housing",
+            "Town Center zoning will support small businesses",
+            "Lifting parking mandates will help reduce car subsidies and traffic",
+            "The transit-oriented development element is limited but a good start",
+            "Current zoning restrictions prevent building apartment buildings similar to existing historic ones in Flatbush",
+            "More ambitious building near transit is needed to meet housing demands",
+            "The proposal should be approved to address the urgency of the housing crisis"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Matthew Denys, is a member of Open New York and supports the City of Yes for Housing Opportunity proposal.\n\n2. He mentions the housing crisis and high prices, which aligns with the general context of the reference talking points, although not directly mentioned.\n\n3. The testimony specifically mentions lifting parking mandates, which is a key focus of the reference talking points.\n\n4. Matthew states that current parking minimums \"subsidizes cars and increases traffic,\" which aligns with the reference points about parking mandates encouraging car-centric infrastructure.\n\n5. He mentions that less than half of households in NYC have a car, which is similar to the reference point stating that parking mandates prioritize the ~25% of New Yorkers who use cars to commute.\n\n6. The testimony supports removing parking mandates as an \"obvious right step,\" which aligns with the overall message of the reference talking points.\n\n7. Matthew also discusses transit-oriented development, which is not directly addressed in the reference talking points but is related to the general theme of reducing car dependency.\n\n8. The testimony doesn't go into as much detail about the negative impacts of parking mandates as the reference talking points do (e.g., specific costs, climate impact, walking difficulties).\n\n9. The speaker doesn't mention other cities that have implemented similar policies, which is a point made in the reference talking points.\n\nOverall, while the testimony supports the same general direction as the reference talking points regarding parking mandates, it doesn't use the same specific arguments or level of detail. The testimony also covers other aspects of the proposal not mentioned in the reference talking points.",
+        "quotes": [
+            {
+                "text": "Lifting parking mandates will also help. Right? Because the way that it currently works with the minimums that we have that subsidizes cars and increases traffic, which we don't know we have way too much of already in a city where less than half of households even have a car.",
+                "reasoning": "This quote aligns with several points in the reference talking points. It mentions lifting parking mandates, discusses how current minimums subsidize cars and increase traffic, and notes that less than half of households have a car. This is similar to the reference points about parking mandates encouraging car-centric infrastructure and prioritizing the minority of New Yorkers who use cars to commute."
+            },
+            {
+                "text": "Given the negative impacts of that parking, I'd love to see further restrictions or fees or something like that for parking and denser areas near multiple subway lines. But for now, removing these current mandates is an obvious right step.",
+                "reasoning": "This quote supports the removal of parking mandates, which is the main focus of the reference talking points. It also suggests going further with parking restrictions in transit-rich areas, which aligns with the overall message of reducing car dependency in favor of public transportation."
+            }
+        ],
+        "analysis": "The testimony shows a moderate level of similarity to the reference talking points, primarily in its support for lifting parking mandates. The speaker, Matthew Denys, agrees with the general direction of reducing parking requirements and acknowledges some of the negative impacts of current parking minimums, such as subsidizing cars and increasing traffic.\n\nHowever, the testimony doesn't delve into many of the specific arguments presented in the reference talking points. For example, it doesn't mention the cost of building parking spaces, the impact on housing affordability, or the environmental concerns related to car usage. The testimony also covers other aspects of the City of Yes for Housing Opportunity proposal that are not addressed in the reference talking points, such as transit-oriented development and support for small businesses.\n\nWhile the testimony is supportive of lifting parking mandates, it doesn't appear to be directly derived from or heavily influenced by the specific language and arguments presented in the reference talking points. Instead, it seems to be an independent perspective that happens to align with some of the key ideas in the reference talking points.\n\nThe testimony is generally supportive of the proposal and the direction it's taking, which includes the parking mandate changes. However, it's not exclusively or primarily focused on the parking issue, as the reference talking points are.",
+        "similarity": "SUPPORTING_TALKING_POINTS"
+    }
+}

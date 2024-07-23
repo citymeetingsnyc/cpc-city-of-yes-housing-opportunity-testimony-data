@@ -1,0 +1,28 @@
+{
+    "testimony": {
+        "name": "Agnes Vendina",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/agnes-vendina-from-oakwood-residence-civic",
+        "start_time_in_seconds": 32134.0,
+        "end_time_in_seconds": 32327.951,
+        "for_or_against": "Against",
+        "borough": "Staten Island",
+        "neighborhood": "Oakwood",
+        "stated_affiliations": [
+            "Oakwood Residence Civic Association of Staten Island"
+        ],
+        "key_points": [
+            "Challenges the hypothesis that lack of housing is the primary cause of homelessness",
+            "Argues that addiction and mental illness are the leading causes of homelessness based on national statistics",
+            "Criticizes the city for not addressing the root causes of homelessness, particularly drug addiction",
+            "Suggests that addressing homelessness requires medical expertise and resources, not just housing solutions",
+            "Advocates for homeownership as the real solution to the housing crisis",
+            "Criticizes the lack of creative solutions for homeownership in the current proposal"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The testimony focuses primarily on homelessness and its causes, arguing that the main causes are addiction and mental illness, not lack of housing.\n2. The speaker criticizes the city's hypothesis that lack of housing leads to homelessness, citing studies from SAMHSA and the US Conference of Mayors.\n3. The testimony briefly mentions housing crisis but focuses on homeownership as a solution, rather than discussing rental housing or parking issues.\n4. There is no direct mention of parking mandates, car dependency, or climate change in the testimony.\n5. The testimony does not address any of the specific points made in the reference talking points about parking, transportation, or zoning reforms.\n6. The overall focus of the testimony is on addressing root causes of homelessness and promoting homeownership, which are not directly related to the reference talking points about parking and zoning reforms.\n\nGiven this analysis, the testimony appears to be not similar to the reference talking points. It addresses different issues and does not engage with the specific arguments made in the talking points.",
+        "quotes": [],
+        "analysis": "The testimony is not similar to the reference talking points because it does not address any of the specific issues raised in the talking points. The testimony focuses on homelessness, its causes (primarily addiction and mental illness), and the importance of homeownership. It does not mention parking mandates, transportation issues, climate change, or any of the other key points raised in the reference talking points.\n\nThe speaker is addressing a different aspect of housing policy, focusing on the causes of homelessness and the benefits of homeownership, rather than discussing the zoning and parking reforms that are the main subject of the reference talking points. While both the testimony and the talking points are broadly related to housing issues, they are addressing very different specific concerns and policy proposals.\n\nThe testimony does not support or oppose the specific points made in the reference talking points. Instead, it presents a different perspective on housing issues that is not directly related to the parking and zoning reforms discussed in the talking points.",
+        "similarity": "NOT_SIMILAR"
+    }
+}

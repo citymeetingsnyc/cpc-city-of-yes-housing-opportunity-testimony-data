@@ -1,0 +1,31 @@
+{
+    "testimony": {
+        "name": "Sharlene Jackson Mendez",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/sharlene-jackson-mendez-on-city-of-yes-housing",
+        "start_time_in_seconds": 35960.97,
+        "end_time_in_seconds": 36200.43,
+        "for_or_against": "Against",
+        "borough": "Bronx",
+        "neighborhood": "Van Nest",
+        "stated_affiliations": [
+            "Van Nest Neighorhood Alliance",
+            "Coalition of East Bronx Community Association"
+        ],
+        "key_points": [
+            "The City of Yes plan will bring 7500 new housing units to her community, which is too much development",
+            "The plan does not provide for additional infrastructure or services to support the new residents",
+            "The proposed housing will not be affordable for current community members",
+            "The plan removes local control from communities",
+            "The speaker resents implications that community concerns are rooted in racism or classism",
+            "There is no shortage of housing above $2,300/month rent",
+            "ADU units can have significant negative consequences on neighbors",
+            "The community is not against affordable housing, but concerned about how it is implemented"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "To analyze the similarity between the testimony and the reference talking points, I'll go through the testimony and compare it to the key points in the reference:\n\n1. The testimony focuses on concerns about increased housing density and its impact on the community, while the reference talking points are primarily about parking mandates and their effects.\n\n2. The testimony mentions \"7500 new units of housing\" and \"more than 20,000 new residents,\" expressing concern about infrastructure. The reference points don't directly address this issue.\n\n3. The testimony argues that the proposed housing won't be affordable for the community. The reference points mention affordability, but in relation to parking mandates increasing costs.\n\n4. The testimony mentions losing local control over development. The reference points don't discuss this aspect.\n\n5. The testimony briefly mentions ADU units, which isn't covered in the reference points.\n\n6. The testimony doesn't discuss parking mandates, which is the main focus of the reference talking points.\n\n7. The testimony doesn't mention climate change, transportation emissions, or encouraging public transit, which are key points in the reference.\n\n8. The testimony doesn't discuss the specific benefits of removing parking mandates, which is a central theme in the reference points.\n\nOverall, there seems to be very little overlap between the content of the testimony and the reference talking points.",
+        "quotes": [],
+        "analysis": "The testimony provided by Sharlene Jackson Mendez is largely unrelated to the reference talking points. While both discuss housing and development, they approach the topic from very different angles:\n\n1. Focus: The testimony is primarily concerned with the impact of increased housing density on a specific community (Van Nest section of the Bronx), while the reference talking points focus on the benefits of removing parking mandates citywide.\n\n2. Affordability: The testimony mentions affordability but argues that the proposed housing won't be affordable for the community. The reference points discuss affordability in relation to reduced costs from eliminating parking mandates, which is not mentioned in the testimony.\n\n3. Local Control: The testimony expresses concern about losing local control over development, which is not addressed in the reference points.\n\n4. Infrastructure and Community Impact: The testimony raises issues about infrastructure and community changes due to increased population, which are not discussed in the reference points.\n\n5. Parking and Transportation: The reference points heavily emphasize parking mandates and transportation issues, which are not mentioned at all in the testimony.\n\n6. Climate Change: The reference points discuss climate change and emissions, which are not addressed in the testimony.\n\nThe testimony appears to be opposing increased housing density in a specific neighborhood, while the reference talking points are promoting a citywide policy change regarding parking mandates. There is no evidence that the testimony is using or referencing the talking points provided.",
+        "similarity": "NOT_SIMILAR"
+    }
+}

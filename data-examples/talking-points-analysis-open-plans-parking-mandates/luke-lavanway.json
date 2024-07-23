@@ -1,0 +1,38 @@
+{
+    "testimony": {
+        "name": "Luke Lavanway",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/luke-lavanway-resident-of-fort-greene-brooklyn-on",
+        "start_time_in_seconds": 35316.996,
+        "end_time_in_seconds": 35535.44,
+        "for_or_against": "For",
+        "borough": "Brooklyn",
+        "neighborhood": "Fort Greene",
+        "stated_affiliations": [],
+        "key_points": [
+            "Supports City of Yes with no conditions due to severe housing crisis",
+            "Personal experiences with competitive and stressful rental market",
+            "Need for more housing units to stop displacement and gentrification",
+            "Supports Universal Affordability Preference (UAP) for permanently affordable housing",
+            "Criticizes those opposing development as causing gentrification and displacement",
+            "Argues that neighborhoods must evolve to meet changing needs",
+            "Supports the plan for adding more housing in every neighborhood",
+            "Suggests that the plan may not go far enough to address the housing crisis",
+            "Urges approval of City of Yes in its strongest form"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "1. The testimony primarily focuses on the housing crisis in New York City and the need for more housing units.\n2. The speaker strongly supports the City of Yes for Housing Opportunity proposal without conditions.\n3. While the testimony doesn't directly mention parking, it does touch on some broader themes that align with the reference talking points:\n   - The need for reform in housing rules\n   - The importance of allowing more housing units to be built\n   - The idea that every neighborhood must evolve and contribute to meeting housing needs\n4. The testimony specifically mentions the Universal Affordability Preference (UAP) aspect of the proposal, which isn't directly addressed in the reference talking points.\n5. The speaker criticizes those who oppose development, which indirectly aligns with the talking points about the negative effects of current regulations.\n6. While the testimony doesn't directly contradict any of the reference talking points, it also doesn't explicitly support or mention most of them.",
+        "quotes": [
+            {
+                "text": "Housing experts agree that the fundamental problem is we don't have enough units of housing, so we need to reform our housing rules to allow 100 of 1000 of additional units to be built.",
+                "reasoning": "This quote aligns with the general theme of the reference talking points about the need to reform outdated rules to allow for more housing. While it doesn't specifically mention parking, it supports the idea of changing regulations to increase housing supply."
+            },
+            {
+                "text": "Every neighborhood must do its part to meet the housing needs of our city, and that is exactly what city of yes for housing is all about. A little more housing in every neighborhood.",
+                "reasoning": "This quote indirectly supports the idea in the talking points about planning for the city we want, not the city we have. It emphasizes the need for all neighborhoods to contribute to solving the housing crisis, which aligns with the overall goal of the City of Yes proposal."
+            }
+        ],
+        "analysis": "The testimony is primarily focused on the housing crisis in New York City and the need for more housing units. While it strongly supports the City of Yes for Housing Opportunity proposal, it doesn't directly address most of the specific points mentioned in the reference talking points, which largely focus on parking mandates and their effects.\n\nThe testimony does align with the general spirit of the talking points in terms of supporting reforms to increase housing availability and affordability. It also touches on themes of neighborhood evolution and the need for all areas to contribute to solving the housing crisis, which indirectly supports some of the ideas in the talking points.\n\nHowever, the testimony doesn't mention parking mandates, transportation issues, or the specific benefits of reducing parking requirements, which are central to the reference talking points. Instead, it focuses on the Universal Affordability Preference (UAP) aspect of the proposal, which isn't mentioned in the talking points.\n\nWhile there's no direct opposition to the talking points, the lack of specific alignment with most of the points makes it difficult to classify this testimony as having high similarity or directly supporting the talking points. The testimony is more broadly supportive of housing reform without addressing the specific parking-related issues that dominate the reference talking points.",
+        "similarity": "SUPPORTING_TALKING_POINTS"
+    }
+}

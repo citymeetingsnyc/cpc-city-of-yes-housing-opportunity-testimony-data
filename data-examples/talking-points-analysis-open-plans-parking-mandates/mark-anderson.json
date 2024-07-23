@@ -1,0 +1,30 @@
+{
+    "testimony": {
+        "name": "Mark Anderson",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/mark-anderson-of-wesley-improvement-society-staten",
+        "start_time_in_seconds": 49024.797,
+        "end_time_in_seconds": 49219.65,
+        "for_or_against": "Against",
+        "borough": "Staten Island",
+        "neighborhood": "North Shore",
+        "stated_affiliations": [
+            "Wesley Improvement Society",
+            "Citibank Group"
+        ],
+        "key_points": [
+            "No need for more housing as housing availability has exceeded need for the past 50 years",
+            "New York City lost about 600,000 residents in the last 3 years",
+            "Current zoning is sufficient for creating needed housing",
+            "North shore of Staten Island could have 2 to 3 times the current occupancy under current zoning",
+            "The proposal is not truly about affordable housing, especially in Staten Island",
+            "Accessory dwelling units are unnecessary and potentially unsafe",
+            "Living in basements is dangerous due to flooding risks from plumbing and groundwater"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Mark Anderson, represents the Wesley Improvement Society on Staten Island and opposes the proposal entirely.\n\n2. He argues against the need for more housing, citing population loss and current zoning sufficiency.\n\n3. He disputes the claim that this proposal creates affordable housing, especially for Staten Island.\n\n4. He expresses concerns about accessory dwelling units, particularly basements, citing safety and flooding issues.\n\n5. The testimony doesn't directly address most of the points made in the reference talking points. It focuses more on local concerns and perceived lack of need for the proposal.\n\n6. There is no mention of parking, which is a significant focus of the reference talking points.\n\n7. The testimony doesn't discuss climate change, transportation emissions, or incentivizing/disincentivizing driving.\n\n8. The speaker doesn't address the economic arguments about parking costs increasing rents or the opportunity cost of building parking versus housing.\n\n9. The testimony is generally opposed to the proposal, but for reasons different from those addressed in the reference talking points.",
+        "quotes": [],
+        "analysis": "The testimony by Mark Anderson shows very little similarity to the reference talking points. The speaker's arguments are primarily focused on local concerns in Staten Island and a general opposition to the need for more housing. He does not address any of the specific issues raised in the reference talking points, such as parking mandates, climate change, transportation emissions, or the economic impacts of parking requirements on housing affordability.\n\nThe testimony is opposed to the overall City of Yes for Housing Opportunity proposal, but it does not directly oppose the specific points made in the reference talking points. Instead, it presents different arguments against the proposal based on local perspectives and concerns about housing need, zoning, and safety issues related to accessory dwelling units.\n\nGiven that the testimony does not engage with or reference any of the specific arguments presented in the talking points, it cannot be classified as having high similarity, supporting, or being in direct opposition to these specific points. The testimony is addressing different aspects of the proposal and presenting alternative reasons for opposition.",
+        "similarity": "NOT_SIMILAR"
+    }
+}

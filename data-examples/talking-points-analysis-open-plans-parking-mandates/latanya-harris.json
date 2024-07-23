@@ -1,0 +1,31 @@
+{
+    "testimony": {
+        "name": "Latanya Harris",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/latanya-harris-on-concerns-about-accessory",
+        "start_time_in_seconds": 29737.486,
+        "end_time_in_seconds": 29927.414,
+        "for_or_against": "Against",
+        "borough": "Queens",
+        "neighborhood": "Saint Albans",
+        "stated_affiliations": [
+            "Queens Pension Fund",
+            "Department of Buildings",
+            "Department of Consumer Affairs"
+        ],
+        "key_points": [
+            "ADUs will negatively impact quality of life in residential neighborhoods",
+            "Changes to neighborhoods will be permanent and unwanted",
+            "City planners are not considering the perspectives of current homeowners",
+            "Queens has unique, diverse communities that should be preserved",
+            "ADUs were previously illegal and fined, now suddenly considered safe",
+            "The initiative seems to prioritize revenue generation over residents' concerns",
+            "The plan doesn't consider the impact on long-time New Yorkers who have worked hard for their homes"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "1. The testimony is from Latanya Harris, a resident of Southeast Queens and a homeowner.\n2. The testimony focuses primarily on concerns about ADUs (Accessory Dwelling Units) and how they might impact the quality of life in residential neighborhoods.\n3. The speaker expresses worry about overdensification and changes to the character of Queens neighborhoods.\n4. The testimony does not directly address most of the points mentioned in the reference talking points, which are primarily about parking mandates and their effects.\n5. There is no mention of parking, climate change, or transportation issues in the testimony.\n6. The speaker's concerns about developers and revenue generation might be loosely related to some of the talking points about housing affordability, but the connection is not strong or direct.\n7. The testimony seems to be generally opposed to zoning changes, but not specifically to the parking-related issues discussed in the reference talking points.",
+        "quotes": [],
+        "analysis": "The testimony provided by Latanya Harris is largely unrelated to the reference talking points about parking mandates and their effects on housing, transportation, and climate change. The speaker's main concerns revolve around ADUs (Accessory Dwelling Units) and the potential impact of zoning changes on the character of Queens neighborhoods. \n\nWhile the testimony expresses opposition to certain aspects of urban development and zoning changes, it does not directly address or oppose the specific points made in the reference talking points. The speaker's concerns about overdensification and changes to neighborhood character are distinct from the parking-related issues that dominate the talking points.\n\nThere is a slight thematic overlap in the sense that both the testimony and the talking points touch on housing and development issues. However, the specific focus and arguments are quite different. The testimony is more concerned with preserving the existing character of residential neighborhoods, while the talking points advocate for changes to parking regulations to address housing affordability, climate change, and transportation issues.\n\nGiven that the testimony does not engage with or directly oppose the specific points made in the reference talking points, it would be most accurate to classify this testimony as not similar to the talking points, rather than in opposition to them.",
+        "similarity": "NOT_SIMILAR"
+    }
+}

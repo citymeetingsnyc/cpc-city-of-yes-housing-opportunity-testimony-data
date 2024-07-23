@@ -1,0 +1,37 @@
+{
+    "testimony": {
+        "name": "Samuel Deutsch",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/samuel-deutsch-on-transit-oriented-development-and",
+        "start_time_in_seconds": 47398.254,
+        "end_time_in_seconds": 47560.3,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [],
+        "key_points": [
+            "New York City should look to other cities for inspiration in housing policy",
+            "Vancouver allows 20-story apartment buildings near transit stations to reduce carbon emissions",
+            "New York's proposal for 3-5 story buildings near transit should be a 'no-brainer'",
+            "Austin, Texas has built significantly more housing per capita than New York, resulting in decreasing rents",
+            "Loosening zoning restrictions in Austin has allowed supply to meet demand",
+            "The City of Yes proposal is supported but could potentially go further",
+            "Building more housing near transit promotes sustainable, low-carbon, car-free lifestyles",
+            "The proposal will lead to more climate-friendly housing in New York"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "1. The testimony focuses on two main comparisons: Vancouver and Austin.\n2. The Vancouver example emphasizes building housing near transit to reduce carbon emissions, which aligns with the reference talking points about addressing climate change and reducing car dependence.\n3. The Austin example highlights how loosening zoning restrictions led to increased housing supply and lower rents, which indirectly supports the talking points about increasing housing affordability and availability.\n4. The testimony doesn't directly mention parking mandates, but it does support the overall \"City of Yes\" proposal, which includes removing parking minimums.\n5. The speaker emphasizes the importance of building more housing near transit, which aligns with the talking points about prioritizing active and public transportation over car-centric infrastructure.\n6. While the testimony doesn't use the same specific arguments as the talking points, it supports the same general goals of increasing housing supply, affordability, and sustainability.",
+        "quotes": [
+            {
+                "text": "So people don't need to drive as much or don't even need to own cars is one of the most effective policies to reduce carbon emissions on the whole electricity level.",
+                "reasoning": "This quote aligns with the talking point about reducing car dependence and addressing climate change, although it doesn't directly mention parking mandates."
+            },
+            {
+                "text": "And rents are plummeting. I have friends there who are getting rent decreases, which is kind of unheard of here in New York. Precisely because supply, they've loosened their zoning restrictions, they've allowed more housing to be built.",
+                "reasoning": "This quote supports the talking points about increasing housing affordability and availability, although it doesn't specifically mention parking mandates as a factor."
+            }
+        ],
+        "analysis": "The testimony is generally supportive of the \"City of Yes for Housing Opportunity\" proposal and shares some similar goals with the reference talking points, particularly in terms of addressing climate change, increasing housing supply, and promoting affordability. However, the testimony does not directly address many of the specific points mentioned in the reference talking points, especially those related to parking mandates.\n\nThe speaker focuses on examples from other cities (Vancouver and Austin) to illustrate the benefits of building more housing near transit and loosening zoning restrictions. These examples indirectly support some of the goals mentioned in the talking points, such as reducing car dependence, increasing housing affordability, and addressing climate change.\n\nWhile the testimony aligns with the overall spirit of the proposal and some of its goals, it doesn't use the same specific arguments or language as the reference talking points. The speaker doesn't mention parking mandates, which are a central focus of the talking points. Instead, the testimony takes a broader approach, discussing the benefits of increased housing supply and transit-oriented development.\n\nGiven this analysis, the testimony can be classified as \"SUPPORTING_TALKING_POINTS\" because it supports the overall goals of the proposal and some of the underlying principles, but doesn't directly reference or closely mirror the specific language and arguments presented in the talking points.",
+        "similarity": "SUPPORTING_TALKING_POINTS"
+    }
+}

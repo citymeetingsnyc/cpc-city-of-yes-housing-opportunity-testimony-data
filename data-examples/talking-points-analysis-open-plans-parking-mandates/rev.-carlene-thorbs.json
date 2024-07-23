@@ -1,0 +1,38 @@
+{
+    "testimony": {
+        "name": "Rev. Carlene Thorbs",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/rev-carlene-thorbs-chairperson-of-queens-community",
+        "start_time_in_seconds": 50131.684,
+        "end_time_in_seconds": 50326.555,
+        "for_or_against": "Against",
+        "borough": "Queens",
+        "neighborhood": "Jamaica",
+        "stated_affiliations": [
+            "Queens Community Board 12"
+        ],
+        "key_points": [
+            "No environmental impact statement has been conducted",
+            "Lack of infrastructure considerations (sanitation, schools, water, sewage lines)",
+            "Parking is necessary in South Jamaica, which is a driving community",
+            "The proposal would destroy the neighborhood",
+            "Insufficient community engagement and awareness about City of Yes",
+            "Existing apartments in downtown area are expensive and some are empty",
+            "Community Board 12 and other Queens Community Boards do not support City of Yes",
+            "The area is already carrying the weight of shelters",
+            "Affordable housing is not truly affordable",
+            "Concerns about prioritizing new New Yorkers over existing shelter residents",
+            "The proposal is not a one-size-fits-all solution and should be considered community board by community board"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "To analyze the similarity between the testimony and the reference talking points, I'll go through the testimony and compare it to the key points in the reference:\n\n1. The testimony doesn't directly mention parking mandates or their removal.\n2. The speaker expresses concern about parking, stating \"Parking is necessary, especially here in South Jamaica. We are a driving community.\"\n3. The testimony focuses on issues not addressed in the talking points, such as environmental impact statements, infrastructure concerns (schools, water, sewage), and affordable housing.\n4. The speaker mentions that some new apartments in their area are empty and have high rents starting at $3000, which doesn't align with the talking points about increasing affordability.\n5. The testimony expresses strong opposition to the City of Yes proposal, stating \"CB 12 with the other CB's and Queen's, we do not support the city of yes.\"\n6. The speaker raises concerns about the impact on existing communities and current shelter residents, which are not addressed in the talking points.\n\nOverall, while the testimony mentions parking as a concern, it doesn't directly address most of the points made in the reference talking points. The testimony's focus is on different issues and expresses opposition to the proposal without specifically countering the arguments made in the talking points.",
+        "quotes": [
+            {
+                "text": "Parking is necessary, especially here in South Jamaica. We are a driving community.",
+                "reasoning": "This quote indicates a concern about parking, which is related to the talking points about parking mandates. However, it expresses a contrasting view, emphasizing the necessity of parking in their community."
+            }
+        ],
+        "analysis": "The testimony shows little direct similarity to the reference talking points. While parking is mentioned as a concern, the testimony doesn't engage with the specific arguments made in the talking points about parking mandates, affordability, or environmental benefits of reducing parking requirements. \n\nThe testimony focuses on different aspects of the City of Yes proposal, such as the lack of environmental impact statements, infrastructure concerns, and the affordability of new housing in the area. The speaker expresses strong opposition to the proposal, but this opposition is not based on direct counterarguments to the talking points provided.\n\nThe only point of intersection is the mention of parking, but the perspective is quite different. While the talking points argue for reducing parking mandates to increase affordability and encourage alternative transportation, the testimony emphasizes the necessity of parking in their community.\n\nGiven these factors, the testimony is best classified as \"NOT_SIMILAR\" to the reference talking points. While it opposes the City of Yes proposal, it does so based on concerns and issues not directly addressed in the provided talking points.",
+        "similarity": "NOT_SIMILAR"
+    }
+}

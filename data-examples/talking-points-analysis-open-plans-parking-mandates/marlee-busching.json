@@ -1,0 +1,36 @@
+{
+    "testimony": {
+        "name": "Marlee Busching",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/marlee-busching-from-hudson-companies-on-city-of",
+        "start_time_in_seconds": 23527.596,
+        "end_time_in_seconds": 23652.475,
+        "for_or_against": "For",
+        "borough": "Brooklyn",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Hudson Companies"
+        ],
+        "key_points": [
+            "City of Yes for Housing Opportunity can address New York City's housing and affordability crisis",
+            "Removing parking minimum requirements would allow consideration of more sites for development",
+            "Universal affordability preference will allow developers to increase density and address housing shortage",
+            "ADUs and town centers zoning could enhance low-density neighborhoods",
+            "City of Yes can lead to a more diverse and inclusive city"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "To analyze the similarity between the testimony and the reference talking points, let's break down the key points of the testimony and compare them to the talking points:\n\n1. The testimony focuses on the removal of parking minimum requirements as a key aspect of the City of Yes proposal.\n2. The speaker mentions that current parking requirements make some development projects unfeasible.\n3. The testimony suggests that removing parking minimums would allow for more housing development.\n4. The speaker doesn't directly mention climate change, safety, or public transportation benefits.\n5. The testimony doesn't go into detail about the costs of parking construction or its impact on rents.\n6. The speaker supports the proposal from a developer's perspective, focusing on the ability to build more housing.\n\nComparing these points to the reference talking points:\n- The testimony aligns with the talking point about removing parking minimums allowing for more housing development.\n- The testimony indirectly supports the idea of parking choice mentioned in the talking points.\n- The testimony doesn't mention many of the specific benefits outlined in the talking points, such as climate change mitigation, safety, or public transportation improvements.\n- The testimony doesn't provide the level of detail found in the talking points regarding costs or specific impacts on rents.\n\nOverall, while the testimony supports the removal of parking minimums, it doesn't closely mirror the language or comprehensive arguments presented in the reference talking points.",
+        "quotes": [
+            {
+                "text": "The provision to remove parking minimum requirements would allow us to consider sites for development that we must currently rule out.",
+                "reasoning": "This quote aligns with the talking point about parking mandates making it difficult to build housing. It supports the idea that removing these requirements would lead to more housing development."
+            },
+            {
+                "text": "We are currently underwriting various sites for workforce housing that pencil in a city of yes scenario, but do not without. That means we might pass on the opportunity to build 100 of units of housing due to the onerous parking requirements the zoning resolution currently mandates.",
+                "reasoning": "This quote provides a specific example of how current parking requirements hinder housing development, which is in line with the talking points' argument about parking mandates being unnecessary and harmful to housing production."
+            }
+        ],
+        "analysis": "The testimony shows a moderate level of similarity to the reference talking points, primarily in its support for removing parking minimum requirements. The speaker, representing a development company, focuses on how this change would benefit housing production, which aligns with one of the key arguments in the talking points.\n\nHowever, the testimony lacks the comprehensive approach and detailed arguments present in the reference talking points. It doesn't mention many of the broader benefits outlined in the talking points, such as addressing climate change, improving street safety, or enhancing public transportation. The testimony also doesn't provide specific data on costs or impacts on rent that are present in the talking points.\n\nThe testimony appears to be independently supportive of the City of Yes proposal, particularly from a developer's perspective, rather than closely following the script of the provided talking points. While it shares the overall goal of increasing housing development by removing parking minimums, it doesn't use similar language or present the wide range of arguments found in the reference talking points.\n\nGiven these observations, the testimony can be classified as supporting the talking points in spirit, but not directly referencing or closely mirroring their content.",
+        "similarity": "SUPPORTING_TALKING_POINTS"
+    }
+}

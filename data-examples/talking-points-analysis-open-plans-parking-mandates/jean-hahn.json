@@ -1,0 +1,38 @@
+{
+    "testimony": {
+        "name": "Jean Hahn",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/jean-hahn-resident-of-forest-hills-queens-on",
+        "start_time_in_seconds": 48625.992,
+        "end_time_in_seconds": 48794.156,
+        "for_or_against": "Against",
+        "borough": "Queens",
+        "neighborhood": "Forest Hills",
+        "stated_affiliations": [],
+        "key_points": [
+            "Opposes the City of Yes plan as it strips zoning decisions from local community boards",
+            "Concerned about loss of daylight, air, and open space",
+            "Believes the plan won't guarantee more affordable or low-income housing",
+            "Worried about strain on aging infrastructure and lack of plans for additional public services",
+            "Opposes expansion of transit and town center zones in low-density neighborhoods",
+            "Against ADUs in basements and rear yards due to quality of life concerns",
+            "Opposes eliminating parking requirements, citing needs of families, elderly, and disabled",
+            "Advocates for local community board control in housing decisions",
+            "Urges City Planning Commission to vote against the City of Yes housing plan"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Jean Hahn, is explicitly opposed to the City of Yes proposal.\n2. She argues against removing zoning decisions from local community boards.\n3. She expresses concerns about quality of life issues like daylight, air, and open space.\n4. She argues that the proposal won't guarantee more affordable low-income housing.\n5. She questions the lack of plans for infrastructure to support new developments.\n6. She opposes the expansion of transit and town center zones.\n7. She is against ADUs (Accessory Dwelling Units) in basements and rear yards.\n8. Most relevantly to the reference talking points, she strongly opposes eliminating the parking requirement.\n9. She argues that many families rely on cars, especially in transit deserts.\n10. She urges the commission to vote no on the City of Yes housing plan.\n\nNow, let's compare this to the reference talking points:\n\n1. The testimony directly opposes eliminating parking requirements, while the talking points support this change.\n2. The testimony argues for the necessity of parking for families, while the talking points suggest reducing parking mandates to address housing affordability and climate issues.\n3. The testimony doesn't address any of the specific benefits mentioned in the talking points, such as reduced housing costs or environmental benefits.\n4. The testimony expresses concerns about transit deserts, while the talking points focus on the benefits of reducing car dependence.\n\nOverall, the testimony is in direct opposition to the main points made in the reference talking points, particularly regarding parking requirements.",
+        "quotes": [
+            {
+                "text": "I'm opposed to eliminating the parking requirement. Many families rely on cars to transport our children to and from school and activities in our elderly and disabled family members.",
+                "reasoning": "This quote directly opposes the reference talking points about reducing parking mandates. While the talking points argue for eliminating parking requirements to increase housing affordability and address climate issues, the speaker argues for maintaining these requirements based on the needs of families and vulnerable populations."
+            },
+            {
+                "text": "To say that we don't need parking, it's discriminatory against that live against those that live in transit deserts, which are pretty much everywhere outside of Manhattan high density areas.",
+                "reasoning": "This quote contradicts the talking points' argument that reducing parking mandates would benefit the city. The speaker argues that eliminating parking requirements would be discriminatory against those living in areas with poor public transportation, while the talking points suggest that such changes would encourage better public transportation and reduce car dependence."
+            }
+        ],
+        "analysis": "The testimony is largely in opposition to the reference talking points, particularly on the issue of parking requirements. While the talking points advocate for eliminating parking mandates to increase housing affordability, address climate issues, and improve urban design, the testimony argues strongly for maintaining these requirements. The speaker cites the needs of families, elderly, and disabled individuals, as well as those living in transit-poor areas, as reasons to keep parking requirements.\n\nThe testimony does not engage with or acknowledge any of the specific benefits mentioned in the talking points, such as reduced housing costs, environmental benefits, or improved street life. Instead, it focuses on potential negative impacts on quality of life and local decision-making.\n\nWhile both the testimony and the talking points address housing issues, they approach the topic from opposite perspectives. The talking points present the City of Yes proposal as a solution to housing affordability and environmental concerns, while the testimony views it as a threat to neighborhood character and quality of life.\n\nIt's worth noting that while the testimony opposes the overall City of Yes proposal, it specifically contradicts the talking points on parking requirements, making it more than just \"not similar\" to the reference talking points.",
+        "similarity": "IN_OPPOSITION"
+    }
+}

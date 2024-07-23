@@ -1,0 +1,27 @@
+{
+    "testimony": {
+        "name": "Joy Goldberg",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/joy-goldberg-on-the-affordability-gap-in-nycs",
+        "start_time_in_seconds": 23873.885,
+        "end_time_in_seconds": 24061.191,
+        "for_or_against": "Against",
+        "borough": "Brooklyn",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [],
+        "key_points": [
+            "The gap between median renter income and required income for affordable housing in NYC is significant",
+            "Current 'affordable' housing options on Housing Connect are not truly affordable for those in dire need",
+            "Many affordable housing options still require high incomes (often above 100% AMI)",
+            "Questions who the City of Yes initiative is actually making housing affordable for",
+            "Criticizes the initiative as benefiting the 'lesser rich' rather than those truly in need",
+            "Expresses concern about rezoning and densification of the city",
+            "Suggests that dividing land for profit is harmful to the city"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "To analyze the similarity between the testimony and the reference talking points, let's go through the testimony step by step:\n\n1. The testimony focuses heavily on the issue of affordable housing in New York City.\n2. It cites statistics about the gap between median renter income and the income needed to afford median-priced apartments.\n3. The speaker questions who the affordable housing is actually being made for, implying that even \"affordable\" units are out of reach for many.\n4. There is criticism of the City's rezoning and densification plans, suggesting they benefit developers more than those in need of affordable housing.\n5. The testimony does not directly address parking mandates or transportation issues, which are central to the reference talking points.\n6. There is no mention of climate change, street safety, or public transportation in the testimony.\n7. The speaker seems skeptical of the City's plans, referring to \"City of yes for whom,\" which contrasts with the generally supportive tone of the reference talking points.\n\nGiven this analysis, the testimony does not seem to align closely with the reference talking points. While both address housing affordability, they do so from very different angles. The testimony focuses on the inadequacy of current affordable housing efforts, while the talking points discuss parking mandates as a barrier to affordability.",
+        "quotes": [],
+        "analysis": "The testimony is largely unrelated to the specific issues raised in the reference talking points. While both the testimony and the talking points touch on the broad theme of housing affordability in New York City, they approach the issue from very different perspectives.\n\nThe testimony focuses on the current state of affordable housing, criticizing the high income requirements for \"affordable\" units and questioning who benefits from the City's plans. It does not address any of the specific policy proposals mentioned in the talking points, such as parking mandates, transportation issues, or climate change considerations.\n\nThe reference talking points, on the other hand, primarily discuss the removal of parking mandates as a way to increase housing affordability and address other urban issues. These points are not mentioned or alluded to in the testimony.\n\nThe testimony seems to be skeptical of the City's plans for rezoning and densification, while the talking points are supportive of changes to zoning regulations (specifically regarding parking). This indicates a potential opposition in overall sentiment, but not a direct engagement with the specific arguments presented in the talking points.\n\nGiven this analysis, the testimony cannot be classified as having high similarity to the talking points, supporting them, or being in direct opposition to them. Instead, it appears to be addressing different aspects of the housing affordability issue without engaging with the specific policy proposals outlined in the talking points.",
+        "similarity": "NOT_SIMILAR"
+    }
+}

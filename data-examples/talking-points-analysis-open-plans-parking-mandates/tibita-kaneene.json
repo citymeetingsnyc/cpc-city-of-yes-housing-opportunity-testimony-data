@@ -1,0 +1,32 @@
+{
+    "testimony": {
+        "name": "Tibita Kaneene",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/tibita-kaneene-from-manhattan-community-board-7-on",
+        "start_time_in_seconds": 27158.594,
+        "end_time_in_seconds": 27339.496,
+        "for_or_against": "For",
+        "borough": "Manhattan",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Manhattan Community Board 7"
+        ],
+        "key_points": [
+            "Strong support for City of Yes with some caveats and suggestions",
+            "Concerns about potential reduction in affordable units due to replacing voluntary inclusionary housing with UAP",
+            "Suggestion for 20% FAR credits for off-site preservation of affordable housing",
+            "Opposition to eliminating public hearings and review by elected officials",
+            "General approval of eliminating obstacles to quality housing developments in non-contextual zoning districts, but with community input",
+            "Support for conversion of nonresidential buildings to residences, with suggested 35-year age requirement",
+            "Approval of creating R11 and R12 district designations, subject to ULURP and mandatory 30% affordable housing",
+            "Disapproval of miscellaneous amendments without additional information",
+            "Disapproval of certain proposals for low-density districts",
+            "Overall support for City of Yes as it addresses the district's top need of affordable housing"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The testimony is from Manhattan Community Board 7, and they generally support the City of Yes proposal.\n2. The testimony focuses heavily on affordable housing, which is not a primary focus of the reference talking points.\n3. The testimony mentions several specific zoning and development issues, such as FAR credits, public hearings, and R11/R12 district designations.\n4. There is no direct mention of parking in the testimony, which is a major focus of the reference talking points.\n5. The testimony does not discuss climate change, transportation emissions, or incentivizing/disincentivizing driving.\n6. The testimony does not mention the impact of parking on housing affordability or neighborhood walkability.\n7. The overall tone of the testimony is supportive of increasing housing development and affordability, which aligns with some general principles of the reference talking points, but through different means.\n\nGiven this analysis, the testimony does not directly address or oppose the specific talking points provided in the reference. While both the testimony and the talking points are concerned with housing affordability and development, they approach these issues from different angles.",
+        "quotes": [],
+        "analysis": "The testimony from Manhattan Community Board 7 is largely focused on specific aspects of the City of Yes proposal related to zoning, affordable housing, and community input. While the overall goal of increasing housing affordability aligns with some of the broader intentions behind the reference talking points, the specific issues addressed in the testimony are quite different from those in the talking points.\n\nThe reference talking points primarily focus on parking mandates, their impact on housing affordability, climate change, and urban design. In contrast, the testimony does not mention parking at all. Instead, it discusses various zoning technicalities, FAR credits, and community review processes.\n\nThe testimony does express support for creating more affordable housing, which indirectly aligns with the talking points' concern about housing affordability. However, the methods and specific policies discussed are entirely different.\n\nGiven this analysis, the testimony cannot be classified as having high similarity to the talking points or being in direct opposition to them. While there is a shared concern for housing affordability, the specific focus and recommendations are so different that it would be inaccurate to say the testimony is actively supporting the talking points.",
+        "similarity": "NOT_SIMILAR"
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "testimony": {
+        "name": "Talya Schwartz",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/talya-schwartz-from-open-plans-on-removing-parking",
+        "start_time_in_seconds": 2585.3564,
+        "end_time_in_seconds": 2780.4536,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Open Plans"
+        ],
+        "key_points": [
+            "Support for removal of unnecessary parking mandates",
+            "Parking mandates increase housing costs significantly",
+            "For every 1.2 parking spaces constructed, one unit of housing is lost",
+            "Parking mandates can increase rent by an estimated 17%",
+            "Low-income households bear the brunt of additional costs from parking mandates despite owning fewer cars",
+            "Removal of parking mandates will help businesses grow and remove obstacles to the economy",
+            "In affordable developments, requiring parking spots raises total development costs by 12.5% to 25%",
+            "The cost to subsidize parking is more expensive for people in smaller and more affordable housing"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "1. The testimony focuses heavily on the economic impact of parking mandates, particularly on housing costs and development.\n2. The speaker provides detailed calculations and statistics to support their argument against parking mandates.\n3. The testimony aligns closely with several key points from the reference talking points, especially regarding the cost of parking spaces and its impact on housing affordability.\n4. While the testimony doesn't cover all aspects mentioned in the reference talking points (e.g., climate change, street safety), it strongly supports the main argument of removing parking mandates.\n5. The level of detail and specific figures used in the testimony suggest a high level of similarity to the reference talking points, possibly indicating coordination or shared sources of information.",
+        "quotes": [
+            {
+                "text": "By using the average square footage of a studio apartment about 500 square feet and average cost per square foot, we can estimate an average 500 Square Foot Apartment costs $187,500 to construct. Research estimates that sub grade parking structures required due to the land constraints in New York City can cost up to $150,000 per space.",
+                "reasoning": "This quote closely aligns with the reference talking point that states 'Building below-ground parking can reach an astounding $150,000 per space'. The testimony provides additional context by comparing it to the cost of constructing an apartment."
+            },
+            {
+                "text": "For every 1.2 spaces constructed today, one unit of housing is lost.",
+                "reasoning": "This quote is almost identical to the reference talking point that states 'For every 1.2 parking spaces constructed, we could instead pay for 1 studio apartment.' The similarity in wording and specific figures suggests a strong connection between the testimony and the talking points."
+            },
+            {
+                "text": "Research has shown that parking mandates have the potential to also increase rent by an estimated 17%.",
+                "reasoning": "This quote directly matches the reference talking point that states 'Building below-ground parking can reach an astounding $150,000 per space, increasing rents by an estimated 17%.' The use of the same percentage indicates a high level of similarity."
+            }
+        ],
+        "analysis": "The testimony shows a high level of similarity to the reference talking points, particularly in its focus on the economic impact of parking mandates on housing costs and development. The speaker provides detailed calculations and statistics that closely align with several key points from the reference talking points, especially regarding the cost of parking spaces and its impact on housing affordability.\n\nThe testimony strongly supports the main argument of removing parking mandates, which is a central theme in the reference talking points. While the testimony doesn't cover all aspects mentioned in the reference talking points (such as climate change or street safety), it goes into greater depth on the economic aspects, providing specific examples and calculations that support the same conclusions.\n\nThe level of detail and the use of specific figures that match those in the reference talking points (such as the $150,000 cost per parking space and the 17% potential rent increase) suggest a high level of similarity, possibly indicating coordination or shared sources of information between the speaker and the organization that provided the talking points.\n\nOverall, while the testimony focuses more narrowly on the economic impacts rather than covering all points in the reference document, its strong alignment with key economic arguments and use of identical statistics indicate a high similarity to the talking points.",
+        "similarity": "HIGH_SIMILARITY_TO_TALKING_POINTS"
+    }
+}

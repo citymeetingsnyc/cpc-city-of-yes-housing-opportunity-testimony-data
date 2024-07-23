@@ -1,0 +1,36 @@
+{
+    "testimony": {
+        "name": "Theresa Kaplan",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/theresa-kaplan-architect-and-prospect-heights",
+        "start_time_in_seconds": 42322.816,
+        "end_time_in_seconds": 42460.6,
+        "for_or_against": "For",
+        "borough": "Brooklyn",
+        "neighborhood": "Prospect Heights",
+        "stated_affiliations": [],
+        "key_points": [
+            "Support for City of Yes to increase housing affordability and availability",
+            "Personal struggle with rising rental prices in the neighborhood",
+            "Contrast between high investment in brownstone renovations and limited housing stock increase due to outdated zoning policies",
+            "Enthusiasm for transit-oriented development proposal",
+            "Benefits of allowing people to remain in their neighborhoods as housing needs change",
+            "Creating housing that fits residents rather than selecting residents who fit the housing",
+            "Fostering stable communities through diverse housing options"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "1. The testimony is from Theresa Kaplan, an architect and resident of Prospect Heights, Brooklyn.\n2. She supports the City of Yes for Housing Opportunity initiative.\n3. Her main points are:\n   - Current rental prices make it difficult to stay in her neighborhood.\n   - She sees a severe lack of housing across the city.\n   - She's excited about the transit-oriented development proposal.\n   - She believes the initiative will allow people to remain in their neighborhoods as their housing needs change.\n4. Comparing to the reference talking points:\n   - The testimony doesn't directly mention parking mandates or their removal.\n   - It doesn't discuss climate change or emissions.\n   - It doesn't mention specific costs related to parking construction.\n   - However, it does support the overall goal of increasing housing affordability and availability, which aligns with one of the reference talking points.\n   - The support for transit-oriented development indirectly aligns with the goal of reducing car dependence, though this isn't explicitly stated in the testimony.\n5. Overall, while the testimony supports the City of Yes initiative, it focuses on different aspects than those highlighted in the reference talking points.",
+        "quotes": [
+            {
+                "text": "City of Yes is a real proposal to address this severe lack of housing across the city.",
+                "reasoning": "This quote aligns with the reference talking point about increasing housing affordability and availability, though it doesn't specifically mention parking mandates as a cause."
+            },
+            {
+                "text": "I am particularly excited about the transit oriented development proposal. Which will make it feasible for New Yorkers to stay within their communities as their housing needs change.",
+                "reasoning": "While not directly addressing parking mandates, this quote supports the idea of reducing car dependence and promoting alternative transportation, which aligns with the spirit of several reference talking points."
+            }
+        ],
+        "analysis": "The testimony by Theresa Kaplan is generally supportive of the City of Yes for Housing Opportunity initiative, but it focuses on different aspects than those emphasized in the reference talking points. The testimony primarily discusses the need for more housing options and the benefits of transit-oriented development, while the reference talking points heavily emphasize the removal of parking mandates and their effects on housing affordability, climate change, and urban design.\n\nWhile there is some overlap in the overall goals (such as increasing housing affordability and availability), the specific arguments and focus areas are quite different. The testimony doesn't mention parking mandates, climate change, or the specific costs associated with parking construction, which are key elements of the reference talking points.\n\nThe support for transit-oriented development in the testimony could be seen as indirectly aligning with the goal of reducing car dependence, but this connection is not explicitly made in the testimony. The testimony focuses more on how transit-oriented development can allow people to remain in their communities as their housing needs change, rather than on reducing car usage or combating climate change.\n\nGiven these differences, while the testimony is supportive of the initiative, it cannot be said to have a high similarity to the specific talking points provided. It's more accurate to say that the testimony is supporting the broader goals of the initiative, but using different arguments and focusing on different aspects than those outlined in the reference talking points.",
+        "similarity": "SUPPORTING_TALKING_POINTS"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "testimony": {
+        "name": "John Woelfling",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/john-woelfling-principal-at-dattner-architects-on",
+        "start_time_in_seconds": 37283.766,
+        "end_time_in_seconds": 37468.31,
+        "for_or_against": "For",
+        "borough": "Brooklyn",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Dattner Architects",
+            "Member of Local Community Board"
+        ],
+        "key_points": [
+            "Current zoning resolution restricts housing production",
+            "The scale of the housing problem requires a big, complex solution",
+            "Personal experience of seeing a family living in a tent in Prospect Park",
+            "Encourages the commission to not exempt some communities from playing their part",
+            "Supports all portions of the City of Yes for Housing Opportunity proposal",
+            "Advocates for a democratic approach where everyone contributes to create a more stable housing supply"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, John Woelfling, is testifying in favor of the City of Yes for Housing Opportunity proposal.\n2. He has experience as an architect working on housing projects and is also a community board member.\n3. He mentions that his community board has come up with a resolution that is overly restrictive, believing they've \"done enough.\"\n4. The speaker supports all portions of the proposal, emphasizing its necessity due to the scale of the housing problem.\n5. He shares a personal anecdote about seeing a family living in a tent in Prospect Park, highlighting the urgency of the housing crisis.\n6. The speaker urges the commission not to exempt communities from participating, specifically mentioning not pulling out EDUs, parking, or UAP.\n7. He emphasizes the importance of everyone contributing to create a more democratic approach and stable housing supply.\n\nComparing this to the reference talking points:\n- The testimony doesn't directly mention many of the specific points about parking mandates.\n- However, the speaker's support for not pulling out parking from the proposal aligns with the general spirit of the talking points regarding parking reform.\n- The testimony focuses more on the overall need for housing and the importance of all communities participating, rather than specific policy details.\n- While not directly referencing the talking points, the testimony supports the same goal of increasing housing affordability and availability.",
+        "quotes": [
+            {
+                "text": "I would encourage the commission to not exempt some communities from playing their part, not pull out EDUs, not pull out the parking, not pull out UAP, because that will undermine the credibility and I think the approach of having everybody contribute a little bit.",
+                "reasoning": "This quote, while not directly using language from the talking points, supports the general idea of reforming parking regulations as part of a comprehensive approach to addressing housing issues. It aligns with the spirit of the talking points about parking reform being necessary for increasing housing affordability and availability."
+            }
+        ],
+        "analysis": "The testimony is generally supportive of the City of Yes for Housing Opportunity proposal, which includes parking reform as mentioned in the reference talking points. However, the testimony does not go into specific details about parking mandates or their effects on housing affordability, climate change, or urban design as outlined in the talking points. \n\nThe speaker's emphasis is more on the overall need for housing solutions and the importance of all communities participating in the proposed changes. While he mentions not pulling out parking from the proposal, he doesn't elaborate on the reasons behind this stance in the way the talking points do.\n\nThe testimony appears to be coming from a place of personal and professional experience in housing development and community involvement, rather than directly referencing or echoing the specific arguments provided in the talking points.\n\nOverall, while the testimony is supportive of the proposal that includes parking reform, it doesn't closely mirror the language or specific arguments of the provided talking points. It's more focused on the broader housing crisis and the need for comprehensive solutions.",
+        "similarity": "SUPPORTING_TALKING_POINTS"
+    }
+}

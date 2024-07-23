@@ -1,0 +1,33 @@
+{
+    "testimony": {
+        "name": "Jasmine Camparitas",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/jasmine-camparitas-resident-of-hollis-hills-queens",
+        "start_time_in_seconds": 34194.74,
+        "end_time_in_seconds": 34379.938,
+        "for_or_against": "Against",
+        "borough": "Queens",
+        "neighborhood": "Hollis Hills",
+        "stated_affiliations": [],
+        "key_points": [
+            "The proposal will destroy and eliminate low-density communities",
+            "It will replace owner-occupied housing with market-rate rental units",
+            "It will increase density without sufficient infrastructure",
+            "It will end enforcement of illegal apartments",
+            "It will negatively impact property values without benefiting the community",
+            "The environmental impact statement incorrectly assessed socioeconomic conditions and neighborhood character",
+            "The proposal will cause long-term New Yorkers to leave, changing neighborhood character",
+            "Low-density communities have fewer public transportation options and fewer police officers",
+            "The proposal benefits developers and real estate investors at the expense of current residents",
+            "There's no shortage of space in New York, but a shortage of affordable housing",
+            "The city should focus on converting underutilized existing city space into affordable housing",
+            "35 out of 59 community boards oppose the proposal",
+            "ADUs are not acceptable for the Hollis Hills neighborhood"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step in relation to the reference talking points:\n\n1. The testimony is strongly opposed to the City of Yes proposal, while the reference talking points are in favor of it.\n2. The testimony focuses on concerns about increased density, destruction of community character, and negative impacts on property values. These topics are not directly addressed in the reference talking points.\n3. The testimony mentions parking only briefly, stating that the proposal will \"separately address the parking mandate problems in more dense neighborhoods.\" This doesn't align with or directly oppose the detailed parking-related points in the reference talking points.\n4. The testimony argues that the proposal doesn't address affordable housing shortages, which is not a focus of the provided talking points.\n5. There are no direct quotes from the testimony that closely match or oppose specific language from the reference talking points.\n6. The overall tone and focus of the testimony are quite different from the reference talking points. The testimony is concerned with preserving low-density neighborhoods, while the talking points focus on the benefits of reducing parking mandates.",
+        "quotes": [],
+        "analysis": "The testimony and the reference talking points have very little in common. The testimony is strongly opposed to the City of Yes proposal, but it doesn't directly address most of the specific points made in the reference talking points.\n\nThe testimony focuses on concerns about increased density, changes to neighborhood character, and potential negative impacts on property values. These issues are not addressed in the reference talking points, which primarily discuss parking mandates and their effects on housing affordability, climate change, and urban design.\n\nWhile the testimony briefly mentions parking mandates, it does so in a way that neither supports nor directly opposes the specific arguments made in the reference talking points. The testimony suggests addressing parking mandate problems in denser neighborhoods without affecting lower-density areas, which is a different approach than the one advocated for in the talking points.\n\nThe testimony also raises concerns about affordable housing that are not addressed in the provided talking points.\n\nOverall, while the testimony is opposed to the City of Yes proposal, it doesn't engage with the specific arguments and points made in the reference talking points. The focus and concerns of the testimony are largely different from the focus of the talking points.",
+        "similarity": "NOT_SIMILAR"
+    }
+}
