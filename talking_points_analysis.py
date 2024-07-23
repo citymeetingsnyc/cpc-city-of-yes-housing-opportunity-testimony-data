@@ -147,7 +147,9 @@ REPORT_TEMPLATE = """
 {{ table_of_contents }}
 
 # Reference Talking Points
+```
 {{ reference_talking_points }}
+```
 
 # High Similarity To Talking Points
 {{ high_similarity_to_talking_points }}
