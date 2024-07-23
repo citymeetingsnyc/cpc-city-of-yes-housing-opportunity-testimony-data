@@ -1,0 +1,35 @@
+{
+    "testimony": {
+        "name": "Nicole Young",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/nicole-young-department-of-education-doe-teacher",
+        "start_time_in_seconds": 43974.758,
+        "end_time_in_seconds": 44157.08,
+        "for_or_against": "Against",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "New York City Teaching Collaborative"
+        ],
+        "key_points": [
+            "Opposes the City of Yes initiative",
+            "Advocates for affordable home ownership programs like Mitchell-Lama instead of luxury buildings with a small percentage of affordable units",
+            "Criticizes the idea that increased housing production automatically leads to affordable housing",
+            "Expresses concern about the ability of city employees (teachers, police officers, firefighters) to afford living in the city",
+            "Points out issues with existing affordable housing programs like Camden Plaza's privatization and RAD-PAC's rent increases",
+            "Highlights problems with developers not complying with public space requirements in exchange for tax abatements",
+            "Argues that the city cannot keep up with building inspections",
+            "Suggests that the housing crisis is due to high rent burdens and that legislative changes to prevent landlord abuses are needed rather than zoning changes"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "1. The testimony is given by Nicole Young, a DOE teacher who is opposed to the City of Yes proposal.\n2. The testimony focuses on affordable housing and home ownership, rather than parking issues.\n3. Young criticizes the idea that increasing housing production automatically leads to affordable housing.\n4. She mentions programs like Mittalama (Mitchell-Lama) and expresses concern about privatization and loopholes in affordable housing programs.\n5. The testimony does not directly address any of the specific points made in the reference talking points about parking mandates.\n6. Young briefly mentions that the housing crisis is due to high rent burdens, which is tangentially related to one of the talking points about parking increasing rents.\n7. Overall, the testimony is focused on different aspects of housing policy and does not engage with the parking-related issues central to the reference talking points.",
+        "quotes": [
+            {
+                "text": "The housing crisis is definitely due to the high rent burdens.",
+                "reasoning": "This quote is loosely related to the talking point about parking construction increasing rents. However, the testimony does not directly link high rent burdens to parking mandates or construction costs."
+            }
+        ],
+        "analysis": "The testimony by Nicole Young is largely not similar to the reference talking points provided. While both the testimony and the talking points address housing issues in New York City, they focus on different aspects of the problem and propose different solutions.\n\nThe reference talking points primarily discuss parking mandates and their impact on housing affordability, climate change, and urban design. They argue for removing parking minimums as a way to reduce construction costs, lower rents, and create more housing opportunities.\n\nIn contrast, Young's testimony focuses on affordable housing programs, home ownership opportunities, and criticizes the City of Yes proposal for potentially leading to more luxury housing rather than truly affordable options. She mentions specific programs like Mitchell-Lama and discusses issues like privatization and loopholes in existing affordable housing initiatives.\n\nThe only slight overlap between the testimony and the talking points is the mention of high rent burdens. However, Young does not link this to parking mandates or construction costs as the talking points do. Instead, she suggests looking at legislation to prevent landlord abuses.\n\nYoung's testimony does not engage with any of the specific arguments made in the talking points about parking, transportation, climate change, or urban design. Her opposition to the City of Yes proposal seems to stem from different concerns than those addressed in the reference talking points.\n\nGiven this analysis, the testimony cannot be classified as having high similarity to the talking points, supporting them, or being in direct opposition to them. Instead, it addresses different aspects of housing policy without engaging with the specific issues raised in the reference talking points.",
+        "similarity": "NOT_SIMILAR"
+    }
+}

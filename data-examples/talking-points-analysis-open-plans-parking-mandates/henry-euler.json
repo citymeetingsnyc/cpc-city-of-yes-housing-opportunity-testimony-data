@@ -1,0 +1,31 @@
+{
+    "testimony": {
+        "name": "Henry Euler",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/henry-euler-president-of-auburndale-improvement",
+        "start_time_in_seconds": 10345.422,
+        "end_time_in_seconds": 10530.734,
+        "for_or_against": "Against",
+        "borough": "Queens",
+        "neighborhood": "Auburndale",
+        "stated_affiliations": [
+            "Auburndale Improvement Association"
+        ],
+        "key_points": [
+            "The proposal hasn't been completely vetted and more work is needed",
+            "Opposition to transit-oriented development, especially in low-density and single-family zoning areas",
+            "Concern about unfairness to homeowners who have invested in their properties",
+            "Against ADUs in basements, cellars, and garages due to safety concerns",
+            "Preference for expanding existing homes rather than creating ADUs",
+            "Criticism of the 'one size fits all' approach",
+            "Concern about deregulation in single-family and low-density zones",
+            "Lack of clarity on what 'a little more housing' means",
+            "Potential impacts on infrastructure and school enrollments not addressed"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Henry Euler, is against the City of Yes Housing Opportunity proposal.\n2. He specifically mentions opposition to transit-oriented development, which is not directly addressed in the reference talking points.\n3. He expresses concern about the impact on low-density and single-family zoning areas, which is not directly addressed in the talking points.\n4. The speaker mentions ADUs (Accessory Dwelling Units) and concerns about basement, cellar, and garage conversions, which are not mentioned in the talking points.\n5. He criticizes the proposal as having a \"one size fits all mentality\" and being a \"deregulation proposal,\" which doesn't align with the specific points in the reference talking points.\n6. The testimony does not mention parking regulations, which is a major focus of the reference talking points.\n7. The speaker raises concerns about infrastructure and school enrollments, which are not addressed in the talking points.\n\nOverall, the testimony seems to be focusing on different aspects of the City of Yes Housing Opportunity proposal than what is covered in the reference talking points. The main overlap is the general opposition to the proposal, but for different reasons than those addressed in the talking points.\n  ",
+        "quotes": [],
+        "analysis": "The testimony provided by Henry Euler shows very little similarity to the reference talking points. While Euler is opposing the City of Yes for Housing Opportunity proposal, his reasons and focus areas are entirely different from those mentioned in the reference talking points.\n\nThe reference talking points primarily focus on parking regulations, their impact on housing affordability, climate change, and urban planning. In contrast, Euler's testimony centers on concerns about transit-oriented development, impacts on low-density neighborhoods, ADUs, and infrastructure concerns.\n\nEuler does not mention parking regulations, climate change, or any of the specific benefits of reducing parking mandates that are outlined in the talking points. His opposition seems to stem from a desire to preserve existing neighborhood characteristics and concerns about overcrowding, rather than the car-centric vs. transit-oriented development debate that the talking points address.\n\nThe lack of overlap in specific issues, arguments, or language between the testimony and the reference talking points suggests that Euler is not using or directly responding to these particular talking points in his testimony. Instead, he appears to be addressing different aspects of the proposal that are important to his organization and constituents.\n  ",
+        "similarity": "NOT_SIMILAR"
+    }
+}

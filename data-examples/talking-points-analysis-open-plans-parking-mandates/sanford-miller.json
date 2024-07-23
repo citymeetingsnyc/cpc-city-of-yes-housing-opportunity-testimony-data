@@ -1,0 +1,42 @@
+{
+    "testimony": {
+        "name": "Sanford Miller",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/sanford-miller-from-manhattan-community-board-4-on",
+        "start_time_in_seconds": 46215.656,
+        "end_time_in_seconds": 46403.12,
+        "for_or_against": "For",
+        "borough": "Manhattan",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Manhattan Community Board 4",
+            "Health care team"
+        ],
+        "key_points": [
+            "Concerned about rising rental costs in the city",
+            "Supports increasing housing supply across the city (both market-rate and affordable)",
+            "Supports dropping parking requirements to reduce housing costs and increase housing production",
+            "Endorses the UAP (Unified Affordable Housing Program) as a nuanced approach to increase affordable housing in high-density districts",
+            "Appreciates how UAP preserves special districts while allowing for 20% additional density",
+            "Impressed with the presentation and execution of UAP mapping across the city"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "1. The testimony mentions support for dropping parking requirements, which aligns with several of the reference talking points.\n2. The speaker specifically mentions the high cost of building parking ($67,000 per spot), which is similar to the reference point about parking costs ($150,000 per space).\n3. The testimony discusses how parking mandates increase housing costs and force people to pay for parking they don't use, which aligns with the talking points about parking mandates increasing rents and prioritizing car owners.\n4. The speaker doesn't mention climate change, street safety, or other cities that have implemented similar policies, which are discussed in the talking points.\n5. The testimony focuses more on other aspects of the proposal (like UAP) that aren't mentioned in the talking points.\n6. Overall, while there is some alignment on parking issues, the testimony covers a broader range of topics and doesn't go into as much detail on parking as the talking points do.",
+        "quotes": [
+            {
+                "text": "Want to talk about the dropping of parking requirements is something I'd probably support, both from a trended perspective and from a housing perspective.",
+                "reasoning": "This quote directly aligns with the talking points' emphasis on reducing parking mandates."
+            },
+            {
+                "text": "As I think other people have mentioned, it costs $67,000, I believe, with the estimate. It's built apart from vitamin Hannon, but it's astronomical.",
+                "reasoning": "This quote is similar to the talking point mentioning the high cost of parking construction, though the exact figures differ."
+            },
+            {
+                "text": "And surely does. Both prevent housing from being built and increase the cost of housing that is built. And parking mandates require people to pay for housing or taking parking that they're not even using.",
+                "reasoning": "This aligns with the talking points about parking mandates increasing housing costs and forcing people to pay for unnecessary parking."
+            }
+        ],
+        "analysis": "The testimony shows some similarity to the reference talking points, particularly in its support for dropping parking requirements. The speaker acknowledges the high cost of building parking and how it affects housing affordability, which aligns with several of the talking points. However, the testimony doesn't go into as much detail on the parking issue as the talking points do, and it doesn't touch on many of the other arguments presented in the talking points, such as climate change, street safety, or examples from other cities.\n\nThe testimony also covers other aspects of the \"City of Yes for Housing Opportunity\" proposal that aren't mentioned in the talking points, such as the UAP (Uplift Action Plan). This indicates that while the speaker supports the parking reform, it's just one part of their overall support for the proposal.\n\nThe level of similarity is notable but not extremely high. The testimony supports the same general direction as the talking points regarding parking reform, but it doesn't use the same level of detail or cover all the same arguments. It's possible that the speaker is familiar with some of the arguments in the talking points, but they're presenting their own perspective rather than directly referencing a prepared set of points.",
+        "similarity": "SUPPORTING_TALKING_POINTS"
+    }
+}

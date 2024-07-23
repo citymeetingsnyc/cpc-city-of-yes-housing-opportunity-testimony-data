@@ -1,0 +1,43 @@
+{
+    "testimony": {
+        "name": "Meta Brunzema",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/meta-brunzema-from-the-collective-for-community",
+        "start_time_in_seconds": 8432.573,
+        "end_time_in_seconds": 8624.033,
+        "for_or_against": "Against",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Collective for Community, Culture, and Environment, LLC"
+        ],
+        "key_points": [
+            "Appreciates the goal of affordable housing but cannot endorse current proposals without modifications",
+            "Zoning changes are too numerous to be adequately reviewed as a whole",
+            "Lack of affordability requirements in the proposal",
+            "Increased supply is needed for low-income housing, not luxury housing",
+            "Universal affordability preference is unpredictable and voluntary",
+            "Proposal neglects local context beyond zoning density",
+            "Concerns about reduced rear and side yards, lot sizes, and FAR increases in low-density districts",
+            "Worries about loss of trees and permeability in medium to high-density districts",
+            "Elimination of public review for many zoning changes",
+            "Issues with campus development changes reducing open space and potentially causing displacement",
+            "Agrees with increased housing density in town centers and transit-oriented districts, but notes lack of affordability requirements",
+            "Concerns about allowing R5 density in R1 and R2 districts",
+            "Supports allowing accessory dwelling units but worried about increased lot coverage",
+            "Suggests that expanded transfer of air rights from landmark buildings should include affordable housing requirements",
+            "Adaptive reuse changes are potentially positive but lack affordability requirements",
+            "Reducing parking is commendable but must consider limitations of on-street parking and mass transit accessibility"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The testimony acknowledges the goal of increasing affordable housing but expresses concerns about the current proposal.\n\n2. It mentions reduced parking mandates, which is a key point in the reference talking points.\n\n3. The testimony agrees that reducing parking is commendable but raises concerns about the impact on low-income neighborhoods without adequate mass transit.\n\n4. The testimony doesn't directly address many of the specific points made in the reference talking points about parking, such as the cost of building parking, climate impact, or examples from other cities.\n\n5. The testimony focuses more on other aspects of the zoning changes, such as affordability requirements, density changes, and impact on local context.\n\n6. While the testimony touches on the parking issue, it doesn't seem to be using similar language or arguments as the reference talking points.\n\n7. The overall tone of the testimony is cautious about the proposed changes, while the reference talking points are more strongly in favor of reducing parking mandates.",
+        "quotes": [
+            {
+                "text": "Finally, while reducing parking is commendable, eliminating parking mandates must consider the limitations of on street parking As it is voluntary, parking may be included in market rate developments. However, without adequate mass transit in low income neighborhoods, residents may need to rely on car services.",
+                "reasoning": "This quote acknowledges the reduction of parking mandates, which is a central theme in the reference talking points. However, it raises concerns about the impact on low-income neighborhoods, which is not addressed in the talking points. The testimony takes a more cautious approach, while the talking points are more enthusiastically in favor of reducing parking mandates."
+            }
+        ],
+        "analysis": "The testimony shows some awareness of the parking mandate issue, which is a key focus of the reference talking points. However, the similarity is limited, and the approach is quite different. \n\nThe testimony acknowledges that reducing parking is \"commendable\" but immediately raises concerns about the impact on low-income neighborhoods and the need for adequate mass transit. This perspective is not present in the reference talking points, which focus more on the benefits of reducing parking mandates.\n\nThe reference talking points provide detailed arguments about why reducing parking mandates is beneficial, including affordability, climate impact, and examples from other cities. The testimony doesn't engage with these specific points, instead focusing on a broader range of zoning issues.\n\nWhile both the testimony and the talking points discuss parking, they do so from different perspectives and with different emphases. The testimony is more cautious and considers potential negative impacts, while the talking points are strongly in favor of reducing parking mandates.\n\nOverall, while there is some overlap in the topic of parking mandates, the testimony does not seem to be closely aligned with or directly referencing the provided talking points. The testimony appears to be independently formulated, focusing on a broader range of issues related to the zoning changes.",
+        "similarity": "NOT_SIMILAR"
+    }
+}

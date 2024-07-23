@@ -1,0 +1,37 @@
+{
+    "testimony": {
+        "name": "Jody Corry",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/jody-corry-resident-of-glendale-queens-on",
+        "start_time_in_seconds": 21926.844,
+        "end_time_in_seconds": 22101.406,
+        "for_or_against": "Against",
+        "borough": "Queens",
+        "neighborhood": "Glendale",
+        "stated_affiliations": [],
+        "key_points": [
+            "The City of Yes initiative is wrong and will hurt innocent people",
+            "Glendale is a beautiful middle-class community with a strong sense of community",
+            "The quality of life in the neighborhood has been declining",
+            "The initiative will lead to overcrowding, loss of neighborhood character, and infrastructure problems",
+            "The city should focus on converting empty office buildings in Manhattan into apartments instead",
+            "The initiative is an assault on homeowners who have worked hard for their homes",
+            "The proposal is not equitable and will disrupt the lives of millions of people",
+            "Concerns about increased crime and safety issues in the neighborhood"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Jody Corry, is strongly opposed to the \"City of Yes\" proposal.\n2. She emphasizes the current character of her neighborhood (Glendale, Queens), describing it as a beautiful middle-class community with tree-lined streets and a sense of community.\n3. Corry expresses concerns about potential changes to her neighborhood, including overcrowding, loss of parking, increased crime, and infrastructure strain.\n4. She mentions issues like crime and illegal immigration, which are not directly related to the zoning proposal.\n5. The speaker suggests converting empty office spaces in Manhattan into apartments as an alternative solution.\n6. There is no direct mention or reference to parking mandates or their effects on housing affordability, which is a key point in the reference talking points.\n7. The testimony does not engage with any of the specific arguments made in the reference talking points about parking, climate change, or transportation.\n8. The overall tone and content of the testimony are in opposition to change and development in the neighborhood, which is contrary to the spirit of the reference talking points.\n",
+        "quotes": [
+            {
+                "text": "My once quiet beautiful neighborhood will become filled with apartment buildings, rented out basements, rented out garages, stores on each corner, super overcrowded schools, nowhere to park, It will become dirty, filthy, riddled with crime, just like everywhere else this was trying.",
+                "reasoning": "This quote expresses concerns about increased density and loss of parking, which is somewhat related to the talking points about parking mandates. However, the speaker's perspective is opposite to the talking points, as she views these changes negatively."
+            },
+            {
+                "text": "Invent, convert the empty office space into apartments. You can create many, many new wonderful homes. Wouldn't that be a practical solution without disrupting lives of millions of people?",
+                "reasoning": "While not directly related to the talking points, this quote suggests an alternative solution to the housing problem, which indirectly addresses the issue of housing affordability mentioned in the talking points. However, it proposes a different approach than the one advocated in the talking points."
+            }
+        ],
+        "analysis": "The testimony by Jody Corry is largely not similar to the reference talking points provided. While the testimony does touch on some issues related to housing and neighborhood character, it approaches these topics from a completely different perspective than the reference talking points.\n\nThe reference talking points focus on the benefits of removing parking mandates, such as increased housing affordability, improved street life, and environmental benefits. In contrast, Corry's testimony expresses strong opposition to any changes in her neighborhood, particularly those that might increase density or alter the existing character of the area.\n\nCorry does mention concerns about parking availability, which is related to the topic of parking mandates discussed in the talking points. However, her perspective is opposite to that of the talking points. While the talking points argue for reducing parking mandates to improve affordability and encourage alternative transportation, Corry sees potential loss of parking as a negative outcome.\n\nThe testimony does not engage with any of the specific arguments made in the reference talking points about the relationship between parking mandates and housing affordability, climate change, or transportation choices. Instead, it focuses on preserving the current neighborhood character and expresses concerns about overcrowding, crime, and infrastructure strain.\n\nOverall, while the testimony addresses the broader topic of housing and development in New York City, it does not align with or directly oppose the specific arguments made in the reference talking points. The testimony represents a different set of concerns and priorities than those outlined in the talking points.",
+        "similarity": "NOT_SIMILAR"
+    }
+}

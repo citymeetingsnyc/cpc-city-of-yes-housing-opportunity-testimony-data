@@ -1,0 +1,43 @@
+{
+    "testimony": {
+        "name": "Mark Ginsberg",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/mark-ginsberg-president-of-citizens-housing",
+        "start_time_in_seconds": 17832.256,
+        "end_time_in_seconds": 18018.695,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Citizens Housing Planning Council",
+            "Curtis + Ginsberg Architects"
+        ],
+        "key_points": [
+            "Strong support for the proposed citywide text amendment",
+            "The changes would be the biggest and most important set of zoning reform since 1961",
+            "Essential step to address New York City's affordable housing crisis",
+            "Expansion of Ayers to UAP creates wider range of affordable housing options",
+            "Prioritizes housing needs over vehicle storage",
+            "Reducing parking requirements can lower housing costs",
+            "Importance of allowing more housing in every neighborhood",
+            "Need for simplicity in regulations to avoid delays and limitations",
+            "Maintaining flexibility for future unanticipated changes",
+            "Ensuring existing projects can be completed without disruption",
+            "Urges approval of the proposed amendment with only necessary changes"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Mark Ginsberg, strongly supports the proposed citywide text amendment.\n2. He represents the Citizens Housing Planning Council (CHPC) and has experience in affordable housing design.\n3. The testimony focuses on zoning reform to advance housing, which aligns with some of the reference talking points.\n4. Ginsberg specifically mentions changes related to parking requirements, which is a major theme in the reference talking points.\n5. He states that the cost of structured parking can add up to $100,000 to an apartment's cost, which is similar to the reference point mentioning $150,000 per space.\n6. The testimony supports allowing flexibility in parking based on the building's program, which aligns with the reference points about reducing parking mandates.\n7. However, the testimony doesn't directly address many of the specific points made in the reference talking points, such as climate change, walkability, or comparisons to other cities.\n8. The testimony is broader in scope, covering other aspects of the zoning reform beyond just parking.\n\nGiven this analysis, the testimony supports some of the key ideas in the reference talking points, particularly regarding parking, but doesn't closely mirror the language or cover all the specific arguments presented in the talking points.",
+        "quotes": [
+            {
+                "text": "The cost of a structured parking space can add as much as $100,000 to the cost of an apartment.",
+                "reasoning": "This quote is similar to the reference talking point that mentions the cost of below-ground parking reaching $150,000 per space and increasing rents. Both highlight the significant cost impact of parking requirements on housing."
+            },
+            {
+                "text": "Under the proposal, we can design buildings with an amount of parking that makes sense based on the building's program that rather than making a build program workaround zoning.",
+                "reasoning": "This quote aligns with the reference talking points about allowing parking to meet the needs of each neighborhood and creating parking choice, rather than following arbitrary numbers set by planners."
+            }
+        ],
+        "analysis": "The testimony is generally supportive of the zoning reform proposal, including changes to parking requirements, which is a significant focus of the reference talking points. However, the testimony covers a broader range of topics related to the zoning reform and doesn't specifically address many of the detailed arguments presented in the reference talking points.\n\nThe speaker's perspective aligns with the general idea of reducing parking mandates to improve housing affordability and allow for more flexible development. This is evident in the quotes about the cost impact of parking and the desire for more sensible parking requirements based on actual needs.\n\nHowever, the testimony doesn't delve into many of the specific arguments made in the reference talking points, such as the environmental impact of parking mandates, walkability issues, comparisons to other cities, or the broader implications for public transportation and urban planning.\n\nThe testimony is more focused on the overall benefits of the zoning reform for housing development and affordability, with parking being just one aspect of the changes discussed. It doesn't oppose any of the points made in the reference talking points, but it also doesn't explicitly support many of the specific arguments presented there.\n\nGiven this analysis, the testimony can be categorized as supporting the general direction of the talking points, particularly regarding parking reform, but it doesn't closely mirror the specific language, arguments, or comprehensive approach of the reference talking points.",
+        "similarity": "SUPPORTING_TALKING_POINTS"
+    }
+}

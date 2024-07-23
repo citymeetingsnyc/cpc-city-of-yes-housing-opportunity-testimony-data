@@ -1,0 +1,32 @@
+{
+    "testimony": {
+        "name": "Claudia Valentino",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/claudia-valentino-president-of-forest-hills",
+        "start_time_in_seconds": 16816.38,
+        "end_time_in_seconds": 17004.633,
+        "for_or_against": "Against",
+        "borough": "Queens",
+        "neighborhood": "Forest Hills",
+        "stated_affiliations": [
+            "Forest Hills Community And Civic Association"
+        ],
+        "key_points": [
+            "Neighborhoods have unique characters that should be preserved",
+            "Community review should remain with communities",
+            "Downzoning was done to protect infrastructure and prevent inappropriate construction",
+            "ADUs are not suitable for small lot sizes in NYC",
+            "Transit zones with larger buildings looming over houses are not acceptable",
+            "Adding stories to mom and pop stores is not workable",
+            "Concerns about gentrification based on Columbia University study",
+            "The language used in the initiative is divisive",
+            "The city is wrongly blaming communities for the housing crisis",
+            "A new plan is needed instead of City of Yes"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "\n1. The testimony focuses primarily on concerns about neighborhood character, community review, and opposition to ADUs and increased density.\n\n2. The speaker mentions issues with transit zones and adding stories to mom-and-pop stores, which are tangentially related to some of the reference talking points about parking and development.\n\n3. There is no direct mention of parking mandates or their effects on housing affordability, which is a central theme in the reference talking points.\n\n4. The testimony does not address climate change, emissions, or transportation issues, which are key points in the reference talking points.\n\n5. The speaker expresses concerns about gentrification, which is not directly addressed in the reference talking points.\n\n6. The testimony seems to be generally opposed to the City of Yes proposal, while the reference talking points are in favor of reforms.\n\n7. There are no specific quotes that directly align with or oppose the reference talking points.\n",
+        "quotes": [],
+        "analysis": "The testimony provided by Claudia Valentino, President of the Forest Hills Community And Civic Association, shows little similarity to the reference talking points. The testimony primarily focuses on preserving neighborhood character, opposing increased density, and expressing concerns about ADUs and transit zones. These topics are not directly addressed in the reference talking points, which mainly discuss parking mandates and their effects on housing affordability, climate change, and transportation.\n\nThe speaker's concerns about community review, inappropriate construction, and gentrification are not addressed in the reference talking points. While both the testimony and the talking points discuss urban planning and development, they approach the topics from different perspectives and with different priorities.\n\nThe testimony does not specifically mention parking mandates or their effects on housing affordability and availability, which are central themes in the reference talking points. Additionally, the speaker does not address climate change, emissions, or transportation issues, which are key points in the reference talking points.\n\nOverall, the testimony appears to be in opposition to the City of Yes proposal, while the reference talking points are in favor of reforms. However, the testimony does not directly oppose the specific points made in the reference talking points; instead, it focuses on different aspects of urban planning and community concerns.",
+        "similarity": "NOT_SIMILAR"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "testimony": {
+        "name": "Carol Rosenthal",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/carol-rosenthal-from-fried-frank-law-firm-on",
+        "start_time_in_seconds": 31929.379,
+        "end_time_in_seconds": 32085.049,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Fried Frank Law Firm",
+            "REBNY Zoning and Design Committee"
+        ],
+        "key_points": [
+            "Support for residential conversion regulations in the City of Yes text",
+            "The proposed text eliminates most zoning issues for commercial to residential conversions",
+            "The text broadens the geographical area for special conversion rules",
+            "Allows buildings up to 1990 to use the conversion rules",
+            "Allows existing building floor area and bulk for conversions",
+            "Allows conversions to supportive housing and dormitories",
+            "Eliminates or reduces the dwelling unit factor",
+            "New tax benefit (AHHC) aligns with conversion rules, requiring 25% affordable units",
+            "Suggests clarification on elimination of required parking for conversions",
+            "Supports the opportunity to convert underutilized space to needed housing"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The testimony focuses primarily on residential conversion regulations within the proposed \"City of Yes\" text.\n2. The speaker, Carol Rosenthal, represents the Fried Frank Law Firm and is speaking for the Remedy zoning and design committee.\n3. The testimony discusses how the proposed text would eliminate zoning issues for converting commercial buildings to residential use.\n4. There is a brief mention of parking requirements, specifically asking for clarification on the elimination of required parking for conversions.\n5. The testimony does not directly address most of the points raised in the reference talking points, which primarily focus on parking mandates and their impacts.\n6. The only overlap with the reference talking points is the brief mention of parking requirements for conversions.\n\nGiven this analysis, the testimony is not closely related to the reference talking points. While there is a minor mention of parking, it does not align with or oppose the specific arguments made in the reference talking points about parking mandates and their impacts.",
+        "quotes": [
+            {
+                "text": "The revenue committee asks that the new tax clarify the elimination of required parking for conversions, especially in buildings where there had been existing accessory commercial park parking. In order to put conversions on par with the parking requirements for residential new construction.",
+                "reasoning": "This quote mentions parking requirements, which is related to the reference talking points about parking mandates. However, the context and focus are different. The testimony is specifically concerned with clarifying parking requirements for conversions, while the talking points discuss broader issues related to parking mandates."
+            }
+        ],
+        "analysis": "The testimony is largely unrelated to the reference talking points. While both mention parking, the contexts and focuses are quite different. The testimony primarily discusses residential conversion regulations and only briefly mentions parking in the context of conversions. It does not address the broader issues of parking mandates, their impacts on housing affordability, climate change, or urban design that are central to the reference talking points.\n\nThe testimony is supportive of the proposed \"City of Yes\" text, particularly its provisions for facilitating residential conversions. However, it does not engage with the specific arguments about parking mandates presented in the reference talking points. The speaker's request for clarification on parking requirements for conversions is not framed in terms of supporting or opposing parking mandates in general.\n\nGiven this analysis, the testimony is best classified as NOT_SIMILAR to the reference talking points. While there is a minor overlap in mentioning parking, the overall focus, arguments, and context of the testimony are distinct from the talking points provided.",
+        "similarity": "NOT_SIMILAR"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "testimony": {
+        "name": "Micah Hunter",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/micah-hunter-from-nhp-foundation-on-city-of-yes",
+        "start_time_in_seconds": 22837.336,
+        "end_time_in_seconds": 23017.105,
+        "for_or_against": "For",
+        "borough": "Queens",
+        "neighborhood": "Laurelton",
+        "stated_affiliations": [
+            "NHP Foundation",
+            "HPD Housing Preservation Development",
+            "Administration of Children's Services"
+        ],
+        "key_points": [
+            "Personal experience of having to leave Bed-Stuy due to rising costs",
+            "Housing crisis and need for more affordable housing",
+            "Discrepancy between household growth and new housing units in NYC",
+            "Positive impact of affordable housing on families",
+            "Changing demographics affecting housing needs (e.g., baby boomers, workforce housing)",
+            "City of Yes for Housing Opportunity proposal as a step to address housing issues"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Micah Hunter, is from the NHP Foundation, a nonprofit focused on affordable housing.\n2. He shares his personal experience of having to move due to rising costs in his neighborhood.\n3. He mentions his professional background in housing and child services, emphasizing the positive impact of affordable housing on families.\n4. Hunter highlights the housing crisis in New York City, mentioning statistics about housing shortage.\n5. He discusses changing demographics and the need for affordable housing for various groups, including baby boomers and workforce housing.\n6. The speaker urges the Commission to support the City of Yes for Housing Opportunity proposal.\n7. He does not specifically mention parking mandates or any of the specific points from the reference talking points.\n\nThe testimony is focused on the general need for affordable housing and supports the proposal, but it doesn't directly address the specific issues mentioned in the reference talking points.",
+        "quotes": [],
+        "analysis": "The testimony by Micah Hunter is generally supportive of the City of Yes for Housing Opportunity proposal, but it does not directly reference or address the specific talking points provided in the reference.\n\nHunter's testimony focuses on the broader issue of affordable housing and the housing crisis in New York City. He speaks from both personal and professional experience, emphasizing the need for more affordable housing options for various demographics, including families, seniors, and workforce housing.\n\nWhile the reference talking points primarily discuss parking mandates and their impact on housing affordability, transportation, and urban planning, Hunter's testimony does not mention parking or transportation issues at all. He instead concentrates on the general need for more housing and the positive impacts of affordable housing on families and communities.\n\nThe testimony does align with the overall goal of increasing housing affordability and availability, which is mentioned in the reference talking points. However, it does not delve into the specific policy changes or reasoning provided in the talking points.\n\nGiven this analysis, the testimony can be classified as \"SUPPORTING_TALKING_POINTS\" in spirit, as it supports the overall goal of increasing housing affordability and availability. However, it does not use similar language, quotes, claims, or arguments as the reference talking points, nor does it directly address the specific issues raised in those points.",
+        "similarity": "SUPPORTING_TALKING_POINTS"
+    }
+}

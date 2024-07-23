@@ -1,0 +1,30 @@
+{
+    "testimony": {
+        "name": "Andrea Goldwyn",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/andrea-goldwyn-from-the-new-york-landmarks",
+        "start_time_in_seconds": 3401.3323,
+        "end_time_in_seconds": 3606.252,
+        "for_or_against": "Against",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "New York Landmarks Conservancy"
+        ],
+        "key_points": [
+            "Concerns about the rushed process and lack of meaningful public outreach",
+            "Opposition to removing ULURP requirements for many land use actions",
+            "Support for easing rules for converting commercial buildings to residential",
+            "Appreciation for new opportunities for landmarks to transfer unused development rights",
+            "Concern about potential impacts on older buildings and special districts",
+            "Worry about prioritizing new construction over green spaces and backyards",
+            "Skepticism about the proposal's ability to create affordable housing",
+            "Request for more time for residents to learn about the implications of the proposal"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Andrea Goldwyn from the New York Landmarks Conservancy, expresses significant concerns about the City of Yes for Housing Opportunity proposal.\n\n2. The testimony focuses on the process, content, and projected outcomes of the proposal, rather than specifically addressing parking issues mentioned in the reference talking points.\n\n3. The speaker criticizes the rushed nature of the proposal and lack of public engagement, which is not directly related to the parking-focused talking points.\n\n4. The testimony touches on environmental concerns, mentioning embodied carbon in construction, but this is not directly related to the parking issues in the talking points.\n\n5. The speaker discusses concerns about changes to special districts, impacts on older buildings, and green spaces, which are not addressed in the parking-focused talking points.\n\n6. There is no mention of parking mandates, car dependence, or transportation emissions in the testimony.\n\n7. The testimony expresses skepticism about the proposal's ability to create affordable housing, but does not relate this to parking issues as the talking points do.\n\n8. Overall, the testimony seems to be opposing the City of Yes for Housing Opportunity proposal, but not specifically addressing the parking-related issues mentioned in the reference talking points.",
+        "quotes": [],
+        "analysis": "The testimony by Andrea Goldwyn from the New York Landmarks Conservancy does not appear to be directly related to the reference talking points provided. The testimony focuses on broader concerns about the City of Yes for Housing Opportunity proposal, including the process, potential impacts on historic buildings and neighborhoods, and environmental considerations related to construction. \n\nThe reference talking points, on the other hand, are specifically focused on parking mandates, their impact on housing affordability, and the relationship between parking and transportation emissions. The testimony does not address these specific issues.\n\nWhile the testimony is generally critical of the proposal, it does not directly oppose the specific points made in the reference talking points about parking. Instead, it raises different concerns about the proposal's impact on neighborhoods, historic preservation, and green spaces.\n\nGiven this analysis, the testimony cannot be classified as having high similarity to the talking points, supporting the talking points, or being in direct opposition to them. The testimony is addressing different aspects of the City of Yes for Housing Opportunity proposal than those covered in the reference talking points.",
+        "similarity": "NOT_SIMILAR"
+    }
+}

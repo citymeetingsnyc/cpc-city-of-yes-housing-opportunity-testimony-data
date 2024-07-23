@@ -1,0 +1,33 @@
+{
+    "testimony": {
+        "name": "Ari S",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/ari-s-structural-engineer-on-concerns-about-city",
+        "start_time_in_seconds": 52708.902,
+        "end_time_in_seconds": 52893.117,
+        "for_or_against": "Against",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [],
+        "key_points": [
+            "The proposal does not guarantee affordable housing",
+            "Neighborhoods with increased development have become less affordable",
+            "Neighborhoods with individual homeowners and 2-3 family homes are more affordable",
+            "Concerns about one-size-fits-all approach without considering neighborhood-specific needs",
+            "Lack of access to public transportation in some neighborhoods leads to parking issues",
+            "Concerns about reduction in green spaces, sunlight, and shared community spaces",
+            "Need for infrastructure and resource updates before introducing new housing",
+            "Suggestion to explore other means of addressing housing affordability, such as not increasing rent stabilization"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Ari S, is a structural engineer with experience in existing buildings and adaptive reuse in New York.\n\n2. Ari expresses concern that the proposal doesn't guarantee affordable housing, which is not directly addressed in the reference talking points.\n\n3. Ari mentions that neighborhoods with increased development (Williamsburg, Bedstuy, Long Island City) have become unaffordable, contrary to the intended effect.\n\n4. The speaker advocates for studying impacts on a neighborhood-by-neighborhood basis, which is not mentioned in the talking points.\n\n5. Ari discusses parking issues in their neighborhood, mentioning that new buildings have eliminated parking and that parking spaces in new buildings are very expensive ($90,000).\n\n6. The testimony touches on parking, which is a major focus of the reference talking points. However, Ari's perspective is different from the talking points. While the talking points argue for reducing parking mandates, Ari sees a need for parking in their neighborhood.\n\n7. Ari mentions concerns about infrastructure, resources, and green spaces, which are not directly addressed in the talking points.\n\n8. The testimony doesn't align with or support any of the specific arguments made in the reference talking points about parking reform, affordability, or environmental benefits.\n\n9. While both the testimony and the talking points discuss housing affordability, they approach it from very different angles. The talking points suggest that reducing parking mandates will increase affordability, while Ari's experience suggests that increased development has led to less affordability.",
+        "quotes": [
+            {
+                "text": "I live in a neighborhood where most people do not have access to the train. So A lot of the buildings that have gone up have eliminated parking, and people in my neighborhood drive around for 1 hour trying to find parking and a parking space in some of these new buildings. Sells for $90,000.",
+                "reasoning": "This quote is relevant to the talking points about parking, but it presents a contrasting view. While the talking points argue for reducing parking mandates, this quote suggests that in some neighborhoods, there is still a high demand for parking. It challenges the idea that developers will 'build the number of parking spaces that will meet demand' as suggested in the talking points."
+            }
+        ],
+        "analysis": "The testimony is largely not similar to the reference talking points. While both address issues of housing affordability and parking, they approach these topics from very different perspectives. \n\nThe testimony expresses skepticism about the proposal's ability to create affordable housing, based on the speaker's lived experience in New York. This contrasts with the talking points, which argue that reducing parking mandates will increase affordability.\n\nOn the topic of parking, which is a major focus of the talking points, the testimony presents a contrasting view. While the talking points advocate for reducing parking mandates to increase affordability and promote environmental benefits, the testimony describes a neighborhood where parking is in high demand and new developments have eliminated parking, causing difficulties for residents.\n\nThe testimony also raises concerns about infrastructure, resources, and green spaces, which are not addressed in the talking points.\n\nOverall, while the testimony touches on some of the same broad topics as the talking points (housing affordability and parking), it does not support or echo the specific arguments made in the talking points. Instead, it presents a different perspective based on personal experience and observation of specific neighborhoods in New York City.",
+        "similarity": "NOT_SIMILAR"
+    }
+}

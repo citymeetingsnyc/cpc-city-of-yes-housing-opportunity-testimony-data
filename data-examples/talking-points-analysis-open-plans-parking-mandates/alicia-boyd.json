@@ -1,0 +1,27 @@
+{
+    "testimony": {
+        "name": "Alicia Boyd",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/alicia-boyd-crown-heights-resident-on-city",
+        "start_time_in_seconds": 19468.314,
+        "end_time_in_seconds": 19671.688,
+        "for_or_against": "Against",
+        "borough": "Brooklyn",
+        "neighborhood": "Crown Heights",
+        "stated_affiliations": [],
+        "key_points": [
+            "The City Planning Commission doesn't consider the impact on children in development projects",
+            "Development near Brooklyn Botanic Gardens will negatively impact sunlight for a nearby playground",
+            "The Commission prioritizes development over affordable housing",
+            "The affordable housing being created is not truly affordable for the local community",
+            "The City Planning Commission consistently fails to protect the interests of local residents",
+            "The Commission approves 99% of applications, questioning its effectiveness",
+            "The development plans do not genuinely care about communities of color"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The testimony is primarily focused on concerns about affordable housing and development impact on communities of color.\n2. The speaker, Alicia Boyd, expresses frustration with the City Planning Commission's approval of development projects.\n3. She mentions specific issues like a playground potentially losing sunlight due to development near the Brooklyn Botanic Gardens.\n4. The speaker criticizes the commission for not truly providing affordable housing for lower-income communities.\n5. There is no direct mention of parking mandates, transportation, or climate change.\n6. The testimony does not use language or arguments similar to the reference talking points.\n7. While the testimony is critical of development and the planning commission, it's not specifically addressing the \"City of Yes for Housing Opportunity\" proposal or its parking-related aspects.",
+        "quotes": [],
+        "analysis": "The testimony provided by Alicia Boyd is not similar to the reference talking points about parking mandates and the \"City of Yes for Housing Opportunity\" proposal. The testimony focuses on broader issues of affordable housing, development impacts on communities of color, and criticism of the City Planning Commission's approval process. It does not address specific points about parking mandates, transportation, or climate change that are central to the reference talking points.\n\nWhile the testimony is critical of development and the planning commission, it does not directly oppose the specific points made in the reference talking points about parking mandates. Instead, it raises concerns about affordability and the impact of development on existing communities, particularly communities of color.\n\nThe lack of similarity between the testimony and the reference talking points suggests that the speaker may not be aware of or focused on the specific parking mandate reforms proposed in the \"City of Yes for Housing Opportunity\" initiative. The testimony appears to be addressing broader concerns about development and affordability in New York City.",
+        "similarity": "NOT_SIMILAR"
+    }
+}

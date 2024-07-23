@@ -1,0 +1,38 @@
+{
+    "testimony": {
+        "name": "Regina Myer",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/regina-myer-president-of-downtown-brooklyn",
+        "start_time_in_seconds": 31110.543,
+        "end_time_in_seconds": 31315.754,
+        "for_or_against": "For",
+        "borough": "Brooklyn",
+        "neighborhood": "Downtown Brooklyn",
+        "stated_affiliations": [
+            "Downtown Brooklyn Partnership"
+        ],
+        "key_points": [
+            "Strong support for City of Yes for Housing Opportunity zoning amendment",
+            "Downtown Brooklyn has added nearly 22,600 housing units with 77,100 more in pipeline",
+            "Support for revising height limitation rules in Downtown Brooklyn special district",
+            "Agreement with maintaining height limitations on south side of Schermerhorn Street for transition to low-rise Boerum Hill",
+            "Strong support for removing minimum parking requirements for new residential developments citywide",
+            "Reminder of successful 2012 reduction of parking requirements in Downtown Brooklyn",
+            "Support for office to residential conversion (not fully elaborated due to time constraints)"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. Regina Myer expresses strong support for the City Planning's proposal, \"City of Yes for Housing Opportunity\".\n2. She mentions that Downtown Brooklyn has added a significant number of housing units since 2004, with more in the pipeline.\n3. Myer emphasizes the need for citywide zoning updates to address the housing crisis.\n4. She supports specific zoning changes in Downtown Brooklyn, including revising height limitation rules and eliminating certain height restrictions.\n5. Myer strongly supports removing minimum parking requirements for new residential developments citywide.\n6. She mentions that Downtown Brooklyn already reduced parking requirements in 2012, resulting in more efficient development.\n\nNow, let's compare this to the reference talking points:\n1. The testimony directly aligns with the point about removing parking mandates.\n2. Myer's support for removing parking requirements is in line with the talking points about reducing construction costs and potentially increasing housing affordability.\n3. The testimony doesn't explicitly mention climate change, street safety, or public transportation prioritization.\n4. While the talking points go into detail about the negative impacts of parking mandates, the testimony simply expresses support for their removal without elaborating on the reasons.\n5. The testimony doesn't mention specific figures about parking costs or comparisons to studio apartment costs.\n6. There's no mention in the testimony of other cities that have implemented similar parking requirement removals.\n\nOverall, while the testimony strongly supports removing parking mandates, which is a key point in the reference talking points, it doesn't go into the same level of detail or cover all the aspects mentioned in the talking points.",
+        "quotes": [
+            {
+                "text": "We are strongly in support of removing removing the minimum parking requirements for new residential developments citywide to allow for more housing options and hopefully getting to lower construction costs.",
+                "reasoning": "This quote directly aligns with the reference talking points about removing parking mandates and the potential for lowering construction costs, which could lead to more affordable housing."
+            },
+            {
+                "text": "I also wanna note and remind you all that you did an incredible thing in 2012 when you reduced the parking requirement in downtown Brooklyn. By half. That was with community concurrence, and that did result in more efficient development.",
+                "reasoning": "While not directly quoting the reference talking points, this statement supports the idea that reducing parking requirements leads to more efficient development, which aligns with the overall message of the talking points."
+            }
+        ],
+        "analysis": "The testimony shows a moderate level of similarity to the reference talking points, primarily focusing on the removal of minimum parking requirements. While the testimony strongly supports this aspect of the proposal, it doesn't delve into many of the specific arguments and details provided in the reference talking points.\n\nThe testimony aligns with the talking points in recognizing that removing parking mandates can lead to more housing options and potentially lower construction costs. This is consistent with the reference talking points' emphasis on increasing housing affordability and availability.\n\nHowever, the testimony doesn't mention several key arguments from the talking points, such as:\n1. The impact on climate change and emissions\n2. The effect on street safety and walkability\n3. The prioritization of public transportation\n4. Specific cost comparisons between parking spaces and housing units\n5. Examples from other cities that have implemented similar changes\n\nThe testimony also focuses on other aspects of the zoning proposal that are not mentioned in the reference talking points, such as changes to height restrictions in specific areas of Downtown Brooklyn.\n\nWhile the testimony supports the removal of parking mandates, which is a central theme in the reference talking points, it does so from the perspective of a local organization focused on development in a specific area (Downtown Brooklyn) rather than presenting a comprehensive argument for citywide change as seen in the talking points.",
+        "similarity": "SUPPORTING_TALKING_POINTS"
+    }
+}

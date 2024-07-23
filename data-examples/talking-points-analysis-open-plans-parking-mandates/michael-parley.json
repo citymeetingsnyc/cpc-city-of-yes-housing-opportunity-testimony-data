@@ -1,0 +1,28 @@
+{
+    "testimony": {
+        "name": "Michael Parley",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/michael-parley-president-of-development-consulting",
+        "start_time_in_seconds": 24647.998,
+        "end_time_in_seconds": 24827.988,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Development Consulting Services"
+        ],
+        "key_points": [
+            "Supports overall goals of housing opportunity",
+            "Protests the lack of expansion for off-site affordable housing option",
+            "Opposes mandating affordable housing in 12-15 FAR zones of Midtown and Lower Manhattan Special Districts",
+            "Argues that mandating affordable housing in high-value areas is economically unfeasible",
+            "Suggests making the residential FAR a flat 12 in Midtown and Lower Manhattan",
+            "Urges the commission to reconsider aspects of the housing opportunity proposal"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "To analyze the similarity between the testimony and the reference talking points, let's break down the key points of the testimony and compare them to the talking points:\n\n1. The testimony primarily focuses on two main issues:\n   a) The off-site affordable housing option not being expanded\n   b) Changes to FAR regulations in Midtown and Lower Manhattan districts\n\n2. The testimony does not directly address any of the points mentioned in the reference talking points about parking mandates, transportation, or climate change.\n\n3. The only slight connection is that both the testimony and the talking points mention affordability, but in very different contexts:\n   - The testimony discusses affordable housing options and FAR regulations\n   - The talking points mention parking mandates' impact on housing affordability\n\n4. The testimony is focused on specific zoning and development issues, while the talking points are about parking and transportation policies.\n\n5. There are no direct quotes from the testimony that align with the reference talking points.\n\nGiven these observations, it's clear that the testimony is not similar to the reference talking points. The testimony addresses different aspects of urban planning and development that are not covered in the provided talking points.",
+        "quotes": [],
+        "analysis": "The testimony provided by Michael Parley is NOT_SIMILAR to the reference talking points. \n\nThe testimony focuses on specific aspects of the City of Yes for Housing Opportunity proposal, particularly concerning off-site affordable housing options and FAR (Floor Area Ratio) regulations in Midtown and Lower Manhattan districts. These topics are not addressed in the reference talking points at all.\n\nThe reference talking points primarily discuss parking mandates, their impact on housing affordability, climate change, and transportation. None of these issues are mentioned in Michael Parley's testimony.\n\nWhile both the testimony and the talking points touch on the broad theme of housing affordability, they do so in completely different contexts. The testimony discusses affordability in relation to zoning and FAR regulations, while the talking points relate affordability to parking mandates.\n\nThe testimony is highly specific to zoning and development issues, offering technical critiques of proposed changes. In contrast, the talking points focus on broader urban planning principles related to parking, transportation, and climate change.\n\nGiven the lack of overlap in content and focus, it's clear that this testimony is not similar to or influenced by the reference talking points. The speaker appears to be presenting their own expert opinion on different aspects of the City of Yes for Housing Opportunity proposal.",
+        "similarity": "NOT_SIMILAR"
+    }
+}

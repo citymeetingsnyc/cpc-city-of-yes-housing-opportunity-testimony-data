@@ -1,0 +1,43 @@
+{
+    "testimony": {
+        "name": "Robert Press",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/robert-press-from-bronx-community-board-11-on-city",
+        "start_time_in_seconds": 27813.602,
+        "end_time_in_seconds": 27986.254,
+        "for_or_against": "Against",
+        "borough": "Bronx",
+        "neighborhood": "Morris Park",
+        "stated_affiliations": [
+            "Bronx Community Board 11"
+        ],
+        "key_points": [
+            "Bronx Community Board 11 voted overwhelmingly against the City of Yes for Housing Opportunity",
+            "Parking mandate may work in Manhattan but not in other boroughs",
+            "Council District 13 in the East Bronx has already produced significant affordable housing without this initiative",
+            "The process was rushed and incomplete information was provided to Community Board 11",
+            "Concerns about inadequate parking spaces for new housing developments",
+            "The plan does not control or make housing affordable, it just increases housing supply",
+            "AMI calculation method needs to be changed to make housing truly affordable in the Bronx",
+            "Current 'affordable' housing in the Bronx is still too expensive"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Robert Press, is from Bronx Community Board 11 and states that the board voted against the City of Yes Housing Opportunity proposal.\n\n2. He mentions that the parking mandate may work in Manhattan but not in the other four boroughs. This directly relates to the reference talking points about parking.\n\n3. The speaker disagrees with the claim that Council District 13 hasn't produced housing, citing over 9,000 units of new housing built or planned.\n\n4. He criticizes the process as rushed, which doesn't directly relate to the talking points.\n\n5. The speaker strongly disagrees with reducing parking spaces, using an example of a development with 2,408 units but only 200 parking spaces. This is in opposition to the talking points that argue for reducing parking mandates.\n\n6. He argues that the plan doesn't control or make housing affordable, which indirectly relates to the talking points about affordability.\n\n7. The speaker suggests changing how AMI is calculated to make housing truly affordable, which isn't directly addressed in the talking points.\n\n8. Overall, the testimony seems to be largely in opposition to the parking-related aspects of the proposal, which is a significant part of the reference talking points.",
+        "quotes": [
+            {
+                "text": "Let's say that the parking mandate may work in Manhattan, but not in the 4 out of boroughs.",
+                "reasoning": "This quote directly relates to the talking point about parking mandates, although it opposes the idea of applying the same rules across all boroughs."
+            },
+            {
+                "text": "To the person who said 200 parking spaces at 1601 Bromstale Avenue is enough. There are 24108 units of housing. It is ridiculous that only 200 parking spaces will be there. Where will the other 2200 plus or more cars be parked?",
+                "reasoning": "This quote opposes the talking points about reducing parking mandates, arguing that it would lead to insufficient parking for residents."
+            },
+            {
+                "text": "This plan does not control or make housing affordable, it just makes more housing, which prices will be up to the developer or owner of the properties.",
+                "reasoning": "This quote indirectly relates to the talking points about affordability, though it argues against the effectiveness of the proposal in making housing affordable."
+            }
+        ],
+        "analysis": "The testimony is primarily in opposition to the reference talking points, particularly regarding parking mandates. While the reference talking points argue for reducing or eliminating parking mandates to increase affordability and promote sustainable transportation, the speaker strongly argues against this approach, especially for boroughs outside Manhattan.\n\nThe testimony does not engage with many of the specific arguments made in the talking points, such as the environmental benefits of reducing parking or the potential for increased walkability. Instead, it focuses on the perceived negative impacts of reducing parking availability in areas where car ownership is more common.\n\nThe speaker does touch on affordability, but argues that the proposal will not effectively address this issue, contrary to the claims in the talking points. However, the testimony doesn't directly refute the specific affordability arguments made in the talking points, such as the cost of underground parking increasing rents.\n\nOverall, while the testimony is generally opposed to the proposal and some key aspects of the talking points, it doesn't comprehensively address or refute all the points made in the reference talking points. The opposition is focused mainly on the parking aspect and its applicability to outer boroughs.",
+        "similarity": "IN_OPPOSITION"
+    }
+}

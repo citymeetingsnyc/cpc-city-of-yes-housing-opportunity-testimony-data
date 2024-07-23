@@ -1,0 +1,28 @@
+{
+    "testimony": {
+        "name": "Francesca Brown",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/francesca-brown-from-camba-housing-ventures-on",
+        "start_time_in_seconds": 4860.893,
+        "end_time_in_seconds": 4944.9834,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "CAMBA Housing Ventures"
+        ],
+        "key_points": [
+            "Support for the City of Yes for Housing Opportunity initiative",
+            "Appreciation for the work of Mayor Adams, his team, and the Department of City Planning",
+            "Importance of local neighborhood conversations and community stakeholder participation",
+            "Commitment to creating equitable and inclusive communities",
+            "Canva Housing Ventures' experience working with HPD, HDC, and city planning for nearly 20 years",
+            "Dedication to addressing the housing crisis by providing safe, sustainable neighborhood assets"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze this testimony step by step:\n\n1. The speaker, Francesca Brown, is representing CAMBA Housing Ventures, a nonprofit supportive and affordable housing developer.\n\n2. She expresses support for the City of Yes initiative, praising it as an \"ambitious and much needed initiative that addresses our city's housing crisis.\"\n\n3. The testimony focuses on the organization's support for expanding housing opportunities and creating equitable communities.\n\n4. There is no specific mention of parking regulations, climate change, or transportation issues that are prominent in the reference talking points.\n\n5. The testimony is very general in nature, expressing support for the initiative without going into specifics that align with the provided talking points.\n\n6. While the overall goal of addressing the housing crisis aligns with the broader intent of the City of Yes initiative, the specific arguments and points made in the reference talking points are not reflected in this testimony.",
+        "quotes": [],
+        "analysis": "The testimony from Francesca Brown, representing CAMBA Housing Ventures, shows general support for the City of Yes initiative, but does not specifically address or mirror the reference talking points provided.\n\nThe testimony is focused on expressing support for expanding housing opportunities and creating equitable communities, which aligns with the broader goals of the City of Yes initiative. However, it does not delve into the specific issues raised in the reference talking points, such as parking regulations, climate change, or transportation concerns.\n\nWhile the testimony supports the initiative that includes the proposed changes to parking regulations, it does not explicitly mention or argue for these changes. The speaker does not use language, quotes, claims, or arguments that are similar to those in the reference talking points.\n\nGiven this analysis, the testimony can be classified as \"NOT_SIMILAR\" to the reference talking points. While it supports the overall initiative, it does not address any of the specific issues or arguments raised in the talking points, nor does it oppose them. The testimony is simply too general and focused on different aspects of housing development to be considered similar to or in opposition to the specific talking points provided.",
+        "similarity": "NOT_SIMILAR"
+    }
+}

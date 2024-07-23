@@ -1,0 +1,35 @@
+{
+    "testimony": {
+        "name": "Lucy Koteen",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/lucy-koteen-from-brooklyn-on-environmental",
+        "start_time_in_seconds": 47583.63,
+        "end_time_in_seconds": 47774.02,
+        "for_or_against": "Against",
+        "borough": "Brooklyn",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [],
+        "key_points": [
+            "Environmental concerns related to construction and cement production",
+            "Existence of empty structures and housing units throughout the city",
+            "Criticism of MIH (Mandatory Inclusionary Housing) for not providing affordable housing",
+            "Suggestion to focus on distributing existing housing rather than building new",
+            "Recommendation to fill empty units and repurpose existing buildings",
+            "Concern about the abundance of high-end housing construction",
+            "Criticism of what is considered 'affordable' housing (80-130% AMI)",
+            "Suggestion to subsidize lower-income families in existing units instead of building new",
+            "Proposal to help landlords bring empty units up to code",
+            "Concern about the loss of sky view and increased shadows due to high-rise construction"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The testimony primarily focuses on environmental concerns and the issue of vacant buildings and units in New York City.\n2. The speaker, Lucy Koteen, does not directly address parking mandates or the specific points mentioned in the reference talking points.\n3. She does mention construction and its impact on greenhouse gas emissions, which is tangentially related to the climate crisis point in the talking points.\n4. Koteen argues for utilizing existing empty structures and units rather than building new ones, which is not directly addressed in the talking points.\n5. She questions the effectiveness of previous housing initiatives like MIH (Mandatory Inclusionary Housing) in providing affordable housing.\n6. The testimony expresses skepticism about the need for new construction, especially high-end buildings, which is not directly related to the parking mandate issue.\n7. There is no mention of parking, transportation, or car usage in the testimony.\n8. The speaker's main argument is about distribution of existing housing rather than creating new housing, which is not addressed in the talking points.\n\nOverall, while there is a slight overlap in the mention of environmental concerns, the testimony does not directly address or support the specific points made in the reference talking points about parking mandates and their effects.",
+        "quotes": [
+            {
+                "text": "I read that the problem of cement, the production of cement, accounts for 8% of global greenhouse gas emissions. The construction section produces almost a quarter of global green sorry. Does that right? Could the construction sector produces almost a quarter of global greenhouse gas emissions.",
+                "reasoning": "This quote is loosely related to the climate crisis point in the talking points. While the talking points focus on transportation emissions, this quote highlights construction-related emissions, which could be seen as indirectly supporting the argument against unnecessary construction for parking."
+            }
+        ],
+        "analysis": "The testimony is not closely related to the reference talking points. The speaker, Lucy Koteen, primarily focuses on environmental concerns related to construction and the issue of vacant buildings and units in New York City. She does not address the main topics of the talking points, which are parking mandates, transportation, and their effects on housing affordability and climate change.\n\nThe only slight similarity is in the mention of environmental concerns, but the context and focus are different. The talking points discuss transportation as a major cause of emissions, while the testimony focuses on construction-related emissions.\n\nThe testimony argues for utilizing existing empty structures and units rather than building new ones, which is not addressed in the talking points. It also expresses skepticism about previous housing initiatives and questions the need for new construction, especially high-end buildings.\n\nThere is no mention of parking, transportation, or car usage in the testimony, which are central themes in the talking points. The speaker's main argument is about the distribution of existing housing rather than creating new housing or addressing parking issues.\n\nGiven these differences, the testimony cannot be considered as supporting or opposing the specific points made in the reference talking points. It appears to be addressing a different set of concerns related to housing and environmental issues in New York City.",
+        "similarity": "NOT_SIMILAR"
+    }
+}

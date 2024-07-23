@@ -1,0 +1,31 @@
+{
+    "testimony": {
+        "name": "Leonard Polletta",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/leonard-polletta-on-city-of-yes-for-housing",
+        "start_time_in_seconds": 46512.48,
+        "end_time_in_seconds": 46695.633,
+        "for_or_against": "Against",
+        "borough": "Manhattan",
+        "neighborhood": "Chelsea",
+        "stated_affiliations": [
+            "Penn South"
+        ],
+        "key_points": [
+            "City of Yes will not provide low-income affordable housing",
+            "Comprehensive nature and one-size-fits-all approach is wrong",
+            "Lack of mandatory affordability requirements",
+            "No provisions for building amenities and infrastructure",
+            "Will exacerbate economic and racial segregation",
+            "City should focus on building more public housing and infrastructure",
+            "Rehabilitate vacant apartments in NYCHA and warehoused units",
+            "Stronger rent control laws and enforcement needed",
+            "Current proposal favors developers over affordable housing needs"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Leonard Polletta, is a resident of Chelsea, Manhattan and lives in an affordable co-op.\n\n2. He argues that the City of Yes for Housing Opportunity will not provide the low-income affordable housing that New York needs.\n\n3. His main points against the proposal are:\n   a. The comprehensive, one-size-fits-all approach is wrong.\n   b. Lifting zoning restrictions without mandatory affordability requirements won't provide affordable housing.\n   c. Relying on developers to voluntarily provide affordability won't work.\n   d. There are no provisions for building amenities and infrastructure to accommodate additional people.\n   e. It may exacerbate economic and racial segregation.\n\n4. He suggests alternative solutions:\n   a. Building more public housing and infrastructure\n   b. Rehabilitating vacant apartments\n   c. Implementing stronger rent control laws\n\n5. The testimony does not directly address most of the points made in the reference talking points, which focus primarily on parking mandates and their effects.\n\n6. The testimony is generally opposed to the City of Yes proposal, but for different reasons than those addressed in the reference talking points.",
+        "quotes": [],
+        "analysis": "The testimony by Leonard Polletta is largely unrelated to the specific reference talking points provided. While both the testimony and the talking points discuss the City of Yes for Housing Opportunity proposal, they focus on different aspects:\n\n1. The testimony primarily addresses concerns about affordability, mandatory requirements for developers, and the need for public housing and infrastructure.\n\n2. The reference talking points, on the other hand, focus almost exclusively on parking mandates, their effects on housing costs, climate change, and urban planning.\n\nThere is no direct opposition to the specific points made in the reference talking points. Instead, the testimony presents a different set of concerns and criticisms of the City of Yes proposal. The speaker doesn't mention parking mandates or any of the other specific issues raised in the reference talking points.\n\nThe testimony does touch on some broader themes that are tangentially related to the talking points, such as housing affordability and urban planning. However, the specific arguments and focus are quite different.\n\nGiven this analysis, the testimony cannot be classified as having high similarity to the talking points, supporting them, or being in direct opposition to them. The most appropriate classification is \"not similar\" because it does not address the specific issues raised in the reference talking points.",
+        "similarity": "NOT_SIMILAR"
+    }
+}

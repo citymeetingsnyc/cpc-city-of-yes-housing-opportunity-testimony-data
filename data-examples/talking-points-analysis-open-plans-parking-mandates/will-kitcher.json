@@ -1,0 +1,41 @@
+{
+    "testimony": {
+        "name": "Will Kitcher",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/will-kitcher-on-personal-experiences-with-diverse",
+        "start_time_in_seconds": 15547.074,
+        "end_time_in_seconds": 15742.27,
+        "for_or_against": "For",
+        "borough": "Brooklyn",
+        "neighborhood": "Sheepshead Bay",
+        "stated_affiliations": [],
+        "key_points": [
+            "Support for missing middle housing",
+            "Personal experience living in various types of housing in Brooklyn",
+            "Support for repealing parking mandates",
+            "Need for affordable housing options for young people moving out",
+            "Belief that lifting parking mandates will allow more housing to be built",
+            "Observation that some parking lots in Sheepshead Bay are underutilized",
+            "Assertion that developers will still provide parking where needed",
+            "Support for additional housing near subway stations"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Will Kitcher, shares his personal history of living in various types of housing in New York City, emphasizing the importance of diverse housing options.\n\n2. He supports the idea of \"missing middle housing\" and removing parking minimums, which aligns with some of the reference talking points.\n\n3. Kitcher specifically mentions supporting the repeal of parking mandates, which is a key point in the reference talking points.\n\n4. He argues that removing parking mandates will allow more housing to be built, which is similar to the talking points about increasing housing affordability and availability.\n\n5. Kitcher acknowledges that in some areas, like Sheepshead Bay, there might still be a desire for parking, but believes that lifting the mandates won't make a large change in such areas. This aligns with the talking point about parking choice and meeting the needs of each neighborhood.\n\n6. He mentions that lifting parking mandates will allow for more housing near subway stations, reducing the need for cars. This is similar to the talking points about prioritizing active and public transportation.\n\n7. However, the testimony doesn't explicitly mention many specific points from the reference talking points, such as the cost of building parking, climate change, or comparisons to other cities.\n\nOverall, while the testimony supports the removal of parking mandates and aligns with some of the general ideas in the reference talking points, it doesn't use the same specific arguments or data points.",
+        "quotes": [
+            {
+                "text": "Additionally, I want to come out in support of repealing the parking mandates because I believe that will allow more housing again to be built.",
+                "reasoning": "This quote directly supports the talking point about reducing parking mandates to increase housing affordability and availability."
+            },
+            {
+                "text": "There's still gonna be a desire for parking. People are still gonna look for parking spots, and developers are still gonna try and put parking in.",
+                "reasoning": "This aligns with the talking point about allowing parking to meet the needs of each neighborhood and creating parking choice."
+            },
+            {
+                "text": "But this will allow people who are closer to the subway station And in areas like that along the Q Train and the 2 line that will have additional housing that can be close by to them and they will need to rely on a vehicle.",
+                "reasoning": "This supports the idea of prioritizing active and public transportation over car-centric infrastructure, which is mentioned in the talking points."
+            }
+        ],
+        "analysis": "The testimony shows support for the City of Yes for Housing Opportunity proposal, particularly in regard to repealing parking mandates. The speaker's arguments align with some of the key points in the reference talking points, such as allowing more housing to be built, creating parking choice based on neighborhood needs, and encouraging housing near public transportation.\n\nHowever, the testimony is based largely on personal experience and observations rather than the specific data points and arguments presented in the reference talking points. The speaker doesn't mention many of the detailed arguments about climate change, the cost of building parking, or comparisons to other cities that have implemented similar policies.\n\nWhile the testimony is supportive of the proposal and aligns with the general spirit of the talking points, it doesn't appear to be directly derived from or heavily influenced by the specific language and arguments in the reference talking points. The speaker seems to have arrived at similar conclusions based on their own experiences and observations of New York City's housing and transportation needs.",
+        "similarity": "SUPPORTING_TALKING_POINTS"
+    }
+}

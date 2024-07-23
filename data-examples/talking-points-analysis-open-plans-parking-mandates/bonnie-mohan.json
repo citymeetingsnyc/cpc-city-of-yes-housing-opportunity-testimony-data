@@ -1,0 +1,40 @@
+{
+    "testimony": {
+        "name": "Bonnie Mohan",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/bonnie-mohan-cofounder-and-executive-director-of",
+        "start_time_in_seconds": 20375.803,
+        "end_time_in_seconds": 20535.889,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Health and Housing Consortium"
+        ],
+        "key_points": [
+            "Strong support for City of Yes for Housing Opportunity",
+            "Affordable and supportive housing is deeply needed across all boroughs",
+            "High numbers of people in shelters, on streets, or in unstable housing situations",
+            "Lack of affordable housing is a primary reason for families entering shelters",
+            "The consortium trains frontline workers on navigating NYC's homeless housing systems",
+            "Current housing vouchers are flawed and often not accepted by landlords",
+            "City of Yes plan is seen as a lifeline for those at risk of or experiencing homelessness",
+            "The plan is rooted in respect for communities and neighborhoods",
+            "Urges the city planning commission to support the plan to help build a New York where everyone can thrive"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Bonnie Mohan, strongly supports the City of Yes for Housing Opportunity plan.\n2. She emphasizes the urgent need for affordable and supportive housing in New York City.\n3. The testimony focuses on homelessness, housing instability, and the lack of affordable housing.\n4. While the testimony supports the plan, it doesn't directly reference specific points from the provided talking points about parking mandates.\n5. The speaker mentions that the plan is \"rooted in respect for communities and neighborhoods,\" which might loosely relate to the talking point about allowing parking to meet the needs of each neighborhood.\n6. The testimony doesn't discuss parking, car usage, or transportation issues, which are central themes in the reference talking points.\n7. The speaker's main argument is that the plan will help address homelessness and housing affordability, which aligns with the general spirit of the talking points about increasing housing affordability and availability.\n\nOverall, while the testimony supports the City of Yes for Housing Opportunity plan, it focuses on different aspects than those highlighted in the reference talking points. The testimony is more concerned with homelessness and housing affordability in general, rather than specific issues like parking mandates and their effects on housing costs.",
+        "quotes": [
+            {
+                "text": "The city of yes for housing opportunity plan is a lifeline for thousands of new Yorkers teetering on the edge of homelessness and for those already struggling within our homeless systems.",
+                "reasoning": "This quote shows support for the plan, which is in line with the general goal of the talking points. However, it focuses on homelessness rather than specific issues like parking mandates."
+            },
+            {
+                "text": "We are a communal city, and this plan is rooted in respect for communities and neighborhoods.",
+                "reasoning": "This quote loosely relates to the talking point about allowing parking to meet the needs of each neighborhood, although it doesn't specifically mention parking or transportation issues."
+            }
+        ],
+        "analysis": "The testimony provided by Bonnie Mohan shows support for the City of Yes for Housing Opportunity plan, which aligns with the overall goal of the reference talking points. However, the focus and content of the testimony differ significantly from the specific points raised in the reference talking points.\n\nThe testimony primarily addresses issues of homelessness, housing instability, and the urgent need for affordable housing in New York City. It provides statistics on homelessness and discusses the challenges faced by frontline workers in addressing these issues. The speaker emphasizes how the plan could help alleviate these problems and provide a \"lifeline\" for many New Yorkers.\n\nIn contrast, the reference talking points focus heavily on parking mandates, their impact on housing costs, and the benefits of reducing or eliminating these mandates. They discuss issues such as car dependency, climate change, and the effects of parking requirements on urban planning and street life.\n\nWhile both the testimony and the talking points advocate for increased housing affordability, they approach this goal from different angles. The testimony doesn't mention parking, transportation, or any of the specific policy changes outlined in the talking points.\n\nThe only slight overlap might be in the mention of the plan being \"rooted in respect for communities and neighborhoods,\" which could loosely relate to the talking point about allowing parking to meet the needs of each neighborhood. However, this connection is tenuous at best.\n\nGiven these observations, while the testimony is supportive of the overall plan, it cannot be said to have high similarity to the specific talking points provided. The testimony is focused on different aspects of the housing crisis and does not engage with the particular arguments about parking and transportation presented in the reference talking points.",
+        "similarity": "SUPPORTING_TALKING_POINTS"
+    }
+}

@@ -4,3 +4,4 @@ extracted-data.json
 logs/
 __pycache__/
 extracted-data/*
+talking-points/

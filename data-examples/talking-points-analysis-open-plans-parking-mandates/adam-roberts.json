@@ -1,0 +1,28 @@
+{
+    "testimony": {
+        "name": "Adam Roberts",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/adam-roberts-from-community-housing-improvement",
+        "start_time_in_seconds": 19030.832,
+        "end_time_in_seconds": 19170.035,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Community Housing Improvement Program (CHIP)"
+        ],
+        "key_points": [
+            "Support for the zoning text amendment, particularly additional floor area ratio for basements and cellars near transit",
+            "Potential for creating new affordable basement and cellar units in rent-stabilized buildings",
+            "Additional income from new units would help cover maintenance costs for rent-stabilized buildings facing financial crisis",
+            "Support for expansion of Universal Affordability Preference to create modern housing for current and new tenants",
+            "Need for addressing barriers to relocating current tenants to effectively implement the zoning text amendment",
+            "Importance of creating new rent-stabilized housing with modern accessibility features"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Adam Roberts, represents the Community Housing Improvement Program (CHIP), which operates rent-stabilized housing in New York City.\n\n2. He strongly supports the zoning text amendment, particularly the provision for additional floor area ratio (FAR) for basements and cellars in buildings near transit.\n\n3. The testimony focuses on the benefits of creating new affordable basement and cellar units in rent-stabilized buildings, which would provide additional income to cover maintenance costs.\n\n4. The speaker mentions the financial crisis facing rent-stabilized housing due to escalating operating costs.\n\n5. He also discusses the need for modern rent-stabilized housing with accessibility features.\n\n6. The testimony touches on the expansion of the Universal affordability preference, which aligns with creating more affordable housing.\n\n7. The speaker mentions barriers to relocating current tenants, which he sees as an obstacle to implementing the zoning text amendment effectively.\n\nComparing this to the reference talking points:\n\n- The testimony does not directly address parking mandates or their removal, which is a central theme in the reference talking points.\n- There is no mention of climate change, transportation emissions, or encouraging public transit use.\n- The testimony does not discuss the costs associated with building parking spaces or how they affect housing affordability.\n- While both the testimony and talking points discuss housing affordability, they approach it from different angles. The testimony focuses on creating new units in existing buildings, while the talking points discuss how removing parking mandates can reduce construction costs.\n- The testimony does not mention any of the specific benefits of removing parking mandates that are outlined in the talking points, such as improving walkability or street life.\n\nGiven these observations, the testimony appears to be focused on a different aspect of the City of Yes for Housing Opportunity proposal than what is covered in the reference talking points.",
+        "quotes": [],
+        "analysis": "The testimony provided by Adam Roberts on behalf of the Community Housing Improvement Program (CHIP) is largely unrelated to the specific talking points provided in the reference. While both the testimony and the talking points address aspects of housing and zoning in New York City, they focus on different elements of the City of Yes for Housing Opportunity proposal.\n\nThe testimony primarily discusses the benefits of allowing additional floor area ratio for basements and cellars in rent-stabilized buildings near transit. It emphasizes the potential for creating new affordable units and generating additional income for building maintenance. The speaker also touches on the need for modernizing rent-stabilized housing and mentions barriers to relocating tenants.\n\nIn contrast, the reference talking points focus almost exclusively on the removal of parking mandates and its potential benefits. These include increased housing affordability, reduced car dependence, climate change mitigation, and improved street life.\n\nWhile both the testimony and the talking points mention housing affordability, they approach it from very different angles. The testimony does not address parking mandates or any of the specific points made in the reference talking points about transportation, climate change, or urban design.\n\nGiven this analysis, the testimony cannot be considered similar to or in support of the specific talking points provided. It appears to be addressing a different aspect of the City of Yes for Housing Opportunity proposal altogether.",
+        "similarity": "NOT_SIMILAR"
+    }
+}

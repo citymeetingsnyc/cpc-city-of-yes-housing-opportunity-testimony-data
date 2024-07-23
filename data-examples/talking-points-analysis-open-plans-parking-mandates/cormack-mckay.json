@@ -1,0 +1,28 @@
+{
+    "testimony": {
+        "name": "Cormack McKay",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/cormack-mckay-visitor-and-possible-future-resident",
+        "start_time_in_seconds": 51788.86,
+        "end_time_in_seconds": 51980.938,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [],
+        "key_points": [
+            "Support for the City of Yes proposal with additional amendments",
+            "Concern about deliberately leaving property empty and its negative effects on the city",
+            "Proposal for a vacant property tax or fine of $1 per square foot per day or 100% of expected rent",
+            "Suggestion to encourage rapid renovation and development of empty sites",
+            "Promotion of prefabrication and off-site construction methods",
+            "Proposal for a citizen reporting program for vacant properties",
+            "Suggestion to convert vacant commercial properties to emergency residential or tourist accommodation within 30-90 days",
+            "Recommendation for short-term tourist accommodation in buildings not suitable for long-term residential use"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Cormack McKay, is a visitor and potential future resident of New York.\n2. He supports the proposal but suggests additional amendments.\n3. The main focus of his testimony is on vacant properties and their negative impact on housing availability.\n4. He proposes fines or taxes for deliberately leaving properties empty.\n5. He suggests converting vacant offices and commercial properties to emergency residential or tourist accommodation.\n6. He mentions prefabrication and off-site construction methods for new developments.\n7. The testimony does not directly address parking mandates or transportation issues.\n8. There is no mention of climate change, affordability related to parking, or public transportation.\n\nComparing this to the reference talking points:\n1. The testimony does not mention parking at all, which is a central theme in the talking points.\n2. While both the testimony and talking points address housing availability, they do so from different angles. The talking points focus on how parking mandates affect housing, while the testimony focuses on vacant properties.\n3. The testimony does not address climate change or transportation issues, which are key points in the reference talking points.\n4. The testimony's proposals are not related to the specific reforms mentioned in the talking points.",
+        "quotes": [],
+        "analysis": "The testimony by Cormack McKay is not closely related to the reference talking points provided. While both the testimony and the talking points address housing issues in New York City, they approach the topic from very different angles.\n\nThe reference talking points focus primarily on reforming parking mandates and how this can affect housing affordability, climate change, and urban planning. In contrast, McKay's testimony centers on the issue of vacant properties and proposes measures to penalize property owners who leave buildings empty.\n\nThere is no direct mention in McKay's testimony of parking mandates, climate change, or transportation issues, which are central themes in the reference talking points. The solutions proposed by McKay (fines for vacant properties, conversion of empty offices to residential use) are not related to the parking mandate reforms discussed in the talking points.\n\nWhile both the testimony and the talking points share a common goal of increasing housing availability in New York City, their approaches and specific recommendations are quite different. The testimony does not appear to be using or referencing the language, arguments, or specific proposals found in the reference talking points.",
+        "similarity": "NOT_SIMILAR"
+    }
+}

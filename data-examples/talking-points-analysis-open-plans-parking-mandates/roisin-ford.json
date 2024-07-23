@@ -1,0 +1,28 @@
+{
+    "testimony": {
+        "name": "Roisin Ford",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/roisin-ford-from-ditmas-park-west-neighborhood",
+        "start_time_in_seconds": 38694.65,
+        "end_time_in_seconds": 38902.184,
+        "for_or_against": "Against",
+        "borough": "Brooklyn",
+        "neighborhood": "Victorian Flatbush",
+        "stated_affiliations": [
+            "Ditmas Park West Neighborhood Association"
+        ],
+        "key_points": [
+            "The neighborhood association supports some aspects of City of Yes, like town center zoning and commercial conversions, but strongly opposes transit-oriented developments and district fixes as written",
+            "Affordable housing availability in their neighborhood increased by 846% in the last 10 years after a 2009 rezoning",
+            "Concerns about the potential demolition of historic Victorian homes under the proposed transit-oriented development plans",
+            "Request for the commission to visit Victorian Flatbush and acknowledge the untapped potential for more affordable housing",
+            "Suggestion to include minimum sizes for units to accommodate families, not just studios and one-bedrooms",
+            "Concern that the proposed changes would allow demolition of historic homes and replacement with larger buildings without sensitivity to the neighborhood character"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze this testimony step by step:\n\n1. The speaker, Roisin Ford, is from the Ditmas Park West Neighborhood Association in Brooklyn.\n2. She mentions that her neighborhood association somewhat supports what the City of Yes is doing to increase housing, such as town center zoning and commercial conversions.\n3. However, they strongly oppose transit-oriented developments and district fixes as written.\n4. She acknowledges the city's desire to address affordability but points out that their neighborhood has already seen significant increases in affordable housing (846% increase in the last 10 years).\n5. The speaker expresses concern about the potential impact of transit-oriented development on their historic Victorian homes, which could be demolished and replaced with larger buildings.\n6. There is no direct mention of parking mandates, car dependency, or climate change in the testimony.\n7. The testimony focuses more on preserving the character of the neighborhood and expressing concern about the scale of development, rather than addressing the specific points in the reference talking points.\n\nGiven this analysis, the testimony does not seem to directly address or align with the reference talking points. While it touches on the broader theme of housing development, it does not engage with the specific arguments about parking mandates, affordability related to parking, or environmental concerns that are central to the reference talking points.",
+        "quotes": [],
+        "analysis": "The testimony provided by Roisin Ford from the Ditmas Park West Neighborhood Association is NOT_SIMILAR to the reference talking points. \n\nThe testimony primarily focuses on concerns about preserving the character of their historic neighborhood and the potential impact of transit-oriented development on their Victorian homes. While the speaker acknowledges the city's efforts to increase housing and address affordability, their perspective is centered on local preservation and the scale of development rather than the specific issues addressed in the reference talking points.\n\nThe reference talking points primarily discuss parking mandates, their impact on housing affordability, climate change, and transportation. However, the testimony does not mention parking at all, nor does it address climate change or transportation issues. \n\nThe speaker's concerns about transit-oriented development seem to be more about the potential for changing the character of their neighborhood rather than the broader city-wide impacts that the reference talking points discuss.\n\nWhile both the testimony and the talking points touch on the general theme of housing development in New York City, the specific focus and arguments are quite different. The testimony is more concerned with local preservation and the scale of development in a specific neighborhood, while the talking points address broader city-wide policies related to parking, affordability, and environmental concerns.",
+        "similarity": "NOT_SIMILAR"
+    }
+}

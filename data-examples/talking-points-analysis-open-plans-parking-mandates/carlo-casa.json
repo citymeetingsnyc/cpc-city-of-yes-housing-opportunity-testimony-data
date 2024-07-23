@@ -1,0 +1,42 @@
+{
+    "testimony": {
+        "name": "Carlo Casa",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/carlo-casa-director-of-policy-and-research-at-new",
+        "start_time_in_seconds": 9796.855,
+        "end_time_in_seconds": 9933.014,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "New York Building Congress"
+        ],
+        "key_points": [
+            "The City of Yes for Housing Opportunity is a rational initiative addressing the housing crisis",
+            "The initiative incorporates community input from over 175 community board meetings",
+            "The policy has the potential to create over 100,000 new homes",
+            "Removes outdated parking mandates that increase housing production costs",
+            "Promotes transit-oriented development by legalizing 3 to 5 storey apartments near public transit",
+            "Encourages modest housing density in sensible locations citywide",
+            "Uses zoning as a tool rather than an obstacle to meet New Yorkers' needs"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Carl Okasa from the New York Building Congress, expresses strong support for the City of Yes for Housing Opportunity initiative.\n\n2. He mentions that the proposal removes outdated parking mandates, which aligns with several points in the reference talking points.\n\n3. The testimony specifically states that the proposal \"does not ban developers from building parking rather it allows for more flexibility,\" which directly echoes one of the reference talking points.\n\n4. The speaker mentions that removing parking mandates can reduce housing costs, which is also mentioned in the reference talking points.\n\n5. The testimony focuses on the benefits of the proposal for housing affordability and creation, which aligns with the overall message of the reference talking points.\n\n6. While the testimony doesn't go into as much detail about the negative impacts of parking mandates as the reference talking points do, it does touch on some key ideas.\n\n7. The speaker emphasizes transit-oriented development, which indirectly supports the idea of reducing car dependency mentioned in the reference talking points.\n\n8. The testimony doesn't mention climate change or street safety explicitly, which are points made in the reference talking points.\n\nOverall, while the testimony doesn't cover all points in the reference talking points, it strongly aligns with several key ideas, particularly regarding parking flexibility and housing affordability.",
+        "quotes": [
+            {
+                "text": "The city of Yes also removes outdated parking mandates, which today, increase the cost of housing production by roughly $100,000 per parking space.",
+                "reasoning": "This quote directly aligns with the reference talking point about parking mandates increasing housing costs. It provides a specific cost figure, which supports the argument made in the talking points."
+            },
+            {
+                "text": "The proposal does not ban developers from building parking rather it allows for more flexibility so that project managers can best meet the needs of each unique site rather than a one size fits all approach.",
+                "reasoning": "This quote closely mirrors the reference talking point that states 'This change will not remove any existing parking or ban new parking.' It also echoes the point about allowing parking to meet the needs of each neighborhood."
+            },
+            {
+                "text": "This translates to more affordable housing for New Yorkers.",
+                "reasoning": "While not a direct quote from the talking points, this statement aligns with the overall message that reducing parking mandates will lead to more affordable housing, which is a key point in the reference talking points."
+            }
+        ],
+        "analysis": "The testimony shows a high degree of similarity to the reference talking points, particularly in its discussion of parking mandates and their impact on housing affordability. The speaker clearly supports the City of Yes for Housing Opportunity initiative and uses arguments that align closely with several key points from the reference talking points.\n\nThe testimony focuses primarily on the benefits of removing parking mandates for housing affordability and flexibility, which are central themes in the reference talking points. The speaker's language about not banning parking but allowing more flexibility is almost identical to the talking points.\n\nHowever, the testimony doesn't cover all aspects of the reference talking points. It doesn't delve into details about climate change, street safety, or comparisons with other cities that have implemented similar policies. The testimony also places more emphasis on other aspects of the City of Yes proposal, such as allowing smaller scale housing above storefronts and promoting transit-oriented development.\n\nDespite these differences, the core message about parking mandates and their impact on housing aligns strongly with the reference talking points. The testimony appears to be supporting the same overall policy goals, using similar reasoning and some nearly identical language.",
+        "similarity": "SUPPORTING_TALKING_POINTS"
+    }
+}

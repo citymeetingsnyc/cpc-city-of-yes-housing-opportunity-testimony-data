@@ -1,0 +1,28 @@
+{
+    "testimony": {
+        "name": "Charles Ny",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/charles-ny-from-community-board-5-on-housing-needs",
+        "start_time_in_seconds": 51509.668,
+        "end_time_in_seconds": 51708.1,
+        "for_or_against": "Against",
+        "borough": "Manhattan",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Community Board 5"
+        ],
+        "key_points": [
+            "Lack of adequate housing solutions for people with disabilities and low incomes",
+            "Current subsidized housing (SRO) is insufficient and potentially harmful to mental health",
+            "Need for more outreach and inclusion of impoverished individuals in housing design and decision-making",
+            "Criticism of current affordable housing standards and desire for better living conditions (e.g., one-bedroom apartments instead of SROs)",
+            "Lack of engagement from housing advocacy groups (like Open New York) with individuals in need",
+            "Call for more comprehensive outreach and planning before implementing the proposed plan"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "To analyze the testimony's relation to the reference talking points, let's break it down step by step:\n\n1. The testimony is from Charles Ny, a blind person and member of Community Board 5.\n2. Charles focuses on his personal experience as someone with disabilities, on welfare, and living in subsidized housing.\n3. He expresses concern about the lack of support for people with disabilities and those on low incomes.\n4. Charles criticizes the current standard of living in subsidized housing, describing his apartment as a \"shoe box\" with limited amenities.\n5. He advocates for better housing options for impoverished individuals, suggesting one-bedroom apartments instead of SRO-style housing.\n6. Charles expresses disappointment in the lack of outreach to impoverished individuals in the planning process.\n7. He opposes the current plan, feeling that more outreach and input from affected communities is needed.\n8. The testimony does not directly address any of the specific points mentioned in the reference talking points.\n9. There is no mention of parking, climate change, transportation, or any of the other key issues highlighted in the talking points.\n10. The focus of the testimony is on improving living conditions for low-income individuals and those with disabilities, which is not a central theme in the provided talking points.\n\nGiven this analysis, the testimony appears to be largely unrelated to the specific reference talking points provided.",
+        "quotes": [],
+        "analysis": "The testimony provided by Charles Ny is not similar to the reference talking points. The testimony focuses primarily on the need for better housing options and support for people with disabilities and those living in poverty. It does not address any of the specific issues raised in the reference talking points, such as parking mandates, climate change, transportation, or housing affordability in relation to parking requirements.\n\nWhile Charles does express opposition to the current plan, his reasons for opposition are not related to the points made in the reference talking points. Instead, his concerns are centered around the lack of outreach to impoverished communities and the need for their input in the housing design process.\n\nThe reference talking points are primarily focused on the benefits of removing parking mandates and how this can address issues like housing affordability, climate change, and street safety. In contrast, Charles's testimony is a personal account of the challenges faced by those living in subsidized housing and the need for better living conditions.\n\nGiven that the testimony does not engage with or oppose any of the specific points made in the reference talking points, and instead focuses on entirely different aspects of housing policy, it is best classified as \"not similar\" to the reference talking points.",
+        "similarity": "NOT_SIMILAR"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "testimony": {
+        "name": "Joann Ariola",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/council-member-joann-ariola-on-opposition-to-city",
+        "start_time_in_seconds": 2991.2424,
+        "end_time_in_seconds": 3198.5134,
+        "for_or_against": "Against",
+        "borough": "Queens",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "NYC City Council"
+        ],
+        "key_points": [
+            "The City of Yes would be an unmitigated disaster in its current form",
+            "Current building regulations exist to protect quality of life",
+            "Homeowners deserve to raise families in the environment they bought into",
+            "The proposal would devastate quality of life for many taxpayers and residents",
+            "It would eliminate community input via ULURP",
+            "It favors large developers over small businesses and homeowners",
+            "New Yorkers deserve a say in their neighborhoods",
+            "Advocating for smart, sustainable development that doesn't destroy suburban community character",
+            "Concerns about preserving one and two-family homes and mom-and-pop shops",
+            "Not opposed to creating more housing, but wants it done in a smarter and more sustainable manner"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "To analyze the similarity between the testimony and the reference talking points, let's break down the key points made in the testimony and compare them to the reference talking points:\n\n1. The testimony strongly opposes the \"City of Yes\" proposal, stating it would be an \"unmitigated disaster.\"\n2. The speaker emphasizes the importance of existing building regulations and protecting the quality of life in residential areas.\n3. The testimony argues for preserving the character of suburban communities and protecting small businesses.\n4. The speaker is concerned about the loss of community input in development decisions.\n5. While acknowledging the need for more housing, the testimony advocates for \"smart, sustainable development.\"\n\nComparing these points to the reference talking points:\n\n1. The reference points focus on parking reform, which is not directly addressed in the testimony.\n2. The testimony doesn't mention parking mandates or their effects on housing affordability, which are central to the reference points.\n3. The speaker's concern about preserving suburban character contrasts with the reference points' emphasis on reducing car dependency and promoting denser development.\n4. The testimony doesn't address climate change or transportation emissions, which are key arguments in the reference points.\n5. While the reference points argue for more flexibility in development, the testimony advocates for maintaining existing regulations and community input.\n\nOverall, the testimony seems to be opposing the broader \"City of Yes\" proposal, while the reference talking points specifically address parking reform. The testimony does not directly engage with or refute the specific arguments made in the reference talking points.",
+        "quotes": [],
+        "analysis": "The testimony is not closely related to the reference talking points. While both address urban development and housing, they focus on different aspects and have opposing viewpoints.\n\nThe testimony is primarily concerned with preserving the character of suburban communities, maintaining existing building regulations, and ensuring community input in development decisions. It opposes the \"City of Yes\" proposal as a whole, arguing that it would negatively impact quality of life and favor large developers over small businesses and homeowners.\n\nIn contrast, the reference talking points specifically address parking reform, arguing for the elimination of parking mandates to increase housing affordability, reduce car dependency, and combat climate change. These specific issues are not mentioned in the testimony.\n\nThe testimony does acknowledge the need for more housing, which aligns slightly with the overall goal of the reference talking points. However, the proposed solutions and priorities are vastly different. The testimony advocates for \"smart, sustainable development\" that preserves existing community characteristics, while the reference points push for significant changes to encourage denser, less car-dependent development.\n\nGiven these differences, the testimony cannot be classified as similar to or supportive of the reference talking points. It also doesn't directly oppose the specific points made about parking reform. Instead, it opposes the broader proposal without engaging with the particular arguments presented in the reference talking points.",
+        "similarity": "NOT_SIMILAR"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "testimony": {
+        "name": "Christie Peale",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/christie-peale-from-the-center-for-new-york-city",
+        "start_time_in_seconds": 31613.75,
+        "end_time_in_seconds": 31797.129,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Center for New York City Neighborhoods",
+            "MHD"
+        ],
+        "key_points": [
+            "Support for City of YES Housing proposal with conditions",
+            "Potential to increase affordable homeownership opportunities, especially for coops and condos",
+            "Opportunity to leverage new capital funds with zoning changes to increase affordable homeownership supply",
+            "Need to address racial disparities in homeownership rates",
+            "Support for creation of ADUs (Accessory Dwelling Units) for homeowners",
+            "Importance of dedicated funding for outreach, technical assistance, and construction financing for ADUs",
+            "Focus on reducing gentrification pressures and helping families stay in their communities",
+            "Need to fight against predatory pressures like defect speculation"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "To analyze the similarity between the testimony and the reference talking points, I'll review the main points of the testimony and compare them to the provided talking points:\n\n1. The testimony is from Christie Peale, representing the Center for New York City Neighborhoods.\n2. They support the City of YES Housing proposal with conditions.\n3. The testimony focuses on new homeowner opportunities and affordable homeownership.\n4. They mention the potential to leverage new capital funds with the 45x tax abatement and zoning changes.\n5. The testimony highlights the racial disparity in homeownership in New York City.\n6. They discuss the potential for ADUs (Accessory Dwelling Units) in existing 1-4 family homes.\n7. The testimony emphasizes the need for dedicated funding for outreach, technical assistance, and construction financing for ADUs.\n8. They mention their work on the Blackcomb ownership project to help Black and Brown families build generational wealth.\n9. The testimony does not directly address parking mandates, car dependency, or climate change issues.\n\nComparing these points to the reference talking points:\n- The testimony does not mention parking mandates or issues related to car dependency, which are central to the reference talking points.\n- The testimony focuses on affordable homeownership and racial equity in housing, which are not directly addressed in the reference talking points.\n- While both the testimony and the talking points address housing affordability, they approach it from different angles. The testimony focuses on homeownership, while the talking points focus on reducing costs associated with parking mandates.\n- The testimony does not discuss climate change or transportation issues, which are significant parts of the reference talking points.\n- The testimony supports the City of YES Housing proposal, which aligns with the general direction of the talking points, but for different reasons.\n\nGiven these observations, the testimony is not closely related to the specific reference talking points provided. While both address housing issues, they focus on different aspects and priorities.",
+        "quotes": [],
+        "analysis": "The testimony is not closely related to the specific reference talking points provided. While both the testimony and the talking points address aspects of housing policy in New York City, they focus on different priorities and issues.\n\nThe testimony primarily focuses on affordable homeownership, racial equity in housing, and the potential for Accessory Dwelling Units (ADUs). It supports the City of YES Housing proposal, but mainly for its potential to increase affordable homeownership opportunities and address racial disparities in homeownership.\n\nOn the other hand, the reference talking points are centered around parking mandates, their impact on housing affordability, climate change, and transportation. These specific issues are not addressed in the testimony.\n\nThe only slight overlap is in the general theme of housing affordability, but the approaches and focuses are different. The testimony looks at affordability from the perspective of homeownership and equity, while the talking points discuss affordability in relation to reduced parking requirements.\n\nGiven this analysis, the testimony is best classified as \"NOT_SIMILAR\" to the reference talking points. While it supports the same overall proposal (City of YES for Housing Opportunity), it does so for different reasons and does not address the specific issues raised in the talking points.",
+        "similarity": "NOT_SIMILAR"
+    }
+}

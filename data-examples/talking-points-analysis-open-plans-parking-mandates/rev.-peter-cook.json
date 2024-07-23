@@ -1,0 +1,31 @@
+{
+    "testimony": {
+        "name": "Rev. Peter Cook",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/rev-peter-cook-of-new-york-state-council-of",
+        "start_time_in_seconds": 24394.521,
+        "end_time_in_seconds": 24579.129,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "New York State Council of Churches",
+            "Interfaith Affordable Housing Collaborative",
+            "Mayor's Task Force on Religious Properties"
+        ],
+        "key_points": [
+            "Support for the City of Yes text amendment",
+            "Importance of addressing zoning barriers to build affordable housing",
+            "Support for universal preference and increased density with 20% permanently affordable housing at 60% AMI",
+            "Support for provisions making it easier for congregations to build affordable housing",
+            "Support for landmark provision allowing congregations to transfer development rights",
+            "Caution against overselling the City of Yes initiative",
+            "Recognition that increasing supply is not the only solution for affordability"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze this testimony step by step:\n\n1. The speaker, Rev. Peter Cook, represents faith-based organizations and is involved in affordable housing initiatives.\n2. He mentions working on \"City of Yes\" and expresses general support for the text amendment.\n3. The testimony focuses primarily on affordable housing aspects of the proposal, not on parking regulations.\n4. There's no mention of parking minimums, car dependency, or transportation-related issues.\n5. The speaker supports provisions that make it easier for congregations to build affordable housing.\n6. He mentions support for increased density with requirements for affordable housing.\n7. There's a plea to not oversell the amendment and be clear about its limitations.\n8. The speaker acknowledges that increasing supply is not the only solution to affordability issues.\n\nComparing this to the reference talking points:\n- The testimony doesn't address any of the specific parking-related points.\n- There's no mention of climate change, transportation emissions, or car-centric infrastructure.\n- The affordability aspect is touched upon, but not in relation to parking costs.\n- The testimony doesn't oppose the talking points, but it also doesn't directly support them.",
+        "quotes": [],
+        "analysis": "The testimony by Rev. Peter Cook is largely focused on affordable housing aspects of the City of Yes for Housing Opportunity proposal, particularly as it relates to faith-based organizations and their ability to develop affordable housing. The testimony does not address any of the specific points mentioned in the reference talking points, which primarily focus on parking regulations, transportation, and climate change.\n\nWhile the testimony is generally supportive of the City of Yes proposal, it does not directly reference or support the specific arguments made in the talking points about parking mandates, car dependency, or the environmental impact of transportation. The speaker's concerns and support are centered around different aspects of the proposal, mainly those related to affordable housing development and zoning changes that benefit religious organizations.\n\nThe testimony doesn't oppose the talking points either; it simply doesn't address them. The speaker's perspective is focused on a different set of priorities within the broader City of Yes proposal.\n\nGiven this analysis, the testimony cannot be classified as having high similarity to the talking points, supporting them, or being in opposition to them. The testimony is addressing different aspects of the proposal that are not covered in the provided talking points.",
+        "similarity": "NOT_SIMILAR"
+    }
+}

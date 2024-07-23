@@ -1,0 +1,34 @@
+{
+    "testimony": {
+        "name": "Suwen Cheong",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/suwen-cheong-chair-of-the-land-use-committee-of",
+        "start_time_in_seconds": 16214.417,
+        "end_time_in_seconds": 16415.69,
+        "for_or_against": "Against",
+        "borough": "Brooklyn",
+        "neighborhood": "Prospect Lefferts Gardens",
+        "stated_affiliations": [
+            "Brooklyn Community Board 9"
+        ],
+        "key_points": [
+            "CB9 overwhelmingly opposes the City of Yes for Housing Opportunity in its entirety",
+            "Two-thirds of CB9 district is covered by non-contextual R6 and R7 zoning, which is slated for the highest density increases",
+            "The Universal Affordability Program (UAP) would lead to significant increases in FAR, much larger than 20%",
+            "Most lots in these districts are already significantly underbuilt",
+            "UAP income and rent levels are higher than the district's median income",
+            "The proposal would push land prices down enough to demolish thousands of small buildings",
+            "Displacement of current residents during construction without compensation",
+            "New housing will not be affordable for the median family in the district",
+            "The proposal is seen as an 'extinction level event' for the community",
+            "Rent-stabilized apartment buildings face threat of demolition or significant alteration",
+            "Concerns about increased eviction pressure on long-time tenants",
+            "The proposal doesn't consider that different areas are starting from different places in terms of density and affordability"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze this testimony step by step:\n\n1. The speaker, Suwen Cheong, is representing Brooklyn Community Board 9 and is speaking against the City of Yes for Housing Opportunity proposal.\n\n2. The testimony focuses heavily on the negative impacts of increased density in their district, particularly in R6 and R7 zoning areas.\n\n3. The speaker mentions concerns about displacement, affordability, and the potential demolition of existing buildings.\n\n4. There is no direct mention of parking or transportation issues, which are the main focus of the reference talking points.\n\n5. The testimony does not use language or arguments that are similar to the reference talking points. In fact, it seems to be opposing the overall proposal for different reasons than those addressed in the talking points.\n\n6. The speaker is asking for a more tailored approach to zoning changes, rather than a \"one size fits all\" solution, which is not directly addressed in the talking points.\n\n7. The testimony does not support or oppose the specific parking-related issues mentioned in the talking points.",
+        "quotes": [],
+        "analysis": "The testimony provided by Suwen Cheong is not similar to the reference talking points. The testimony focuses on concerns about increased density, displacement of current residents, and the potential negative impacts on existing affordable housing in Brooklyn Community Board 9's district. \n\nThe reference talking points, on the other hand, are primarily about parking mandates, transportation issues, and how reducing parking requirements could potentially increase housing affordability and availability. \n\nThe testimony does not address any of the specific issues raised in the talking points, such as parking mandates, car dependency, or climate change. Instead, it focuses on local concerns about zoning changes and their potential impact on the community's existing housing stock and residents.\n\nWhile both the testimony and the talking points touch on the broader issue of housing affordability, they approach it from very different angles. The testimony argues that the proposed changes would lead to displacement and less affordability, while the talking points suggest that reducing parking mandates would increase affordability.\n\nGiven that the testimony is opposing the overall City of Yes for Housing Opportunity proposal but not directly addressing or opposing the specific points made in the reference talking points, it is best classified as \"not similar\" to the talking points.",
+        "similarity": "NOT_SIMILAR"
+    }
+}

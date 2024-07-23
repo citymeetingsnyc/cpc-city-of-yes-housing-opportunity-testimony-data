@@ -1,0 +1,30 @@
+{
+    "testimony": {
+        "name": "Margaret Julie Finch",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/margaret-julie-finch-former-manhattan-community",
+        "start_time_in_seconds": 28258.174,
+        "end_time_in_seconds": 28340.398,
+        "for_or_against": "Against",
+        "borough": "Manhattan",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Manhattan Community Board 2"
+        ],
+        "key_points": [
+            "Opposed to many items in the program",
+            "Supports mandated or portable housing",
+            "Against allowing more density in historic districts",
+            "Against shifting decision making from neighborhoods to commissioners",
+            "Against giving city planning more discretionary powers without going through the current land use process",
+            "Against eliminating use districts that limit where casinos, nightclubs, and strip clubs can be located",
+            "Long-time resident of Manhattan (48 years in a rent-stabilized loft)",
+            "Does not own a car"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "To analyze this testimony, I'll break it down step by step:\n\n1. The speaker, Margaret Julie Finch, states she is opposed to many items in the program.\n2. She mentions being in favor of \"mandated or portable housing,\" which doesn't directly relate to the parking-focused talking points.\n3. She states she lives in a rent-stabilized Manhattan loft and doesn't own a car.\n4. She opposes:\n   a. Allowing more density in historic districts\n   b. Shifting decision-making from neighborhoods to commissioners\n   c. Giving city planning more discretionary powers\n   d. Eliminating youth districts to allow casinos, nightclubs, etc.\n5. The testimony doesn't mention parking requirements, climate change, or transportation issues.\n\nComparing this to the reference talking points:\n1. The testimony doesn't address parking mandates or their removal.\n2. It doesn't discuss housing affordability in relation to parking.\n3. There's no mention of climate crisis or transportation emissions.\n4. The speaker's concerns are mostly about preserving neighborhood character and local decision-making power.\n5. While she mentions not owning a car, she doesn't express any opinion on car-centric infrastructure or incentivizing driving.\n\nOverall, the testimony does not seem to directly address or align with the provided talking points.",
+        "quotes": [],
+        "analysis": "The testimony by Margaret Julie Finch is largely unrelated to the reference talking points provided. The talking points focus primarily on parking mandates, their impact on housing affordability, climate change, and transportation. In contrast, Finch's testimony revolves around preserving neighborhood character, maintaining local decision-making power, and opposing changes to zoning that would allow more diverse businesses in certain areas.\n\nWhile Finch mentions that she doesn't own a car, she doesn't elaborate on this point or connect it to any broader urban planning or transportation issues. Her testimony doesn't address parking mandates, housing affordability in relation to parking, or any of the climate and transportation concerns raised in the talking points.\n\nThe only slight connection might be her opposition to \"allowing more density in historic districts,\" which could potentially relate to the talking points about housing affordability and availability. However, this connection is tenuous at best, as the talking points don't specifically mention historic districts or preservation.\n\nGiven the lack of direct references or even thematic overlap with the provided talking points, this testimony appears to be addressing different aspects of the \"City of Yes for Housing Opportunity\" proposal than those covered in the reference talking points.",
+        "similarity": "NOT_SIMILAR"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "testimony": {
+        "name": "Megan Fitzpatrick",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/megan-fitzpatrick-from-landmark-west-on-city-of",
+        "start_time_in_seconds": 24862.727,
+        "end_time_in_seconds": 25011.38,
+        "for_or_against": "Against",
+        "borough": "Manhattan",
+        "neighborhood": "Upper West Side",
+        "stated_affiliations": [
+            "Landmark West"
+        ],
+        "key_points": [
+            "City of Yes will not produce more environmentally conscious, viable, and affordable housing",
+            "The proposal will weaken housing standards and benefit developers at the expense of residents",
+            "It will not significantly increase affordable housing stock and will make affordable housing optional",
+            "The plan will increase market-rate development in already dense residential areas",
+            "It may create substandard and unsustainable housing",
+            "The proposal could accelerate gentrification",
+            "It may negatively impact quality of life due to increased traffic and density",
+            "The plan excludes public and City Council input from land use decisions",
+            "It loosens landmark transfer development rights, potentially allowing taller market-rate buildings",
+            "The organization supports changes that enhance livability and equity, which they feel this proposal does not do"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Megan Fitzpatrick, represents Landmark West, a historic preservation and land use nonprofit.\n2. They express opposition to the City of Yes for Housing Opportunity proposal.\n3. The testimony focuses on concerns about weakening housing standards, increasing market-rate development, and potential negative impacts on neighborhood quality of life.\n4. There is no mention of parking mandates or transportation issues, which are key points in the reference talking points.\n5. The testimony expresses concern about the proposal benefiting developers at the expense of residents, which is somewhat opposite to the claims made in the reference talking points about increasing affordability.\n6. The speaker mentions concerns about excluding public input from land use decisions, which is not addressed in the reference talking points.\n7. There is a mention of allowing taller market-rate buildings through loosening landmark transfer development rights, which is not directly addressed in the reference talking points.\n8. The testimony does not discuss climate change, emissions, or transportation infrastructure, which are significant points in the reference talking points.\n\nOverall, the testimony seems to be opposing the City of Yes proposal, but for reasons different from those addressed in the reference talking points. The testimony focuses on preservation and neighborhood character concerns, while the talking points primarily discuss parking and transportation issues.",
+        "quotes": [],
+        "analysis": "The testimony provided by Megan Fitzpatrick on behalf of Landmark West is not closely related to the reference talking points. While both the testimony and the talking points discuss the City of Yes for Housing Opportunity proposal, they focus on entirely different aspects and concerns.\n\nThe reference talking points primarily address issues related to parking mandates, transportation, climate change, and affordability as it relates to parking requirements. In contrast, the testimony focuses on concerns about neighborhood preservation, housing standards, and the potential negative impacts of increased market-rate development on existing communities.\n\nThe testimony does not mention parking, transportation, or climate change, which are central themes in the reference talking points. Instead, it expresses concerns about the proposal benefiting developers at the expense of residents, which is somewhat contrary to the claims made in the reference talking points about increasing affordability through reduced parking requirements.\n\nThe speaker's concerns about excluding public input from land use decisions and loosening landmark transfer development rights are not addressed in the reference talking points at all.\n\nWhile both the testimony and the talking points discuss affordability, they approach it from different angles. The testimony suggests that the proposal will not significantly increase affordable housing stock, while the talking points argue that reducing parking mandates will lead to increased affordability.\n\nIn conclusion, the testimony is not similar to the reference talking points because it does not address any of the specific issues raised in the talking points. Instead, it presents a different set of concerns and arguments against the City of Yes proposal.",
+        "similarity": "NOT_SIMILAR"
+    }
+}

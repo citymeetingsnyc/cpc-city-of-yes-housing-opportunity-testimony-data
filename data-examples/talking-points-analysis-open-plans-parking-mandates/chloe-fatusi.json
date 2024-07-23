@@ -1,0 +1,31 @@
+{
+    "testimony": {
+        "name": "Chloe Fatusi",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/chloe-fatusi-resident-of-cobble-hill-brooklyn-on",
+        "start_time_in_seconds": 27372.43,
+        "end_time_in_seconds": 27447.055,
+        "for_or_against": "For",
+        "borough": "Brooklyn",
+        "neighborhood": "Cobble Hill",
+        "stated_affiliations": [],
+        "key_points": [
+            "Support for City of Yes initiative",
+            "Concerned about friends' and children's ability to stay in the city",
+            "Housing supply and cost directly impact affordability",
+            "Excited about lifting parking minimums",
+            "Need to move away from car dependency",
+            "City stepping up to solve housing problems"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Chloe Fatusi, expresses support for the City of Yes proposal.\n2. She mentions being worried about her friends' and children's ability to stay in the city, implying concerns about housing affordability.\n3. She specifically mentions being excited about lifting parking minimums, which directly relates to one of the main points in the reference talking points.\n4. She acknowledges the need to move away from car dependency, which aligns with several points in the reference talking points about reducing car-centric infrastructure and combating climate change.\n5. While she doesn't go into great detail, her support for the proposal and specific mention of parking minimums suggest she likely agrees with many of the points made in the reference talking points.\n6. However, she doesn't use specific language or arguments directly from the talking points, suggesting she may have come to these conclusions independently or from other sources.",
+        "quotes": [
+            {
+                "text": "I'm especially excited to see parking minimums lifted, not only because it will help build more housing, but because it is a recognition of a need to move away from car dependency.",
+                "reasoning": "This quote directly relates to several points in the reference talking points, including the lifting of parking mandates, the connection to housing affordability, and the need to reduce car dependency."
+            }
+        ],
+        "analysis": "The testimony shows a significant level of support for the City of Yes proposal, particularly in relation to lifting parking minimums. While the speaker doesn't use language directly from the reference talking points, her arguments align closely with several key points, especially regarding housing affordability, reducing car dependency, and the relationship between parking requirements and housing supply.\n\nThe speaker's concerns about housing affordability for future generations and her recognition of the need to move away from car dependency closely mirror the spirit of the reference talking points. However, she doesn't delve into specific details or statistics mentioned in the talking points, such as the cost of building parking spaces or the percentage of New Yorkers who commute by car.\n\nOverall, while the testimony is not using identical language or making all the same arguments as the reference talking points, it is clearly supporting the same general goals and ideas. The speaker appears to have come to similar conclusions independently or from other sources, rather than directly referencing the provided talking points.",
+        "similarity": "SUPPORTING_TALKING_POINTS"
+    }
+}

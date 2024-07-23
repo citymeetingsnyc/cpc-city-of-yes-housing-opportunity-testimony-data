@@ -1,0 +1,31 @@
+{
+    "testimony": {
+        "name": "Lo van der Valk",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/lo-van-der-valk-president-of-carnegie-hill",
+        "start_time_in_seconds": 43708.895,
+        "end_time_in_seconds": 43932.78,
+        "for_or_against": "Against",
+        "borough": "Manhattan",
+        "neighborhood": "Upper East Side",
+        "stated_affiliations": [
+            "Carnegie Hill Neighbors"
+        ],
+        "key_points": [
+            "Supports goals of increasing affordable housing but has specific concerns",
+            "Opposes changes to Madison Avenue special preservation district",
+            "Concerned about height increase from 75 to 105 feet in RBH zones",
+            "Objects to shortening of required minimum rear yards from 30 to 20 feet",
+            "Opposes allowing rear yards to be completely covered to a height of 15 feet for non-dwelling residential uses",
+            "Suggests avenues and avenue corners as appropriate places for height increases",
+            "Concerned about increased reliance on CPC authorizations instead of public reviews",
+            "Believes extended boundaries for transferring development rights may be too generous",
+            "Fears that 20% height increase for affordable housing may displace existing affordable units and mainly provide luxury housing"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Lo van der Valk, represents Carnegie Hill Neighbors from the Upper East Side of Manhattan.\n\n2. They express support for the general goal of increasing affordable housing but have specific concerns about the proposal.\n\n3. The testimony focuses on several local issues:\n   a. Madison Avenue special preservation district\n   b. Protection of mid-blocks\n   c. Changes to rear yard regulations\n   d. Increase in authorizations by CPC rather than public reviews\n   e. Transfer of development rights for landmark buildings\n   f. Universal affordability preferences\n\n4. The speaker's concerns are primarily about preserving the character of their neighborhood and maintaining existing regulations.\n\n5. There is no direct mention of parking regulations or any of the specific points raised in the reference talking points.\n\n6. The testimony does briefly mention affordable housing, but in a different context than the talking points. The speaker is concerned that new developments might displace existing affordable units and mainly provide luxury housing.\n\n7. The testimony does not address issues like climate change, transportation, or the benefits of reducing parking mandates, which are key points in the reference talking points.\n\n8. Overall, the testimony seems to be focused on local zoning and preservation issues rather than the broader city-wide concerns addressed in the talking points.",
+        "quotes": [],
+        "analysis": "The testimony provided by Lo van der Valk on behalf of Carnegie Hill Neighbors is not similar to the reference talking points. The testimony focuses on local zoning and preservation issues specific to the Upper East Side of Manhattan, particularly concerning the Madison Avenue special preservation district, mid-block protections, and other zoning regulations.\n\nThe reference talking points, on the other hand, primarily discuss the benefits of reducing parking mandates and how this change can address issues such as housing affordability, climate change, and transportation. These topics are not addressed in the testimony.\n\nWhile the testimony does mention affordable housing briefly, it does so in a different context than the talking points. The speaker expresses concern that new developments might displace existing affordable units, rather than discussing how reducing parking mandates could potentially increase housing affordability.\n\nThe testimony does not oppose the overall City of Yes for Housing Opportunity proposal directly, but rather expresses concerns about specific aspects of zoning changes that could affect their neighborhood. These concerns do not align with or directly oppose the points made in the reference talking points.\n\nGiven this analysis, it's clear that the testimony is not similar to the reference talking points, as it does not address any of the specific issues raised in those points.",
+        "similarity": "NOT_SIMILAR"
+    }
+}

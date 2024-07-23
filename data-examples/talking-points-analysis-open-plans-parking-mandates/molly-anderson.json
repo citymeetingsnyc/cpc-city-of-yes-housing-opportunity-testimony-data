@@ -1,0 +1,41 @@
+{
+    "testimony": {
+        "name": "Molly Anderson",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/molly-anderson-from-low-income-investment-fund-on",
+        "start_time_in_seconds": 35754.855,
+        "end_time_in_seconds": 35935.215,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Low Income Investment Fund",
+            "National Community Development Finance Institution"
+        ],
+        "key_points": [
+            "Strong support for City of Yes for Housing Opportunity proposal",
+            "New York City is experiencing a severe housing and affordability crisis",
+            "Existing housing policies are unsustainable",
+            "The affordability crisis disproportionately impacts Black and Latino families",
+            "Some neighborhoods have opted out of adding new housing, perpetuating exclusionary zoning policies",
+            "Net loss of affordable housing units in recent years",
+            "City of Yes for Housing Opportunity is a vital step towards addressing housing issues",
+            "Need for citywide zoning reforms to allow more housing to be built across all neighborhoods",
+            "Building more housing is necessary for a fair and inclusive city"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Molly Anderson, represents the Low Income Investment Fund and expresses strong support for the City of Yes for Housing Opportunity proposal.\n\n2. The testimony focuses primarily on the housing crisis in New York City, emphasizing the need for more affordable housing and the current issues with housing availability and affordability.\n\n3. The speaker mentions specific statistics about the housing crisis, such as the low vacancy rate and the high percentage of rent-burdened households.\n\n4. The testimony highlights the disproportionate impact of the housing crisis on Black and Latino families.\n\n5. The speaker discusses the uneven distribution of new housing across community districts and the net loss of affordable housing units.\n\n6. The testimony doesn't directly mention parking mandates or transportation issues, which are key points in the reference talking points.\n\n7. However, the overall goal of increasing housing affordability and availability aligns with some of the outcomes mentioned in the reference talking points, such as reducing rent burdens and increasing housing affordability.\n\n8. The testimony supports citywide zoning reforms to allow for more housing to be built across all neighborhoods, which is in line with the general spirit of the reference talking points, although it doesn't specifically mention parking reforms.",
+        "quotes": [
+            {
+                "text": "New York City is experiencing a severe and growing housing and affordability crisis with a vacancy rate of only 1.4% the lowest in 56 years and approximately 43% of New York City households being rent burdened.",
+                "reasoning": "This quote aligns with the reference talking points' emphasis on housing affordability and availability issues, although it doesn't specifically mention parking mandates."
+            },
+            {
+                "text": "The city of Yes for Housing Opportunity is a vital step towards addressing these issues by implementing citywide zoning reforms that will allow for more housing to be built across all neighborhoods.",
+                "reasoning": "While this quote doesn't directly reference parking mandates, it supports citywide zoning reforms to increase housing, which is in the same spirit as the reference talking points' proposal to reform parking regulations to allow for more housing."
+            }
+        ],
+        "analysis": "The testimony is generally supportive of the City of Yes for Housing Opportunity proposal and addresses the broader issues of housing affordability and availability in New York City. However, it does not specifically mention or address the parking mandate reforms that are central to the reference talking points.\n\nThe testimony focuses on the housing crisis, affordability issues, and the need for more housing across all neighborhoods. These themes are broadly aligned with the goals mentioned in the reference talking points, such as increasing housing affordability and availability, and reducing rent burdens.\n\nHowever, the testimony does not discuss any specific zoning reforms related to parking mandates, transportation issues, or the environmental impacts of car-centric infrastructure. These are key elements of the reference talking points that are not addressed in the testimony.\n\nWhile the overall goal of creating more affordable housing and implementing citywide zoning reforms is similar, the specific approach and focus of the testimony differ from the reference talking points. The testimony appears to be supporting the City of Yes for Housing Opportunity proposal from a broader housing affordability perspective, rather than specifically advocating for the parking mandate reforms outlined in the reference talking points.",
+        "similarity": "SUPPORTING_TALKING_POINTS"
+    }
+}

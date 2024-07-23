@@ -1,0 +1,39 @@
+{
+    "testimony": {
+        "name": "Olivia Killingsworth",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/olivia-killingsworth-actor-and-open-new-york",
+        "start_time_in_seconds": 43407.418,
+        "end_time_in_seconds": 43580.06,
+        "for_or_against": "For",
+        "borough": "Brooklyn",
+        "neighborhood": "South Brooklyn",
+        "stated_affiliations": [
+            "Open New York",
+            "Actor's Equity",
+            "SAG-AFTRA"
+        ],
+        "key_points": [
+            "Support for City of Yes for Housing Opportunity initiative",
+            "Importance of affordable housing for artists and creative professionals",
+            "Advocacy for shared housing and SROs (Single Room Occupancy units)",
+            "Personal experience living in micro apartments and its positive impact",
+            "Concern about the city's ability to welcome new generations of creative workers",
+            "Impact of housing affordability on the vibrancy and creative culture of New York City"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Olivia Killingsworth, is supportive of the City of Yes for Housing Opportunity initiative.\n2. She focuses on the need for affordable housing, especially for artists and creative professionals.\n3. She specifically mentions and supports provisions for shared housing and SROs (Single Room Occupancy units).\n4. The speaker doesn't directly mention parking or transportation issues, which are a significant part of the reference talking points.\n5. While the testimony is in favor of the initiative, it doesn't use similar language or arguments as the reference talking points.\n6. The speaker's main arguments revolve around affordability for artists and maintaining the city's creative vibrancy, which aren't directly addressed in the reference talking points.\n7. There's a slight overlap in the general theme of housing affordability, but the specific focus and arguments differ significantly.",
+        "quotes": [
+            {
+                "text": "I really hope that the planning commission approves this proposal in its strongest possible form so that we can provide new opportunities for New Yorkers to live in more types of housing, especially young artists just starting out.",
+                "reasoning": "This quote shows support for the initiative and mentions providing new housing opportunities, which aligns with the general goal of the talking points, although it focuses specifically on artists rather than broader affordability issues."
+            },
+            {
+                "text": "I especially wanna focus on the provisions to allow shared housing and SROs or single room occupancy units.",
+                "reasoning": "While this quote doesn't directly relate to any of the reference talking points, it does touch on alternative housing types that could potentially increase affordability, which is a broader theme in the talking points."
+            }
+        ],
+        "analysis": "The testimony is generally supportive of the City of Yes for Housing Opportunity initiative, but it focuses on different aspects than those highlighted in the reference talking points. The speaker, Olivia Killingsworth, emphasizes the need for affordable housing options for artists and creative professionals, particularly mentioning shared housing and SROs. While affordability is a theme that appears in both the testimony and the reference talking points, the specific arguments and focus areas are quite different.\n\nThe reference talking points heavily emphasize parking reform, transportation issues, and climate change, none of which are mentioned in Killingsworth's testimony. Her arguments are centered around maintaining New York's creative vibrancy by providing affordable housing options for artists, which is not a focus of the provided talking points.\n\nWhile both the testimony and the talking points support the initiative, they do so for different reasons and with different emphases. The testimony doesn't use similar language, quotes, claims, or arguments as the reference talking points. Instead, it provides a unique perspective focused on the needs of the artistic community.",
+        "similarity": "SUPPORTING_TALKING_POINTS"
+    }
+}

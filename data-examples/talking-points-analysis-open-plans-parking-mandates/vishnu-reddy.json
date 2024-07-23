@@ -1,0 +1,29 @@
+{
+    "testimony": {
+        "name": "Vishnu Reddy",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/vishnu-reddy-resident-of-sunnyside-queens-on",
+        "start_time_in_seconds": 42876.953,
+        "end_time_in_seconds": 42988.223,
+        "for_or_against": "For",
+        "borough": "Queens",
+        "neighborhood": "Sunnyside",
+        "stated_affiliations": [],
+        "key_points": [
+            "Support for City of Yes for Housing Opportunity",
+            "Skyrocketing rents in Sunnyside and across the city",
+            "Dire housing shortage affecting the city and region",
+            "Housing costs harming all but the wealthiest New Yorkers",
+            "Desire for New York to remain a welcoming city for vulnerable populations",
+            "City of Yes is a good start but more action is needed",
+            "Need for continued encouragement of home creation",
+            "Call for help from Albany to fund affordable housing and involve suburbs in housing creation",
+            "Appreciation for city planning staff and organizers working on housing issues"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze this testimony step by step:\n\n1. The speaker, Vishnu Reddy, expresses strong support for the \"City of Yes for Housing Opportunity\" proposal.\n\n2. They mention skyrocketing rents and a dire housing shortage in New York City, which aligns with the general theme of the reference talking points about housing affordability.\n\n3. The testimony focuses on the need for affordable housing and welcoming diverse groups of people to the city, including those seeking abortion care, queer folks, and immigrants.\n\n4. While the speaker doesn't directly mention parking mandates or transportation issues, they do emphasize the need for more housing and making the city affordable for all, not just the wealthy.\n\n5. The speaker views the City of Yes proposal as a step in the right direction but believes more action is needed, including encouragement for building more homes and support from Albany for affordable housing.\n\n6. The testimony doesn't directly address any specific points from the reference talking points, such as parking mandates, climate change, or transportation issues.\n\n7. The overall tone and message of the testimony align with the general goal of increasing housing affordability and availability, which is one of the key issues mentioned in the reference talking points.\n\nGiven this analysis, while the testimony supports the same general goal of increasing housing affordability, it doesn't specifically address the talking points provided about parking mandates and transportation issues.",
+        "quotes": [],
+        "analysis": "The testimony by Vishnu Reddy is generally supportive of the \"City of Yes for Housing Opportunity\" proposal and aligns with the broader goal of increasing housing affordability and availability in New York City. However, the testimony does not directly reference or discuss the specific talking points provided, which primarily focus on parking mandates and their impact on housing, transportation, and climate change.\n\nThe speaker emphasizes the need for affordable housing and creating a welcoming city for diverse groups of people, which indirectly supports the overall objective of the reference talking points. However, they do not delve into the specific policy measures mentioned in the talking points, such as reducing parking mandates or discussing their impact on rent prices and climate change.\n\nWhile the testimony is in favor of increasing housing opportunities and affordability, it does not demonstrate a high similarity to the specific arguments and claims made in the reference talking points. The speaker's focus is more on the general need for affordable housing and creating an inclusive city, rather than the specific policy measures outlined in the talking points.\n\nGiven this analysis, the testimony can be categorized as SUPPORTING_TALKING_POINTS. It supports the overall goal of increasing housing affordability and availability, which is a key theme in the reference talking points. However, it does not directly address or use language similar to the specific arguments about parking mandates and their various impacts as outlined in the talking points.",
+        "similarity": "SUPPORTING_TALKING_POINTS"
+    }
+}

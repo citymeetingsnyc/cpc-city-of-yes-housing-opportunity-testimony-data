@@ -1,13 +1,16 @@
 import json
 import logging
 import os
+from typing import Callable
 
 import click
 from dotenv import load_dotenv
+from pydantic import BaseModel
 from rich.logging import RichHandler
 from rich.prompt import Confirm
 
-import city_of_yes_elements
+import proposal_elements_analysis
+import talking_points_analysis
 from models import Transcript
 
 FORMAT = "%(message)s"
@@ -24,23 +27,47 @@ TESTIMONIES_PATH = "testimonies.json"
 EXTRACTED_DATA_DIR = "extracted-data"
 
 
-@click.command()
-@click.argument(
-    "analysis", type=click.Choice(["coy-proposal-elements", "reference-talking-points"])
-)
-def main(analysis):
-    """
-    Analyze testimonies based on the specified analysis type.
-    """
-    if analysis == "coy-proposal-elements":
-        extract_fn = city_of_yes_elements.extract
-    elif analysis == "reference-talking-points":
-        extract_fn = reference_talking_points.extract
-    else:
-        raise ValueError(f"Unknown analysis type: {analysis}")
+@click.group()
+def cli():
+    """Analyze testimonies based on different criteria."""
+    pass
 
-    logger.info(f"Running analysis: {analysis}")
 
+@cli.command()
+def proposal_elements():
+    """Analyze testimonies for which City of Yes proposal elements they discuss."""
+    run_analysis(proposal_elements_analysis.extract)
+
+
+@cli.command()
+@click.argument("reference_talking_points_path", type=click.Path(exists=True))
+def talking_points(reference_talking_points_path):
+    """Analyze testimonies for how closely they reference reference talking points.
+
+    Talking points must be a Markdown file with bullet points, one for each talking point."""
+
+    with open(reference_talking_points_path, "r") as f:
+        reference_talking_points = f.read()
+
+    run_analysis(
+        talking_points_analysis.extract,
+        reference_talking_points=reference_talking_points,
+    )
+
+
+@cli.command()
+@click.argument("extracted_data_dir", type=click.Path(exists=True))
+@click.argument("reference_talking_points_path", type=click.Path(exists=True))
+def talking_points_report(extracted_data_dir, reference_talking_points_path):
+    """Generate a report from the talking points analysis."""
+    print(
+        talking_points_analysis.generate_report(
+            extracted_data_dir, reference_talking_points_path
+        )
+    )
+
+
+def run_analysis(extract_fn: Callable[[Transcript, str], BaseModel], **extract_fn_args):
     if not os.path.exists(EXTRACTED_DATA_DIR):
         os.makedirs(EXTRACTED_DATA_DIR)
 
@@ -63,11 +90,11 @@ def main(analysis):
         testimony_transcript = transcript.from_start_time_to_end_time(
             testimony["start_time_in_seconds"], testimony["end_time_in_seconds"]
         )
-        extracted_data = extract_fn(testimony_transcript)
+        extracted_data = extract_fn(testimony_transcript, **extract_fn_args)
 
         testimony_with_extracted_data = {
             "testimony": testimony,
-            "extracted_data": extracted_data,
+            "extracted_data": extracted_data.model_dump(),
         }
 
         name_slug = testimony["name"].replace(" ", "-").lower()
@@ -76,4 +103,4 @@ def main(analysis):
 
 
 if __name__ == "__main__":
-    main()
+    cli()
