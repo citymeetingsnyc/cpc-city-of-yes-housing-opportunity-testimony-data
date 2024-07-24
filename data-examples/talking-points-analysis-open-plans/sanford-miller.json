@@ -1,0 +1,50 @@
+{
+    "testimony": {
+        "name": "Sanford Miller",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/sanford-miller-from-manhattan-community-board-4-on",
+        "start_time_in_seconds": 46215.656,
+        "end_time_in_seconds": 46403.12,
+        "for_or_against": "For",
+        "borough": "Manhattan",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Manhattan Community Board 4",
+            "Health care team"
+        ],
+        "key_points": [
+            "Concerned about rising rental costs in the city",
+            "Supports increasing housing supply across the city (both market-rate and affordable)",
+            "Supports dropping parking requirements to reduce housing costs and increase housing production",
+            "Endorses the UAP (Unified Affordable Housing Program) as a nuanced approach to increase affordable housing in high-density districts",
+            "Appreciates how UAP preserves special districts while allowing for 20% additional density",
+            "Impressed with the presentation and execution of UAP mapping across the city"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Sanford Miller, is a renter concerned about rising housing costs in NYC.\n2. He supports the \"City of Yes for Housing Opportunity\" proposal to increase housing supply.\n3. He specifically mentions and supports dropping parking requirements.\n4. He cites the high cost of building parking ($67,000 per spot) as a reason for support.\n5. He argues that parking mandates increase housing costs and force people to pay for parking they don't use.\n6. He also mentions support for UAP (Unified Affordable Program) as a way to increase affordable housing.\n\nNow, let's compare this to the reference talking points:\n\n1. The testimony aligns closely with the talking point about reducing parking mandates to increase housing affordability and availability.\n2. The speaker's mention of the high cost of parking construction ($67,000) is similar to the talking point mentioning $150,000 per space for below-ground parking.\n3. The testimony supports the idea that parking mandates increase housing costs, which is directly mentioned in the talking points.\n4. The speaker's concern about paying for unused parking aligns with the talking point about parking mandates prioritizing car owners over others.\n5. While the testimony doesn't mention climate change or transportation emissions, it does support the overall goal of reducing parking requirements.\n6. The testimony doesn't mention many of the other talking points, such as street safety, public transportation, or comparisons to other cities.\n\nOverall, while the testimony doesn't cover all the talking points, it strongly aligns with the main arguments against parking mandates and their impact on housing affordability.",
+        "talking_point_evidence": [
+            {
+                "quote": "Want to talk about the dropping of parking requirements is something I'd probably support, both from a trended perspective and from a housing perspective.",
+                "analysis": "This quote directly supports the talking point about reducing parking mandates to address housing affordability and availability. The speaker explicitly states support for dropping parking requirements.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "As I think other people have mentioned, it costs $67,000, I believe, with the estimate. It's built apart from vitamin Hannon, but it's astronomical.",
+                "analysis": "This quote supports the talking point about the high cost of building parking spaces. While the exact figure differs ($67,000 vs $150,000 in the talking points), the core argument about the high cost is the same.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "And surely does. Both prevent housing from being built and increase the cost of housing that is built.",
+                "analysis": "This quote directly supports the talking point that parking mandates increase housing costs and reduce housing supply. It's making the same argument as the reference talking points.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "And parking mandates require people to pay for housing or taking parking that they're not even using. Which just seems totally unfair to me than someone who wants to, you know, use some very medical can't say nothing. They're still forced to do, like, somewhere worth talking that they are paying for.",
+                "analysis": "This quote aligns with the talking point about parking mandates prioritizing car owners and forcing non-car owners to pay for unused parking. While the language is different, the core argument is the same.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows a strong alignment with several key talking points, particularly those related to parking mandates and their impact on housing affordability. The speaker, Sanford Miller, explicitly supports dropping parking requirements and provides arguments that closely mirror those in the reference talking points.\n\nThe testimony focuses primarily on the housing affordability aspect of reducing parking mandates, which is a central theme in the talking points. Miller's arguments about the high cost of building parking and how it increases housing costs are nearly identical to those in the talking points.\n\nWhile the testimony doesn't cover all aspects mentioned in the talking points (such as climate change, street safety, or comparisons to other cities), it strongly supports the core argument against parking mandates and their impact on housing costs and availability.\n\nThe level of similarity in the arguments and the explicit support for dropping parking requirements suggest that the speaker may be familiar with or influenced by similar talking points, even if not directly using the provided reference material.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}

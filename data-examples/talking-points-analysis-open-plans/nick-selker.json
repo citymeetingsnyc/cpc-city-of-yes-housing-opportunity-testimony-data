@@ -1,0 +1,44 @@
+{
+    "testimony": {
+        "name": "Nick Selker",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/nick-selker-on-support-for-city-of-yes-initiative",
+        "start_time_in_seconds": 30673.035,
+        "end_time_in_seconds": 30801.059,
+        "for_or_against": "For",
+        "borough": "Manhattan",
+        "neighborhood": "Upper West Side",
+        "stated_affiliations": [],
+        "key_points": [
+            "The city has a housing crisis with high rents and low vacancy rates",
+            "Current urban planning approach is not meeting housing needs",
+            "City of Yes provides a variety of affordable housing options",
+            "Increased housing supply affects and can lower rental prices",
+            "ADUs, SROs, UAP, and transit-oriented development are beneficial policies",
+            "Cities that encourage housing see rents fall, while restrictive zoning leads to rent increases",
+            "Current housing shortage hurts renters",
+            "The city needs more shelters for current and future residents"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Nick Selker, is a renter on the Upper West Side of Manhattan.\n2. He acknowledges a housing crisis in the city, with high rents and low vacancy rates.\n3. He supports the \"City of Yes\" proposal, stating it provides a variety of affordable housing options.\n4. He mentions that lack of housing supply affects prices, citing a study that shows even market-rate housing can lower rents nearby.\n5. He specifically mentions ADUs, SROs, UAP, and transit-oriented development as positive policies.\n6. He argues that when cities encourage housing, rents fall, and when they restrict housing, rents rise.\n7. He emphasizes that current policies hurt renters while benefiting landlords and homeowners.\n8. He concludes by encouraging the planning commission to pass the \"City of Yes\" proposal.\n\nNow, comparing this to the reference talking points:\n\n1. The testimony doesn't directly mention parking, which is a major focus of the talking points.\n2. Both the testimony and talking points emphasize the need for affordable housing and reducing rent burdens.\n3. The testimony supports transit-oriented development, which aligns with the talking points' emphasis on reducing car dependency.\n4. Both the testimony and talking points mention the negative effects of restrictive zoning on housing affordability.\n5. The testimony doesn't mention climate change or street safety, which are part of the talking points.\n6. Both the testimony and talking points reference other cities as examples of successful housing policy changes.\n\nWhile there are some alignments, particularly around housing affordability and the benefits of less restrictive zoning, the testimony doesn't cover many specific points from the reference talking points, especially regarding parking.",
+        "talking_point_evidence": [
+            {
+                "quote": "The core tenets of this legislative reform provide a variety of affordable housing options, all of which are desperately needed to accommodate everyday people like myself and many of people in this room.",
+                "analysis": "This quote supports the general idea of increasing housing affordability, which is a key theme in the reference talking points. However, it doesn't make the same specific claims about parking mandates or their effects on housing costs.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "ADUs, SROs, UAP and transit oriented development are all great policies. That will help many of our neighborhoods do their part in beating our shared goal for affordable housing.",
+                "analysis": "This quote supports the idea of transit-oriented development, which aligns with the talking points' emphasis on reducing car dependency and promoting alternative transportation. However, it doesn't explicitly mention parking mandates or their removal.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "We can look at examples from Austin to Auckland when cities encourage housing rents fall. And when cities have restrictive and owner or zoning, to block housing, we see ranch rise.",
+                "analysis": "This quote aligns with the talking points' mention of other cities that have implemented similar policies successfully. It also supports the general idea that restrictive zoning leads to higher housing costs, which is implicit in the talking points about parking mandates increasing costs.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony supports some of the same goals as the reference talking points, particularly regarding increasing housing affordability and supply. However, it doesn't directly address many of the specific points about parking mandates, which are a central focus of the reference talking points. The testimony focuses more on general housing policy and zoning issues, while the talking points are specifically about the impacts of parking requirements on housing and urban development.\n\nThe speaker does mention transit-oriented development, which aligns with the talking points' emphasis on reducing car dependency. However, he doesn't explicitly discuss parking or its relationship to housing costs and urban design, which are key elements of the reference talking points.\n\nWhile there is some overlap in the general goals and principles, the specific arguments and focus areas are quite different between the testimony and the reference talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

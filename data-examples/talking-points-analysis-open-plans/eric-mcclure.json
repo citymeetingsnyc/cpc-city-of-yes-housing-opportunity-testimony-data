@@ -1,0 +1,50 @@
+{
+    "testimony": {
+        "name": "Eric McClure",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/eric-mcclure-of-streetspac-on-eliminating-parking",
+        "start_time_in_seconds": 41864.176,
+        "end_time_in_seconds": 41999.9,
+        "for_or_against": "For",
+        "borough": "Brooklyn",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "StreetsPAC",
+            "Brooklyn Community Board 6"
+        ],
+        "key_points": [
+            "Strong support for eliminating parking requirements",
+            "Support for expansion of transit-oriented development",
+            "Endorsement of town center zoning initiative",
+            "Increasing density around transit to combat climate change and promote housing creation",
+            "Reducing reliance on cars and making streets safer",
+            "Improving public transit"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The testimony strongly supports eliminating parking requirements, which aligns with several reference talking points.\n\n2. The speaker mentions that eliminating parking mandates will help spur housing growth and reduce incentives for car ownership, which corresponds to the reference points about increasing housing affordability and availability.\n\n3. The testimony specifically states \"Ending parking mandates is not banned parking,\" which is almost identical to a reference talking point.\n\n4. The speaker mentions that developers will build parking where there's demand, aligning with the reference point about allowing parking to meet the needs of each neighborhood.\n\n5. The testimony supports transit-oriented development and increasing density around transit, which relates to the reference points about prioritizing active and public transportation.\n\n6. While the testimony doesn't mention specific costs of parking construction or climate change directly, it does touch on these themes more broadly.\n\n7. The speaker represents StreetsPAC, which focuses on reducing reliance on cars and improving public transit, aligning with several of the reference talking points.\n\nGiven these observations, there is a high degree of alignment between the testimony and the reference talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "Ending parking mandates is not banned parking, far from it. Developers will build parking where there's demand for it, but zoning won't force its inclusion where it isn't warranted.",
+                "analysis": "This quote is almost identical to two of the reference talking points. It directly addresses the misconception about banning parking and emphasizes that parking will be built based on demand, which is exactly what the reference points state.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "These onerous mandates have impeded the creation of housing across large expanses of the city for decades adding tremendous cost to new housing development and in many cases compelling developers to build fewer units and zoning allows in order to avoid triggering expensive parking requirements.",
+                "analysis": "While not using the exact language, this quote supports the reference talking point about parking mandates increasing costs and reducing housing availability. It makes the same argument that parking requirements are expensive and limit housing development.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Eliminating these mandates will help spur housing growth while also reducing the perverse incentive for car ownership and driving the and and driving that the existing requirements create.",
+                "analysis": "This quote supports multiple reference talking points. It touches on increasing housing availability and reducing incentives for car ownership, which aligns with the points about addressing housing affordability and the climate crisis.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Increasing density around transit, whether that be subway and commuter rail stations, select service routes or the future path of the inner borough express and walkable and vikable neighborhoods is a crucial policy for combating climate change as well as burning housing creation and will make it much easier for New Yorkers to avoid the tremendous financial burden of car ownership should they so choose.",
+                "analysis": "This quote supports several reference talking points, including addressing the climate crisis, increasing housing availability, and prioritizing active and public transportation. While it doesn't use the exact language of the talking points, it conveys very similar ideas.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony is very closely related to the reference talking points, often making the same claims and arguments. The speaker from StreetsPAC strongly supports eliminating parking requirements and provides reasoning that aligns closely with the reference talking points. The testimony addresses key points such as the misconception about banning parking, the idea that developers will build parking where there's demand, the impact on housing development and affordability, and the benefits for transit-oriented development and climate change mitigation. While the testimony doesn't cover all the specific details mentioned in the reference talking points (such as exact costs or statistics), the overall arguments and perspectives are highly aligned. The language used in some instances is very similar to the reference talking points, particularly when addressing the misconception about banning parking. It is plausible that the person is using the reference talking points in their testimony or is at least very familiar with the arguments commonly used to support this policy change.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}

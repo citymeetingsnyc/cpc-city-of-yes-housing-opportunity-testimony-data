@@ -1,0 +1,56 @@
+{
+    "testimony": {
+        "name": "Talya Schwartz",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/talya-schwartz-from-open-plans-on-removing-parking",
+        "start_time_in_seconds": 2585.3564,
+        "end_time_in_seconds": 2780.4536,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Open Plans"
+        ],
+        "key_points": [
+            "Support for removal of unnecessary parking mandates",
+            "Parking mandates increase housing costs significantly",
+            "For every 1.2 parking spaces constructed, one unit of housing is lost",
+            "Parking mandates can increase rent by an estimated 17%",
+            "Low-income households bear the brunt of additional costs from parking mandates despite owning fewer cars",
+            "Removal of parking mandates will help businesses grow and remove obstacles to the economy",
+            "In affordable developments, requiring parking spots raises total development costs by 12.5% to 25%",
+            "The cost to subsidize parking is more expensive for people in smaller and more affordable housing"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "To analyze the similarity between the testimony and the reference talking points, I'll go through the testimony and compare it to the talking points:\n\n1. The testimony strongly supports removing parking mandates, which aligns with the overall message of the talking points.\n2. The testimony focuses on the economic impact of parking mandates, particularly on housing costs, which is a key point in the reference talking points.\n3. The testimony provides specific data on the cost of parking spaces ($150,000 per space), which exactly matches a figure in the talking points.\n4. The testimony mentions that for every 1.2 parking spaces constructed, one unit of housing is lost. This is identical to a point made in the reference talking points.\n5. The testimony states that parking mandates can increase rent by an estimated 17%, which is also an exact match with the talking points.\n6. The testimony discusses how parking mandates disproportionately affect low-income households, which isn't explicitly mentioned in the talking points but supports the overall argument.\n7. The testimony doesn't mention climate change, street safety, or the benefits to neighborhoods, which are covered in the talking points.\n8. The testimony doesn't discuss the historical context of parking mandates or compare New York City to other cities that have removed these mandates, which are mentioned in the talking points.\n\nOverall, there is a high degree of alignment between the testimony and the reference talking points, especially regarding the economic impacts of parking mandates on housing costs.",
+        "talking_point_evidence": [
+            {
+                "quote": "We should remove restrictive parking mandates that will help businesses grow, allow new businesses to thrive and remove the unnecessary drag of these mandates on our economy.",
+                "analysis": "This quote supports the general idea of removing parking mandates, which is a core theme in the reference talking points. It focuses on the economic benefits, which aligns with the talking points' emphasis on affordability and commercial opportunities.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Research estimates that sub grade parking structures required due to the land constraints in New York City can cost up to $150,000 per space.",
+                "analysis": "This quote is identical to a claim made in the reference talking points, using the exact same figure of $150,000 per parking space.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "For every 1.2 spaces constructed, one unit of housing is lost and almost 1 to 1 trade off.",
+                "analysis": "This quote is identical to a claim made in the reference talking points, using the exact same ratio of 1.2 parking spaces to 1 housing unit.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "Research has shown that parking mandates have the potential to also increase rent by an estimated 17%.",
+                "analysis": "This quote is identical to a claim made in the reference talking points, using the exact same figure of a 17% increase in rent due to parking mandates.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "Even worse, despite the fact that low income households own cars at a lower rate than their high income counterparts, they bear the brunt of these additional costs.",
+                "analysis": "While this specific point about low-income households isn't explicitly mentioned in the reference talking points, it supports the overall argument about the negative impacts of parking mandates on affordability and equity.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony is very closely related to the reference talking points, often making the exact same claims and arguments. The language is similar in several instances, and it is highly plausible that the person is using the reference talking points in their testimony. \n\nThe testimony focuses primarily on the economic impacts of parking mandates, particularly on housing costs and business growth. It uses identical figures and ratios as the reference talking points, such as the $150,000 cost per parking space, the 1.2 parking spaces to 1 housing unit ratio, and the 17% increase in rent due to parking mandates.\n\nWhile the testimony doesn't cover all aspects mentioned in the talking points (such as climate change, street safety, or comparisons to other cities), the points it does make are strongly aligned with the reference talking points. The testimony also adds some additional supporting arguments, such as the disproportionate impact on low-income households, which strengthens the overall message.\n\nThe high degree of similarity in specific figures and ratios suggests that the speaker is likely familiar with the same research or sources as those who created the reference talking points, if not directly using the talking points themselves.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}

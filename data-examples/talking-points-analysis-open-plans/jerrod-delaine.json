@@ -1,0 +1,44 @@
+{
+    "testimony": {
+        "name": "Jerrod Delaine",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/jerrod-delaine-ceo-of-delaine-companies-and",
+        "start_time_in_seconds": 25884.207,
+        "end_time_in_seconds": 26075.86,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Delaine Companies",
+            "Pratt",
+            "NYU"
+        ],
+        "key_points": [
+            "The current housing situation is not good and not improving",
+            "Creating more housing supply will help address the housing crisis",
+            "Public-private engagement strategy is needed to solve housing issues",
+            "Universal affordability preference program is a good step to incentivize investors and developers",
+            "Ending parking mandates will help incentivize housing creation",
+            "Allowing ADUs will provide homeowners with additional revenue opportunities",
+            "Faith-based organizations can contribute to improving communities through housing and economic development",
+            "More affordable housing is needed, both rental and ownership",
+            "Urgent solutions are required to address the current housing crisis"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "To analyze the similarity between the testimony and the reference talking points, I'll go through the testimony and identify key points that align with or relate to the reference talking points:\n\n1. The testimony mentions \"Ending the parking mandates\" as a solution to incentivize housing creation.\n2. The speaker states that this doesn't prohibit building parking where it makes sense, but removes it as a roadblock for projects.\n3. The testimony focuses on the need for more housing and affordability, which is indirectly related to the parking mandate issue.\n4. The speaker supports the City of Yes initiative, which includes the parking reform.\n5. There's an emphasis on the urgency of addressing the housing crisis.\n\nNow, let's compare these points to the reference talking points:\n\n- The testimony aligns with the point about not banning new parking but allowing flexibility.\n- It supports the idea of parking choice and building according to demand.\n- The testimony doesn't go into as much detail about the benefits of reducing parking mandates as the reference points do.\n- There's no mention of the specific costs of parking or its impact on rent in the testimony.\n- The testimony doesn't discuss climate change or transportation emissions.\n- There's no mention of the impact on walkability or street life.\n- The speaker doesn't reference other cities that have implemented similar policies.\n\nOverall, while the testimony supports the parking reform, it doesn't use the same detailed arguments or language as the reference talking points. The focus is more on housing creation and affordability rather than the specific benefits of reducing parking mandates.",
+        "talking_point_evidence": [
+            {
+                "quote": "Ending the parking mandates, another solution that will help incentivize the creation of warehousing instead of creating more parking.",
+                "analysis": "This quote directly supports the reference talking point about reducing parking mandates to increase housing affordability and availability. However, it doesn't go into the same level of detail or use the same language as the reference points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "You know, it's it doesn't say you're not allowed to build parking on products where parking is feasible. It makes the most sense. Developers can do that, but it doesn't have to be a roadblock to stop a project because it can't build enough parking on-site.",
+                "analysis": "This quote closely aligns with the reference talking point about not removing existing parking or banning new parking, and allowing parking to meet the needs of each neighborhood. The language is different, but the core idea is very similar.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony is somewhat related to the reference talking points, but it doesn't cover the full range of arguments presented in the reference material. The speaker supports the idea of ending parking mandates as part of the City of Yes initiative, which aligns with the overall goal of the reference talking points. However, the testimony focuses more on the general need for housing and affordability rather than delving into the specific benefits of reducing parking mandates.\n\nThe testimony touches on two key points that are present in the reference talking points:\n1. The idea that ending parking mandates will incentivize housing creation.\n2. The notion that the reform doesn't ban parking but allows for more flexibility in development.\n\nHowever, the testimony doesn't mention many of the detailed arguments present in the reference talking points, such as:\n- The specific costs associated with parking construction and its impact on rent\n- The environmental benefits of reducing car dependency\n- The impact on walkability and street life\n- Examples from other cities that have implemented similar policies\n\nWhile the speaker supports the parking reform, they frame it as one part of a larger initiative to address the housing crisis, rather than focusing on it as a central issue. The language and arguments used are not identical to the reference talking points, but they do support the same general direction of policy.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

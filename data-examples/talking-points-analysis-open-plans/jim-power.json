@@ -1,0 +1,28 @@
+{
+    "testimony": {
+        "name": "Jim Power",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/jim-power-from-kramer-levin-on-concerns-about-the",
+        "start_time_in_seconds": 24080.678,
+        "end_time_in_seconds": 24229.244,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Kramer Levin"
+        ],
+        "key_points": [
+            "Supports many components of the housing opportunity proposal",
+            "Concerned about the proposed UAP formula for zoning lots with existing buildings",
+            "The current proposal may disincentivize housing development in certain scenarios",
+            "Suggests an alternative approach where the required affordable percentage is applied only to the enlarged portion of the zoning lot",
+            "Argues that the alternative approach would incentivize developers to build out the full amount of residential floor area available",
+            "Recommends considering alternatives to the UAP formula for infill sites"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "1. The testimony focuses on specific concerns about the Urban Affordable Percentage (UAP) formula in R10 equivalent zoning districts.\n2. It does not directly address any of the reference talking points about parking mandates, climate change, or transportation.\n3. The testimony supports some components of the housing opportunity proposal but raises concerns about unintended consequences.\n4. There are no clear connections between the testimony and the provided reference talking points.\n5. The testimony is primarily concerned with incentivizing housing development, particularly in areas with existing buildings.\n6. The speaker suggests alternatives to the proposed UAP formula to encourage more housing development.\n7. While both the testimony and the reference talking points relate to housing and development, they focus on different aspects and do not overlap in their specific arguments or concerns.",
+        "talking_point_evidence": [],
+        "analysis": "The testimony provided by Jim Power from Kramer Levin is not closely related to the reference talking points provided. The testimony focuses on specific concerns about the Urban Affordable Percentage (UAP) formula in R10 equivalent zoning districts and its potential impact on housing development. It does not address any of the issues mentioned in the reference talking points, such as parking mandates, climate change, or transportation.\n\nWhile both the testimony and the reference talking points relate to housing and development in New York City, they focus on entirely different aspects. The testimony is concerned with incentivizing housing development in areas with existing buildings, while the reference talking points primarily discuss the impact of parking mandates on housing affordability, climate change, and urban planning.\n\nThe testimony does mention support for \"many components of the housing opportunity proposal,\" which suggests some alignment with broader housing initiatives. However, it does not provide any specific details that relate to the provided talking points.\n\nGiven the lack of overlap between the testimony and the reference talking points, it appears that the testimony is not aligned with or directly supporting the specific arguments presented in the talking points.",
+        "similarity": "NOT_ALIGNED"
+    }
+}

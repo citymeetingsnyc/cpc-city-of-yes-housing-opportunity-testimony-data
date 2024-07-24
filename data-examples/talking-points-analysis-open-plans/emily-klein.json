@@ -1,0 +1,42 @@
+{
+    "testimony": {
+        "name": "Emily Klein",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/emily-klein-from-community-preservation",
+        "start_time_in_seconds": 23247.469,
+        "end_time_in_seconds": 23431.703,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Community Preservation Corporation"
+        ],
+        "key_points": [
+            "New York is experiencing a housing crisis with low vacancy rates and high rent burdens",
+            "Outdated zoning regulations and exclusionary practices have led to insufficient housing development",
+            "City of Yes for Housing Opportunity provides a citywide roadmap to build more housing in every neighborhood",
+            "The proposal updates zoning codes to meet current housing needs and promote equitable neighborhoods",
+            "Specific proposals include reintroducing Town Center zoning, allowing apartment buildings near transit, permitting accessory dwelling units",
+            "Introduction of Universal Affordability Preference to increase affordable housing",
+            "Removal of parking mandates, allowing conversion of non-residential buildings to housing, and permitting smaller shared housing",
+            "The proposals are designed to match existing neighborhood character while addressing outdated regulations",
+            "Urges the commission to approve City of Yes for Housing Opportunity as currently written"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The testimony is from Emily Klein, representing the Community Preservation Corporation, in support of the \"City of Yes for Housing Opportunity\" proposal.\n\n2. The testimony focuses on the broader housing crisis in New York City and how the proposal aims to address it through zoning changes.\n\n3. While the testimony mentions removing costly parking mandates as part of the proposal, it doesn't go into detail about parking-specific issues, which are the main focus of the reference talking points.\n\n4. The testimony aligns with the reference talking points in recognizing that current zoning regulations are outdated and contribute to the housing crisis.\n\n5. Both the testimony and the talking points emphasize the need for comprehensive zoning reform to address current housing needs.\n\n6. The testimony doesn't specifically discuss the benefits of removing parking mandates in terms of affordability, climate change, or street safety, which are key points in the reference talking points.\n\n7. While the testimony supports removing parking mandates, it doesn't provide the detailed arguments present in the reference talking points about why this is beneficial.\n\nGiven this analysis, let's identify any specific quotes that align with the reference talking points and evaluate their closeness.",
+        "talking_point_evidence": [
+            {
+                "quote": "To address our housing crisis, we must build more housing in every neighborhood and City Gas for housing opportunity lays out a city wide road map to do just that by comprehensively modernizing the city zoning code.",
+                "analysis": "This quote aligns with the general idea of comprehensive zoning reform present in the talking points, though it doesn't specifically mention parking. It supports the notion that current zoning is outdated and needs modernization.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Finally, City of Yes includes city wide proposals to remove costly parking mandates, allow for the conversions of non residential buildings to housing, and allow for smaller shared housing and campus infill development.",
+                "analysis": "This quote directly mentions removing parking mandates, which is a key focus of the reference talking points. However, it doesn't provide the detailed rationale for this change that the talking points do.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony from Emily Klein of the Community Preservation Corporation shows some alignment with the reference talking points, but the alignment is not particularly strong or detailed. The testimony focuses more broadly on the housing crisis and the need for comprehensive zoning reform, of which removing parking mandates is just one part.\n\nWhile the testimony does mention removing \"costly parking mandates\" as part of the City of Yes proposal, it doesn't delve into the specific benefits of this action that are outlined in the reference talking points. The testimony doesn't discuss how removing parking mandates can increase affordability, reduce car dependence, combat climate change, or improve street life and safety.\n\nThe testimony and the talking points do share some common ground in recognizing that current zoning regulations are outdated and contribute to the housing crisis. Both also emphasize the need for comprehensive reform to address current housing needs.\n\nHowever, the level of detail and focus on parking-specific issues in the testimony is much less than in the reference talking points. The testimony treats the removal of parking mandates as one of many changes in the broader zoning reform, while the talking points are specifically focused on the benefits and rationale of removing parking mandates.\n\nGiven this analysis, while there is some alignment between the testimony and the reference talking points, it's not strong enough to be classified as \"HIGH_ALIGNMENT\". The testimony supports some of the same general ideas, but doesn't make the same specific arguments or use similar language regarding parking mandates.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

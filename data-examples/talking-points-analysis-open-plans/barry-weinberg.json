@@ -1,0 +1,29 @@
+{
+    "testimony": {
+        "name": "Barry Weinberg",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/barry-weinberg-from-manhattan-community-board-9-on",
+        "start_time_in_seconds": 44944.355,
+        "end_time_in_seconds": 45143.215,
+        "for_or_against": "For",
+        "borough": "Manhattan",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Manhattan Community Board 9"
+        ],
+        "key_points": [
+            "Community Board 9 voted in favor of City of Yes for Housing Opportunity with certain conditions",
+            "Believes certain provisions do not go far enough, particularly 23-211",
+            "Recommends increasing FAR in R1-R3 zoning districts to 1.0 and R2X and R4 districts to 1.25",
+            "Suggests increasing ADU maximum square footage from 800 to 1200 square feet",
+            "Appreciates DCP staff's work and outreach efforts",
+            "Concerned about UAP (27-111) not requiring affordable housing units to be made available to the general public",
+            "Urges inclusion of provision in zoning text to ensure UAP affordable housing units are available to the public, not just institutional affiliates"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The testimony is from Barry Weinberg, representing Manhattan Community Board 9.\n2. The board voted in favor of the \"City of Yes for Housing Opportunity\" with certain conditions.\n3. They propose increasing FAR (Floor Area Ratio) in certain zoning districts and increasing the maximum square footage for ADUs (Accessory Dwelling Units).\n4. The testimony expresses appreciation for the Department of City Planning's outreach and engagement.\n5. The main concern raised is about the Unified Affordable Program (UAP), specifically section 27-111.\n6. They worry that the current wording might allow institutions to provide affordable housing units to their affiliates rather than the general public.\n7. They urge including a provision to ensure affordable housing units from UAP are made available to the public.\n\nComparing this to the reference talking points:\n- The testimony doesn't mention parking at all, which is a major focus of the talking points.\n- There's no discussion of climate change, transportation emissions, or encouraging/discouraging car use.\n- The testimony doesn't address housing affordability in relation to parking, which is a key point in the reference talking points.\n- There's no mention of how other cities have implemented similar policies.\n\nThe testimony seems to be focused on very specific zoning details and concerns about the implementation of affordable housing programs, which are not addressed in the provided talking points.",
+        "talking_point_evidence": [],
+        "analysis": "The testimony from Barry Weinberg representing Manhattan Community Board 9 is not closely related to the reference talking points provided. The testimony focuses on specific zoning details, FAR increases, and concerns about the implementation of affordable housing programs, particularly the Unified Affordable Program (UAP). In contrast, the reference talking points are primarily about parking mandates, their impact on housing affordability, climate change, and urban planning.\n\nThere is no substantial overlap between the content of the testimony and the reference talking points. The testimony does not address parking issues, climate change, or transportation-related concerns, which are central themes in the talking points. The only slight connection might be the general topic of housing and zoning, but the specific issues discussed are entirely different.\n\nGiven this lack of alignment, it appears that the testimony is not using or referencing the provided talking points in any meaningful way.",
+        "similarity": "NOT_ALIGNED"
+    }
+}

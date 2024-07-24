@@ -1,0 +1,27 @@
+{
+    "testimony": {
+        "name": "Diana Finch",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/diana-finch-from-bronx-park-eastpelham-parkway-on",
+        "start_time_in_seconds": 46894.06,
+        "end_time_in_seconds": 47054.797,
+        "for_or_against": "For",
+        "borough": "Bronx",
+        "neighborhood": "Bronx Park East/Pelham Parkway",
+        "stated_affiliations": [],
+        "key_points": [
+            "Supports City of Yes for Housing Opportunity",
+            "Believes opposition is based on exaggeration and fear mongering",
+            "Emphasizes that not all allowed new buildings will be built immediately or ever",
+            "Suggests including caps on the amount and pace of new building allowed by City of Yes",
+            "Shares personal experience of new apartment buildings in her neighborhood within current zoning regulations",
+            "Expresses concern about the impact of campus provisions on NYCHA developments",
+            "Highlights the importance of green spaces for quality of life in her neighborhood"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "The testimony provided by Diana Finch does not directly address the parking-related talking points. Instead, it focuses on the broader aspects of the \"City of Yes for Housing Opportunity\" proposal. Let's analyze the testimony step by step:\n\n1. Diana Finch expresses support for the \"City of Yes for Housing Opportunity\" proposal.\n2. She criticizes the opposition for exaggeration and fear-mongering.\n3. She emphasizes that not all allowed new buildings will be built immediately or ever.\n4. She suggests including caps on the amount and pace of new building allowed by the proposal.\n5. She discusses her neighborhood's experience with new apartment buildings within current zoning regulations.\n6. She raises concerns about the impact on institutional campuses and green spaces.\n\nThe reference talking points primarily focus on parking-related issues, which are not directly addressed in Diana Finch's testimony. However, there are some broader themes that might be loosely related:\n\n1. The testimony acknowledges the need for new housing, which aligns with the talking points' emphasis on increasing housing affordability and availability.\n2. The suggestion of caps on new building could be seen as somewhat contrary to the talking points' push for reducing restrictions on development.\n3. The concern about green spaces might indirectly relate to the talking points about prioritizing active transportation and improving street life, although the connection is tenuous.\n\nOverall, the testimony does not closely align with the specific parking-related talking points provided.",
+        "talking_point_evidence": [],
+        "analysis": "The testimony provided by Diana Finch is not closely related to the reference talking points. While both the testimony and the talking points discuss aspects of urban development and housing, they focus on different specific issues. \n\nThe reference talking points primarily address parking mandates, their impact on housing affordability, climate change, and transportation. In contrast, Diana Finch's testimony focuses on the broader aspects of the \"City of Yes for Housing Opportunity\" proposal, including the pace of development, community impact, and concerns about green spaces.\n\nThere are no direct quotes from the testimony that align closely with the reference talking points. The testimony does not mention parking, transportation, or climate change, which are central themes in the talking points.\n\nThe only loose connection between the testimony and the talking points is the general support for increasing housing opportunities, but even this is approached from different angles. The talking points argue for removing parking mandates to increase housing affordability, while the testimony suggests considering caps on new development to balance growth with community impact.\n\nGiven the lack of specific alignment between the testimony and the reference talking points, it appears that Diana Finch is not directly using or referencing the provided talking points in her testimony.",
+        "similarity": "NOT_ALIGNED"
+    }
+}

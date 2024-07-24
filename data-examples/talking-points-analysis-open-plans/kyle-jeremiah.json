@@ -1,0 +1,41 @@
+{
+    "testimony": {
+        "name": "Kyle Jeremiah",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/kyle-jeremiah-from-bowery-residence-committee-brc",
+        "start_time_in_seconds": 33753.42,
+        "end_time_in_seconds": 33945.285,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Bowery Residence Committee",
+            "BRC"
+        ],
+        "key_points": [
+            "Support for City of Yes for Housing Opportunity proposal",
+            "Need for affordable housing to address homelessness crisis",
+            "Benefits of relegalizing shared housing and permitting more studio and one-bedroom apartments",
+            "Importance of converting underused spaces into housing",
+            "Support for modern SRO housing to increase affordable housing supply",
+            "Benefits of converting vacant offices and non-residential buildings into homes",
+            "Urging support for the initiative to create a more equitable and livable New York City"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze this testimony step by step:\n\n1. The speaker, Kyle Jeremiah from Bowery Residence Committee, is testifying in support of the \"City of Yes for Housing Opportunity\" proposal.\n\n2. The main focus of the testimony is on addressing the homelessness crisis and the need for more affordable housing in New York City.\n\n3. The speaker mentions several benefits of the proposal:\n   a) Relegalizing shared housing and permitting more studio and one-bedroom apartments\n   b) Allowing conversion of underused spaces into housing\n   c) Making it easier to build modern SRO (Single Room Occupancy) housing\n   d) Enabling conversion of vacant offices and non-residential buildings into homes\n\n4. The testimony doesn't directly mention parking mandates or transportation issues, which are the main focus of the reference talking points.\n\n5. However, there are some indirect connections:\n   a) The focus on affordable housing aligns with the reference points about how parking mandates increase housing costs.\n   b) The emphasis on converting underused spaces and vacant buildings into housing aligns with the idea of more efficient use of urban space, which is an underlying theme in the parking mandate discussion.\n\n6. The testimony doesn't discuss climate change, public transportation, or specific parking policies, which are significant parts of the reference talking points.\n\nGiven this analysis, while there are some overlapping themes, the testimony is not closely aligned with the specific reference talking points provided.",
+        "talking_point_evidence": [
+            {
+                "quote": "Increasing housing in New York City through the City of Yes, for housing opportunity initiative offers several key benefits.",
+                "analysis": "This quote introduces the benefits of the initiative, which indirectly relates to the reference talking points about increasing housing affordability and availability. However, it doesn't specifically mention parking mandates or transportation issues.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            },
+            {
+                "quote": "Building below-ground parking can reach an astounding $150,000 per space, increasing rents by an estimated 17%. For every 1.2 parking spaces constructed, we could instead pay for 1 studio apartment.",
+                "analysis": "While the testimony doesn't mention this specific point, it aligns with the speaker's emphasis on the need for more affordable housing and the benefits of creating more studio apartments. The connection is implicit rather than explicit.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony by Kyle Jeremiah from the Bowery Residence Committee is primarily focused on addressing the homelessness crisis and the need for more affordable housing in New York City. While the speaker supports the \"City of Yes for Housing Opportunity\" proposal, the specific points made in the testimony do not closely align with the provided reference talking points.\n\nThe reference talking points are heavily focused on parking mandates, transportation issues, and climate change. In contrast, the testimony concentrates on strategies to increase affordable housing supply, such as relegalizing shared housing, converting underused spaces, and building modern SRO housing.\n\nThere are some overlapping themes, particularly around the need for more affordable housing and efficient use of urban space. However, the testimony does not directly address parking mandates, transportation policies, or climate change, which are central to the reference talking points.\n\nThe testimony's support for the proposal and its focus on increasing housing supply do indirectly support some of the goals mentioned in the reference talking points, such as increasing housing affordability and availability. However, the specific strategies and focus areas are quite different.\n\nGiven these observations, while there are some shared underlying goals, the testimony is not closely aligned with the specific reference talking points provided.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

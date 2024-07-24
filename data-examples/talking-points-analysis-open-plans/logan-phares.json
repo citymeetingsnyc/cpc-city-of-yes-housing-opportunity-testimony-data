@@ -1,0 +1,46 @@
+{
+    "testimony": {
+        "name": "Logan Phares",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/logan-phares-political-director-of-open-new-york",
+        "start_time_in_seconds": 40970.086,
+        "end_time_in_seconds": 41091.64,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Open New York"
+        ],
+        "key_points": [
+            "Support for the City of Yes for Housing Opportunity zoning amendment",
+            "Current inequitable distribution of affordable housing across NYC council districts",
+            "The amendment will allow every neighborhood to participate in solving the housing shortage",
+            "The plan allows for more housing of every type in low, medium, and high-density communities",
+            "Zoning changes are critical but not sufficient to solve the housing crisis",
+            "Need for additional funding and policies to protect tenants and support fair housing",
+            "Acknowledgment of NYC's supply problem rooted in restrictive zoning",
+            "Urging the Commission to approve the proposal in full"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Logan Phares from Open New York, is testifying in favor of the City of Yes for Housing Opportunity amendment.\n\n2. Open New York is described as a pro-housing nonprofit, indicating alignment with policies that encourage more housing development.\n\n3. The testimony focuses on the need for more equitable housing distribution across NYC, highlighting how some areas have produced significantly more affordable housing than others.\n\n4. The speaker supports zoning changes that would allow for more housing of various types in different density areas.\n\n5. While the testimony doesn't directly mention parking, it does emphasize the need to update zoning rules to meet New Yorkers' needs and solve the housing crisis.\n\n6. The speaker acknowledges that zoning changes alone are not sufficient and calls for additional policies to protect tenants and support fair housing.\n\nNow, let's compare this to the reference talking points:\n\n1. The testimony doesn't directly address parking mandates or their removal, which is a key focus of the reference talking points.\n\n2. Both the testimony and the talking points emphasize the need for zoning reform to address current issues, though they focus on different aspects (housing distribution vs. parking).\n\n3. The testimony mentions allowing more housing in various density areas without changing neighborhood character, which aligns somewhat with the talking points' emphasis on allowing parking to meet neighborhood needs.\n\n4. Both the testimony and talking points touch on affordability, though the testimony focuses more on housing affordability in general rather than specifically linking it to parking costs.\n\n5. The testimony doesn't mention climate change or transportation issues, which are significant themes in the talking points.\n\n6. Both the testimony and talking points suggest that current zoning rules are outdated and need updating to meet current needs.\n\nWhile there are some thematic overlaps, the testimony doesn't directly address many of the specific points made in the reference talking points, particularly those related to parking mandates and their effects.",
+        "talking_point_evidence": [
+            {
+                "quote": "The city, yes, for housing opportunity, updates our zoning rules to meet the needs of New Yorkers in an equitable way allowing for more housing of every type.",
+                "analysis": "This quote aligns with the general theme of updating zoning rules to meet current needs, which is present in the reference talking points. However, it focuses on housing types rather than parking specifically.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "The plan will allow for more housing and low density, medium density and high density communities without definitely changing the character of any of these neighborhoods.",
+                "analysis": "This quote somewhat relates to the talking point about allowing parking to meet the needs of each neighborhood without imposing blanket rules. However, it's focused on housing density rather than parking specifically.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            },
+            {
+                "quote": "Everyone who wants to solve our housing crisis must acknowledge our supply problem, which is rooted in New York City's overly restrictive earnings.",
+                "analysis": "This quote aligns with the general theme in the talking points about outdated and restrictive zoning rules, though it doesn't specifically mention parking mandates.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony, while supporting zoning reform to address housing issues, does not directly address many of the specific points made in the reference talking points about parking mandates. The speaker focuses primarily on the need for more equitable housing distribution and zoning changes to allow for various types of housing across different density areas. \n\nWhile there are some thematic overlaps, such as the need to update zoning rules and address affordability, the testimony doesn't mention parking mandates, transportation issues, or climate change, which are central themes in the reference talking points. The testimony's support for zoning reform aligns with the general direction of the talking points, but the specific focus and arguments differ significantly.\n\nGiven these observations, the testimony appears to be supporting similar broader goals (zoning reform for better housing outcomes) but is not closely aligned with the specific arguments and focus of the reference talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "testimony": {
+        "name": "Emily Chingay",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/emily-chingay-on-eliminating-parking-mandates-and",
+        "start_time_in_seconds": 28907.44,
+        "end_time_in_seconds": 28993.05,
+        "for_or_against": "For",
+        "borough": "Queens",
+        "neighborhood": "Astoria",
+        "stated_affiliations": [],
+        "key_points": [
+            "Support for City of Yes housing proposals",
+            "Concern about being priced out of the neighborhood",
+            "Support for eliminating parking mandates citywide",
+            "Need for zoning changes to address competitive housing market",
+            "Making parking optional, not eliminating it completely"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze Emily Chingay's testimony step by step:\n\n1. Emily expresses support for the City of Yes housing proposal.\n2. She specifically mentions support for eliminating parking mandates citywide.\n3. She notes that Lower Manhattan currently doesn't have these mandates.\n4. Emily emphasizes that eliminating parking mandates doesn't mean banning parking, but rather making it optional.\n5. She suggests that developers will continue to build parking where needed.\n\nNow, let's compare these points to the reference talking points:\n\n1. The testimony aligns with the point about not removing existing parking or banning new parking.\n2. It supports the idea of allowing parking to meet the needs of each neighborhood.\n3. The testimony doesn't directly mention affordability, climate crisis, or street safety, which are mentioned in the talking points.\n4. Emily's mention of outdated policies aligns with the talking point about parking minimum rules being created over 50 years ago.\n5. The testimony doesn't discuss specific costs of parking construction or its impact on rents.\n6. Climate change and emissions are not mentioned in the testimony.\n7. The impact on walkability and street life is not addressed in the testimony.\n8. There's no mention of other cities that have implemented similar policies.\n9. The testimony doesn't discuss the broader vision of reducing car dependence and expanding public transportation.",
+        "talking_point_evidence": [
+            {
+                "quote": "I really wanted to express my support for the city as housing proposal. And, of course, I'd like to support eliminating parking mandate city wide.",
+                "analysis": "This quote directly supports the talking point about reducing parking mandates, although it doesn't go into the detailed reasoning provided in the reference talking points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Lower Manhattan currently doesn't have these mandates, but as our city continues to grow, We need to get rid of these outdated policies that create and and create more affordable housing in all neighborhoods.",
+                "analysis": "This quote aligns with the talking point about parking minimum rules being outdated and the need for reform. It also touches on affordability, which is mentioned in the talking points, although not in great detail.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "And also wanted to highlight that by eliminating parking mandates, it's just making parking these requirements. I mean, It's just making parking optional. So developers will most definitely continue to build create parking. It's just making it optional.",
+                "analysis": "This quote closely aligns with the first two talking points about not banning parking and allowing parking to meet the needs of each neighborhood. The language is different, but the core argument is very similar.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            }
+        ],
+        "analysis": "The testimony shows a moderate level of alignment with the reference talking points. Emily Chingay's testimony supports the core idea of eliminating parking mandates citywide, which is a central theme in the reference talking points. She accurately represents the concept that this change doesn't ban parking but makes it optional, allowing developers to build parking where needed. This aligns closely with the first two reference talking points.\n\nHowever, the testimony doesn't delve into many of the specific arguments and details provided in the reference talking points. Emily doesn't mention the potential impacts on affordability (beyond a brief mention), climate change, street safety, or walkability. She also doesn't discuss the historical context of the parking rules or provide examples from other cities.\n\nThe testimony seems to be a more general, personal endorsement of the policy change, rather than a comprehensive argument using all the points provided in the reference talking points. While it supports the main idea, it lacks the depth and specific data points found in the reference material.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

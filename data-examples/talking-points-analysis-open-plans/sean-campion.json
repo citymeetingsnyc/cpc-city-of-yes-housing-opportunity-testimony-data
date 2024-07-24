@@ -1,0 +1,47 @@
+{
+    "testimony": {
+        "name": "Sean Campion",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/sean-campion-from-citizens-budget-commission-on",
+        "start_time_in_seconds": 18619.094,
+        "end_time_in_seconds": 18805.365,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Citizens Budget Commission"
+        ],
+        "key_points": [
+            "City of Yes takes the right approach to New York City's housing crisis by proposing to build more housing everywhere of all types for everyone",
+            "Housing production in NYC has failed to keep pace with demand due to policy actions intended to slow new construction",
+            "Housing scarcity degrades New Yorkers' quality of life and is bad for the city's economy and fiscal health",
+            "Negative out-migration caused by housing affordability and availability crises cost the city over $300 million in tax revenue in 2022",
+            "Allowing growth could potentially boost city tax receipts by over $2 billion a year",
+            "In CBC's 2023 resident survey, housing ranked among the top issues facing New Yorkers, with fewer than 1 in 10 feeling that government is addressing their housing needs well",
+            "Building more housing will improve affordability, quality of life, strengthen the city's economy and competitiveness",
+            "The final zoning text needs to result in a meaningful increase in development capacity citywide to improve affordability and quality of life",
+            "The housing crisis is a citywide problem that demands a citywide response"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The testimony is from Sean Campion, representing the Citizens Budget Commission.\n2. He expresses support for the \"City of Yes\" proposal, which aims to build more housing everywhere of all types.\n3. The testimony focuses on the housing crisis in New York City, emphasizing that housing production has not kept pace with demand.\n4. He mentions negative impacts of the housing shortage, including fiscal and economic effects.\n5. The testimony highlights the dissatisfaction of New Yorkers with the current housing situation.\n6. The speaker advocates for building more housing of every type in every neighborhood.\n7. He warns against scaling back the scope of the proposal or exempting certain neighborhoods.\n\nNow, let's compare this to the reference talking points:\n\n1. The testimony doesn't directly mention parking mandates or their removal, which is a key focus of the reference talking points.\n2. Both the testimony and talking points emphasize the need for comprehensive reform to address the housing crisis.\n3. The testimony touches on affordability issues, which aligns with one of the talking points about parking mandates increasing housing costs.\n4. The testimony doesn't discuss specific issues like climate change, street safety, or transportation emissions, which are mentioned in the talking points.\n5. Both the testimony and talking points advocate for citywide changes rather than exempting certain neighborhoods.\n\nOverall, while there are some areas of alignment, particularly in the broader goal of addressing the housing crisis and the need for citywide reform, the testimony doesn't directly reference many of the specific points about parking mandates that are central to the reference talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "City of Yes takes the right approach to New York City's housing crisis, build more housing everywhere of all types for everyone.",
+                "analysis": "This quote aligns with the general sentiment of the talking points about comprehensive reform to address the housing crisis, but it doesn't specifically mention parking mandates. It supports the idea of citywide changes.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Building more housing will improve affordability and quality of life for all New Yorkers both through the tax base and strengthen the Sea's economy and competitiveness.",
+                "analysis": "This quote supports the talking point about increasing housing affordability, but it doesn't directly link this to parking mandates. It makes a broader argument about the benefits of increased housing supply.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "The final zoning tax needs to result in a meaningful increase in development capacity. Citywide to have any chance in improving affordability and quality of Wifler New Yorkers.",
+                "analysis": "This quote aligns with the talking points' emphasis on citywide reform and improving affordability. However, it doesn't specifically mention parking mandates or other details from the talking points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony from Sean Campion of the Citizens Budget Commission shows some alignment with the reference talking points, but the connection is not very strong. The testimony focuses broadly on the need for increased housing production and citywide zoning changes to address New York City's housing crisis. While this general approach aligns with the overall goal of the reference talking points, the testimony doesn't specifically mention parking mandates or many of the other specific issues raised in the talking points.\n\nThe testimony supports the idea of comprehensive reform and citywide changes, which is consistent with the talking points' advocacy for removing parking mandates across the city. It also touches on affordability issues, which the talking points link to parking mandates. However, the testimony doesn't delve into the specific arguments about parking, transportation, climate change, or street life that are central to the reference talking points.\n\nThe alignment seems to be more in the overall goal of addressing the housing crisis through zoning changes, rather than in the specific policy proposals or arguments presented in the talking points. The testimony takes a broader, more general approach to the housing issue, while the talking points focus more narrowly on the impacts of parking mandates.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

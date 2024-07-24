@@ -1,0 +1,44 @@
+{
+    "testimony": {
+        "name": "Tyler Baldwin",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/tyler-baldwin-from-astoria-queens-on-support-for",
+        "start_time_in_seconds": 17284.32,
+        "end_time_in_seconds": 17374.299,
+        "for_or_against": "For",
+        "borough": "Queens",
+        "neighborhood": "Astoria",
+        "stated_affiliations": [],
+        "key_points": [
+            "City of Yes will provide much-needed housing supply in an era of record low vacancy rates and record-high rents",
+            "New York City is facing a cost of living crisis, causing middle-class families to leave the city",
+            "The under-5 population has fallen by 18% since April 2020",
+            "Housing affordability affects vulnerable populations, with 8% of transgender adults experiencing homelessness in the past year",
+            "New housing creation provides opportunities for good jobs and family formation",
+            "Public servants are being pushed out due to the high cost of living",
+            "The amendment will help essential workers like NYPD officers and firefighters afford housing in the city",
+            "The proposal will allow for building generational wealth through coops and condos"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "1. The testimony focuses on supporting the City of Yes proposal, primarily emphasizing the need for increased housing supply and affordability.\n2. While the testimony doesn't directly mention parking mandates, it does align with some of the broader goals mentioned in the reference talking points.\n3. The testimony highlights issues of housing affordability, which is indirectly related to the talking points about how parking mandates increase housing costs.\n4. The speaker mentions the exodus of middle-class families and young families, which relates to the affordability issues raised in the talking points.\n5. The testimony doesn't specifically address climate change, transportation, or parking issues, which are key components of the reference talking points.\n6. There's a focus on allowing various professions (NYPD officers, firefighters) to live in the city, which aligns with the general goal of increasing housing affordability mentioned in the talking points.\n7. While there's some alignment in overall goals (increasing affordability and housing supply), the specific arguments and focus areas are quite different between the testimony and the reference talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "City AVS will provide much needed housing supply in an era of record low vacancy rates and a record high rents.",
+                "analysis": "This quote aligns with the general theme of increasing housing affordability and availability mentioned in the reference talking points. While it doesn't specifically mention parking mandates, it supports the same ultimate goal of addressing housing issues.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "New York City is at a breaking point for cost the living.",
+                "analysis": "This statement supports the reference talking points about reducing rent burdens and increasing housing affordability. It doesn't directly mention parking mandates, but it emphasizes the same problem that the talking points aim to address.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Any new housing is good housing.",
+                "analysis": "This sentiment aligns with the reference talking points' emphasis on increasing housing availability. While not specifically about parking mandates, it supports the overall goal of creating more housing opportunities.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony is generally supportive of the City of Yes proposal, focusing primarily on the need for increased housing supply and affordability in New York City. While it doesn't directly address the specific issue of parking mandates, which is a central theme in the reference talking points, it does align with some of the broader goals mentioned in those talking points.\n\nThe testimony emphasizes the housing crisis, high rents, and the exodus of middle-class and young families from the city due to affordability issues. This aligns with the reference talking points' concern about housing affordability and availability. However, the testimony doesn't delve into the specifics of how parking mandates contribute to these issues, which is a key argument in the reference talking points.\n\nThe speaker doesn't mention climate change, transportation issues, or the specific impacts of parking requirements on development costs and urban design, which are significant components of the reference talking points. Instead, the testimony focuses more on the social and economic impacts of the housing crisis, such as its effect on various professions and vulnerable populations.\n\nWhile there is some alignment in the overall goals of increasing housing affordability and availability, the specific arguments, focus areas, and proposed solutions differ significantly between the testimony and the reference talking points. The testimony supports the City of Yes proposal more broadly for its potential to increase housing supply, rather than specifically endorsing the removal of parking mandates.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

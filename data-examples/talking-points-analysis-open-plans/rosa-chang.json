@@ -1,0 +1,43 @@
+{
+    "testimony": {
+        "name": "Rosa Chang",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/rosa-chang-member-of-manhattan-community-board-1",
+        "start_time_in_seconds": 23042.209,
+        "end_time_in_seconds": 23234.988,
+        "for_or_against": "For",
+        "borough": "Manhattan",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Manhattan Community Board 1"
+        ],
+        "key_points": [
+            "Support for City of Yes with conditions",
+            "Need for infrastructure improvements to keep up with increased density",
+            "Suggestion for a ZIP code set aside for civic infrastructural needs",
+            "Reduction of 10-year sunset provision for offsetting affordable housing to 5 years",
+            "Mandating essential building infrastructure for garbage collection, storage, and package rooms",
+            "100% permanently affordable housing for large campus infill projects",
+            "Continued requirement for community board and community engagement",
+            "Support for eliminating or reducing the 680 square foot dwelling unit factor",
+            "Need for more emphasis on creating truly affordable housing",
+            "Addressing quality of life concerns and increasing need for physical infrastructure and hospital beds"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Rosa Chang, is a member of Manhattan Community Board 1 and is testifying for herself.\n2. She expresses support for updating the zoning text to adapt to evolving needs, particularly for building homes for various groups of New Yorkers.\n3. She supports the \"City of Yes\" proposal with conditions, which is different from the reference talking points that focus on parking mandates.\n4. Her main concerns are about infrastructure keeping up with increased density, quality of life issues, and ensuring affordable housing.\n5. She mentions specific areas like civic infrastructure, parks, schools, hospital beds, and sanitation.\n6. The speaker discusses large campus infill projects and the need for affordable housing in such developments.\n7. She supports eliminating or reducing the 680 square foot dwelling unit factor, based on personal experience living in smaller units.\n8. The testimony doesn't directly address parking mandates or transportation issues, which are the main focus of the reference talking points.\n9. There's no mention of climate change, car dependence, or the impact of parking on housing affordability, which are key points in the reference talking points.\n\nBased on this analysis, the testimony doesn't align closely with the provided reference talking points. While both the testimony and the talking points address housing issues, they focus on different aspects. The testimony is more concerned with infrastructure and affordability, while the talking points concentrate on parking mandates and their effects.",
+        "talking_point_evidence": [
+            {
+                "quote": "I am in support of eliminating or reducing the 680 square foot dwelling unit factor. I have personally lived in units that are 250 square feet and 550 square feet for over 15 years in New York with my partner. It can be done.",
+                "analysis": "This quote somewhat relates to the talking point about housing affordability and availability. While the reference talking points don't specifically mention unit size, they do discuss how parking mandates affect housing costs. The speaker's support for smaller units could be seen as indirectly supporting the goal of increasing housing availability, which is mentioned in the talking points.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            },
+            {
+                "quote": "I am in support of the city of yes with conditions. With up zoning the results and to increase in the people living in our communities. We need to ensure that our infrastructure keeps up with the increased density and or countless times today, we need to address the quality of life concerns.",
+                "analysis": "This quote touches on the idea of increasing housing density, which is related to the talking points about increasing housing availability. However, the focus on infrastructure and quality of life concerns is not directly addressed in the reference talking points.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            }
+        ],
+        "analysis": "The testimony by Rosa Chang shows limited alignment with the provided reference talking points. While both address housing issues in New York City, they focus on different aspects of the problem and propose different solutions.\n\nThe reference talking points primarily discuss parking mandates, their impact on housing affordability, climate change, and urban planning. They argue for eliminating parking minimums to reduce housing costs, encourage public transportation, and combat climate change.\n\nIn contrast, Rosa Chang's testimony focuses on:\n1. The need for infrastructure improvements to keep pace with increased housing density\n2. Ensuring affordable housing in new developments\n3. Quality of life concerns in densifying neighborhoods\n4. Support for smaller dwelling units\n\nWhile there is some overlap in the broad theme of housing affordability and availability, the specific points and proposed solutions differ significantly. The testimony does not mention parking mandates, climate change, or transportation issues, which are central to the reference talking points.\n\nThe few tenuous links found between the testimony and the talking points are not strong enough to suggest that the speaker is directly using or referencing the provided talking points. The testimony appears to be based on personal experience and local community concerns rather than the specific arguments presented in the reference talking points.",
+        "similarity": "NOT_ALIGNED"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "testimony": {
+        "name": "Patrick Boyle",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/patrick-boyle-from-enterprise-community-partners",
+        "start_time_in_seconds": 18834.428,
+        "end_time_in_seconds": 19014.652,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Enterprise Community Partners"
+        ],
+        "key_points": [
+            "Support for the City of Yes proposal as a necessary component to address the housing crisis",
+            "Excitement about the universal affordability preference",
+            "Benefits for affordable housing developers, including nonprofit and MWBE Emerging Developers",
+            "Support for enabling conversion and adaptive reuse of buildings citywide",
+            "Potential benefits of combining the proposal with state-level tax incentives for office-to-residential conversions",
+            "Elimination of barriers to infill development, particularly beneficial for faith-based organizations",
+            "Support for transit-oriented development and town center zoning in lower density districts",
+            "Urging the city to develop term sheets and tax incentive programs for smaller sites to ensure affordable housing in lower density areas"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Patrick Boyle, represents Enterprise Community Partners, an affordable housing organization.\n2. He expresses support for the City of Yes proposal, citing the housing crisis and the need for more housing supply.\n3. He mentions several specific aspects of the proposal:\n   a. Universal affordability preference\n   b. Citywide proposals for conversion and adaptive reuse\n   c. Eliminating barriers to infill development\n   d. Transit-oriented development and town center zoning in lower density districts\n4. The speaker focuses primarily on affordable housing and does not directly mention parking mandates or their elimination.\n5. There is no explicit mention of climate change, transportation emissions, or car dependency.\n6. The testimony doesn't discuss specific financial impacts of parking on housing costs.\n\nComparing this to the reference talking points:\n- The testimony does not directly address most of the specific talking points about parking mandates and their effects.\n- There is some alignment in the general goal of increasing housing affordability and availability, which is mentioned in the third bullet point of the talking points.\n- The speaker's support for transit-oriented development aligns somewhat with the talking points' emphasis on reducing car dependency, though this connection is not explicitly made in the testimony.\n- The testimony's focus on affordable housing and adaptive reuse of buildings aligns with the general spirit of increasing housing options, but doesn't directly mirror the language or specific arguments in the talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "Adding more housing supply isn't the sole answer to that crisis, but it's a necessary component.",
+                "analysis": "This quote aligns with the general idea of increasing housing availability mentioned in the talking points, but it doesn't directly reference parking mandates or their specific effects on housing.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "For lower density districts on the whole, the transit oriented development and town centers owning. It's a way to bring housing to those districts.",
+                "analysis": "This quote supports the idea of reducing car dependency and promoting alternative transportation, which is a theme in the talking points. However, it doesn't explicitly mention parking mandates or their effects.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony from Patrick Boyle, representing Enterprise Community Partners, shows some alignment with the reference talking points, but the connection is not very strong. The testimony focuses primarily on affordable housing and various aspects of the City of Yes proposal that support this goal. While there is a general alignment in the desire to increase housing availability and affordability, the testimony does not directly address many of the specific arguments made in the reference talking points, particularly those related to parking mandates and their effects on housing costs, climate change, and urban design.\n\nThe testimony does mention support for transit-oriented development, which indirectly aligns with the talking points' emphasis on reducing car dependency. However, this connection is not explicitly made in the testimony.\n\nOverall, while the testimony supports the City of Yes proposal, it does so from a perspective that is more focused on affordable housing and does not engage directly with many of the specific arguments presented in the reference talking points about parking mandates and their effects.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

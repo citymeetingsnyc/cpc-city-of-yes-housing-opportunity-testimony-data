@@ -1,0 +1,39 @@
+{
+    "testimony": {
+        "name": "Timothy Burke",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/timothy-burke-president-of-nyc-new-liberals-on",
+        "start_time_in_seconds": 40864.91,
+        "end_time_in_seconds": 40951.223,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "NYC New Liberals"
+        ],
+        "key_points": [
+            "Strong support for City of Yes for Housing Opportunity as currently written",
+            "New York City has a severe housing shortage with only 1.4% rental vacancy",
+            "Need for more housing supply at all income levels",
+            "Reforming outdated zoning code to legalize housing",
+            "Housing is connected to transportation, education, health and safety, and economic issues",
+            "City of Yes for Housing Opportunity is an important first step in ending the housing crisis"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Timothy Burke, represents NYC New Liberals and strongly supports the \"City of Yes for Housing Opportunity\" proposal.\n\n2. He mentions a severe housing shortage in New York City, with a low rental vacancy rate of 1.4% and high rents.\n\n3. Burke advocates for reforming the zoning code to legalize more housing and increase supply at all income levels.\n\n4. He frames housing as a multi-faceted issue, touching on transportation, education, health and safety, and economics.\n\n5. The speaker recommends passing the proposal, viewing it as an important first step in addressing the housing crisis.\n\nNow, let's compare this to the reference talking points:\n\n- The testimony doesn't directly mention parking, which is a major focus of the reference talking points.\n- Both the testimony and talking points emphasize the need for zoning reform, albeit for different reasons (housing supply vs. parking).\n- The testimony touches on affordability, which aligns with one of the talking points about parking mandates increasing rents.\n- The speaker mentions transportation as related to housing, which loosely connects to the talking points about car-centric infrastructure and climate change.\n- Both the testimony and talking points frame their respective focuses (housing and parking) as multi-issue concerns.\n\nWhile there are some overlapping themes, the testimony doesn't directly echo or closely align with most of the specific talking points provided.",
+        "talking_point_evidence": [
+            {
+                "quote": "We need more housing at all income levels from subsidized affordable to market rate.",
+                "analysis": "This quote loosely relates to the talking point about parking mandates increasing rents and affecting housing affordability. However, it doesn't directly mention parking or make the same specific claims about cost increases.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            },
+            {
+                "quote": "The city of yes for housing opportunity is an important first step in ending our housing crisis and alleviating many of our other issues.",
+                "analysis": "This quote indirectly supports the talking points about zoning reform addressing multiple issues, although it focuses on housing rather than parking specifically.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony by Timothy Burke shows limited alignment with the provided reference talking points. While both the testimony and the talking points advocate for zoning reform, they focus on different aspects. Burke's testimony centers on increasing housing supply and affordability, while the reference talking points primarily discuss parking mandates and their effects.\n\nThe testimony does touch on some broader themes that align with the talking points, such as the multi-faceted nature of urban planning issues and the need for reform. However, it does not directly address or echo the specific arguments made in the talking points about parking, car dependency, or climate change.\n\nThe limited overlap suggests that while the speaker and the organization behind the talking points may share some general goals (like urban reform), their specific focuses and arguments differ significantly.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "testimony": {
+        "name": "Mark Levine",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/manhattan-borough-president-mark-levine-on-city-of",
+        "start_time_in_seconds": 4265.615,
+        "end_time_in_seconds": 4604.8213,
+        "for_or_against": "For",
+        "borough": "Manhattan",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "New York City Government",
+            "Manhattan Borough President"
+        ],
+        "key_points": [
+            "The city is experiencing a severe housing shortage and high rents",
+            "Current zoning code from 1961 is an obstacle to building needed housing",
+            "City of Yes for Housing Opportunity would help alleviate the housing shortage",
+            "Universal Affordable Preference (UAP) would increase affordable housing stock",
+            "The proposal would reduce roadblocks for converting vacant offices to residential units",
+            "Changes would allow for development on large residential campuses, including those owned by faith-based organizations",
+            "Manhattan Borough Board approved 15 key recommendations in the proposal",
+            "The proposal could potentially catalyze the production of 100,000 new units"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The testimony is from Mark Levine, Manhattan Borough President, discussing the \"City of Yes for Housing Opportunity\" proposal.\n\n2. The testimony focuses on the need for more housing and the obstacles in the current zoning code. It doesn't directly mention parking mandates or their removal.\n\n3. The testimony does mention that the current zoning code \"prioritizes construction of parking over apartments,\" which aligns with one of the reference talking points about parking mandates.\n\n4. The testimony emphasizes the need for affordable housing and increasing housing supply, which indirectly relates to the talking points about how parking mandates increase housing costs.\n\n5. The testimony discusses converting vacant office buildings to residences, which is not directly related to the parking mandate talking points.\n\n6. The testimony doesn't discuss climate change, transportation emissions, or incentivizing/disincentivizing driving, which are key points in the reference talking points.\n\n7. The testimony doesn't mention specific examples of other cities that have removed parking mandates.\n\n8. Overall, while there is some overlap in the general theme of needing zoning reform to increase housing supply and affordability, the testimony does not closely align with the specific arguments made in the reference talking points about parking mandates.",
+        "talking_point_evidence": [
+            {
+                "quote": "Our current zoning code makes it hard to convert vacant office buildings to residences. It prioritizes construction of parking over apartments.",
+                "analysis": "This quote aligns with the reference talking point about parking mandates prioritizing car infrastructure over housing. However, it's a brief mention and not the main focus of the testimony.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony by Mark Levine is primarily focused on the broader housing crisis in New York City and the need for zoning reform to increase housing supply and affordability. While it briefly mentions that the current zoning code prioritizes parking over apartments, which aligns with one of the reference talking points, the majority of the testimony does not directly address the specific arguments made in the reference talking points about parking mandates.\n\nThe testimony supports the general idea of zoning reform to increase housing supply, which is indirectly related to the goals of removing parking mandates. However, it does not go into detail about the negative impacts of parking mandates on housing costs, climate change, or street life, which are key points in the reference talking points.\n\nGiven the limited overlap and the focus on other aspects of housing reform, the testimony can be classified as SUPPORTS_TALKING_POINTS. It supports the overall goal of zoning reform for increased housing, but does not closely align with the specific arguments about parking mandates presented in the reference talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

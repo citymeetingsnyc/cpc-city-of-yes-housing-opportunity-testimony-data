@@ -1,0 +1,41 @@
+{
+    "testimony": {
+        "name": "Neil Miller",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/neil-miller-from-manhattan-community-board-5-on",
+        "start_time_in_seconds": 25693.559,
+        "end_time_in_seconds": 25849.277,
+        "for_or_against": "For",
+        "borough": "Manhattan",
+        "neighborhood": "Midtown",
+        "stated_affiliations": [
+            "Manhattan Community Board 5"
+        ],
+        "key_points": [
+            "Support for the City of Yes for Housing Opportunity proposal",
+            "Endorsement of UAP (Unified Affordability Percentage) to create homes at various income levels",
+            "Support for office conversion provisions",
+            "Approval of town center and EDU proposals to add homes across the city",
+            "Belief that the proposal will improve congestion in the city",
+            "Support for legalizing additional building types, such as buildings with courtyards",
+            "Personal connection: grandparents and great-grandparents found affordable housing in NYC",
+            "Experience as a former New York City public school English teacher"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Neil Miller, is a member of Manhattan Community Board 5 but is speaking for himself.\n2. He strongly supports the City of Yes for Housing Opportunity proposal.\n3. He mentions specific provisions he supports:\n   a. UAP (Unified Affordable Program) to create homes at various income levels.\n   b. Office conversions with incentives for affordable housing.\n   c. Town center and EDU proposals to add homes across the city.\n   d. Changes to allow more building types like those with courtyards.\n4. He believes these changes will improve congestion by allowing more people to live closer to public transportation.\n5. The speaker does not directly mention parking or parking mandates, which are a significant focus of the reference talking points.\n\nNow, let's compare this to the reference talking points:\n\n1. The testimony does not directly address parking issues, which are the main focus of the reference talking points.\n2. The speaker supports increasing housing affordability and availability, which aligns with one aspect mentioned in the reference talking points.\n3. The testimony mentions reducing congestion by allowing more people to use public transportation, which indirectly relates to the reference points about reducing car dependence.\n4. The speaker supports changes that would allow for more diverse building types, which could be seen as indirectly related to the talking points about making neighborhoods more walkable and improving street life.\n\nWhile there are some overlapping themes, the testimony does not directly address most of the specific points in the reference talking points. The alignment is mostly indirect and focuses on broader housing and urban planning issues rather than the specific parking-related concerns in the talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "City of yes, for housing opportunity is one step. Towards writing this wrong.",
+                "analysis": "This quote indirectly supports the general idea of increasing housing affordability and availability mentioned in the reference talking points. However, it does not specifically address parking issues or any other specific points from the reference talking points.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            },
+            {
+                "quote": "As a resident of Midtown, it will also approve congestion during the city. In the middle of the city if more people are able to take trains into the downtown core instead of needing to drive.",
+                "analysis": "This quote indirectly relates to the reference talking points about reducing car dependence and promoting public transportation. However, it does not specifically mention parking mandates or other key points from the reference talking points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony provided by Neil Miller is only loosely related to the reference talking points. While there are some shared themes around housing affordability and reducing car dependence, the testimony does not directly address the main focus of the reference talking points, which is the issue of parking mandates and their impact on urban development.\n\nThe speaker supports the City of Yes for Housing Opportunity proposal and mentions several specific provisions, but these are not directly related to the parking issues highlighted in the reference talking points. The testimony focuses more on creating diverse housing options, affordable housing, and improving urban density to reduce congestion.\n\nThere are two instances where the testimony indirectly supports or relates to the reference talking points:\n1. The general support for increasing housing affordability and availability.\n2. The mention of reducing congestion by allowing more people to use public transportation instead of driving.\n\nHowever, these connections are tenuous and do not directly address the specific arguments made in the reference talking points about parking mandates, their costs, and their impact on urban development and climate change.\n\nGiven the minimal overlap and the lack of direct references to the main points in the talking points, the testimony cannot be classified as having high alignment or strongly supporting the reference talking points.",
+        "similarity": "NOT_ALIGNED"
+    }
+}

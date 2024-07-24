@@ -1,0 +1,50 @@
+{
+    "testimony": {
+        "name": "Carlo Casa",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/carlo-casa-director-of-policy-and-research-at-new",
+        "start_time_in_seconds": 9796.855,
+        "end_time_in_seconds": 9933.014,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "New York Building Congress"
+        ],
+        "key_points": [
+            "The City of Yes for Housing Opportunity is a rational initiative addressing the housing crisis",
+            "The initiative incorporates community input from over 175 community board meetings",
+            "The policy has the potential to create over 100,000 new homes",
+            "Removes outdated parking mandates that increase housing production costs",
+            "Promotes transit-oriented development by legalizing 3 to 5 storey apartments near public transit",
+            "Encourages modest housing density in sensible locations citywide",
+            "Uses zoning as a tool rather than an obstacle to meet New Yorkers' needs"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "To analyze the similarity between the testimony and the reference talking points, I'll go through the testimony and compare it to the key points in the reference:\n\n1. The testimony mentions removing \"outdated parking mandates,\" which aligns with several reference points about reforming parking requirements.\n\n2. The testimony states that the proposal \"does not ban developers from building parking,\" which directly aligns with the first reference point.\n\n3. The testimony mentions allowing \"more flexibility\" in parking, which aligns with the reference point about allowing parking to meet neighborhood needs.\n\n4. The testimony highlights that current parking mandates increase housing costs, mentioning \"$100,000 per parking space.\" This aligns with the reference point about parking costs, though the exact figure differs slightly.\n\n5. The testimony discusses how this change will lead to \"more affordable housing,\" which aligns with the reference points about increasing housing affordability.\n\n6. The testimony promotes \"transit oriented development,\" which indirectly supports the reference points about reducing car dependence and prioritizing public transportation.\n\n7. The testimony doesn't explicitly mention climate change or emissions, which are discussed in the reference points.\n\n8. The testimony doesn't discuss the impact on walkability or street life, which are mentioned in the reference points.\n\nOverall, there is a strong alignment between the testimony and the reference talking points, particularly regarding parking flexibility, cost reduction, and housing affordability. However, the testimony doesn't cover all aspects mentioned in the reference points.",
+        "talking_point_evidence": [
+            {
+                "quote": "The city of Yes also removes outdated parking mandates, which today, increase the cost of housing production by roughly $100,000 per parking space.",
+                "analysis": "This quote directly addresses the issue of parking mandates and their impact on housing costs, which is a key point in the reference talking points. The specific cost mentioned ($100,000) is close to, but not identical to, the figure in the reference ($150,000 for below-ground parking).",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "The proposal does not ban developers from building parking rather it allows for more flexibility so that project managers can best meet the needs of each unique site rather than a one size fits all approach.",
+                "analysis": "This quote closely aligns with two reference talking points: that the change doesn't ban new parking, and that it allows parking to meet the needs of each neighborhood. The language used is very similar to the reference points.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "This translates to more affordable housing for New Yorkers.",
+                "analysis": "While not using identical language, this quote supports the reference point about increasing housing affordability by reducing parking mandates.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "The city of yes also promotes transit oriented development, by legalizing 3 to 5 storey apartments near public transit.",
+                "analysis": "This quote indirectly supports the reference points about reducing car dependence and prioritizing public transportation. While not using the same language, it aligns with the overall goal mentioned in the reference points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows a high level of alignment with the reference talking points. The speaker, Carl Okasa from the New York Building Congress, presents arguments that are very closely related to several key points in the reference material. \n\nThe testimony directly addresses the removal of parking mandates, emphasizing that this doesn't ban parking but allows for more flexibility. This mirrors the language and intent of the reference talking points almost exactly. The speaker also highlights the impact of parking mandates on housing costs, using a figure very close to the one provided in the reference points.\n\nThe focus on increased housing affordability and the promotion of transit-oriented development in the testimony aligns well with the goals outlined in the reference talking points, even if the exact language differs slightly.\n\nHowever, it's worth noting that the testimony doesn't cover all aspects mentioned in the reference points. For example, it doesn't explicitly discuss climate change, emissions, or the impact on walkability and street life. Despite these omissions, the overall message and key arguments presented in the testimony are highly consistent with the reference talking points.\n\nGiven the strong similarities in both content and language, it is plausible that the speaker is using the reference talking points as a basis for their testimony, even if they've tailored the message somewhat to their specific organization's perspective.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}

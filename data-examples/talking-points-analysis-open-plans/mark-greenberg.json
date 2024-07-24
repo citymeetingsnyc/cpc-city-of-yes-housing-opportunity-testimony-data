@@ -1,0 +1,43 @@
+{
+    "testimony": {
+        "name": "Mark Greenberg",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/mark-greenberg-from-interfaith-assembly-on",
+        "start_time_in_seconds": 42672.05,
+        "end_time_in_seconds": 42858.438,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Interfaith Assembly on Homelessness And Housing",
+            "Interfaith Affordable Housing Collaborative",
+            "Cathedral Church St. John the Divine"
+        ],
+        "key_points": [
+            "Supports the City of Yes for Housing Opportunity initiative as a bold and innovative plan",
+            "Emphasizes the need for affordable housing to address homelessness crisis",
+            "Highlights the increase in homeless population from under 10,000 to over 100,000 (including migrants)",
+            "Stresses the importance of safe, decent, affordable housing in rebuilding lives",
+            "Argues that inaction is not an option given the current housing crisis",
+            "Calls for New York's zoning rules to enable faith communities to contribute to housing solutions",
+            "Acknowledges fear of change but emphasizes that the status quo is more frightening for those struggling with housing",
+            "Urges bold action to address the affordability and homelessness crisis"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "To analyze the similarity between the testimony and the reference talking points, I'll go through the testimony step by step and compare it to the points:\n\n1. The testimony is from Mark Greenberg, representing faith-based organizations focused on homelessness and housing.\n2. He speaks about the increasing homelessness crisis in NYC, mentioning numbers rising from 10,000 to over 100,000.\n3. The main focus of his testimony is on the need for affordable housing and addressing homelessness.\n4. He expresses support for the City of Yes for Housing Opportunity plan, calling it \"bold and innovative.\"\n5. He emphasizes the importance of enabling faith communities to participate in addressing the housing crisis.\n6. The testimony doesn't directly mention parking, transportation, or specific zoning details.\n7. Instead, it focuses on the broader need for change to address the housing crisis.\n\nComparing this to the reference talking points:\n- The testimony doesn't mention any of the specific points about parking mandates or their effects.\n- It doesn't discuss transportation or climate change.\n- The only slight overlap is in the general support for zoning reform to address housing affordability.\n\nGiven this analysis, the testimony is not closely aligned with the specific reference talking points provided.",
+        "talking_point_evidence": [
+            {
+                "quote": "I applaud New York City Department of Planning for putting forward this bold and innovative plan to enable New York City to live up to its great promise",
+                "analysis": "This quote expresses support for the zoning proposal, which is in line with the general sentiment of the reference talking points. However, it doesn't mention any specific aspects that align with the provided talking points.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            },
+            {
+                "quote": "the city of yes, for for housing opportunities and enabling housing for many income levels, will mean that more of the lowest income New Yorkers will have greater opportunity to rebuild their lives and give back to our great city.",
+                "analysis": "This quote mentions the 'City of Yes for Housing Opportunity' plan and its potential to provide housing for various income levels. While this aligns with the general goal of increasing housing affordability mentioned in the reference talking points, it doesn't specifically address any of the parking or transportation-related points.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            }
+        ],
+        "analysis": "The testimony by Mark Greenberg is primarily focused on the homelessness crisis and the need for affordable housing in New York City. While he expresses support for the City of Yes for Housing Opportunity plan, his testimony does not directly address or align with the specific talking points provided in the reference.\n\nThe reference talking points are heavily focused on parking mandates, transportation issues, and their impact on housing affordability and climate change. In contrast, Greenberg's testimony does not mention parking, transportation, or climate change at all. His support for the zoning proposal is based on its potential to address the housing crisis and homelessness, rather than any specific policy details that align with the reference talking points.\n\nThere are only tenuous links between the testimony and the reference talking points, mainly in the general support for zoning reform to increase housing affordability. However, the specific reasons and details provided in the reference talking points are not reflected in Greenberg's testimony.\n\nGiven this analysis, the testimony cannot be classified as having high alignment or even supporting the specific talking points provided. While it supports the overall goal of increasing housing affordability, it does so from a different perspective and with different emphases than the reference talking points.",
+        "similarity": "NOT_ALIGNED"
+    }
+}

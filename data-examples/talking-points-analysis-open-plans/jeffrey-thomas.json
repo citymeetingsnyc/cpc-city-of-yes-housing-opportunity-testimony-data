@@ -1,0 +1,48 @@
+{
+    "testimony": {
+        "name": "Jeffrey Thomas",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/jeffrey-thomas-on-universal-affordability",
+        "start_time_in_seconds": 2820.122,
+        "end_time_in_seconds": 2942.9092,
+        "for_or_against": "For",
+        "borough": "Brooklyn",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [],
+        "key_points": [
+            "Supports the City of Yes for Housing Opportunity proposal in general",
+            "Specifically favors the Universal Affordability Preference (UAP)",
+            "UAP makes buildings more profitable while increasing affordable housing",
+            "Supports removing parking minimums",
+            "Removing parking minimums can encourage alternative transportation methods",
+            "Removing parking minimums can lower construction costs and increase affordability",
+            "Fewer parking spaces can lead to less congestion and fewer cars on the roads"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Jeffrey Thomas, expresses support for the City of Yes for Housing Opportunity proposal.\n2. He specifically mentions two aspects: the universal affordability preference (UAP) and removing parking minimums.\n3. Regarding UAP, he argues it makes buildings more profitable while also increasing affordable housing units.\n4. On parking minimums, he shares personal experience and argues that removing them will:\n   a) Lower construction costs\n   b) Increase affordability\n   c) Lead to better use of space\n   d) Result in fewer cars on the roads and less congestion\n5. He mentions that people who move into buildings without parking will find alternative ways to commute.\n6. The speaker encourages the commission to support the entire proposal.\n\nNow, let's compare this to the reference talking points:\n\n1. The testimony aligns closely with several key points about parking minimums.\n2. Both the testimony and talking points mention increased affordability as a benefit of removing parking minimums.\n3. The talking points provide more specific data (e.g., cost per parking space, percentage of New Yorkers who commute by car) that the testimony doesn't mention.\n4. The testimony doesn't explicitly mention climate change, but does talk about reducing car usage, which aligns with the climate-related talking point.\n5. The speaker's personal experience about circling for parking aligns with the talking point about incentivizing/disincentivizing driving.\n6. The testimony doesn't mention many of the specific points like comparisons to other cities or the history of parking mandates.\n7. The universal affordability preference (UAP) mentioned in the testimony isn't directly addressed in the given talking points.\n\nOverall, while the testimony doesn't cover all the talking points and lacks some of the specific data, it strongly aligns with the main arguments against parking minimums presented in the reference talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "I'd also like to speak quickly in favor for moving parking minimums.",
+                "analysis": "This quote directly supports the talking point about reducing parking mandates. While it doesn't provide the detailed reasoning found in the talking points, it clearly aligns with the overall goal.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "If we have regulations that require parking, some people who might not really need cars, even in neighborhoods with the public energy, they say, well, why not? There's parking spaces here. Be on the roads.",
+                "analysis": "This quote supports the talking point about how parking mandates incentivize driving and car ownership. It aligns with the idea that available parking encourages car use, even when it might not be necessary.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "That all, as people said, lower cost construction, get us more affordability, hopefully use a space. It also means in better ways.",
+                "analysis": "This quote supports multiple talking points about how removing parking minimums can lead to increased affordability and better use of space. While it doesn't provide specific figures like the talking points do, it conveys the same general idea.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "In New York City, especially when especially when you're building new buildings, if you say here's a building with no parking, people who move in will commute with some way other than a private vehicle.",
+                "analysis": "This quote aligns with the talking point about planning for the city we want, not the city we have. It suggests that removing parking requirements will encourage alternative transportation methods, which is a key argument in the talking points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows a strong alignment with the reference talking points, particularly regarding the removal of parking minimums. The speaker, Jeffrey Thomas, presents arguments that closely mirror several key points from the reference talking points, including increased affordability, better use of space, and encouraging alternative transportation methods.\n\nWhile the testimony doesn't cover all the specific details found in the talking points (such as exact costs or comparisons to other cities), it conveys the same overall message and reasoning behind removing parking minimums. The speaker's personal experience adds a relatable dimension to the arguments presented in the talking points.\n\nIt's worth noting that the testimony also discusses the universal affordability preference (UAP), which isn't directly addressed in the given talking points. This shows that while the speaker is aligned with the talking points on parking, they also have additional perspectives on housing affordability.\n\nThe testimony doesn't use the exact language of the talking points, but the core arguments and ideas are very similar, indicating a high level of alignment with the reference material.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}

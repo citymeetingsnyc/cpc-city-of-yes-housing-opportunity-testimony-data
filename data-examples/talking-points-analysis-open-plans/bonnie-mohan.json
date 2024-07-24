@@ -1,0 +1,42 @@
+{
+    "testimony": {
+        "name": "Bonnie Mohan",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/bonnie-mohan-cofounder-and-executive-director-of",
+        "start_time_in_seconds": 20375.803,
+        "end_time_in_seconds": 20535.889,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Health and Housing Consortium"
+        ],
+        "key_points": [
+            "Strong support for City of Yes for Housing Opportunity",
+            "Affordable and supportive housing is deeply needed across all boroughs",
+            "High numbers of people in shelters, on streets, or in unstable housing situations",
+            "Lack of affordable housing is a primary reason for families entering shelters",
+            "The consortium trains frontline workers on navigating NYC's homeless housing systems",
+            "Current housing vouchers are flawed and often not accepted by landlords",
+            "City of Yes plan is seen as a lifeline for those at risk of or experiencing homelessness",
+            "The plan is rooted in respect for communities and neighborhoods",
+            "Urges the city planning commission to support the plan to help build a New York where everyone can thrive"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Bonnie Mohan, is from the Health and Housing Consortium and strongly supports the City of Yes for Housing Opportunity plan.\n\n2. The testimony focuses heavily on the need for affordable housing and the current homelessness crisis in New York City. It doesn't directly mention parking or transportation issues.\n\n3. The speaker emphasizes the high number of people in shelters, on the streets, or in unsuitable living conditions due to lack of affordable housing.\n\n4. The testimony highlights the importance of housing vouchers but notes their limitations due to landlord discrimination and lack of affordable housing options.\n\n5. The speaker sees the City of Yes plan as a \"lifeline\" for those at risk of or experiencing homelessness.\n\n6. The testimony doesn't directly reference any of the specific talking points about parking mandates, climate change, or transportation issues.\n\n7. However, the overall theme of increasing housing affordability and availability aligns with one of the key issues mentioned in the reference talking points.\n\n8. The speaker's emphasis on the plan being \"rooted in respect for communities and neighborhoods\" might indirectly relate to the talking point about allowing parking to meet the needs of each neighborhood, but this connection is tenuous at best.\n\nGiven this analysis, while there is some alignment in the overall goal of increasing housing affordability, the testimony doesn't directly reference or closely align with most of the specific talking points provided.",
+        "talking_point_evidence": [
+            {
+                "quote": "By supporting this plan, New York will take an essential step towards ensuring that everyone in our city has a safe affordable place to call home.",
+                "analysis": "This quote aligns with the general theme of increasing housing affordability mentioned in the talking points, but it doesn't specifically reference parking mandates or other details from the talking points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "We are a communal city, and this plan is rooted in respect for communities and neighborhoods.",
+                "analysis": "This quote could be loosely related to the talking point about allowing parking to meet the needs of each neighborhood, but the connection is not strong or explicit.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            }
+        ],
+        "analysis": "The testimony provided by Bonnie Mohan focuses primarily on the need for affordable housing and addressing homelessness in New York City. While these themes are broadly consistent with one aspect of the reference talking points (increasing housing affordability), the testimony does not directly address or closely align with most of the specific points provided in the reference talking points.\n\nThe testimony does not mention parking mandates, transportation issues, climate change, or many of the other key points from the reference list. Instead, it focuses on the current housing crisis, the number of people in shelters or unstable housing situations, and the importance of creating more affordable housing options.\n\nThere are a couple of instances where the testimony loosely aligns with or supports ideas from the talking points, particularly regarding housing affordability. However, these connections are general and do not demonstrate a strong or direct alignment with the specific arguments presented in the reference talking points.\n\nGiven this analysis, while there is some support for the overall goal of increasing housing affordability, the testimony cannot be classified as having high alignment with the reference talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "testimony": {
+        "name": "Chloe Fatusi",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/chloe-fatusi-resident-of-cobble-hill-brooklyn-on",
+        "start_time_in_seconds": 27372.43,
+        "end_time_in_seconds": 27447.055,
+        "for_or_against": "For",
+        "borough": "Brooklyn",
+        "neighborhood": "Cobble Hill",
+        "stated_affiliations": [],
+        "key_points": [
+            "Support for City of Yes initiative",
+            "Concerned about friends' and children's ability to stay in the city",
+            "Housing supply and cost directly impact affordability",
+            "Excited about lifting parking minimums",
+            "Need to move away from car dependency",
+            "City stepping up to solve housing problems"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Chloe Fatusi, expresses support for the \"City of Yes\" proposal.\n2. She mentions being worried about her friends' and kids' ability to stay in the city, indicating concern about housing affordability.\n3. She specifically mentions being \"excited to see parking minimums lifted,\" which directly relates to one of the main talking points.\n4. She acknowledges that this will help build more housing, which aligns with the talking points about increasing housing affordability and availability.\n5. She mentions the need to \"move away from car dependency,\" which relates to several talking points about reducing car-centric infrastructure and combating climate change.\n6. While the testimony is brief, it touches on key aspects of the talking points, particularly regarding parking minimums and their impact on housing and car dependency.\n\nThe testimony doesn't go into as much detail as the talking points, but it aligns closely with several key points.",
+        "talking_point_evidence": [
+            {
+                "quote": "I'm especially excited to see parking minimums lifted, not only because it will help build more housing, but because it is a recognition of a need to move away from car dependency.",
+                "analysis": "This quote directly addresses the removal of parking minimums and its potential impact on housing supply, as well as the shift away from car-centric planning. It closely aligns with several talking points about parking reform, housing affordability, and reducing car dependency.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            }
+        ],
+        "analysis": "The testimony shows a strong alignment with the reference talking points, particularly regarding the removal of parking minimums and its potential impact on housing affordability and car dependency. While the testimony is brief and doesn't cover all the points in detail, it touches on key aspects that are central to the talking points. The speaker's enthusiasm for the proposal and her understanding of its potential benefits closely mirror the arguments presented in the talking points.\n\nThe speaker's mention of lifting parking minimums to help build more housing and move away from car dependency directly reflects several of the key talking points. This demonstrates a high level of alignment with the core messages of the reference talking points, even though the testimony doesn't go into as much depth or cover all the points mentioned.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

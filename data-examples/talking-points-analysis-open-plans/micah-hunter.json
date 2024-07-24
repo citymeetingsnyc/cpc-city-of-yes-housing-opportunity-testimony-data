@@ -1,0 +1,41 @@
+{
+    "testimony": {
+        "name": "Micah Hunter",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/micah-hunter-from-nhp-foundation-on-city-of-yes",
+        "start_time_in_seconds": 22837.336,
+        "end_time_in_seconds": 23017.105,
+        "for_or_against": "For",
+        "borough": "Queens",
+        "neighborhood": "Laurelton",
+        "stated_affiliations": [
+            "NHP Foundation",
+            "HPD Housing Preservation Development",
+            "Administration of Children's Services"
+        ],
+        "key_points": [
+            "Personal experience of having to leave Bed-Stuy due to rising costs",
+            "Housing crisis and need for more affordable housing",
+            "Discrepancy between household growth and new housing units in NYC",
+            "Positive impact of affordable housing on families",
+            "Changing demographics affecting housing needs (e.g., baby boomers, workforce housing)",
+            "City of Yes for Housing Opportunity proposal as a step to address housing issues"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Micah Hunter, is from NHP Foundation, a nonprofit focused on affordable housing.\n2. He shares personal experience of having to move due to rising costs in his neighborhood.\n3. He emphasizes the housing crisis, mentioning statistics about housing shortages.\n4. He discusses the changing demographics and increasing need for affordable housing.\n5. The speaker urges the Commission to support the \"City of Yes for Housing Opportunity\" proposal.\n\nNow, let's compare this to the reference talking points:\n\n1. The testimony doesn't directly mention parking mandates or their removal.\n2. The speaker focuses on the need for affordable housing, which aligns with some of the talking points about how parking mandates can increase housing costs.\n3. There's no specific mention of climate change, transportation emissions, or car dependence.\n4. The testimony doesn't discuss the specifics of the proposal, such as parking choice or the history of parking mandates.\n\nWhile the testimony supports the proposal, it doesn't closely align with the specific talking points provided. The speaker's focus is more on the general need for affordable housing rather than the specific parking-related aspects of the proposal.",
+        "talking_point_evidence": [
+            {
+                "quote": "We urge the Commission to vote in support of the proposal. We believe that this course acts will help build a city that meets the needs of all of its residents.",
+                "analysis": "This quote shows support for the proposal, which aligns with the general sentiment of the talking points. However, it doesn't specifically mention parking mandates or any of the detailed benefits outlined in the reference talking points.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            },
+            {
+                "quote": "I'd say the city of yes are filed in opportunity proposals by those steps. To address these issues.",
+                "analysis": "This quote directly mentions the proposal, showing support for it as a solution to housing issues. However, it doesn't specifically address any of the parking-related talking points.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            }
+        ],
+        "analysis": "The testimony provided by Micah Hunter is primarily focused on the need for affordable housing in New York City. While he expresses support for the \"City of Yes for Housing Opportunity\" proposal, his testimony does not directly address the specific talking points related to parking mandates and their impacts.\n\nThe speaker's main arguments revolve around the housing crisis, personal experiences with rising costs, and the changing demographics creating a need for more affordable housing. These points indirectly support the overall goal of the proposal to increase housing affordability, but they don't specifically align with the provided talking points about parking mandates, transportation, and climate change.\n\nThe testimony does not contain any direct references to parking issues, car dependence, or the specific mechanisms by which the proposal aims to address housing affordability (such as reducing parking mandates). This lack of specific alignment with the talking points suggests that while the speaker supports the proposal, they may be doing so for reasons other than those outlined in the reference talking points, or they may not be fully aware of the specific parking-related aspects of the proposal.\n\nGiven this analysis, the testimony can be classified as having a low level of alignment with the specific reference talking points provided, even though it supports the overall proposal.",
+        "similarity": "NOT_ALIGNED"
+    }
+}

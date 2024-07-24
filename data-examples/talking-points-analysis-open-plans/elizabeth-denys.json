@@ -1,0 +1,45 @@
+{
+    "testimony": {
+        "name": "Elizabeth Denys",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/elizabeth-denys-from-open-new-york-on-transit",
+        "start_time_in_seconds": 2394.6694,
+        "end_time_in_seconds": 2568.547,
+        "for_or_against": "For",
+        "borough": "Brooklyn",
+        "neighborhood": "Flatbush",
+        "stated_affiliations": [
+            "Open New York"
+        ],
+        "key_points": [
+            "Support for the City of Yes for Housing Opportunity initiative",
+            "Concern about housing shortage and skyrocketing rents forcing people to leave the city",
+            "Support for transit-oriented development and lifting parking minimums",
+            "Support for allowing 3 to 5 story apartment buildings near transit, which are contextual with existing buildings in Flatbush",
+            "Support for Accessory Dwelling Units (ADUs) as a way to add housing in lower density neighborhoods",
+            "ADUs can help families live closer together and provide additional income for homeowners",
+            "Urges approval of the proposal in its strongest possible form"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "1. The testimony focuses on supporting the City of Yes for Housing Opportunity initiative, which includes lifting parking minimums.\n2. The speaker mentions several key points that align with the reference talking points:\n   - They support transit-oriented development near train stations.\n   - They emphasize the benefits of living car-free and reducing the need for car ownership.\n   - They mention that lifting parking minimums helps reduce the cost of building homes and resulting rents.\n3. While the testimony doesn't go into as much detail about parking as the reference talking points, it does touch on some of the same themes:\n   - Affordability\n   - Sustainability\n   - Creating walkable communities\n4. The testimony doesn't explicitly mention climate change or emissions, but it does emphasize sustainability.\n5. The speaker provides personal anecdotes and local context, which aren't present in the reference talking points but support the same general ideas.\n6. The testimony covers other aspects of the City of Yes initiative beyond parking, such as ADUs, which aren't mentioned in the reference talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "Lifting parking minimums also helps reduce the cost of building homes and thus the resulting rents where cars aren't needed to get around.",
+                "analysis": "This quote directly supports the reference talking point about parking mandates increasing costs and rents. While it doesn't provide specific numbers like the reference point does, it makes the same argument.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "Creating apartment buildings near transit is the best of new development. They create sustainable walkable communities where people don't need to own cars.",
+                "analysis": "This quote aligns with the reference talking points about prioritizing active and public transportation over car-centric infrastructure. It supports the idea of reducing car dependence, which is a theme in several of the reference points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Owning and maintaining a car is a huge expense. Many can't afford, and these transitory into to at homes will become excellent options for people in all stages of life to live car free like I do.",
+                "analysis": "While this quote doesn't directly match any single reference talking point, it supports the overall theme of reducing car dependence and promoting alternatives. It provides a personal perspective on the benefits of car-free living, which aligns with the goals expressed in the reference points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows a moderate level of alignment with the reference talking points, particularly on the topic of parking minimums and their impact on housing affordability and sustainable urban development. The speaker supports the City of Yes for Housing Opportunity initiative, which includes lifting parking minimums, and makes arguments that are consistent with several of the reference talking points.\n\nHowever, the testimony is broader in scope, covering other aspects of the initiative beyond parking, such as ADUs and transit-oriented development. It also provides more personal anecdotes and local context rather than focusing solely on policy arguments. The testimony doesn't go into as much detail on some specific points mentioned in the reference talking points, such as climate change impacts or specific cost figures for parking spaces.\n\nWhile there is clear support for similar ideas, the language and specific arguments used in the testimony are not identical to the reference talking points. The alignment seems to be based on shared goals and general principles rather than direct repetition of talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

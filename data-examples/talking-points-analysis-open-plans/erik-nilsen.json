@@ -1,0 +1,37 @@
+{
+    "testimony": {
+        "name": "Erik Nilsen",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/erik-nilsen-resident-of-bushwick-brooklyn-on-full",
+        "start_time_in_seconds": 48009.06,
+        "end_time_in_seconds": 48138.58,
+        "for_or_against": "For",
+        "borough": "Brooklyn",
+        "neighborhood": "Bushwick",
+        "stated_affiliations": [],
+        "key_points": [
+            "Supports all aspects of City of Yes and urges passing the strongest form possible",
+            "Housing costs have been a major concern for himself and friends, leading to feelings of instability",
+            "Wants more housing built everywhere to address affordability concerns",
+            "Appreciates the dynamic nature of New York City and believes change is necessary for growth",
+            "Concerned about the city remaining interesting and affordable, mentioning high rental costs",
+            "Believes embracing change is part of living in New York City"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Erik Nilsen, is a lifelong New Yorker and homeowner in Bushwick, Brooklyn.\n2. He expresses \"full-throated support\" for the City of Yes proposal, urging for the strongest form possible.\n3. He mentions that housing costs have been a major concern for him and his friends throughout their lives in NYC.\n4. Erik supports building more housing everywhere to address affordability concerns.\n5. He appreciates the dynamic nature of NYC and wants it to remain interesting and growing.\n6. The speaker doesn't directly mention parking or transportation issues.\n7. His main focus is on housing affordability and allowing the city to change and grow.\n\nNow, let's compare this to the reference talking points:\n\n1. The testimony doesn't directly address parking issues, which are a major focus of the talking points.\n2. However, the speaker's support for more housing aligns with the talking points' emphasis on increasing housing affordability and availability.\n3. The testimony doesn't mention climate change, public transportation, or specific policy details, which are present in the talking points.\n4. Both the testimony and the talking points share a vision of a changing, growing city, though they focus on different aspects (housing vs. transportation).\n5. The speaker's emphasis on affordability does align with the talking points' mention of how parking mandates can increase housing costs.\n\nOverall, while there is some alignment in the broader goals (affordability, allowing city growth), the specific focus and details differ significantly between the testimony and the talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "So that's why I really want there to just be more housing built everywhere to address affordability concerns everywhere across the city.",
+                "analysis": "This quote supports the general idea of increasing housing affordability and availability, which is mentioned in the talking points. However, it doesn't specifically address parking mandates or transportation issues. The connection is supportive but not identical.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Also, I just appreciate I like living New York City because of how dynamic it is. And I don't know how dynamic it's gonna be when when when it's gonna cost $5000 a month to rent one bedroom.",
+                "analysis": "This quote aligns with the talking points' concern about housing affordability and the need for the city to evolve. It supports the idea that high housing costs are a problem, which is indirectly related to the talking points about how parking mandates can increase housing costs. However, it doesn't directly mention parking or transportation issues.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows some alignment with the reference talking points, but the connection is not very strong. The speaker, Erik Nilsen, expresses support for the City of Yes proposal and emphasizes the need for more housing to address affordability concerns. This aligns with the talking points' focus on increasing housing affordability and availability. However, the testimony doesn't directly address many of the specific issues mentioned in the talking points, such as parking mandates, transportation, or climate change.\n\nThe main points of alignment are:\n1. The desire to increase housing affordability and availability.\n2. The vision of a changing, growing city.\n3. The recognition that current housing costs are a significant problem.\n\nHowever, the testimony lacks specific policy details and doesn't mention many of the key arguments presented in the talking points. The speaker's focus is primarily on housing, while the talking points cover a broader range of issues related to parking, transportation, and urban planning.\n\nGiven these factors, the testimony can be classified as supporting the general direction of the talking points, but it doesn't demonstrate a high level of alignment with the specific arguments and details presented in the reference talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

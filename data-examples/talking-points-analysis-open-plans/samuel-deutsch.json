@@ -1,0 +1,44 @@
+{
+    "testimony": {
+        "name": "Samuel Deutsch",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/samuel-deutsch-on-transit-oriented-development-and",
+        "start_time_in_seconds": 47398.254,
+        "end_time_in_seconds": 47560.3,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [],
+        "key_points": [
+            "New York City should look to other cities for inspiration in housing policy",
+            "Vancouver allows 20-story apartment buildings near transit stations to reduce carbon emissions",
+            "New York's proposal for 3-5 story buildings near transit should be a 'no-brainer'",
+            "Austin, Texas has built significantly more housing per capita than New York, resulting in decreasing rents",
+            "Loosening zoning restrictions in Austin has allowed supply to meet demand",
+            "The City of Yes proposal is supported but could potentially go further",
+            "Building more housing near transit promotes sustainable, low-carbon, car-free lifestyles",
+            "The proposal will lead to more climate-friendly housing in New York"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze this testimony step by step:\n\n1. The speaker, Samuel Deutsch, strongly supports the \"City of Yes\" proposal.\n2. He compares New York City's approach to housing policy with two other cities: Vancouver and Austin.\n3. For Vancouver, he emphasizes:\n   - The importance of climate change considerations in housing policy.\n   - Building housing near transit to reduce carbon emissions.\n   - Vancouver's approval of 20-story apartment buildings near transit stations.\n4. For Austin, he highlights:\n   - Loosened zoning restrictions leading to increased housing supply.\n   - Resulting rent decreases due to increased supply meeting demand.\n5. The speaker suggests that New York's proposal (3-5 stories) is modest compared to Vancouver's approach.\n6. He emphasizes the benefits of building more housing near transit for sustainable, low-carbon, car-free lifestyles.\n7. The speaker doesn't directly mention parking, but his focus on transit-oriented development and reducing car dependency aligns with some of the reference talking points.\n\nNow, let's compare this to the reference talking points:\n- The testimony aligns with the idea of reducing car dependency and promoting transit-oriented development.\n- It supports the notion of addressing climate change through housing policy, which is mentioned in the talking points.\n- The speaker's emphasis on increasing housing supply to reduce rents aligns with the affordability arguments in the talking points.\n- While not explicitly mentioned, the testimony's support for transit-oriented development indirectly supports the idea of reducing parking mandates.\n",
+        "talking_point_evidence": [
+            {
+                "quote": "getting housing built near where trans exists. So people don't need to drive as much or don't even need to own cars is one of the most effective policies to reduce carbon emissions on the whole electricity level.",
+                "analysis": "This quote supports the talking point about reducing car dependency and addressing climate change. While it doesn't directly mention parking mandates, it aligns with the idea that reducing car use is beneficial for the environment.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "They've been building about ten times as much housing per capita as New York has. And rents are plummeting. I have friends there who are getting rent decreases, which is kind of unheard of here in New York. Precisely because supply, they've loosened their zoning restrictions, they've allowed more housing to be built.",
+                "analysis": "This quote supports the talking point about increasing housing affordability and availability. While it doesn't directly mention parking mandates, it aligns with the idea that loosening zoning restrictions can lead to more housing and lower rents.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "I'm strongly in support of the city of yes, I think if anything long term, there should be opportunities to go in further than the city of yes because this is really pretty basic no brainer stuff.",
+                "analysis": "This quote indicates strong support for the City of Yes proposal, which aligns with the overall message of the talking points. However, it doesn't directly reference any specific talking point.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            }
+        ],
+        "analysis": "The testimony is supportive of the City of Yes proposal and aligns with several key themes from the reference talking points, particularly regarding climate change, transit-oriented development, and housing affordability. However, the speaker does not directly address many specific points from the reference talking points, such as parking mandates or specific policy details.\n\nThe testimony focuses more on comparing New York's approach to other cities and emphasizing the benefits of increased housing supply and transit-oriented development. While these themes are consistent with the goals outlined in the talking points, the speaker doesn't use the same language or make the same specific arguments.\n\nThe testimony supports the overall direction of the policy change but doesn't appear to be directly based on or closely following the provided talking points. It's possible the speaker is independently supportive of similar ideas or has been influenced by similar arguments, but is not directly using the reference talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

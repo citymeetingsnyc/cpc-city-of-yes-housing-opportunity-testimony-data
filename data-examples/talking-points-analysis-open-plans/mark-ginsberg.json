@@ -1,0 +1,50 @@
+{
+    "testimony": {
+        "name": "Mark Ginsberg",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/mark-ginsberg-president-of-citizens-housing",
+        "start_time_in_seconds": 17832.256,
+        "end_time_in_seconds": 18018.695,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Citizens Housing Planning Council",
+            "Curtis + Ginsberg Architects"
+        ],
+        "key_points": [
+            "Strong support for the proposed citywide text amendment",
+            "The changes would be the biggest and most important set of zoning reform since 1961",
+            "Essential step to address New York City's affordable housing crisis",
+            "Expansion of Ayers to UAP creates wider range of affordable housing options",
+            "Prioritizes housing needs over vehicle storage",
+            "Reducing parking requirements can lower housing costs",
+            "Importance of allowing more housing in every neighborhood",
+            "Need for simplicity in regulations to avoid delays and limitations",
+            "Maintaining flexibility for future unanticipated changes",
+            "Ensuring existing projects can be completed without disruption",
+            "Urges approval of the proposed amendment with only necessary changes"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Mark Ginsberg, strongly supports the proposed citywide text amendment.\n2. He mentions that the changes would be the most important set of zoning reforms since 1961.\n3. Ginsberg specifically highlights changes related to parking requirements.\n4. He states that the cost of a structured parking space can add up to $100,000 to the cost of an apartment.\n5. The proposal, according to Ginsberg, allows for designing buildings with an amount of parking that makes sense based on the building's program, rather than making the building program work around zoning.\n6. He emphasizes the need for flexibility in regulations to enable them to be usable in the future.\n7. Ginsberg urges the commission to approve the proposed text amendment with only those changes needed to make it most effective.\n\nNow, let's compare this to the reference talking points:\n\n1. The testimony aligns with the talking point about reducing parking mandates to increase housing affordability.\n2. Ginsberg's mention of the $100,000 cost per parking space is similar to the talking point mentioning $150,000 per space.\n3. The testimony supports the idea of allowing parking to meet the needs of each neighborhood, as mentioned in the talking points.\n4. While the testimony doesn't explicitly mention climate change or transportation emissions, it does prioritize housing needs over vehicle storage, which aligns with the spirit of the talking points.\n5. The testimony doesn't mention specific cities that have ended parking mandates or discuss the impact on street life, which are present in the talking points.\n\nOverall, there is a strong alignment between the testimony and the reference talking points, particularly regarding the impact of parking requirements on housing affordability and the need for flexibility in parking regulations.",
+        "talking_point_evidence": [
+            {
+                "quote": "The proposal puts our society's need for housing ahead of its needs for vehicle storage.",
+                "analysis": "This quote directly supports the talking point about prioritizing housing over parking. It aligns with the idea of reducing parking mandates to increase housing affordability and availability.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "The cost of a structured parking space can add as much as $100,000 to the cost of an apartment.",
+                "analysis": "This quote is very similar to the talking point mentioning that parking can cost up to $150,000 per space and increase rents. While the exact numbers differ slightly, the point being made is identical.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "Under the proposal, we can design buildings with an amount of parking that makes sense based on the building's program that rather than making a build program workaround zoning.",
+                "analysis": "This quote supports the talking point about allowing parking to meet the needs of each neighborhood. It emphasizes flexibility in parking requirements, which aligns with the reference talking points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony by Mark Ginsberg shows a high level of alignment with the reference talking points. While the testimony doesn't cover all aspects mentioned in the talking points, it strongly emphasizes the key arguments about reducing parking mandates to increase housing affordability and allowing for more flexible parking requirements.\n\nThe testimony directly addresses the high cost of parking spaces and how it impacts housing costs, which is a central point in the reference talking points. Ginsberg's emphasis on prioritizing housing needs over vehicle storage aligns closely with the overall message of the talking points.\n\nHowever, the testimony doesn't explicitly mention some aspects covered in the talking points, such as the impact on climate change, street life, or examples from other cities. Despite this, the core arguments and the overall perspective on parking reform are very similar between the testimony and the reference talking points.\n\nGiven the strong similarities in the main arguments and the direct overlap in some key points, it's clear that the testimony is very closely related to the reference talking points. It's plausible that the speaker is familiar with or influenced by similar arguments as those presented in the reference talking points.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}

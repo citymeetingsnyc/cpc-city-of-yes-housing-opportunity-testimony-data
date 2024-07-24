@@ -1,0 +1,40 @@
+{
+    "testimony": {
+        "name": "Sabrina Lippman",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/sabrina-lippman-ceo-of-habitat-for-humanity-new",
+        "start_time_in_seconds": 11089.223,
+        "end_time_in_seconds": 11247.16,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Habitat for Humanity New York City and Westchester County"
+        ],
+        "key_points": [
+            "Strong support for the City of Yes proposal",
+            "Importance of affordable housing and home ownership",
+            "New York City's low homeownership rate compared to national average",
+            "Support for accessory dwelling units and district fixes",
+            "Support for universal affordability preference",
+            "Support for missing middle housing through town center zoning and transit-oriented development",
+            "Proposal as a step towards building a more equitable and affordable New York"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Sabrina Lippman, is the CEO of Habitat for Humanity NYC and Westchester County.\n2. She expresses strong support for the City of Yes proposal and urges the commission to vote in favor of the zoning reforms.\n3. The testimony focuses on the importance of affordable housing and homeownership.\n4. Key points from the testimony:\n   - Emphasizes the need for more housing across all communities\n   - Highlights the low homeownership rate in NYC compared to the national average\n   - Supports strategies like accessory dwelling units, universal affordability preference, and missing middle housing\n   - Argues that these reforms will lead to a more equitable city\n\n5. Comparing to the reference talking points:\n   - The testimony doesn't directly mention parking mandates or their removal\n   - There's no discussion about climate change, transportation emissions, or car dependency\n   - The focus is on housing affordability and availability, which aligns with one aspect of the talking points\n   - The testimony supports adding more housing in every neighborhood, which indirectly aligns with the goal of increasing housing density\n\nWhile there is some alignment on the broader goal of increasing housing affordability and availability, the testimony doesn't specifically address most of the points in the reference talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "The city of yes, updates our collective toolbox of strategies to help meet current needs and advance equity building by enabling the construction of more housing in every neighborhood.",
+                "analysis": "This quote supports the general idea of increasing housing availability, which is mentioned in the reference talking points. However, it doesn't specifically address parking mandates or other details mentioned in the talking points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "We at Habitat particularly want to emphasize strategies that will support homeowners and enable more homeownership opportunities to be created, including permitting accessory dwelling units and district fixes, This will provide more space for multigenerational families, implementing a universal affordability preference to allow buildings to add at least 20% more housing if the additional homes are permanently affordable and enable and support the missing middle housing.",
+                "analysis": "This quote discusses strategies for increasing housing affordability and availability, which aligns with one of the benefits mentioned in the talking points about reducing parking mandates. However, it doesn't directly mention parking or the other specific points in the reference talking points.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            }
+        ],
+        "analysis": "The testimony by Sabrina Lippman, while supportive of the City of Yes proposal, focuses primarily on affordable housing and homeownership opportunities. It does not directly address most of the points mentioned in the reference talking points, which are largely centered around parking mandates and their impacts on housing, climate, and urban design.\n\nThe testimony does align with the general goal of increasing housing affordability and availability, which is mentioned as one of the benefits of reducing parking mandates in the reference talking points. However, the specific strategies and focus areas differ significantly.\n\nThe testimony doesn't mention parking, transportation, climate change, or many of the other key points from the reference talking points. Instead, it emphasizes strategies like accessory dwelling units, universal affordability preference, and missing middle housing.\n\nWhile there is some overlap in the broader goals of creating more housing and improving affordability, the specific arguments and focus areas are quite different between the testimony and the reference talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

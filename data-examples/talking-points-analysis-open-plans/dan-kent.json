@@ -1,0 +1,44 @@
+{
+    "testimony": {
+        "name": "Dan Kent",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/dan-kent-president-and-ceo-of-lantern-organization",
+        "start_time_in_seconds": 29008.012,
+        "end_time_in_seconds": 29196.002,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Lantern Organization"
+        ],
+        "key_points": [
+            "Supports the Universal Affordability preference provision",
+            "New York City has the highest rate of homelessness despite being a leader in affordable housing production",
+            "Current zoning code and land use process reduces housing supply",
+            "Low vacancy rates contribute to homelessness and high rents",
+            "Need to allow more development of market-rate housing alongside affordable housing",
+            "New York City's housing production rate is much lower than other cities like Austin or Seattle",
+            "Current rules prevent housing from being built",
+            "Market-rate housing and private developers should be seen as part of the solution",
+            "The proposal is thoughtful and asks every neighborhood to contribute a little",
+            "Small changes like new apartment buildings or ADUs won't significantly alter neighborhoods",
+            "Increasing housing supply will help relieve pressure on New Yorkers struggling with affordability"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Dan Kent, is the President and CEO of Lantern Organization, a non-profit developer of affordable and supportive housing.\n\n2. He supports the Universal Affordability preference provision, which aligns with the general theme of increasing housing affordability mentioned in the reference talking points.\n\n3. Kent highlights that despite New York City's efforts in affordable housing, it has the highest rate of homelessness in the US, which he attributes to a restrictive zoning code and land use process.\n\n4. He emphasizes the need for more market-rate housing production, stating that New York's housing production rate is only 20% of cities like Austin or Seattle.\n\n5. Kent argues that to solve the homelessness and affordability crisis, the city needs to view market-rate housing and private developers as part of the solution.\n\n6. He supports the proposal (presumably \"City of Yes for Housing Opportunity\") as a thoughtful approach to produce more housing of all types in every neighborhood.\n\n7. Kent mentions that adding small apartment buildings or ADUs won't significantly change neighborhoods but will relieve pressure on those struggling with housing costs.\n\nWhile the testimony doesn't directly reference many of the specific talking points provided, it does align with the overall theme of increasing housing affordability and availability. The speaker's focus is more on general housing production rather than the parking-specific issues mentioned in the talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "We need to produce more housing of all types in every neighborhood.",
+                "analysis": "This quote aligns with the general theme of increasing housing availability mentioned in the reference talking points. While it doesn't specifically mention parking, it supports the idea of comprehensive reform to increase housing production.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "We need to start looking at market rate housing is a good thing. We need to start looking at private developers as part of the solution and as our partners.",
+                "analysis": "This statement indirectly supports the talking point about reducing parking mandates to increase housing affordability. By advocating for market-rate housing and private developers, the speaker is implying support for policies that would make housing development easier and more cost-effective, which aligns with the goals of reducing parking mandates.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony by Dan Kent is generally supportive of increasing housing production and affordability in New York City. While it doesn't directly address many of the specific talking points provided, particularly those related to parking mandates, it does align with the overall goal of increasing housing availability and affordability.\n\nKent's testimony focuses on the need for more housing production, both affordable and market-rate, to address the city's homelessness and affordability crisis. He supports changes to zoning and land use processes to allow for more housing development, which indirectly aligns with the reference talking points about reforming outdated rules like parking mandates.\n\nHowever, the testimony doesn't mention parking issues, transportation, or many of the specific benefits of reducing parking mandates that are outlined in the reference talking points. The speaker's approach is more focused on overall housing production rather than the specific policy of eliminating parking requirements.\n\nGiven this analysis, while there is some alignment in the general goals of increasing housing affordability and availability, the testimony doesn't closely mirror the specific arguments presented in the reference talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

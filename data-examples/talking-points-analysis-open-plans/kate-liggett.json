@@ -1,0 +1,47 @@
+{
+    "testimony": {
+        "name": "Kate Liggett",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/kate-liggett-program-director-of-housing-rights",
+        "start_time_in_seconds": 4652.0234,
+        "end_time_in_seconds": 4816.989,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Housing Rights Initiative"
+        ],
+        "key_points": [
+            "The organization has generated nearly 100 class action and fair housing lawsuits against large real estate companies",
+            "They have recovered millions of dollars in rent refunds and reductions for rent-stabilized families",
+            "Expanding housing supply is crucial to address New York City's housing affordability crisis",
+            "The City of Yes plan promotes construction of additional, denser housing in more places",
+            "The plan includes provisions to ensure geographically equitable development",
+            "Previous policies favored development in lower-cost outer borough areas, while this plan aims to build affordable units in high-opportunity, transit-rich neighborhoods",
+            "Expanding housing supply will help combat source of income discrimination",
+            "A more abundant housing market will enable voucher holders to compete more fairly",
+            "The plan will help build a more equitable and affordable city for all New Yorkers"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Kate Liggett, represents a housing rights organization.\n2. She acknowledges the importance of expanding housing supply in New York City.\n3. She mentions that the cost of housing is out of control, partly due to the slow pace of new construction.\n4. She supports changing zoning laws to promote denser housing construction.\n5. The speaker praises the \"City of Yes for Housing Opportunity\" plan for including provisions to ensure geographically equitable development.\n6. She highlights that previous policies favored development in lower-cost outer boroughs, while few affordable units were built in high-opportunity, transit-rich neighborhoods closer to the city center.\n7. The speaker believes implementing the \"City of Yes\" plan will promote fair housing by ensuring all neighborhoods contribute to the affordable housing supply.\n8. She argues that expanding housing supply will help combat source of income discrimination, particularly for voucher holders.\n9. The speaker urges the committee to ratify the \"City of Yes\" plan, stating it will help build a more equitable, affordable city.\n\nNow, let's compare this to the reference talking points:\n\n- The testimony doesn't directly mention parking mandates or their removal, which is a significant focus of the reference talking points.\n- Both the testimony and the talking points emphasize the importance of increasing housing affordability and availability.\n- The testimony touches on geographic equity in housing development, which isn't explicitly mentioned in the talking points.\n- Both the testimony and the talking points suggest that current regulations (zoning laws in the testimony, parking mandates in the talking points) are outdated and need reform.\n- The testimony doesn't mention climate change, transportation emissions, or promoting active and public transportation, which are key points in the reference talking points.\n- While the testimony supports the \"City of Yes\" plan for its potential to increase housing supply and affordability, it doesn't go into the specific mechanisms (like removing parking mandates) that the talking points focus on.\n",
+        "talking_point_evidence": [
+            {
+                "quote": "The cost of housing here in New York is out of control, and part because the pace of new construction rides far behind of other comparable cities.",
+                "analysis": "This quote aligns with the talking point about increasing housing affordability and availability. While it doesn't mention parking mandates specifically, it supports the general idea that current regulations are hindering housing construction and affordability.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "This problem can start to be addressed by changing the zoning laws in order to better promote the construction of additional denser housing in more places.",
+                "analysis": "This quote supports the idea of reforming outdated regulations to increase housing supply, which is similar to the talking points about reforming parking mandates. However, it doesn't specifically mention parking.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Implementing the city of yes, will further fair housing in this city by better ensuring that all neighborhoods contribute their fair share to the affordable housing supply.",
+                "analysis": "While this quote doesn't directly relate to any specific talking point, it supports the overall goal of increasing affordable housing supply across the city, which is an underlying theme in the talking points.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            }
+        ],
+        "analysis": "The testimony provided by Kate Liggett shows some alignment with the reference talking points, but it's not a close match overall. The testimony focuses on broader housing affordability issues and the need for zoning reform to increase housing supply, which aligns with some of the general goals mentioned in the talking points. However, the testimony doesn't address many of the specific points about parking mandates, climate change, or transportation that are central to the reference talking points.\n\nThe testimony supports the \"City of Yes for Housing Opportunity\" plan for its potential to increase housing supply and promote geographic equity in development. While this aligns with the overall goal of increasing housing affordability mentioned in the talking points, the specific mechanisms and focuses are different.\n\nThe speaker does not mention parking mandates, which are a central focus of the reference talking points. She also doesn't discuss climate change, transportation emissions, or the promotion of active and public transportation, which are key elements of the talking points.\n\nThere are some areas of overlap, such as the need to reform outdated regulations and the goal of increasing housing affordability. However, the specific approaches and areas of focus differ significantly between the testimony and the talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

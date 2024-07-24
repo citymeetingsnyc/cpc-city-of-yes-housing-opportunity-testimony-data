@@ -1,0 +1,41 @@
+{
+    "testimony": {
+        "name": "Rev. Terry Troia",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/rev-terry-troia-minister-of-the-reformed-church-of",
+        "start_time_in_seconds": 33555.63,
+        "end_time_in_seconds": 33739.348,
+        "for_or_against": "For",
+        "borough": "Staten Island",
+        "neighborhood": "Huguenot Park",
+        "stated_affiliations": [
+            "The Reformed Church of Huguenot Park"
+        ],
+        "key_points": [
+            "Homelessness has grown significantly on Staten Island over the past 40 years",
+            "Affordable housing crisis in Staten Island, affecting low-wage workers, families, disabled people, and seniors",
+            "Many families are living in overcrowded conditions or makeshift housing",
+            "Illegal basement apartments are common and often unsafe",
+            "Rent prices are extremely high, even for single rooms",
+            "Construction workers who build houses on Staten Island often can't afford housing themselves",
+            "Homelessness in New York City is at its highest level ever",
+            "Staten Island is experiencing a 'tale of two cities' with stark inequality in housing"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze this testimony step by step:\n\n1. The speaker, Rev. Terry Troia, focuses primarily on the affordable housing crisis in Staten Island.\n2. She discusses the growth of homelessness over the past 40 years, emphasizing how it has expanded to include families and low-wage workers.\n3. The testimony highlights overcrowding, with multiple families sharing apartments and people living in illegal basement apartments.\n4. There's a mention of the high cost of rent, with examples of expensive room rentals.\n5. The speaker emphasizes the need for affordable housing for various groups: poor low-wage working families, disabled people, senior citizens, and adult children.\n6. The testimony does not directly mention parking mandates, car usage, or any of the specific points from the reference talking points.\n7. While the overall theme of housing affordability is present in both the testimony and the reference talking points, the specific arguments and focus areas are quite different.\n8. The testimony is very localized to Staten Island's situation, while the reference talking points are more general and policy-focused.\n\nGiven this analysis, while there is a shared concern about housing affordability, the testimony does not closely align with the specific arguments presented in the reference talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "We need affordable housing for very poor low wage working families for disabled people, for our senior citizens, for our parents and our grandparents, for our adult children, so many Staten Islanders are on the verge of homelessness.",
+                "analysis": "This quote broadly aligns with the overall goal of increasing housing affordability mentioned in the reference talking points. However, it does not specifically address parking mandates or any of the other specific points made in the reference talking points. The connection is tenuous at best.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            },
+            {
+                "quote": "The cost of rent is out of control. Rooms on Staten Island right next door to where my office is. Rooms without a kitchen with a hallway bathroom going for $1700 a month and how many people can you cram into one room to afford to pay $1700 a month.",
+                "analysis": "This quote discusses high rental costs, which is related to the reference talking point about parking mandates increasing rents. However, the speaker does not make any connection to parking mandates or other policy changes mentioned in the reference talking points. The link is tenuous.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            }
+        ],
+        "analysis": "The testimony by Rev. Terry Troia focuses primarily on the affordable housing crisis in Staten Island, emphasizing the growth of homelessness, overcrowding, and high rental costs. While the overall theme of housing affordability is present in both the testimony and the reference talking points, the specific arguments and focus areas are quite different. The testimony does not mention parking mandates, car usage, or any of the specific policy changes outlined in the reference talking points. The speaker's arguments are very localized to Staten Island's situation, while the reference talking points are more general and policy-focused. Given these differences, the testimony is not closely aligned with the reference talking points.",
+        "similarity": "NOT_ALIGNED"
+    }
+}

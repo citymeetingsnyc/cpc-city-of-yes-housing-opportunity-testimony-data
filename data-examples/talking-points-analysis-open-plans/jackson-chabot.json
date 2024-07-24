@@ -1,0 +1,56 @@
+{
+    "testimony": {
+        "name": "Jackson Chabot",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/jackson-chabot-from-open-plans-on-lifting-parking",
+        "start_time_in_seconds": 17036.695,
+        "end_time_in_seconds": 17220.666,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Open Plans"
+        ],
+        "key_points": [
+            "Lifting parking mandates is necessary for improved livability",
+            "Parking mandates contribute to climate change and unsafe streets",
+            "Requiring parking encourages car ownership and perpetuates a cycle of demand for more parking",
+            "Lifting mandates encourages use of public and active transportation",
+            "Surface parking lots create dead zones in neighborhoods",
+            "Prioritizing people over parking can create more public space and a more livable city",
+            "Developers have stated they will still build parking even when not required",
+            "Lifting parking requirements is necessary for future housing needs"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Jackson Chabot, focuses on lifting parking requirements from a livability perspective.\n2. He argues that parking mandates are outdated and don't meet current needs.\n3. He mentions that cars contribute to climate change and create unsafe streets, making the city less livable.\n4. The speaker acknowledges that some people need vehicles and parking, but argues against requiring parking in new developments.\n5. He describes a cycle of parking demand and construction that encourages car ownership.\n6. The testimony suggests that lifting mandates would encourage the use of public and active transportation.\n7. He mentions the negative impact of surface parking lots on neighborhood vibrancy.\n8. The speaker advocates for prioritizing people over parking, building public spaces, and creating a more livable city.\n9. He provides additional context, citing a developer who plans to build parking even when not required.\n10. The testimony concludes by emphasizing the need for housing over parking.\n\nComparing this to the reference talking points:\n- The testimony aligns closely with several key points, including the impact on climate change, the cycle of car dependence, and the prioritization of public and active transportation.\n- Both the testimony and talking points mention the outdated nature of parking mandates.\n- The testimony doesn't explicitly mention affordability, but it does touch on the impact on neighborhood vibrancy and livability.\n- Both sources emphasize the need to prioritize people and public spaces over parking.\n- The testimony doesn't mention specific statistics or examples from other cities, which are present in the talking points.\n\nOverall, there is a high degree of alignment between the testimony and the reference talking points, with similar arguments and perspectives being presented.",
+        "talking_point_evidence": [
+            {
+                "quote": "Cars contribute to the climate change crisis They create unsafe streets, and overall, they make our city less livable.",
+                "analysis": "This quote directly supports the talking point about transportation being a leading cause of climate change-causing emissions and the need to disincentivize driving. It also aligns with the point about making streets safer.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "By requiring parking to be built in new developments, we're encouraging residents to build or sorry to buy and own vehicles.",
+                "analysis": "This quote closely aligns with the talking point about parking mandates incentivizing driving and the need to break this cycle to combat climate change.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "Instead of continuing this cycle, lifting mandates breaks it by encouraging the use of public and active modes of transportation.",
+                "analysis": "This quote directly supports the talking point about lifting parking mandates to prioritize active and public transportation.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "On a ground floor basis and surface parking lots negatively impact the vibrancy of neighborhood because they create dead zones without community space or vibrant retail or other things that neighbors can use.",
+                "analysis": "This quote is very similar to the talking point about parking mandates harming street life and making it more likely for developers to build street-level parking instead of stores or restaurants.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "Instead of prioritizing parking, we can begin to prioritize people, we can build public space, and we create a more livable city by lifting parking mandates.",
+                "analysis": "This quote aligns closely with the talking point about planning for the city we want, not the city we have, and prioritizing good public transportation and livable spaces over car dependence.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony by Jackson Chabot demonstrates a very close relationship to the reference talking points. The speaker presents arguments that are highly aligned with the key messages in the talking points, often making the same claims and using similar reasoning.\n\nKey similarities include:\n1. Emphasizing the outdated nature of parking mandates\n2. Highlighting the connection between parking requirements and climate change\n3. Discussing the cycle of car dependency created by parking mandates\n4. Advocating for prioritizing public and active transportation\n5. Emphasizing the negative impact of parking on neighborhood vibrancy and livability\n\nWhile the testimony doesn't use identical language to the talking points, it consistently supports the same core arguments and perspective. The speaker doesn't mention some specific details found in the talking points (like statistics on parking costs or examples from other cities), but the overall message and reasoning are very closely aligned.\n\nThe testimony also adds some additional context and examples that aren't in the talking points, such as the reference to a specific developer's plans and a personal appeal about future housing needs, but these additions still support the main arguments present in the talking points.\n\nGiven the high degree of alignment in both content and perspective, it is plausible that the speaker is familiar with or using the reference talking points as a basis for their testimony, even if not quoting them directly.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}

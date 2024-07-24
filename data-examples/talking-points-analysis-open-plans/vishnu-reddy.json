@@ -1,0 +1,45 @@
+{
+    "testimony": {
+        "name": "Vishnu Reddy",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/vishnu-reddy-resident-of-sunnyside-queens-on",
+        "start_time_in_seconds": 42876.953,
+        "end_time_in_seconds": 42988.223,
+        "for_or_against": "For",
+        "borough": "Queens",
+        "neighborhood": "Sunnyside",
+        "stated_affiliations": [],
+        "key_points": [
+            "Support for City of Yes for Housing Opportunity",
+            "Skyrocketing rents in Sunnyside and across the city",
+            "Dire housing shortage affecting the city and region",
+            "Housing costs harming all but the wealthiest New Yorkers",
+            "Desire for New York to remain a welcoming city for vulnerable populations",
+            "City of Yes is a good start but more action is needed",
+            "Need for continued encouragement of home creation",
+            "Call for help from Albany to fund affordable housing and involve suburbs in housing creation",
+            "Appreciation for city planning staff and organizers working on housing issues"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step and compare it to the reference talking points:\n\n1. The testimony strongly supports the City of Yes for Housing Opportunity proposal, but doesn't specifically mention parking mandates.\n2. The speaker focuses on the housing shortage and affordability crisis in New York City, which aligns with some of the reference talking points about housing affordability.\n3. The testimony mentions the need for more homes and emphasizes the importance of welcoming vulnerable populations, which indirectly relates to the affordability issues mentioned in the talking points.\n4. There's no direct mention of parking, transportation, or climate change in the testimony, which are key aspects of the reference talking points.\n5. The speaker does mention the need for continued action beyond this proposal, which could potentially include some of the ideas in the talking points, but this is not explicitly stated.\n6. The testimony focuses more on the social and ethical aspects of housing affordability rather than the specific policy details outlined in the talking points.\n\nGiven this analysis, while there is some alignment in the general goal of increasing housing affordability, the testimony doesn't directly address most of the specific points mentioned in the reference talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "I'm here to express my unequivocal support for the city, APS, for housing opportunity.",
+                "analysis": "This quote shows support for the City of Yes for Housing Opportunity proposal, which is the broader context of the reference talking points. However, it doesn't specifically address any of the talking points about parking mandates or transportation.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            },
+            {
+                "quote": "The runaway increases in housing costs, the shortage has cause has harmed all but the most wealthy up in New Yorkers, and especially the most vulnerable.",
+                "analysis": "This quote aligns with the general theme of housing affordability mentioned in the talking points, particularly the point about parking mandates increasing rents. However, it doesn't specifically mention parking or transportation issues.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "We need the city to continue to encourage the careers in more homes.",
+                "analysis": "This quote supports the general idea of increasing housing supply, which is indirectly related to the talking points about reducing parking mandates to allow for more housing. However, it doesn't specifically mention parking or transportation issues.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            }
+        ],
+        "analysis": "The testimony shows support for the City of Yes for Housing Opportunity proposal and emphasizes the need for addressing the housing shortage and affordability crisis in New York City. While these themes align with some of the broader goals mentioned in the reference talking points, the testimony does not directly address the specific issues of parking mandates, transportation, or climate change that are central to the talking points.\n\nThe speaker focuses more on the social and ethical aspects of housing affordability, such as welcoming vulnerable populations and maintaining New York's reputation as a city of opportunity. This contrasts with the more policy-oriented and specific arguments presented in the talking points about parking mandates, transportation infrastructure, and climate change.\n\nThere are some points of indirect alignment, particularly regarding the need for more affordable housing and the recognition that current policies are insufficient. However, the testimony lacks the specific policy recommendations and data-driven arguments present in the talking points.\n\nGiven this analysis, while there is some general alignment in goals, the testimony does not closely mirror or directly support most of the specific arguments made in the reference talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

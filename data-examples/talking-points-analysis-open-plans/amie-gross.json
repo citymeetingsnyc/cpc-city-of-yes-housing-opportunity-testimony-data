@@ -1,0 +1,28 @@
+{
+    "testimony": {
+        "name": "Amie Gross",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/amie-gross-president-of-amie-gross-architects-on",
+        "start_time_in_seconds": 32429.93,
+        "end_time_in_seconds": 32695.068,
+        "for_or_against": "For",
+        "borough": "Queens",
+        "neighborhood": "Glen Oaks",
+        "stated_affiliations": [
+            "Amie Gross Architects"
+        ],
+        "key_points": [
+            "The cost to construct affordable housing has increased drastically",
+            "Building larger buildings (more units) reduces the cost per unit",
+            "New safety regulations increase construction costs",
+            "Economy of scale is crucial for affordable housing development",
+            "Non-profit developers need to build more units to make projects financially viable",
+            "Increasing building size in the same zoning lot can lead to more affordable rents"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The testimony focuses on the challenges of building affordable housing in New York City.\n2. The speaker, Amie Gross, is an architect specializing in affordable and supportive housing.\n3. She emphasizes the high costs of construction and the need for economies of scale.\n4. The testimony doesn't directly mention parking or transportation issues.\n5. The main argument is that building larger buildings (more units) can help reduce per-unit costs and make housing more affordable.\n6. There's no explicit mention of the specific zoning changes proposed in the \"City of Yes for Housing Opportunity\" plan.\n\nNow, let's compare this to the reference talking points:\n\n1. The talking points focus heavily on parking mandates and their impact on housing affordability.\n2. While both the testimony and talking points address housing affordability, they approach it from different angles.\n3. The testimony doesn't mention parking at all, which is a central theme in the talking points.\n4. Both the testimony and talking points touch on the idea of allowing more flexibility in development, but for different reasons (economies of scale vs. parking requirements).\n5. The talking points cover a broader range of issues including climate change, transportation, and urban planning, which are not addressed in the testimony.\n\nGiven this analysis, the testimony does not seem closely aligned with the reference talking points. While both address housing affordability, they focus on different aspects and solutions.",
+        "talking_point_evidence": [],
+        "analysis": "The testimony by Amie Gross is not closely related to the reference talking points provided. While both the testimony and the talking points address the issue of housing affordability in New York City, they approach the topic from very different angles and propose different solutions.\n\nThe testimony focuses on the challenges of building affordable housing due to high construction costs and emphasizes the need for economies of scale. The speaker argues that allowing larger buildings with more units can help reduce per-unit costs and make housing more affordable.\n\nIn contrast, the reference talking points primarily focus on parking mandates and their impact on housing affordability, transportation, and urban planning. They argue for reducing or eliminating parking requirements as a way to lower construction costs and promote more sustainable urban development.\n\nThe testimony does not mention parking, transportation, or any of the specific zoning changes proposed in the \"City of Yes for Housing Opportunity\" plan that are central to the reference talking points. While both sources are concerned with making housing more affordable, they propose different strategies to achieve this goal.\n\nGiven the lack of direct alignment between the testimony and the reference talking points, it's appropriate to classify this as NOT_ALIGNED.",
+        "similarity": "NOT_ALIGNED"
+    }
+}

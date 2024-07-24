@@ -1,0 +1,40 @@
+{
+    "testimony": {
+        "name": "Michelle Kuppersmith",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/michelle-kuppersmith-resident-of-southern",
+        "start_time_in_seconds": 11273.277,
+        "end_time_in_seconds": 11448.828,
+        "for_or_against": "For",
+        "borough": "Manhattan",
+        "neighborhood": "Lower East Side",
+        "stated_affiliations": [
+            "Manhattan Community Board 3"
+        ],
+        "key_points": [
+            "Support for the entire City of Yes housing proposal",
+            "Refuting claims about affordable housing developments in her district",
+            "Personal family history of housing challenges in New York",
+            "Importance of affordable housing for keeping families in New York",
+            "Support for specific elements of the proposal (transit-oriented development, flexible parking requirements, housing standard changes)",
+            "City of Yes is based on fair housing report addressing segregation",
+            "Criticism of 'neighborhood character' preservation as a racist and classist concept"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Michelle Kuppersmith, is in favor of the City of Yes housing proposal.\n2. She mentions several aspects of the proposal:\n   - Allowing apartments near transit centers\n   - Giving developers flexibility on parking spots\n   - Changing housing standards for apartments (kitchens and bathrooms with windows)\n3. She emphasizes the need for affordable housing in New York City.\n4. She mentions the proposal is based on the city's fair housing report, addressing segregation issues.\n5. The speaker doesn't directly mention many of the specific talking points about parking, but her stance aligns with the overall goal of the proposal.\n\nNow, let's compare this to the reference talking points:\n- The testimony supports the general idea of parking reform, which aligns with several of the reference talking points.\n- The speaker mentions \"giving developers flexibility to build only as many parking spots as they need,\" which relates to the talking points about reducing parking mandates and allowing parking to meet neighborhood needs.\n- The testimony doesn't go into specifics about the benefits of reducing parking mandates, such as affordability, climate impact, or street safety, which are mentioned in the talking points.\n- The speaker's focus on affordable housing and addressing segregation aligns with the overall goals mentioned in the talking points, even if not explicitly about parking.\n",
+        "talking_point_evidence": [
+            {
+                "quote": "City of Yoss is an important step to make sure that no family ever needs make the decision to leave New York, allowing apartments to turn transit centers. That's a no brainer, giving developers flexibility to build only as many parking spots as they need, another no brainer.",
+                "analysis": "This quote supports the talking points about reducing parking mandates and allowing parking to meet the needs of each neighborhood. While it doesn't use the exact language from the talking points, it conveys a similar idea about giving developers more flexibility regarding parking.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "City of Yes was developed based on the city's fair housing together report, which was done through years of extensive engagement and came up with ways to end years of dejure and de facto segregation in our city has only been furthered by an ongoing racist and classist desire to preserve so called neighborhood character.",
+                "analysis": "This quote relates to the overall goal of the talking points about addressing housing affordability and availability. While it doesn't specifically mention parking, it supports the broader aims of the proposal that the talking points are defending.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            }
+        ],
+        "analysis": "The testimony shows some alignment with the reference talking points, but it doesn't extensively cover the specific arguments about parking reform mentioned in the talking points. The speaker, Michelle Kuppersmith, supports the City of Yes housing proposal and mentions parking reform as one aspect of it, but she doesn't delve into the detailed arguments about parking's impact on affordability, climate, or street safety that are present in the talking points.\n\nThe testimony focuses more on the overall need for affordable housing in New York City and the importance of the proposal in addressing historical segregation issues. While these themes are somewhat related to the goals mentioned in the talking points, the specific focus on parking reform is not as prominent in the testimony as it is in the reference talking points.\n\nThe speaker does mention giving developers flexibility with parking spots, which aligns with some of the talking points about reducing parking mandates and allowing parking to meet neighborhood needs. However, she doesn't go into the specific benefits or rationale behind this change as detailed in the talking points.\n\nOverall, while the testimony supports the same proposal that the talking points are defending, it doesn't closely mirror the specific arguments and focus on parking reform present in the reference talking points. The alignment is more in the general direction and goals rather than in specific claims and arguments.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

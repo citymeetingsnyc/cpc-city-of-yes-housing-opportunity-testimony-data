@@ -1,0 +1,35 @@
+{
+    "testimony": {
+        "name": "Anita Laremont",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/anita-laremont-partner-at-fried-frank-law-firm-on",
+        "start_time_in_seconds": 20170.943,
+        "end_time_in_seconds": 20354.996,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Fried Frank Law Firm",
+            "REBNY"
+        ],
+        "key_points": [
+            "Support for the City of Yes for Housing Opportunity proposal",
+            "Proposal facilitates housing development to address critical housing supply needs",
+            "Concern about the elimination of the voluntary inclusionary housing and inclusionary housing certificate program",
+            "Suggestion for a 15-year vesting period for existing certificates and an additional 10 years for their sale and use",
+            "Concern that transitioning to UAP in R10 districts may effectively result in down zoning",
+            "Urges careful consideration of rules to ensure they further housing development rather than diminish it"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step and compare it with the reference talking points:\n\n1. The testimony is primarily focused on supporting the \"City of Yes for Housing Opportunity\" proposal, which aims to facilitate housing development.\n\n2. The speaker mentions eliminating costly parking requirements as one of the positive aspects of the proposal. This aligns with some of the reference talking points about reducing parking mandates.\n\n3. However, the testimony does not go into detail about parking issues or elaborate on the benefits of eliminating parking requirements.\n\n4. The majority of the testimony focuses on other aspects of the proposal, such as:\n   - Establishing new zoning districts for greater density\n   - Expanding opportunities for office-to-residential conversion\n   - Providing affordable housing through universal affordability preference\n   - Concerns about eliminating the voluntary inclusionary housing and inclusionary housing certificate program\n\n5. The reference talking points are almost entirely focused on the benefits of reducing parking mandates, which is only briefly mentioned in the testimony.\n\n6. There are no direct quotes from the testimony that closely match the language or specific arguments made in the reference talking points.\n\nGiven this analysis, the testimony does not appear to be closely aligned with the reference talking points. While it mentions eliminating parking requirements as a positive aspect, it does not elaborate on this point or use language similar to the provided talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "And this proposal moves boldly forward in allowing for growth through establishing new zoning districts that will permit greater density where appropriate, expanding opportunities for office to residential conversion, eliminating costly parking requirements and providing for affordable housing in many additional neighborhoods through universal affordability preference among other changes.",
+                "analysis": "This quote mentions eliminating costly parking requirements as one of several positive aspects of the proposal. While it aligns with the general idea of reducing parking mandates, it does not provide any specific arguments or details that match the reference talking points. The mention is brief and part of a larger list of changes.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            }
+        ],
+        "analysis": "The testimony is not closely related to the reference talking points. While the testimony briefly mentions eliminating costly parking requirements as one positive aspect of the \"City of Yes for Housing Opportunity\" proposal, it does not elaborate on this point or use language similar to the provided talking points. The majority of the testimony focuses on other aspects of the proposal, such as zoning changes, office-to-residential conversions, and affordable housing programs. The reference talking points, on the other hand, are almost entirely focused on the benefits of reducing parking mandates, which is only a minor point in the testimony. There is no evidence that the speaker is using the reference talking points in their testimony.",
+        "similarity": "NOT_ALIGNED"
+    }
+}

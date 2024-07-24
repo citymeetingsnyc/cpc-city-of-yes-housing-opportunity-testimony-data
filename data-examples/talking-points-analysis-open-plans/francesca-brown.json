@@ -1,0 +1,28 @@
+{
+    "testimony": {
+        "name": "Francesca Brown",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/francesca-brown-from-camba-housing-ventures-on",
+        "start_time_in_seconds": 4860.893,
+        "end_time_in_seconds": 4944.9834,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "CAMBA Housing Ventures"
+        ],
+        "key_points": [
+            "Support for the City of Yes for Housing Opportunity initiative",
+            "Appreciation for the work of Mayor Adams, his team, and the Department of City Planning",
+            "Importance of local neighborhood conversations and community stakeholder participation",
+            "Commitment to creating equitable and inclusive communities",
+            "Canva Housing Ventures' experience working with HPD, HDC, and city planning for nearly 20 years",
+            "Dedication to addressing the housing crisis by providing safe, sustainable neighborhood assets"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Francesca Brown, represents CAMBA Housing Ventures, a nonprofit supportive and affordable housing developer.\n2. She expresses support for the \"City of Yes\" initiative, which addresses the city's housing crisis.\n3. The testimony focuses on expanding housing opportunities, especially for vulnerable New Yorkers.\n4. The speaker mentions working with city agencies to create equitable and inclusive communities.\n5. There is no specific mention of parking or transportation issues in the testimony.\n6. The testimony is primarily about supporting the initiative for its potential to expand housing supply and address the housing crisis.\n\nComparing this to the reference talking points:\n1. The testimony does not mention any of the specific points about parking mandates or their effects.\n2. There is no discussion about transportation, climate change, or street safety in the testimony.\n3. The only alignment is the general support for addressing the housing crisis and expanding housing supply.\n4. The testimony is much more focused on the role of nonprofit developers and creating affordable housing, which is not a major focus of the reference talking points.\n\nGiven this analysis, the testimony has very little direct alignment with the specific reference talking points provided. While it supports the overall initiative, it does not engage with the particular arguments about parking and transportation that are central to the reference talking points.",
+        "talking_point_evidence": [],
+        "analysis": "The testimony is not closely related to the reference talking points. While the speaker supports the \"City of Yes\" initiative, which is the broader context for the zoning changes discussed in the reference talking points, the testimony does not engage with any of the specific arguments about parking mandates, transportation, or climate change that are central to the reference talking points. \n\nThe testimony focuses primarily on the potential for the initiative to expand housing opportunities, particularly for vulnerable New Yorkers, and the role of nonprofit developers in creating affordable housing. These topics are not directly addressed in the provided reference talking points.\n\nThe only point of alignment is the general support for addressing the housing crisis and expanding housing supply, but this is discussed in very broad terms in the testimony without engaging with the specific policy changes (like reducing parking mandates) that are the focus of the reference talking points.\n\nGiven this lack of specific engagement with the reference talking points, the testimony should be classified as NOT_ALIGNED with the provided talking points.",
+        "similarity": "NOT_ALIGNED"
+    }
+}

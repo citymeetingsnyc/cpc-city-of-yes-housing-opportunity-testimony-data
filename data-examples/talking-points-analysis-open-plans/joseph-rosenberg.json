@@ -1,0 +1,39 @@
+{
+    "testimony": {
+        "name": "Joseph Rosenberg",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/joseph-rosenberg-from-the-catholic-community",
+        "start_time_in_seconds": 26285.377,
+        "end_time_in_seconds": 26476.316,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Catholic Community Relations Council",
+            "Archdiocese of New York",
+            "Diocese of Brooklyn"
+        ],
+        "key_points": [
+            "Supports City of Yes for Housing Opportunity",
+            "Focuses on removing zoning obstacles that prevent housing development",
+            "Unlocks use of properties owned by religious organizations",
+            "Removal of mandatory parking spaces in housing developments",
+            "20% additional affordable housing units in medium and high density districts",
+            "Expansion of landmark development rights transfer",
+            "Encourages residential conversion of office, commercial, and unused community facility buildings",
+            "Modifications needed for infill initiative, especially for houses of worship",
+            "Proposals are timely and critical for addressing housing crisis"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The testimony is from Joseph Rosenberg, representing Catholic organizations.\n2. He strongly supports the \"City of Yes for Housing Opportunity\" proposal.\n3. He mentions removing parking space mandates, which aligns with the reference talking points.\n4. The testimony focuses on how the proposal would benefit religious organizations and their ability to develop housing.\n5. While there is some overlap with the reference talking points, particularly regarding parking, the testimony has a different primary focus.\n6. The testimony doesn't go into detail about the benefits of removing parking mandates, unlike the reference talking points.\n7. There's no mention of climate change, affordability impacts, or encouraging public transportation in the testimony.\n\nGiven these observations, let's identify relevant quotes and analyze their alignment with the reference talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "For too long, New York City has required Wall Street parking spaces to be incorporated into housing developments regardless their proximity to public transit. Removing this mandate is long overdue. It would allow space that was once reserved for motor vehicles to now be used to produce apartments for New Yorkers.",
+                "analysis": "This quote aligns with the reference talking points about removing parking mandates and using the space for housing instead. However, it doesn't go into the same level of detail about the benefits as the reference talking points do.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows some alignment with the reference talking points, particularly regarding the removal of parking mandates. However, the overall focus of the testimony is on how the \"City of Yes for Housing Opportunity\" proposal would benefit religious organizations and their ability to develop housing or convert existing properties.\n\nThe testimony only briefly touches on the parking mandate issue, which is a major focus of the reference talking points. While the testimony supports removing the mandate, it doesn't delve into the detailed arguments presented in the reference talking points, such as the impact on affordability, climate change, or encouraging public transportation.\n\nThe testimony's primary concerns are with zoning changes that would allow religious organizations to better utilize their properties for housing development, which is not a focus of the provided reference talking points.\n\nGiven these factors, while there is some overlap, the testimony cannot be classified as having high alignment with the reference talking points. It supports one key point (removing parking mandates) but doesn't engage with most of the other arguments presented in the reference talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

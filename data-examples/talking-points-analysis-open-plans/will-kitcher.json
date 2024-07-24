@@ -1,0 +1,49 @@
+{
+    "testimony": {
+        "name": "Will Kitcher",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/will-kitcher-on-personal-experiences-with-diverse",
+        "start_time_in_seconds": 15547.074,
+        "end_time_in_seconds": 15742.27,
+        "for_or_against": "For",
+        "borough": "Brooklyn",
+        "neighborhood": "Sheepshead Bay",
+        "stated_affiliations": [],
+        "key_points": [
+            "Support for missing middle housing",
+            "Personal experience living in various types of housing in Brooklyn",
+            "Support for repealing parking mandates",
+            "Need for affordable housing options for young people moving out",
+            "Belief that lifting parking mandates will allow more housing to be built",
+            "Observation that some parking lots in Sheepshead Bay are underutilized",
+            "Assertion that developers will still provide parking where needed",
+            "Support for additional housing near subway stations"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. Will Kitcher shares his personal history of living in various types of housing in New York City, emphasizing the importance of mixed-use zoning and affordable housing options.\n\n2. He mentions \"missing middle housing\" and the need to \"get rid of parking minimums,\" which aligns with some of the reference talking points.\n\n3. Kitcher supports repealing parking mandates, stating it will allow more housing to be built and create more open spaces.\n\n4. He mentions that in Sheepshead Bay, some parking lots sit empty for most of the day, suggesting inefficient use of space.\n\n5. Kitcher believes that lifting parking mandates won't make a large change in areas far from the city center, as there will still be a desire for parking.\n\n6. He supports the idea that areas closer to subway stations could have additional housing without relying on vehicles.\n\nNow, let's compare these points to the reference talking points:\n\n- Kitcher's support for repealing parking mandates aligns with several talking points about reducing parking minimums.\n- His observation about empty parking lots supports the talking point about parking mandates creating unnecessary and expensive infrastructure.\n- His mention of \"missing middle housing\" and the need for affordable options aligns with the talking point about increasing housing affordability and availability.\n- Kitcher's point about areas near subway stations needing less parking aligns with the talking point about prioritizing active and public transportation.\n\nWhile Kitcher doesn't use the exact language from the talking points, his testimony supports many of the same ideas and arguments.",
+        "talking_point_evidence": [
+            {
+                "quote": "I want to come out in support of repealing the parking mandates because I believe that will allow more housing again to be built.",
+                "analysis": "This quote directly supports the talking point about reducing parking mandates to increase housing availability. While it doesn't use the exact language, it makes the same argument.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "We have a lot of parking lots and a lot of public parking. And some of it sits empty for most of the day. And with that being said, it can be more productive use",
+                "analysis": "This quote supports the talking point about parking mandates creating unnecessary infrastructure. It doesn't use the same language but provides a real-world example that aligns with the argument.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "There's still gonna be a desire for parking. People are still gonna look for parking spots, and developers are still gonna try and put parking in.",
+                "analysis": "This quote relates to the talking point about allowing parking to meet the needs of each neighborhood. It supports the idea that developers will still build parking where needed, even without mandates.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "This will allow people who are closer to the subway station And in areas like that along the Q Train and the 2 line that will have additional housing that can be close by to them and they will need to rely on a vehicle.",
+                "analysis": "This quote supports the talking point about prioritizing active and public transportation. It suggests that reducing parking mandates can encourage housing near public transit, reducing car dependence.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony by Will Kitcher is closely related to the reference talking points, although it does not use the exact same language or cover all the points. Kitcher's personal experiences and observations support several key arguments made in the talking points, particularly regarding the benefits of reducing parking mandates and increasing housing affordability and availability. \n\nWhile Kitcher doesn't delve into specific details like the cost of building parking spaces or climate change impacts, his overall message aligns with the spirit of the talking points. He emphasizes the need for diverse housing options, the inefficiency of current parking requirements, and the benefits of building more housing near public transportation.\n\nKitcher's testimony provides a personal and relatable perspective that supports the more data-driven and policy-focused talking points. His experiences living in various types of housing throughout New York City lend credibility to his arguments and make the abstract policy proposals more concrete for listeners.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "testimony": {
+        "name": "Alexandra Brodsky",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/alexandra-brodsky-on-city-of-yes-for-housing",
+        "start_time_in_seconds": 48182.965,
+        "end_time_in_seconds": 48252.36,
+        "for_or_against": "For",
+        "borough": "Brooklyn",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [],
+        "key_points": [
+            "The root of NYC's housing crisis is a housing shortage",
+            "City of Yes for Housing Opportunity is an elegant solution to add more housing in every neighborhood",
+            "The plan can create a lot of new housing without drastic changes to any one community",
+            "Failing to act will lead to more gentrification, displacement, segregation, and longer commutes",
+            "Urges the commission to vote yes on City of Yes and support the strongest possible version"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Alexandra Brodsky, supports the City of Yes for Housing Opportunity proposal.\n2. She identifies the root problem as a housing shortage in the city.\n3. She suggests that the solution is to build more housing, and that the proposal offers an \"elegant solution\" by adding housing across neighborhoods.\n4. She acknowledges criticisms but notes that there are no serious alternatives to the basic theory of the proposal.\n5. She warns of negative consequences if action is not taken: gentrification, displacement, segregation, longer commutes, and Manhattan becoming like a \"gated community\".\n6. She urges support for the strongest possible version of the proposal.\n\nNow, comparing this to the reference talking points:\n\n1. The testimony doesn't directly mention parking, which is a major focus of the reference talking points.\n2. Both the testimony and the talking points emphasize the need for more housing and increased affordability.\n3. The testimony mentions gentrification and displacement, which aligns with the talking points' mention of addressing affordability and rent burdens.\n4. The testimony doesn't go into specific details about how the proposal will work, unlike the talking points which focus on parking mandates.\n5. While the talking points discuss climate change and transportation, the testimony doesn't mention these aspects.\n\nOverall, while there is some alignment in the general goal of increasing housing availability and affordability, the testimony doesn't closely mirror the specific arguments made in the reference talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "To solve our housing shot housing shortage, we need to make it easier to build housing.",
+                "analysis": "This quote aligns with the general sentiment of the talking points about increasing housing availability, but it doesn't specifically mention parking mandates or any other specific policy. It's a broader statement about the need to facilitate housing construction.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "More gentrification, more displacement, more segregation, longer commutes from further away, a Manhattan that looks more and more like a gated community.",
+                "analysis": "This quote touches on issues of affordability and accessibility, which are mentioned in the talking points. However, it doesn't directly reference the specific solutions proposed in the talking points, such as reducing parking mandates.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            }
+        ],
+        "analysis": "The testimony provides general support for the City of Yes for Housing Opportunity proposal, focusing on the need to address the housing shortage in New York City. While this aligns with the overall goal expressed in the reference talking points of increasing housing availability and affordability, the testimony does not delve into the specific policy measures mentioned in the talking points, such as reducing parking mandates.\n\nThe speaker emphasizes the need to make it easier to build housing and warns of negative consequences if action is not taken, which broadly supports the sentiments expressed in the talking points. However, the testimony lacks the detailed arguments and specific policy recommendations found in the reference talking points.\n\nThe testimony does not mention key aspects of the talking points such as parking reforms, climate change considerations, or transportation issues. This suggests that while the speaker supports the general direction of the proposal, they may not be directly using or referencing the specific talking points provided.\n\nGiven these observations, the testimony appears to be supportive of the general goals outlined in the talking points but does not closely mirror their specific arguments or policy recommendations.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

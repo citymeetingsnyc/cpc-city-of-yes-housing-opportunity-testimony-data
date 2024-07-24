@@ -1,0 +1,40 @@
+{
+    "testimony": {
+        "name": "Elena Sytcheva",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/elena-sytcheva-on-the-city-of-yes-initiative-and",
+        "start_time_in_seconds": 51093.047,
+        "end_time_in_seconds": 51200.2,
+        "for_or_against": "For",
+        "borough": "Brooklyn",
+        "neighborhood": "Greenpoint",
+        "stated_affiliations": [],
+        "key_points": [
+            "Support for the City of Yes initiative",
+            "Personal experience as a lifelong Brooklyn resident",
+            "Concern about the lack of affordable housing for the current generation",
+            "Friends and colleagues being forced to leave their neighborhoods due to cost of living increases",
+            "Support for creating permanent affordability through UAP",
+            "Support for making parking optional instead of required",
+            "Support for transit-oriented development",
+            "Belief that the proposal will provide much-needed affordable housing",
+            "Urging the commission to approve the proposal in its strongest form"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Elena Sytcheva, is testifying in favor of the City of Yes initiative.\n2. She is a lifelong Brooklyn resident who currently rents in Greenpoint.\n3. Her main concerns are housing affordability and the ability for her generation to stay in New York City.\n4. She mentions three specific aspects of the proposal that she supports:\n   a. Creating permanent affordability through UAP (Unified as-of-right program)\n   b. Making parking optional instead of required\n   c. Transit-oriented development\n\n5. Comparing these points to the reference talking points:\n   - The testimony directly aligns with the point about making parking optional, which is a key aspect of the reference talking points.\n   - The testimony supports the general idea of increasing housing affordability, which is mentioned in the reference talking points.\n   - The testimony doesn't go into detail about the negative impacts of parking mandates or the benefits of removing them, which are extensively covered in the reference talking points.\n   - The testimony doesn't mention climate change, street safety, or the specific costs associated with parking construction, which are prominent in the reference talking points.\n\n6. While there is some alignment, particularly on the issue of optional parking, the testimony doesn't use language that closely mirrors the reference talking points and doesn't cover many of the specific arguments provided in the talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "making parking optional instead of required",
+                "analysis": "This quote directly relates to the reference talking point about reducing parking mandates. It supports the idea of giving developers the choice to build parking based on demand rather than requiring it.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "I believe this proposal will provide much needed affordable housing for New York",
+                "analysis": "This quote aligns with the general theme of increasing housing affordability mentioned in the reference talking points, although it doesn't specifically tie it to parking mandates.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony is generally supportive of the City of Yes initiative and specifically mentions making parking optional, which aligns with one of the key points in the reference talking points. However, the testimony does not go into the same level of detail about the negative impacts of parking mandates or the benefits of removing them. The speaker focuses more on personal experiences and the general need for affordable housing, rather than the specific arguments provided in the reference talking points.\n\nWhile there is some alignment, particularly on the issue of optional parking and housing affordability, the testimony doesn't use language that closely mirrors the reference talking points and doesn't cover many of the specific arguments provided. The speaker's support for the initiative seems to come from a personal perspective of wanting to stay in New York City and concerns about housing affordability, rather than from the detailed policy arguments presented in the reference talking points.\n\nGiven this analysis, the testimony can be classified as SUPPORTS_TALKING_POINTS. It supports the same general direction as the talking points, particularly regarding optional parking and housing affordability, but it doesn't make the same detailed arguments or use very similar language to the reference talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

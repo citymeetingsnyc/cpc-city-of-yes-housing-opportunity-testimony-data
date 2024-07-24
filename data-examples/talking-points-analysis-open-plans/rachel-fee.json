@@ -1,0 +1,43 @@
+{
+    "testimony": {
+        "name": "Rachel Fee",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/rachel-fee-from-new-york-housing-conference-on",
+        "start_time_in_seconds": 12328.459,
+        "end_time_in_seconds": 12509.818,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "New York Housing Conference",
+            "Yes to Housing Coalition"
+        ],
+        "key_points": [
+            "Strong support for City of Yes for Housing Opportunity",
+            "Need for zoning reforms to address New York City's affordable housing shortage",
+            "Inequitable housing development across city districts",
+            "Low vacancy rate (1.4%) and high rent burden for residents",
+            "Housing shortage driving people to neighboring states",
+            "Limited mobility for current residents due to housing crisis",
+            "Ineffective tools to fight homelessness due to tight housing market",
+            "Long stays in emergency shelters for families with children",
+            "Need for more housing to create a more affordable, fair, and inclusive city"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze this testimony step by step:\n\n1. The speaker, Rachel Fee, is expressing strong support for the \"City of Yes for Housing Opportunity\" proposal.\n\n2. The testimony focuses heavily on the housing crisis in New York City, emphasizing:\n   - Low vacancy rates (1.4%)\n   - High rent burden (half of NYC residents)\n   - People leaving for neighboring states due to housing costs\n   - Limited mobility for current residents\n   - Difficulty in using housing vouchers\n   - Increasing homelessness\n\n3. The speaker argues that more housing needs to be built to address these issues.\n\n4. The testimony mentions that some neighborhoods have \"opted out\" of adding housing, perpetuating exclusionary policies.\n\n5. There's a call for every neighborhood to \"do its part\" in addressing the housing crisis.\n\nNow, let's compare this to the reference talking points:\n\n1. The testimony does not directly mention parking mandates or their removal, which is a significant focus of the reference talking points.\n\n2. Both the testimony and the talking points emphasize the need for increased housing affordability and availability.\n\n3. The testimony doesn't discuss climate change or transportation emissions, which are mentioned in the talking points.\n\n4. Both the testimony and the talking points touch on the idea of making changes across all neighborhoods, though in different contexts (housing vs. parking).\n\n5. The testimony doesn't mention specific cost savings related to parking spaces or compare them to housing costs, unlike the talking points.\n\n6. Both the testimony and the talking points suggest that current policies are outdated and need reform.\n\nWhile there are some overlapping themes (housing affordability, citywide changes, need for reform), the testimony focuses much more on the housing crisis itself rather than the specific parking-related solutions proposed in the talking points. The alignment is not particularly strong, but there are some supporting elements.",
+        "talking_point_evidence": [
+            {
+                "quote": "For too long, many New York City neighborhoods have opted out of adding housing. Perpetuating exclusionary housing policies, making housing development inequitable, and driving up housing costs.",
+                "analysis": "This quote supports the general idea of citywide changes and addressing exclusionary policies, which is touched upon in the talking points about parking mandates. However, it's not directly related to parking and is more focused on housing development in general.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "We must build more housing if we want a more affordable, fair, and inclusive city.",
+                "analysis": "This quote aligns with the general sentiment of the talking points about increasing housing affordability and availability. However, it doesn't mention the specific strategy of removing parking mandates.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony by Rachel Fee is primarily focused on the housing crisis in New York City and the need for more housing development across all neighborhoods. While this aligns with some of the broader goals mentioned in the reference talking points (such as increasing housing affordability and availability), the testimony does not directly address the specific strategy of removing parking mandates, which is the central focus of the reference talking points.\n\nThe testimony supports the \"City of Yes for Housing Opportunity\" proposal, which may include elements similar to those in the talking points, but it doesn't explicitly mention parking-related reforms. The speaker emphasizes the need for citywide changes in housing policy, which somewhat parallels the talking points' call for comprehensive parking reform, but in a different context.\n\nThere are some similarities in the overall goals (more affordable housing, addressing exclusionary policies), but the specific approaches and focus areas are quite different. The testimony is much more focused on the housing crisis itself rather than on parking as a solution to that crisis.\n\nGiven these observations, while there is some alignment in broader goals, the testimony cannot be classified as having high alignment with the reference talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "testimony": {
+        "name": "Marlee Busching",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/marlee-busching-from-hudson-companies-on-city-of",
+        "start_time_in_seconds": 23527.596,
+        "end_time_in_seconds": 23652.475,
+        "for_or_against": "For",
+        "borough": "Brooklyn",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Hudson Companies"
+        ],
+        "key_points": [
+            "City of Yes for Housing Opportunity can address New York City's housing and affordability crisis",
+            "Removing parking minimum requirements would allow consideration of more sites for development",
+            "Universal affordability preference will allow developers to increase density and address housing shortage",
+            "ADUs and town centers zoning could enhance low-density neighborhoods",
+            "City of Yes can lead to a more diverse and inclusive city"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "1. The testimony is given by Marlee Busching, a managing director at Hudson Companies, a residential developer in NYC.\n2. The speaker explicitly mentions and supports the \"City of Yes for Housing Opportunity\" proposal.\n3. The testimony focuses on two main aspects of the proposal:\n   a) Removing parking minimum requirements\n   b) Universal affordability preference\n4. The speaker's arguments align closely with several of the reference talking points, particularly those related to parking minimums.\n5. Let's analyze the specific alignments:\n   - The testimony mentions that removing parking minimums would allow them to consider sites they currently have to rule out, which aligns with the talking point about parking mandates making housing development more difficult.\n   - The speaker implies that current parking requirements are onerous, which aligns with the talking point about parking mandates being outdated and in need of reform.\n   - The testimony suggests that removing parking minimums would lead to more housing units, which aligns with the talking point about parking spaces versus studio apartments.\n   - The speaker mentions that these changes would lead to a more diverse and inclusive city, which indirectly supports the talking points about prioritizing needs of all New Yorkers, not just car owners.\n6. However, the testimony doesn't touch on some aspects mentioned in the talking points, such as climate change, street safety, or specific examples from other cities.\n7. The testimony also focuses on other aspects of the proposal not mentioned in the talking points, such as universal affordability preference.",
+        "talking_point_evidence": [
+            {
+                "quote": "The provision to remove parking minimum requirements would allow us to consider sites for development that we must currently rule out.",
+                "analysis": "This quote directly supports the talking point about parking mandates making it difficult to build housing. It shows how removing these requirements would open up more opportunities for development.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "We are currently underwriting various sites for workforce housing that pencil in a city of yes scenario, but do not without. That means we might pass on the opportunity to build 100 of units of housing due to the onerous parking requirements the zoning resolution currently mandates.",
+                "analysis": "This quote strongly supports the talking point about parking mandates being outdated and hindering housing development. It provides a specific example of how current regulations prevent the construction of needed housing units.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "City of Yes for housing opportunity has the ability to change that. If approved in its entirety, City of Yes can help address New York City's housing and affordability crisis.",
+                "analysis": "While not directly quoting a specific talking point, this statement aligns with the overall message that reforming parking mandates can address housing affordability issues.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony given by Marlee Busching shows a significant alignment with the reference talking points, particularly those related to parking minimum requirements. The speaker directly addresses how removing these requirements would benefit housing development in New York City, which is a central theme in the provided talking points.\n\nThe testimony supports several key arguments made in the talking points:\n1. It emphasizes how current parking requirements hinder housing development, aligning with the point about outdated parking mandates.\n2. It provides a concrete example of how removing parking minimums could lead to more housing units, supporting the talking point about the trade-off between parking spaces and housing units.\n3. It implies that current regulations are arbitrary and not meeting actual needs, which aligns with the talking point about allowing parking to meet the needs of each neighborhood.\n\nHowever, the testimony doesn't cover all aspects mentioned in the talking points. It doesn't discuss climate change, street safety, or examples from other cities. It also focuses on other aspects of the \"City of Yes\" proposal not mentioned in the talking points, such as universal affordability preference.\n\nDespite these differences, the core message of the testimony strongly supports the main arguments presented in the talking points regarding parking reform and its potential impact on housing development and affordability in New York City.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

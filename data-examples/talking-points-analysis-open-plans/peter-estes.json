@@ -1,0 +1,50 @@
+{
+    "testimony": {
+        "name": "Peter Estes",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/peter-estes-representing-bj-jones-of-the-new-new",
+        "start_time_in_seconds": 17382.182,
+        "end_time_in_seconds": 17574.742,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "The New New York"
+        ],
+        "key_points": [
+            "Strong support for the City of Yes for Housing Opportunity",
+            "Aligns with the New New York panel's action plan for equitable recovery",
+            "Helps tackle 3 key initiatives: reducing barriers to housing growth, increasing supportive housing supply, and making business districts more live-work-play",
+            "Allows for contextual missing middle small apartment buildings near transit",
+            "Simplifies housing development on faith-based institution campuses",
+            "Universal affordability preference paired with 485x incentive can be a game changer for affordable and supportive housing",
+            "Allows modest apartment buildings above businesses on Commercial Streets",
+            "Makes office to residential conversions easier",
+            "Creates new high-density zoning districts with strong affordability requirements",
+            "Addresses decades-long imbalance between housing demand and supply",
+            "Will benefit New Yorkers at all income levels",
+            "Ensures New York remains a livable city and magnet for global talent"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze this testimony step by step:\n\n1. The testimony is from Peter Estes, representing B.J. Jones, Executive Director of The New New York.\n2. The speaker expresses strong support for the \"City of Yes for Housing Opportunity\" proposal.\n3. The testimony focuses on three main points:\n   a. Reducing barriers to housing growth\n   b. Increasing the supply of supportive housing\n   c. Making business districts more live-work-play oriented\n4. The speaker emphasizes the need for more housing, affordable housing, and mixed-use neighborhoods.\n5. There is mention of allowing small apartment buildings near transit and making it easier for faith-based institutions to build housing on their campuses.\n6. The testimony discusses office-to-residential conversions and new high-density zoning districts.\n7. The speaker frames the proposal as necessary to address the housing crisis and maintain New York's livability and attractiveness.\n\nComparing this to the reference talking points:\n- The testimony does not mention parking at all, which is a major focus of the reference talking points.\n- There is no discussion of climate change or emissions, which are mentioned in the reference points.\n- The testimony doesn't address affordability in relation to parking costs, another key point in the reference talking points.\n- Both the testimony and the reference points emphasize the need for housing affordability and availability, but from different angles.\n- The testimony aligns with the reference points in promoting a less car-centric approach to urban planning, though it's not explicit in the testimony.\n- Both sources advocate for change in zoning laws, but with different specific focuses.",
+        "talking_point_evidence": [
+            {
+                "quote": "City of US for housing opportunity works towards this in a number of important ways such as allowing for contextual missing middle small apartment buildings near transit",
+                "analysis": "This quote aligns with the reference talking point about reducing car dependency and promoting transit-oriented development. However, it doesn't directly mention parking or transportation emissions, so the connection is not identical.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "It will help create more of the vibrant safer, resilient mixed use neighborhoods that New Yorkers love.",
+                "analysis": "This quote supports the idea of creating more walkable, less car-dependent neighborhoods, which aligns with the reference talking points about reducing car-centric infrastructure. However, it doesn't explicitly mention parking or transportation.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "This package will address a decades long imbalance between housing demand and supply.",
+                "analysis": "This quote supports the reference talking point about increasing housing affordability and availability. However, it doesn't specifically mention how parking mandates affect housing costs.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony from Peter Estes on behalf of B.J. Jones, while supportive of zoning reforms to increase housing opportunities, does not directly address many of the specific talking points provided in the reference list. The testimony focuses on broader aspects of housing policy and urban development, while the reference talking points are heavily centered on parking regulations and their impact on housing affordability, climate change, and urban design.\n\nThere are some areas of overlap in the general principles, such as the need for more affordable housing, creating vibrant mixed-use neighborhoods, and promoting less car-dependent development. However, the testimony does not explicitly mention parking mandates, transportation emissions, or the specific costs associated with parking requirements, which are central themes in the reference talking points.\n\nThe testimony supports zoning reforms that would allow for more housing near transit and in business districts, which indirectly aligns with the goals of reducing car dependency and creating more walkable neighborhoods. However, it doesn't go into the level of detail about transportation and parking that the reference talking points do.\n\nOverall, while there is some alignment in the broader goals of urban development and housing affordability, the specific arguments and focus areas are quite different between the testimony and the reference talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

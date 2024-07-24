@@ -1,0 +1,46 @@
+{
+    "testimony": {
+        "name": "Randy Plemel",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/randy-plemel-resident-of-long-island-city-on-city",
+        "start_time_in_seconds": 28736.748,
+        "end_time_in_seconds": 28894.03,
+        "for_or_against": "For",
+        "borough": "Queens",
+        "neighborhood": "Long Island City",
+        "stated_affiliations": [],
+        "key_points": [
+            "Support for City of Yes for Housing Opportunity due to need for more housing and wider range of legal housing types",
+            "Personal experience with high rent and frequent moves due to housing crisis",
+            "Support for building neighborhoods that resemble traditional New York City",
+            "Emphasis on incremental change across the city rather than dramatic shifts",
+            "Support for distributing new housing across all neighborhoods, not just Long Island City",
+            "Approval of provisions for various types of housing, including affordable and market-rate homes",
+            "Support for ending costly parking mandates",
+            "Endorsement of transit-oriented development and main street provisions for sustainable, walkable neighborhoods",
+            "Support for ADU and shared housing provisions to accommodate diverse living arrangements",
+            "Need for a wider variety of home types and sizes to support different families and income levels"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "1. The testimony supports the \"City of Yes for Housing Opportunity\" proposal.\n2. The speaker mentions several key points that align with the reference talking points:\n   a. Support for ending costly parking mandates\n   b. Allowing builders to choose whether to build parking\n   c. Emphasizing transit-oriented development\n   d. Encouraging sustainable and walkable neighborhoods\n   e. Reducing demand for car ownership\n3. While the testimony doesn't use identical language to the reference talking points, it strongly supports the same ideas and arguments.\n4. The testimony doesn't cover all aspects of the reference talking points but focuses on those related to parking and transit-oriented development.\n5. The overall message of the testimony aligns with the goals expressed in the reference talking points, particularly regarding reducing parking mandates and promoting alternative transportation options.",
+        "talking_point_evidence": [
+            {
+                "quote": "I support the end of costly parking mandates. If builders want to build parking, they can. Let's just not require them to build that parking.",
+                "analysis": "This quote directly supports the reference talking point about ending parking mandates and allowing developers to build parking based on demand rather than arbitrary requirements. It closely aligns with the idea of creating 'parking choice' mentioned in the talking points.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "Even though I own a car forcing New Yorkers to build car housing when we could rather build space for people housing doesn't make sense to me.",
+                "analysis": "This statement supports the talking point about prioritizing housing over parking. While not using the same language, it conveys the same idea that mandatory parking takes away space that could be used for housing, which is a key argument in the reference talking points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "The provisions to allow for transit oriented development and main streets also make sense because it's the best kind of new development It creates sustainable and walkable neighborhoods, provides places for jobs, encourages transit ridership, and reduces the demand for car ownership, and associated traffic from driving.",
+                "analysis": "This quote supports multiple talking points about reducing car dependence, promoting public transportation, and creating walkable neighborhoods. While it doesn't use identical language, it strongly aligns with the goals expressed in the reference talking points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows a high level of alignment with the reference talking points, particularly those related to parking mandates and transit-oriented development. While the speaker doesn't use identical language to the talking points, they express very similar ideas and arguments. The testimony supports ending parking mandates, allowing developers to choose whether to build parking, and promoting transit-oriented development. These points directly align with several of the reference talking points.\n\nThe speaker also touches on themes present in the talking points, such as creating sustainable and walkable neighborhoods, reducing car dependence, and prioritizing housing over parking. While not covering all aspects of the reference talking points (such as specific statistics on parking costs or examples from other cities), the overall message and key arguments are very closely aligned.\n\nThe testimony appears to be genuinely supportive of the proposal rather than simply repeating prepared talking points. The speaker provides personal context and uses their own language to express ideas that are consistent with the reference talking points. This suggests that while the speaker may have been influenced by similar arguments, they are expressing their own authentic support for the proposal.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "testimony": {
+        "name": "Adam Brodheim",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/adam-brodheim-housing-researcher-and-community",
+        "start_time_in_seconds": 6953.9033,
+        "end_time_in_seconds": 7070.8687,
+        "for_or_against": "For",
+        "borough": "Manhattan",
+        "neighborhood": "Upper West Side",
+        "stated_affiliations": [],
+        "key_points": [
+            "Support for easing the transfer of development rights for landmark buildings",
+            "Importance of preserving historic buildings while allowing for new housing",
+            "Potential benefits for religious and cultural institutions",
+            "Support for office-to-residential conversions",
+            "Support for ending parking minimums",
+            "Support for legalizing ADUs",
+            "Support for making changes to zoning on campuses",
+            "Allowing density in historic districts without changing their character"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "To analyze how closely the testimony is related to the reference talking points, I'll go through the testimony and compare it to the provided talking points:\n\n1. The testimony focuses mainly on supporting the City of Yes plan, particularly aspects related to historic preservation and allowing for new housing development.\n\n2. The speaker mentions \"ending parking minimums\" as one of the proposals they support, which aligns with one of the main themes in the reference talking points.\n\n3. However, the testimony doesn't go into detail about parking minimums or any of the other points mentioned in the reference talking points.\n\n4. The testimony touches on other aspects of the City of Yes plan, such as office-to-residential conversions, legalizing ADUs, and changes to zoning on campuses, which are not mentioned in the reference talking points.\n\n5. The main focus of the testimony is on the transfer of development rights for landmark buildings, which is not mentioned in the reference talking points at all.\n\n6. While the testimony generally supports the City of Yes plan, which includes ending parking minimums, it doesn't use any of the specific arguments or data points provided in the reference talking points.\n\nGiven this analysis, the testimony has some alignment with the reference talking points, but it's not strongly focused on the same issues or using the same arguments.",
+        "talking_point_evidence": [
+            {
+                "quote": "The whole city of YesPlan is great, but I quickly wanna call out the other specific proposals that are particularly compatible with integration, including office presidential conversions, any parking minimums.",
+                "analysis": "The speaker mentions ending parking minimums as one of the proposals they support, which aligns with the main theme of the reference talking points. However, they don't provide any specific arguments or details about why ending parking minimums is beneficial, as outlined in the talking points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony is only tangentially related to the reference talking points. While the speaker does mention support for ending parking minimums, which is a key focus of the reference talking points, they do not elaborate on this point or use any of the specific arguments provided in the talking points.\n\nThe majority of the testimony focuses on other aspects of the City of Yes plan, particularly the transfer of development rights for landmark buildings, which is not mentioned in the reference talking points at all. The speaker's main concerns appear to be related to historic preservation and creating new housing opportunities in historic districts.\n\nThe testimony does show general support for the City of Yes plan, which includes the proposal to end parking minimums. However, the level of alignment with the specific talking points provided is low. The speaker doesn't discuss any of the benefits of ending parking minimums, such as increased affordability, environmental benefits, or improved street life, which are key arguments in the reference talking points.\n\nGiven this analysis, while there is some support for one of the key proposals mentioned in the talking points, the overall alignment between the testimony and the reference talking points is low.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

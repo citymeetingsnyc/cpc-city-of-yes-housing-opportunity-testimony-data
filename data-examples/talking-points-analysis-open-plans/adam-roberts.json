@@ -1,0 +1,39 @@
+{
+    "testimony": {
+        "name": "Adam Roberts",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/adam-roberts-from-community-housing-improvement",
+        "start_time_in_seconds": 19030.832,
+        "end_time_in_seconds": 19170.035,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Community Housing Improvement Program (CHIP)"
+        ],
+        "key_points": [
+            "Support for the zoning text amendment, particularly additional floor area ratio for basements and cellars near transit",
+            "Potential for creating new affordable basement and cellar units in rent-stabilized buildings",
+            "Additional income from new units would help cover maintenance costs for rent-stabilized buildings facing financial crisis",
+            "Support for expansion of Universal Affordability Preference to create modern housing for current and new tenants",
+            "Need for addressing barriers to relocating current tenants to effectively implement the zoning text amendment",
+            "Importance of creating new rent-stabilized housing with modern accessibility features"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The testimony is from Adam Roberts, policy director for the Community Housing Improvement Program (CHIP).\n2. CHIP represents housing providers, including apartment building owners and managers.\n3. The testimony strongly supports the zoning text amendment.\n4. The main points of the testimony are:\n   a. Support for additional floor area ratio (FAR) for basements and cellars near transit.\n   b. Creating new affordable basement and cellar units.\n   c. Addressing financial crisis in rent-stabilized housing.\n   d. Need for modernizing older rent-stabilized buildings.\n   e. Support for Universal Affordability Preference.\n   f. Mention of barriers to relocating current tenants for rebuilding.\n\n5. Comparing to the reference talking points:\n   - The testimony doesn't directly mention parking mandates or their removal.\n   - It doesn't discuss climate change, transportation emissions, or car dependence.\n   - It doesn't mention specific cities that have implemented similar changes.\n   - The focus is mainly on creating more affordable housing units and improving existing ones.\n\n6. There are some indirect connections:\n   - Both the testimony and talking points discuss increasing housing affordability and availability.\n   - The testimony mentions building near transit, which aligns with the talking points' emphasis on reducing car dependence.\n   - The testimony supports zoning changes, which is the broader context of the talking points.\n\nOverall, while there are some overlapping themes, the testimony doesn't directly reference or closely align with most of the provided talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "Adding SAR to these buildings will create countless new affordable basement and seller units.",
+                "analysis": "This quote indirectly relates to the talking point about increasing housing affordability and availability. While the talking points focus on reducing parking mandates to achieve this, the testimony suggests using additional floor area ratio (FAR) for basements and cellars. The underlying goal of creating more affordable housing is similar, but the proposed method is different.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "The addition of SAR near transit and the expansion of the Universal affordability preference will create modern housing for current tenants and new housing for new tenants.",
+                "analysis": "This quote loosely relates to the talking point about planning for the city we want and expanding good public transportation options. The testimony mentions building near transit, which aligns with the goal of reducing car dependence, though it doesn't explicitly state this connection.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            }
+        ],
+        "analysis": "The testimony from Adam Roberts of CHIP is not closely aligned with the provided reference talking points. While both the testimony and the talking points address the broader issue of zoning changes to improve housing in New York City, they focus on different aspects and propose different solutions.\n\nThe testimony primarily focuses on creating more affordable housing units by utilizing basements and cellars, addressing financial challenges in rent-stabilized housing, and modernizing older buildings. It supports the zoning text amendment but doesn't specifically mention parking mandates or their removal, which is a central theme in the reference talking points.\n\nThe talking points, on the other hand, emphasize reducing parking mandates to increase housing affordability, combat climate change, and promote less car-centric urban planning. These specific issues are not directly addressed in the testimony.\n\nThere are some indirect connections, such as the shared goal of increasing housing affordability and the mention of building near transit in the testimony, which aligns with the talking points' emphasis on reducing car dependence. However, these connections are tenuous and not the main focus of the testimony.\n\nGiven the limited overlap and the different focus areas, the testimony cannot be classified as having high alignment or strongly supporting the reference talking points.",
+        "similarity": "NOT_ALIGNED"
+    }
+}

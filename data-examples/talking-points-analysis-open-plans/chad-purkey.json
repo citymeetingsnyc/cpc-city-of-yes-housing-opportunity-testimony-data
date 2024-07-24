@@ -1,0 +1,43 @@
+{
+    "testimony": {
+        "name": "Chad Purkey",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/chad-purkey-from-the-association-for-better-new",
+        "start_time_in_seconds": 27649.309,
+        "end_time_in_seconds": 27780.574,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Association for Better New York (ABNY)"
+        ],
+        "key_points": [
+            "The city is in a housing crisis that requires impactful yet measured responses",
+            "Support for all text amendments in the proposal due to increased balance in zoning resolution",
+            "The proposal offers better balance between prescriptive regulations and expanded options for property owners",
+            "Supports relegalizing building types like apartments over stores",
+            "Advocates for easier housing conversions",
+            "Supports giving more autonomy to single-family homeowners and religious/nonprofit institutions",
+            "Encourages allowing more varied housing types, including smaller shared housing",
+            "Supports extending affordability bonuses to more neighborhoods",
+            "The proposal offers a balance between boldness and thoughtful policy solutions",
+            "The reform will offer long-term benefits to residents across all city neighborhoods"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The testimony is from Chad Purkey, representing the Association for Better New York (ABNY).\n2. He expresses support for the \"City of Yes for Housing Opportunity\" proposal.\n3. The testimony focuses on the housing crisis and the need for more housing options.\n4. It mentions several aspects of the proposal, such as relegalizing building types, allowing conversions, and giving more autonomy to property owners.\n5. The testimony doesn't specifically mention parking or transportation issues.\n6. It emphasizes the need for balance between bold action and thoughtful policy solutions.\n7. The speaker supports the adoption of the proposal in its entirety.\n\nComparing this to the reference talking points:\n- The testimony doesn't mention parking mandates or their removal, which is a significant focus of the talking points.\n- It doesn't discuss climate change or transportation emissions.\n- It doesn't mention the cost of parking spaces or their impact on housing affordability.\n- The testimony does align with the general idea of increasing housing affordability and availability, which is mentioned in the talking points.\n- Both the testimony and talking points advocate for more choice and flexibility in urban development, although they focus on different aspects (housing types vs. parking).",
+        "talking_point_evidence": [
+            {
+                "quote": "This crisis requires impactful yet measured responses that balance the myriad factors that will let us here and then need careful consideration to alleviate it.",
+                "analysis": "This quote aligns with the general sentiment of the talking points about the need for comprehensive reform, although it doesn't specifically mention parking or transportation. It supports the idea of balanced and thoughtful policy changes.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            },
+            {
+                "quote": "If we want to see the solutions to this crisis, which we know are more housing, lower housing costs and a greater number of housing options for an ever diversifying an aging mix of households in our city, need to see the city of Yale's housing opportunity adopted in its entirety.",
+                "analysis": "This quote supports the talking point about increasing housing affordability and availability. While it doesn't mention parking specifically, it aligns with the overall goal of addressing housing issues.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony from Chad Purkey on behalf of the Association for Better New York (ABNY) is only marginally related to the reference talking points provided. While both the testimony and the talking points address urban development and housing issues, they focus on different aspects of these topics.\n\nThe testimony primarily discusses the housing crisis and the need for more flexible zoning regulations to allow for diverse housing options. It supports the \"City of Yes for Housing Opportunity\" proposal, emphasizing the need for balance between bold action and thoughtful policy solutions.\n\nOn the other hand, the reference talking points concentrate heavily on parking mandates, their impact on housing affordability, and their relationship to transportation and climate change. These specific issues are not mentioned in the testimony.\n\nThe main point of alignment is the general goal of increasing housing affordability and availability, which is mentioned in both the testimony and the talking points. Both also advocate for more flexibility and choice in urban development, although they focus on different aspects (housing types vs. parking).\n\nOverall, while there are some broad thematic similarities, the specific focus and arguments in the testimony are quite different from those in the reference talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

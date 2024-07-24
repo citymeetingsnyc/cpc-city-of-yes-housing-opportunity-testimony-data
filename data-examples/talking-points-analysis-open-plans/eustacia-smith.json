@@ -1,0 +1,43 @@
+{
+    "testimony": {
+        "name": "Eustacia Smith",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/eustacia-smith-from-west-side-federation-for",
+        "start_time_in_seconds": 35558.86,
+        "end_time_in_seconds": 35743.066,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "West Side Federation for Senior and Supportive Housing"
+        ],
+        "key_points": [
+            "Support for City of Yes for Housing Opportunity zoning changes",
+            "Need for affordable senior housing in New York City",
+            "Disproportionate impact of housing crisis on older New Yorkers",
+            "Support for universal affordability preference",
+            "Support for changing outdated zoning regulations",
+            "Support for development of small shared housing",
+            "Need for additional incentives for senior housing development",
+            "Call for city to set annual production and preservation goals for affordable senior housing",
+            "Recommendation for at least 1000 new units of deeply affordable senior housing with fully funded services per year",
+            "Importance of protecting and prioritizing production of deeply affordable senior housing with services"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step in relation to the reference talking points:\n\n1. The testimony is primarily focused on affordable housing for seniors, while the reference talking points are mainly about parking mandates and their effects on housing and urban development.\n\n2. There is no direct mention of parking or transportation issues in the testimony.\n\n3. The testimony supports the \"City of Yes for Housing\" proposal, which aligns with the general sentiment of the reference talking points, but for different reasons.\n\n4. The testimony mentions \"universal affordability preference\" and \"density bonus\", which could potentially relate to the reference points about increasing housing affordability and availability, but the connection is not explicit.\n\n5. The testimony supports changing outdated zoning regulations to allow for affordable housing in all neighborhoods, which somewhat aligns with the reference points about reforming old rules and increasing housing availability.\n\n6. There is a mention of small shared housing in the testimony, which could potentially relate to the reference points about different types of housing and affordability, but again, the connection is not explicit.\n\n7. The testimony does not discuss climate change, transportation emissions, or car dependency, which are key points in the reference talking points.\n\n8. The testimony's focus on senior housing and specific recommendations for that demographic are not present in the reference talking points.\n\nOverall, while there are some very broad thematic similarities around housing affordability and zoning reform, the specific focus and arguments in the testimony are quite different from the reference talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "New York City must take all possible measures to increase the supply of affordable housing which fish strongly supports the zoning changes outlined in City of Yes for Housing.",
+                "analysis": "This quote supports the general idea of zoning reform to increase housing supply, which is a theme in the reference talking points. However, it doesn't specifically mention parking or transportation issues, which are the main focus of the reference points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "We support changing outdated zoning regulations that would allow for the creation of affordable housing in all neighborhoods and areas of the city rather than the situation we are in now.",
+                "analysis": "This quote aligns with the reference talking point about reforming old rules, but it focuses on affordable housing creation rather than parking mandates. The connection is present but not direct.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony is primarily focused on the need for affordable senior housing and supportive services, which is not the main focus of the reference talking points. While the testimony supports the \"City of Yes for Housing\" proposal and mentions zoning changes, it does so from a perspective of increasing affordable housing supply, particularly for seniors. \n\nThe reference talking points, on the other hand, are centered around parking mandates, transportation issues, and their effects on housing affordability and urban development. These specific issues are not addressed in the testimony.\n\nThere are some broad thematic similarities around the need for zoning reform and increasing housing affordability, but the specific arguments, focus, and recommendations are quite different. The testimony does not engage with the key points about parking, transportation, climate change, or car dependency that are central to the reference talking points.\n\nGiven these observations, while there is some alignment in the general goal of increasing housing supply and affordability through zoning changes, the testimony cannot be considered closely related to the specific arguments and focus of the reference talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

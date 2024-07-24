@@ -1,0 +1,44 @@
+{
+    "testimony": {
+        "name": "Michael Kaess",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/michael-kaess-on-city-of-yes-zoning-reforms-and",
+        "start_time_in_seconds": 7448.4146,
+        "end_time_in_seconds": 7588.983,
+        "for_or_against": "For",
+        "borough": "Bronx",
+        "neighborhood": "Morris Park",
+        "stated_affiliations": [],
+        "key_points": [
+            "Supports the City of Yes proposal as a step to address past zoning mistakes",
+            "Current zoning code is too strict, limiting housing options",
+            "City of Yes will allow existing zoning designations to work more effectively",
+            "Supports provisions for ADUs, ending residential parking mandates, transit-oriented development, and town center zoning",
+            "City of Yes will empower homeowners to do more with their property",
+            "Argues that the proposal is modest given the scale of the housing crisis",
+            "Urges the City Planning Commission to resist watering down the proposal and instead make it stronger",
+            "Criticizes fear-mongering and lack of solutions from opponents"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze this testimony step by step:\n\n1. The speaker, Michael Kaess, is a resident of Morris Park and supports the City of Yes proposal.\n2. He mentions that the current zoning code is too strict, limiting housing options.\n3. He specifically mentions supporting all provisions of City of Yes, including \"ending the residential parking mandate\".\n4. He argues that City of Yes will empower homeowners to do more with their property.\n5. He describes the proposal as modest but important, and asks the commission to resist attempts to water it down.\n6. While he doesn't go into great detail about parking specifically, his support for ending the parking mandate aligns with several of the reference talking points.\n\nNow, let's compare this to the reference talking points:\n- The testimony doesn't specifically mention many of the detailed points about parking, such as the cost of building parking or its environmental impact.\n- However, the overall sentiment of supporting the removal of parking mandates aligns with the reference talking points.\n- The testimony's emphasis on increasing housing options and flexibility also aligns with the general thrust of the talking points about increasing affordability and availability of housing.\n- The speaker's characterization of the current zoning as \"too strict\" and \"two sizes too small\" echoes the talking points' criticism of outdated parking minimum rules.\n\nWhile the testimony doesn't use language identical to the talking points, it does support the same general ideas, particularly regarding the removal of parking mandates and the need for more housing options.",
+        "talking_point_evidence": [
+            {
+                "quote": "I support all the provisions, including ADUs, ending the residential parking mandate trended oriented development and town center zoning.",
+                "analysis": "This quote directly supports the talking point about ending parking mandates. While it doesn't provide the detailed rationale found in the talking points, it explicitly endorses the same policy change.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Because right now, the zoning code is far too strict, where even many longstanding 1 or 2 single family homes are considered too big under the current code, Almost one third of the buildings in my community are considered too big by floor area.",
+                "analysis": "This quote aligns with the talking points' criticism of outdated zoning rules, although it focuses more on building size than parking specifically. It supports the general idea that current zoning is too restrictive.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "City of Yes will empower homeowners to be able to do more with their own property.",
+                "analysis": "This quote supports the general thrust of the talking points about increasing flexibility and options for property owners, although it doesn't specifically mention parking.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            }
+        ],
+        "analysis": "The testimony shows support for the City of Yes proposal, including the specific provision of ending residential parking mandates. While the speaker doesn't delve into the detailed arguments presented in the reference talking points, his overall stance aligns with the key ideas, particularly the need to reform outdated zoning rules and increase housing flexibility.\n\nThe testimony doesn't use language that closely mirrors the talking points, nor does it present the same detailed arguments about the costs and impacts of parking mandates. However, it does advocate for the same policy changes and shares the general perspective that current zoning rules are too restrictive and need to be updated to allow for more housing options.\n\nGiven this, we can classify the testimony as supporting the talking points, even though it doesn't make all the same specific arguments or use very similar language.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

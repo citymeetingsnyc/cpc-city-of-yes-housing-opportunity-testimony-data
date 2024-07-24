@@ -1,0 +1,40 @@
+{
+    "testimony": {
+        "name": "Regina Myer",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/regina-myer-president-of-downtown-brooklyn",
+        "start_time_in_seconds": 31110.543,
+        "end_time_in_seconds": 31315.754,
+        "for_or_against": "For",
+        "borough": "Brooklyn",
+        "neighborhood": "Downtown Brooklyn",
+        "stated_affiliations": [
+            "Downtown Brooklyn Partnership"
+        ],
+        "key_points": [
+            "Strong support for City of Yes for Housing Opportunity zoning amendment",
+            "Downtown Brooklyn has added nearly 22,600 housing units with 77,100 more in pipeline",
+            "Support for revising height limitation rules in Downtown Brooklyn special district",
+            "Agreement with maintaining height limitations on south side of Schermerhorn Street for transition to low-rise Boerum Hill",
+            "Strong support for removing minimum parking requirements for new residential developments citywide",
+            "Reminder of successful 2012 reduction of parking requirements in Downtown Brooklyn",
+            "Support for office to residential conversion (not fully elaborated due to time constraints)"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "First, let's analyze the testimony and identify any points that align with or relate to the reference talking points:\n\n1. The speaker strongly supports the City of Yes proposal, which includes changes to parking requirements.\n2. They specifically mention support for removing minimum parking requirements for new residential developments citywide.\n3. They mention that this change could lead to more housing options and lower construction costs.\n4. The speaker references a previous successful reduction in parking requirements in downtown Brooklyn in 2012, which resulted in more efficient development.\n\nNow, let's compare these points to the reference talking points:\n\n- The testimony directly supports removing parking minimums, which aligns with several of the reference talking points.\n- The speaker's mention of more housing options and lower construction costs aligns with the reference point about increasing housing affordability and availability.\n- The testimony doesn't go into as much detail about the benefits of removing parking minimums as the reference talking points do, but the overall stance is supportive.\n- The speaker doesn't mention climate change, street safety, or specific statistics about parking costs, which are present in the reference talking points.\n\nOverall, while the testimony is not as comprehensive as the reference talking points, it does align closely with some key points, particularly regarding the removal of parking minimums and the potential benefits for housing.",
+        "talking_point_evidence": [
+            {
+                "quote": "We are strongly in support of removing removing the minimum parking requirements for new residential developments citywide to allow for more housing options and hopefully getting to lower construction costs.",
+                "analysis": "This quote directly supports the reference talking point about reducing parking mandates to increase housing affordability and availability. It also aligns with the idea of allowing parking to meet the needs of each neighborhood rather than following arbitrary requirements.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "I also wanna note and remind you all that you did an incredible thing in 2012 when you reduced the parking requirement in downtown Brooklyn. By half. That was with community concurrence, and that did result in more efficient development.",
+                "analysis": "While this quote doesn't directly match a specific reference talking point, it supports the overall argument by providing a local example of successful parking requirement reduction. This aligns with the reference points about other cities implementing similar changes successfully.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows a clear alignment with some of the key points from the reference talking points, particularly regarding the removal of minimum parking requirements and the potential benefits for housing affordability and development efficiency. The speaker strongly supports the proposal to remove parking minimums, which is a central theme in the reference talking points.\n\nHowever, the testimony does not cover all aspects mentioned in the reference talking points. It doesn't discuss climate change impacts, street safety, or provide specific statistics about parking costs. The speaker's focus is primarily on the housing benefits and development efficiency, rather than the broader range of issues addressed in the reference talking points.\n\nDespite not covering all points, the testimony's strong support for removing parking minimums and its mention of potential benefits align closely with the core message of the reference talking points. The speaker also provides a local example of successful parking requirement reduction, which supports the overall argument presented in the reference talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

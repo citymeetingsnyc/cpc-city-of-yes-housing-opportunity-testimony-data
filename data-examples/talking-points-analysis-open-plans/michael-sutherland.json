@@ -1,0 +1,50 @@
+{
+    "testimony": {
+        "name": "Michael Sutherland",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/michael-sutherland-from-open-plans-on-lifting",
+        "start_time_in_seconds": 2001.6682,
+        "end_time_in_seconds": 2156.429,
+        "for_or_against": "For",
+        "borough": "Brooklyn",
+        "neighborhood": "Deep Southern Brooklyn",
+        "stated_affiliations": [
+            "Open Plans"
+        ],
+        "key_points": [
+            "Lifting parking mandates will not ban parking, but allow it to be built where appropriate",
+            "Many cities across the US have already lifted parking mandates, including less transit-oriented cities",
+            "Buffalo's experience shows that lifting parking mandates works, with 47% of major developments including fewer parking spaces than previously required",
+            "In New York City, more parking than required has been built in areas with high car dependency",
+            "Parking mandates have driven up the cost of building and lowered the number of housing units built in areas with less car dependency",
+            "Lifting mandates will allow for more housing creation in areas where parking is unnecessary",
+            "Urges the inclusion of parking mandate reform in the City of Yes for Housing Opportunity initiative"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Michael Sutherland, focuses specifically on parking mandate reform.\n2. He addresses misconceptions about lifting parking mandates, stating it won't ban parking but allows it to be built where appropriate.\n3. He mentions other cities that have lifted parking mandates, including less transit-oriented cities like Austin, Birmingham, and Lexington.\n4. He provides a detailed example of Buffalo, which lifted parking mandates in 2017, showing positive outcomes.\n5. Sutherland emphasizes that parking is still built where it makes sense, not citywide at an arbitrary rate.\n6. He mentions that in NYC, more parking than required has been built in car-dependent areas.\n7. The speaker argues that lifting mandates won't ban parking or require less parking, but will allow for more housing where parking is unnecessary.\n8. He urges the commission to maintain the inclusion of parking mandate reform and to lift parking mandates citywide.\n\nNow, let's compare this to the reference talking points:\n- The testimony strongly aligns with the point about not banning new parking.\n- It supports the idea of allowing parking to meet neighborhood needs.\n- The speaker touches on affordability and climate issues, though less directly than the talking points.\n- The testimony doesn't mention specific costs of parking construction or its impact on rent.\n- The speaker doesn't directly address the 25% of New Yorkers who use cars to commute.\n- The testimony aligns with the point about other cities, including Buffalo, that have successfully implemented this change.\n- The speaker doesn't directly mention walking difficulties or harm to street life caused by parking mandates.\n\nOverall, the testimony shows a high alignment with several key talking points, particularly regarding the nature of the reform and its implementation in other cities. However, it doesn't cover all the points in as much detail as the reference talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "Lifting parking mandates will not ban parking from being created. It simply allows parking to be built where it's appropriate, and evidence from other cities that are significantly less robust transit networks and ours shows that parking is still built where it's demanded.",
+                "analysis": "This quote directly aligns with the reference talking point about the change not banning new parking and allowing parking to meet the needs of each neighborhood. The speaker uses almost identical language to convey this point.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "Buffalo listed parking mandates as part of a larger zoning reform in 2017. They did so for various reasons, many mirroring the goals of lifting mandates in DHL, spring economic development, enhancing existing walkability, and helping to mitigate the climate crisis.",
+                "analysis": "This quote supports the reference talking point about other cities, specifically mentioning Buffalo, that have implemented similar reforms. It also touches on the multiple issues addressed by reducing parking mandates, aligning with the talking point about addressing key issues of our time.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Research has shown that in New York City, more parking than required has been built in areas where there is deep car dependency. Even yesterday, we saw builders in the Bronx come for the city council and express their commitment to building parking even in spite of the planned lifting of parking mandates.",
+                "analysis": "This quote supports the talking point about parking still being built in areas where it's needed, even without mandates. It provides evidence specific to New York City, which strengthens the argument made in the reference talking points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Lifting mandates wouldn't ban parking and it wouldn't permit or require less parking to be built anywhere in particular. In fact, in areas where there is high car dependency parking will often still be built. However, in areas where parking is unnecessary or unneeded, lifting mandates will allow the creation of more sorely needed housing.",
+                "analysis": "This quote closely aligns with multiple reference talking points. It reiterates that lifting mandates won't ban parking, that parking will still be built where needed, and touches on the potential for increased housing availability. The language and arguments are very similar to those in the reference talking points.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            }
+        ],
+        "analysis": "The testimony by Michael Sutherland shows a high degree of alignment with the reference talking points. While it doesn't cover all aspects mentioned in the talking points, it strongly emphasizes several key arguments:\n\n1. The reform will not ban parking but allows it to be built where appropriate.\n2. Parking will still be built in areas with high demand.\n3. Other cities, including those with less robust transit systems, have successfully implemented similar reforms.\n4. The change can address multiple issues, including housing availability and climate concerns.\n\nThe speaker uses language and examples that closely mirror those in the reference talking points, particularly when discussing the nature of the reform and its implementation in other cities. He provides specific examples and data, especially from Buffalo, which aligns with and expands upon the reference talking points.\n\nHowever, the testimony doesn't delve into some aspects mentioned in the talking points, such as specific costs of parking construction, the percentage of New Yorkers who commute by car, or detailed impacts on walkability and street life.\n\nDespite these omissions, the overall message and key arguments of the testimony are highly consistent with the reference talking points, suggesting a strong alignment between the speaker's position and the provided talking points.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}

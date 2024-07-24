@@ -1,0 +1,40 @@
+{
+    "testimony": {
+        "name": "Max Davidson",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/max-davidson-on-supporting-city-of-yes-for-housing",
+        "start_time_in_seconds": 27469.121,
+        "end_time_in_seconds": 27618.066,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [],
+        "key_points": [
+            "Support for City of Yes initiative to address housing shortage",
+            "New York's legacy as a haven for immigrants is at risk due to housing crisis",
+            "Housing shortage gives too much power to landlords over tenants",
+            "City of Yes provides a first step towards rebalancing power towards tenants",
+            "Support for increasing density and height for transit-oriented development, especially in affluent white neighborhoods",
+            "Recommendation to expand UAP and identify opportunities to deepen levels of affordability",
+            "Suggestion to explore ways to add market-rate units in exchange for deeper affordability",
+            "Proposal to average affordability levels between developments in different neighborhoods",
+            "Encouragement to strengthen the City of Yes initiative to meet the needs of all New Yorkers"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Max Davidson, is in support of the City of Yes proposal.\n2. He focuses mainly on the housing shortage in New York City and its consequences.\n3. He mentions issues like affordability, landlord power over tenants, and the need for more housing options.\n4. The speaker doesn't directly mention parking or transportation issues, which are the main focus of the reference talking points.\n5. However, he does touch on some broader themes that align with the spirit of the talking points:\n   - The need for affordable housing\n   - The importance of creating opportunities for all New Yorkers\n   - The idea of making every neighborhood contribute to solving the housing crisis\n6. He proposes some specific ideas like increasing density near transit and exploring ways to deepen affordability, which aren't directly mentioned in the talking points but are related to urban planning and housing affordability.\n7. The testimony doesn't contradict the talking points, but it doesn't explicitly support them either.\n\nGiven this analysis, the testimony seems to be generally supportive of urban planning reforms that could increase housing affordability and availability, which aligns with some of the broader goals mentioned in the talking points. However, it doesn't directly address the specific issues of parking mandates and transportation that are central to the reference talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "To put a finer point on it, New York, millions of people have sought New York as for opportunity. Now millions of New Yorkers leave New Jersey seeking affordability.",
+                "analysis": "This quote aligns with the general theme of affordability mentioned in the talking points, particularly the point about parking mandates increasing rents. However, it doesn't directly mention parking or transportation issues.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            },
+            {
+                "quote": "I support his proposal to increase density and height for transit oriented development, particularly in affluent white neighborhoods that were down zoned under the Bloomberg administration ratio.",
+                "analysis": "While this quote doesn't directly reference the talking points about parking mandates, it does support the idea of transit-oriented development, which aligns with the broader goals of reducing car dependence and promoting alternative transportation mentioned in the talking points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony by Max Davidson is primarily focused on the housing crisis in New York City and the need for more affordable housing options. While it supports urban planning reforms that could increase housing affordability and availability, it doesn't directly address the specific issues of parking mandates and transportation that are central to the reference talking points.\n\nThe testimony does touch on some broader themes that align with the spirit of the talking points, such as the need for affordable housing, the importance of creating opportunities for all New Yorkers, and the idea of making every neighborhood contribute to solving the housing crisis. The speaker also mentions support for transit-oriented development, which indirectly aligns with the goals of reducing car dependence mentioned in the talking points.\n\nHowever, the testimony doesn't explicitly mention parking issues, transportation emissions, or the specific benefits of removing parking mandates, which are key elements of the reference talking points. The speaker's focus is more on housing affordability and equity rather than the transportation and parking aspects of urban planning.\n\nGiven this analysis, while there are some points of alignment in the broader goals of urban reform and affordability, the testimony cannot be classified as having high alignment with the specific reference talking points provided.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

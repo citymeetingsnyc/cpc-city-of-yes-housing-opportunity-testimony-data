@@ -1,0 +1,50 @@
+{
+    "testimony": {
+        "name": "Alia Soomro",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/alia-soomro-from-the-new-york-league-of",
+        "start_time_in_seconds": 14953.174,
+        "end_time_in_seconds": 15139.688,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "New York League of Conservation Voters"
+        ],
+        "key_points": [
+            "Support for City of Yes for Housing Opportunity",
+            "Addressing both climate crisis and housing shortage",
+            "Removing parking mandates to encourage alternative transportation and free up land for housing",
+            "Support for transit-oriented development, town center zoning, accessory dwelling units, and residential conversions",
+            "Proposal will not significantly change neighborhood character or overburden city infrastructure",
+            "Proposal does not allow new development on Parkland",
+            "Urging approval of zoning text amendment without weakening provisions"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "1. Let's review the testimony for points that align with the reference talking points:\n   - The testimony mentions removing parking mandates as a key component they support.\n   - It states that parking mandates were included in the ZR in the 50s-60s, which aligns with the talking point about these rules being over 50 years old.\n   - The testimony mentions that parking mandates raise the cost of housing, which aligns with the talking point about increased rents.\n   - It states that eliminating mandates doesn't ban new parking, which directly aligns with a reference talking point.\n   - The testimony mentions that the proposal allows developers to meet the needs of each neighborhood, which aligns with the \"parking choice\" talking point.\n   - The testimony discusses how parking mandates incentivize private automobile use, which aligns with the climate change talking points.\n\n2. Now, let's identify specific quotes that closely relate to the reference talking points and analyze them.",
+        "talking_point_evidence": [
+            {
+                "quote": "Eliminating these mandates not only encourages alternative modes of transportation, but also frees up valuable land for affordable housing.",
+                "analysis": "This quote closely aligns with multiple talking points. It supports the idea that removing parking mandates can address housing affordability and availability, while also encouraging alternative transportation modes, which relates to the climate crisis point.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Lastly, eliminating parking mandates does not ban new parking or eliminate parking entirely. This proposal allows developers to meet the needs of each neighborhood of the city.",
+                "analysis": "This quote is almost identical to two of the reference talking points about not banning parking and allowing parking to meet neighborhood needs. It uses very similar language and makes the same arguments.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "Parking mandates raise the cost of housing, inhibits more units from being built, and incentivizes the use of private automobiles.",
+                "analysis": "This quote supports multiple talking points about parking mandates increasing housing costs, reducing housing availability, and encouraging car use. While it doesn't use the exact figures mentioned in the talking points, it makes the same arguments.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Parking mandates were included in the city's ER in the fifties sixties as suburbanization was taking hold.",
+                "analysis": "This quote supports the talking point about parking minimum rules being created more than 50 years ago. While it doesn't explicitly call for reform, it provides the same historical context.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows a high level of alignment with the reference talking points. The speaker, Alia Soomro from the New York League of Conservation Voters, presents arguments that are very closely related to many of the provided talking points. The testimony specifically addresses parking mandates, their historical context, their impact on housing costs and availability, their relationship to climate change, and the fact that eliminating mandates doesn't ban parking. These points directly correspond to several of the reference talking points.\n\nWhile the testimony doesn't cover all the points in the reference list (such as specific figures on parking costs or examples from other cities), it does hit many of the key arguments. The language used is often very similar to that in the talking points, suggesting that the speaker may be familiar with or influenced by similar messaging.\n\nThe testimony goes beyond the talking points in some areas, such as discussing the impact on sewers and storm water, but these additional points are used to support the overall argument for the zoning changes, which aligns with the general thrust of the talking points.\n\nGiven the numerous direct correspondences and the overall alignment in messaging, it's plausible that the speaker is using talking points very similar to the reference ones in their testimony.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}

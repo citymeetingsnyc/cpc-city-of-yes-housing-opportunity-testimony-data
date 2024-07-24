@@ -1,0 +1,40 @@
+{
+    "testimony": {
+        "name": "Howard Slatkin",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/howard-slatkin-executive-director-of-citizen",
+        "start_time_in_seconds": 13968.477,
+        "end_time_in_seconds": 14154.87,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Citizen Housing and Planning Council"
+        ],
+        "key_points": [
+            "The proposed zoning text amendments are an important step forward for NYC zoning",
+            "Current zoning regulations have created a persistent housing shortage",
+            "Zoning for scarcity creates unintended consequences that hurt everyone, especially those with the least",
+            "Current regulations often produce absurd results, such as losing housing units in some neighborhoods",
+            "The proposal will help reverse zoning for scarcity and better align with housing needs of New Yorkers",
+            "Zoning changes must be accompanied by sustained public investment and other regulatory changes",
+            "Suggests modifications to the proposal, including a permanent off-site option for UAP program and vesting certain existing development rights"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "1. The testimony focuses on the broader housing crisis and the need for zoning reform to address housing scarcity.\n2. The speaker supports the proposed zoning text amendments as a step forward for New York City.\n3. The testimony doesn't directly mention parking mandates or transportation issues, which are the main focus of the reference talking points.\n4. There are some general themes that align with the spirit of the reference talking points, such as:\n   - Criticism of outdated zoning regulations (the testimony mentions the 1961 zoning resolution, while the talking points mention 50-year-old parking rules)\n   - Emphasis on the need for change to address current needs\n   - Mention of unintended consequences of current zoning (though not specifically about parking)\n5. The testimony does touch on affordability issues, which is also mentioned in the talking points, but from different angles.\n6. Overall, while there's some alignment in the general push for zoning reform, the specific focus and details are quite different between the testimony and the reference talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "63 years ago, the 1961 zoning resolution launched an era of what while the call zoning for scarcity by cutting the city's housing capacity by an estimated 80%.",
+                "analysis": "This quote, while not directly related to parking mandates, echoes the sentiment in the talking points about outdated zoning rules. Both the testimony and the talking points criticize old zoning regulations that are no longer serving the city's needs.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            },
+            {
+                "quote": "We're submitting written testimony that details a number of important modifications that the commission should make, we believe, to the proposal to enable it to better address our housing needs.",
+                "analysis": "This quote suggests openness to modifying the proposal to better address housing needs, which aligns with the general spirit of the talking points advocating for zoning reform. However, it doesn't specifically mention parking or transportation issues.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            }
+        ],
+        "analysis": "The testimony provided by Howard Slatkin, while supporting zoning reform, does not closely align with the specific reference talking points provided. The testimony focuses primarily on the broader housing crisis, the need to increase housing capacity, and the problems with current zoning regulations that limit housing options. It does not directly address the issues of parking mandates, transportation, or climate change that are central to the reference talking points.\n\nThere are some general thematic similarities, such as criticizing outdated zoning regulations and emphasizing the need for change to address current urban needs. Both the testimony and the talking points also touch on affordability issues, albeit from different perspectives.\n\nHowever, the specific focus and details of the testimony are quite different from the reference talking points. The testimony does not mention parking, transportation, or climate issues, which are key elements of the talking points. Instead, it concentrates on housing scarcity, unit combinations, and specific examples of how current zoning negatively impacts residents.\n\nGiven these observations, while there is a shared general sentiment about the need for zoning reform, the testimony cannot be considered closely aligned with the specific reference talking points provided.",
+        "similarity": "NOT_ALIGNED"
+    }
+}

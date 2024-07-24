@@ -1,0 +1,30 @@
+{
+    "testimony": {
+        "name": "Gabriel DeRurdy",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/gabriel-derurdy-on-supporting-the-city-of-yes-for",
+        "start_time_in_seconds": 9148.045,
+        "end_time_in_seconds": 9245.8,
+        "for_or_against": "For",
+        "borough": "Manhattan",
+        "neighborhood": "Hell's Kitchen",
+        "stated_affiliations": [],
+        "key_points": [
+            "Personal experience with difficult rental market in NYC",
+            "Support for the universal affordability preference",
+            "Belief that the proposal will incrementally add housing without radically changing neighborhood scale",
+            "Affordability requirement benefits those most burdened by the housing crisis"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Gabriel Doherty, is in favor of the \"City of Yes for Housing Opportunity\" proposal.\n2. He speaks about his personal experience with the difficult housing market in NYC, mentioning high costs and low vacancy rates.\n3. He specifically mentions and supports the \"universal affordability preference\" section of the proposal.\n4. He believes this will add 20% more housing to buildings without radically changing neighborhood scale.\n5. He emphasizes the 100% affordability requirement, which he sees as benefiting those most affected by the housing crisis.\n\nNow, let's compare this to the reference talking points:\n\n1. The testimony doesn't mention parking at all, which is a major focus of the reference talking points.\n2. The testimony focuses on housing affordability and availability, which is briefly mentioned in the reference talking points but not a central theme.\n3. The testimony doesn't discuss climate change, transportation, or any of the other issues highlighted in the reference talking points.\n4. The only clear overlap is the general support for the proposal and the mention of housing affordability.\n\nGiven this analysis, the testimony has very little direct alignment with the provided reference talking points. While both support changes to improve housing, the specific focuses are quite different.",
+        "talking_point_evidence": [
+            {
+                "quote": "One section I'd like to speak in favor of is the universal affordability preference. I think it's a good tool for our neighborhood and for the city since it incrementally adds that extra 20 percent of housing on top of the buildings.",
+                "analysis": "This quote supports the general idea of increasing housing affordability and availability, which is mentioned briefly in the reference talking points. However, the specific policy mentioned (universal affordability preference) is not in the reference talking points, and the approach differs from the parking-focused strategies in the talking points.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            }
+        ],
+        "analysis": "The testimony provided by Gabriel Doherty is only marginally related to the reference talking points. While both the testimony and the talking points support changes to improve housing in New York City, they focus on entirely different aspects of the issue.\n\nThe testimony primarily discusses personal experiences with the difficult housing market and supports a specific policy (universal affordability preference) that would increase affordable housing. It does not mention parking, transportation, climate change, or any of the other main points from the reference talking points.\n\nThe only slight overlap is in the general idea of increasing housing affordability and availability, which is mentioned briefly in the reference talking points but is not their main focus. The approaches suggested to achieve this goal are entirely different between the testimony and the talking points.\n\nGiven this analysis, it appears that the testimony is not closely aligned with the provided reference talking points. While they may be supporting the same overall proposal, the specific arguments and focus areas are quite different.",
+        "similarity": "NOT_ALIGNED"
+    }
+}

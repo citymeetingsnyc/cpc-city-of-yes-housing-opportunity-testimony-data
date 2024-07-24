@@ -1,0 +1,25 @@
+{
+    "testimony": {
+        "name": "Brian Shrout",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/brian-shrout-on-landmark-transfer-mechanism-in",
+        "start_time_in_seconds": 39640.79,
+        "end_time_in_seconds": 39788.418,
+        "for_or_against": "For",
+        "borough": "Manhattan",
+        "neighborhood": "Upper East Side",
+        "stated_affiliations": [],
+        "key_points": [
+            "Support for the Landmark Transfer mechanism in the City of Yes for Housing Opportunity proposal",
+            "Historical context of landmark transfers: only 12 transfers from 1968 to 2015",
+            "Geographical limitation of previous transfers to Midtown and FiDi areas",
+            "Lack of landmark transfers in other parts of Manhattan and outer boroughs",
+            "Need for more flexibility in the landmark transfer mechanism to benefit landmark buildings like churches, synagogues, and museums across the city"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Brian Shrout, is primarily discussing the Landmark Transfer mechanism, which is part of the \"City of Yes for Housing Opportunity\" zoning proposal.\n\n2. He mentions that there have been very few landmark transfers since the mechanism was introduced in 1968 - only 12 transfers in 47 years up to 2015, and possibly a few more since then.\n\n3. The speaker notes that these transfers were geographically confined to Midtown and FiDi (Financial District) due to specific nuances that make it easier to transfer larger amounts in high-density districts.\n\n4. He supports the proposal to provide more flexibility for landmark buildings (churches, synagogues, museums, etc.) to transfer their development rights.\n\n5. The testimony does not directly address any of the reference talking points provided, which are primarily about parking mandates, housing affordability, climate change, and transportation.\n\nGiven this analysis, we can conclude that the testimony is not aligned with the provided reference talking points.",
+        "talking_point_evidence": [],
+        "analysis": "The testimony is not closely related to the reference talking points. The speaker, Brian Shrout, focuses entirely on the Landmark Transfer mechanism, which is not mentioned in the provided talking points. The reference talking points primarily discuss parking mandates, housing affordability, climate change, and transportation issues. There is no overlap between the content of the testimony and the reference talking points.\n\nWhile both the testimony and the talking points relate to urban planning and zoning, they address completely different aspects of these broad topics. The speaker is advocating for a specific change in landmark transfer rules, while the talking points focus on parking and its effects on housing, climate, and urban life.\n\nGiven this complete lack of alignment between the testimony and the reference talking points, it's clear that the speaker is not using or referencing the provided talking points in any way.",
+        "similarity": "NOT_ALIGNED"
+    }
+}
