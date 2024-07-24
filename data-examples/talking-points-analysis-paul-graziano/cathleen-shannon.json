@@ -1,0 +1,47 @@
+{
+    "testimony": {
+        "name": "Cathleen Shannon",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/cathleen-shannon-from-a-better-college-point-civic",
+        "start_time_in_seconds": 37802.516,
+        "end_time_in_seconds": 38001.234,
+        "for_or_against": "Against",
+        "borough": "Queens",
+        "neighborhood": "College Point",
+        "stated_affiliations": [
+            "A Better College Point Civic Association"
+        ],
+        "key_points": [
+            "The area is already overpopulated",
+            "Against building that doesn't make sense",
+            "Concerns about losing mandated parking",
+            "Limited transportation options in the area",
+            "Safety concerns on subways",
+            "Schools and public spaces are already overcrowded",
+            "Lack of enforcement of current laws",
+            "Insufficient infrastructure and public services (police, teachers, inspectors)",
+            "Request to alter the plan"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step and compare it with the reference talking points:\n\n1. The speaker, Cathleen Shannon, is against the \"City of Yes\" proposal.\n2. She mentions overpopulation concerns, which aligns with the reference talking point about population decline and existing zoning capacity.\n3. She expresses concerns about losing mandated parking, which directly relates to the talking point about removing parking requirements.\n4. The speaker mentions overcrowding in schools and public spaces, which aligns with the infrastructure concerns in the talking points.\n5. She talks about the lack of enforcement of current laws and insufficient public services, which indirectly relates to the environmental and infrastructure concerns mentioned in the talking points.\n6. The testimony doesn't explicitly mention changes to neighborhood character, loss of local control, or the public engagement process, which are prominent in the reference talking points.\n7. While the speaker acknowledges a housing shortage, she suggests there are other solutions, which partially aligns with the talking point about misleading claims of housing shortage.\n\nOverall, the testimony shares some similarities with the reference talking points but doesn't cover all the points and isn't as strongly aligned as the talking points themselves.",
+        "talking_point_evidence": [
+            {
+                "quote": "We have we're also against the we're not against building. That's not what we're against. We're against we're we're against building that doesn't make sense. We understand that there's a how housing shortage, and we do obviously don't wanna see people living in tents and stuff like that. But I feel like there are a lot of other solutions that everybody's just ignoring and trying to push this thing through.",
+                "analysis": "This quote partially aligns with the talking point about misleading claims of housing shortage. While the speaker acknowledges a housing shortage, she suggests there are other solutions, which is similar to the talking point's stance that existing zoning can accommodate more people.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "I think if you lose the mandated parking, it's gonna create even more problems. There'll be traffic keep I mean, in our area, we need a car. They were our neighbor our properties will become less desirable.",
+                "analysis": "This quote directly relates to the talking point about removing parking requirements to increase developer profits. The speaker expresses concern about losing mandated parking, which is an identical point to the reference talking point.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "I also feel like our schools, our public spaces, everything is already overcrowded. And we don't there's no enforcement of the current laws.",
+                "analysis": "This quote supports the talking point about environmental and infrastructure concerns. While it doesn't mention specific issues like sewers or flooding, it does highlight concerns about overcrowding in schools and public spaces, which aligns with the general infrastructure concerns in the talking points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows some alignment with the reference talking points, but it doesn't cover all the points and isn't as strongly worded or detailed. The speaker shares concerns about parking, overcrowding, and skepticism about the necessity of the proposed changes, which align with some of the reference talking points. However, the testimony doesn't mention key issues like changes to neighborhood character, loss of local control, or criticisms of the public engagement process. The language used is also less formal and doesn't appear to be directly quoting or closely paraphrasing the reference talking points. While there are similarities, it's not a high level of alignment that would suggest the speaker is directly using the reference talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

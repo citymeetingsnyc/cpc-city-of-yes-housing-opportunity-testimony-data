@@ -28,12 +28,24 @@ Your job is to cross reference the testimony with the reference talking points a
 """
 
 
-class TalkingPointQuote(BaseModel):
-    text: str = Field(
-        description="A quote from the testimony that is similar to a reference talking point."
+class TalkingPointEvidence(BaseModel):
+    """Evidence of a talking point being referenced in the testimony."""
+
+    quote: str = Field(
+        description="A quote from the testimony that relates directly to a reference talking point. It must support at least one reference talking point directly."
     )
-    reasoning: str = Field(
-        description="Your reasoning for how the quote is similar to the reference talking point."
+    analysis: str = Field(
+        description="""Your analysis of how closely the quote relates to the reference talking point. You must classify the quote as one of the following:
+
+        - IDENTICAL_POINT: The quote makes an identical claim or argument to a talking point. The language does not need to be exactly the same, but the claim or argument must be the same to classify it as "IDENTICAL_POINT".
+        - SUPPORTS_POINT: The quote supports the reference talking point, even though the claim or argument is not the same.
+        - TENUOUS_LINK: There may be a link between the quote and the reference talking point, but it is tenuous at best.
+        """
+    )
+    closeness_to_reference_talking_point: Literal[
+        "IDENTICAL_POINT", "SUPPORTS_POINT", "TENUOUS_LINK"
+    ] = Field(
+        description="""The closeness between the quote and the reference talking point, based on the analysis."""
     )
 
 
@@ -41,33 +53,25 @@ class TalkingPointsCrossReferenceAnalysis(BaseModel):
     chain_of_thought: str = Field(
         description="Think step by step about how the testimony is similar to the reference talking points."
     )
-    quotes: List[TalkingPointQuote] = Field(
+    talking_point_evidence: List[TalkingPointEvidence] = Field(
         description="A list of quotes from the testimony that are similar to the reference talking points. This should be empty if there are none."
     )
     analysis: str = Field(
         description="""An analysis of how closely the testimony is related to the reference talking points.
 
-        In particular, try to discern if the testimony is:
+        You must classify the testimony as one of the following:
 
-        - HIGH_SIMILARITY_TO_TALKING_POINTS: The testimony is largely referencing similar language, quotes, claims, and arguments. It is plausible that the person may be using the reference talking points.
-
-        - SUPPORTING_TALKING_POINTS: The testimony is similar in spirit and supporting the talking points. But the testimony is not largely referencing similar language, quotes, claims, and arguments.
-
-        - IN_OPPOSITION: In direct opposition to reference talking points, in that there are claims and arguments that are opposed to specific points made in the reference talking points.
-
-        - NOT_SIMILAR: Not similar to the reference talking points because it does not address any of the specific issues raised in the talking points.
-
-        If a testimony is in opposition to the overall City of Yes for Housing Opportunity proposal, but the testimony is not directly opposing specific points made in the reference talking points, then you should classify it as "not similar".
+        - HIGH_ALIGNMENT: The testimony is very closely related to the reference talking points, often making the exact same claims and arguments. The language may be similar and it is plausible that the person is using the reference talking points in their testimony.
+        - SUPPORTS_TALKING_POINTS: The testimony is supporting the same claims and arguments as the talking points, but it does not make the same ones or use very similar language.
+        - NOT_ALIGNED: The testimony is not closely related to the reference talking points.
         """
     )
     similarity: Literal[
-        "HIGH_SIMILARITY_TO_TALKING_POINTS",
-        "SUPPORTING_TALKING_POINTS",
-        "NOT_SIMILAR",
-        "IN_OPPOSITION",
+        "HIGH_ALIGNMENT",
+        "SUPPORTS_TALKING_POINTS",
+        "NOT_ALIGNED",
     ] = Field(
-        description="""The level of similarity between the testimony and the reference talking points, given your analysis.
-        """
+        description="""The level of similarity between the testimony and the reference talking points, given your analysis."""
     )
 
 
@@ -126,11 +130,12 @@ TESTIMONIES_TEMPLATE = """
 - **Borough:** {% if testimony.testimony.borough != "Unknown" %}{{ testimony.testimony.borough }}{% else %}-{% endif %}
 - **Neighborhood:** {% if testimony.testimony.neighborhood != "Unknown" %}{{ testimony.testimony.neighborhood }}{% else %}-{% endif %}
 ### Quotes
-{% if testimony.extracted_data.quotes %}
-{% for quote in testimony.extracted_data.quotes %}
-> {{ quote.text }}
+{% if testimony.extracted_data.talking_point_evidence %}
+{% for talking_point_evidence in testimony.extracted_data.talking_point_evidence %}
+> {{ talking_point_evidence.quote }}
 
-{{ quote.reasoning }}
+- **Closeness to Reference Talking Point:** {{ talking_point_evidence.closeness_to_reference_talking_point }}
+- **Analysis:** {{ talking_point_evidence.analysis }}
 {% endfor %}
 {% else %}
 No quotes found.
@@ -151,27 +156,23 @@ REPORT_TEMPLATE = """
 {{ reference_talking_points }}
 ```
 
-# High Similarity To Talking Points
-{{ high_similarity_to_talking_points }}
+# High Alignment
+{{ high_alignment }}
 
-# In Opposition To Talking Points
-{{ in_opposition }}
+# Supports Talking Points
+{{ supports_talking_points }}
 
-# Supporting Talking Points
-{{ supporting_talking_points }}
-
-# Not Similar To Talking Points
-{{ not_similar }}
+# Not Aligned
+{{ not_aligned }}
 """.strip()
 
 
 def generate_report(extracted_data_dir, reference_talking_points_path):
     """Generate a report from the talking points analysis."""
 
-    high_similarity_to_talking_points = []
-    supporting_talking_points = []
-    not_similar = []
-    in_opposition = []
+    high_alignment = []
+    supports_talking_points = []
+    not_aligned = []
 
     for testimony_filename in os.listdir(extracted_data_dir):
         testimony_path = os.path.join(extracted_data_dir, testimony_filename)
@@ -180,17 +181,12 @@ def generate_report(extracted_data_dir, reference_talking_points_path):
             if "extracted_data" not in testimony:
                 continue
 
-        if (
-            testimony["extracted_data"]["similarity"]
-            == "HIGH_SIMILARITY_TO_TALKING_POINTS"
-        ):
-            high_similarity_to_talking_points.append(testimony)
-        elif testimony["extracted_data"]["similarity"] == "SUPPORTING_TALKING_POINTS":
-            supporting_talking_points.append(testimony)
-        elif testimony["extracted_data"]["similarity"] == "NOT_SIMILAR":
-            not_similar.append(testimony)
-        elif testimony["extracted_data"]["similarity"] == "IN_OPPOSITION":
-            in_opposition.append(testimony)
+        if testimony["extracted_data"]["similarity"] == "HIGH_ALIGNMENT":
+            high_alignment.append(testimony)
+        elif testimony["extracted_data"]["similarity"] == "SUPPORTS_TALKING_POINTS":
+            supports_talking_points.append(testimony)
+        elif testimony["extracted_data"]["similarity"] == "NOT_ALIGNED":
+            not_aligned.append(testimony)
 
     with open(reference_talking_points_path, "r") as f:
         reference_talking_points = f.read()
@@ -198,31 +194,25 @@ def generate_report(extracted_data_dir, reference_talking_points_path):
     template = Environment().from_string(REPORT_TEMPLATE)
 
     overview = f"""
-There were {len(high_similarity_to_talking_points)} testimonies with high alignment to the reference talking points -- largely similar language, quotes, claims, and arguments.
+There were {len(high_alignment)} testimonies with high alignment to the reference talking points -- largely similar language, quotes, claims, and arguments.
 
-There were {len(in_opposition)} testimonies that were in direct opposition to the reference talking points.
+There were {len(supports_talking_points)} testimonies that were supporting the reference talking points. These were similar in spirit to the reference talking points.
 
-There were {len(supporting_talking_points)} testimonies that were supporting the reference talking points. These were similar in spirit to the reference talking points.
-
-There were {len(not_similar)} testimonies that were not similar to the reference talking points. These did not address any of the specific issues raised in them.
+There were {len(not_aligned)} testimonies that were not aligned to the reference talking points. These did not address any of the specific issues raised in them.
 """.strip()
 
     table_of_contents = f"""
 - [Reference Talking Points](#reference-talking-points)
-- [High Similarity To Talking Points](#high-similarity-to-talking-points) ({len(high_similarity_to_talking_points)} testimonies)
-- [In Opposition To Talking Points](#in-opposition-to-talking-points) ({len(in_opposition)} testimonies)
-- [Supporting Talking Points](#supporting-talking-points) ({len(supporting_talking_points)} testimonies)
-- [Not Similar To Talking Points](#not-similar-to-talking-points) ({len(not_similar)} testimonies)
+- [High Alignment](#high-alignment) ({len(high_alignment)} testimonies)
+- [Supports Talking Points](#supports-talking-points) ({len(supports_talking_points)} testimonies)
+- [Not Aligned](#not-aligned) ({len(not_aligned)} testimonies)
 """.strip()
 
     rendered_report = template.render(
         reference_talking_points=reference_talking_points,
-        high_similarity_to_talking_points=render_testimonies(
-            high_similarity_to_talking_points
-        ),
-        supporting_talking_points=render_testimonies(supporting_talking_points),
-        not_similar=render_testimonies(not_similar),
-        in_opposition=render_testimonies(in_opposition),
+        high_alignment=render_testimonies(high_alignment),
+        supports_talking_points=render_testimonies(supports_talking_points),
+        not_aligned=render_testimonies(not_aligned),
         table_of_contents=table_of_contents,
         overview=overview,
     )

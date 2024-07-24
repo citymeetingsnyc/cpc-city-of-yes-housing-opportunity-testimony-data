@@ -1,0 +1,50 @@
+{
+    "testimony": {
+        "name": "Joel Siegel",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/joel-siegel-on-city-of-yes-zoning-changes-in",
+        "start_time_in_seconds": 30049.434,
+        "end_time_in_seconds": 30253.137,
+        "for_or_against": "Against",
+        "borough": "Brooklyn",
+        "neighborhood": "Victorian Flatbush",
+        "stated_affiliations": [
+            "Brooklyn Community Board 14"
+        ],
+        "key_points": [
+            "Residents of Victorian Flatbush feel blindsided by the proposed changes",
+            "Lack of proper communication and community engagement from the city",
+            "Previous successful rezoning in 2009 resulted from good faith collaboration with city planning",
+            "Current proposal is seen as unnecessary and destructive to the neighborhood",
+            "Willingness to work with city planners to create housing while preserving neighborhood character",
+            "Challenge to city planners to visit Victorian Flatbush and engage with community leaders",
+            "Offer to upzone and create housing units in a way that preserves the neighborhood"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step in relation to the reference talking points:\n\n1. The testimony mentions feeling \"blindsided\" and that residents are \"scared and angry\" about the proposed changes. This aligns with the reference point about questionable public engagement process.\n\n2. The speaker emphasizes the lack of communication from the city, saying \"there was no flyer about these drastic changes in lifestyle.\" This directly supports the talking point about limited outreach to communities.\n\n3. The testimony discusses the 2009 Flatbush rezoning, which involved community engagement and preserved the character of Victorian Flatbush while allowing for development. This contrasts with the current proposal, supporting the talking point about loss of local control over development.\n\n4. The speaker mentions \"transit oriented development district fixes and ancillary structures\" as part of the \"City of Yes\" plan, which he sees as a \"kick in the teeth.\" This aligns with the talking point about dramatic changes to neighborhood character.\n\n5. The testimony strongly emphasizes the need for community engagement and working with local leaders, which directly relates to the talking point about questionable public engagement process.\n\n6. The speaker offers to work with city planners to create housing units while preserving the character of Victorian Flatbush. This indirectly challenges the talking point about low-density neighborhoods being unfairly targeted.\n\nWhile the testimony doesn't explicitly mention all the reference talking points, it strongly aligns with several key points, particularly regarding public engagement, neighborhood character, and local control over development.",
+        "talking_point_evidence": [
+            {
+                "quote": "I've heard you say that you think the process was proper here, but the residents of the Victorian Flatbush feel they're being blindsided. The residents are scared and they're angry.",
+                "analysis": "This quote directly supports the reference talking point about questionable public engagement process. It highlights the lack of proper communication and community involvement, leading to residents feeling blindsided and upset.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "City sends around flyers for all sorts of things, recycling, voting this and that, there was no flyer about these drastic changes in lifestyle.",
+                "analysis": "This quote is very closely related to the reference talking point about limited outreach to communities. It directly criticizes the lack of communication about significant zoning changes, which is a key point in the reference talking points.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "The city of yes is a kick in the teeth to my neighbors and I'm talking about transit oriented development district fixes and ancillary structures.",
+                "analysis": "This quote relates to the reference talking point about dramatic changes to neighborhood character. While it doesn't use the exact same language, it expresses strong opposition to specific aspects of the proposal that would change the neighborhood.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "If the DCP had done the hard work engagement, that we did in 2009 before this plan was solved, you wouldn't have this. There is no need to destroy neighborhoods to build housing.",
+                "analysis": "This quote strongly supports the reference talking point about questionable public engagement process. It directly contrasts the current process with a previous, more engaged process, and implies that the current proposal is destructive to neighborhoods.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows a significant alignment with several key reference talking points, particularly those related to public engagement, neighborhood character, and local control over development. The speaker's emphasis on the lack of community involvement and communication from the city strongly echoes the reference points about questionable public engagement and limited outreach. \n\nThe testimony also touches on concerns about dramatic changes to neighborhood character, which is a prominent theme in the reference talking points. While the speaker doesn't use the exact same language or examples as the reference points, the underlying concern about preserving neighborhood character is clearly present.\n\nHowever, it's worth noting that the testimony doesn't cover all the reference talking points. For example, it doesn't mention claims about housing shortage being misleading, environmental concerns, or specific criticisms about favoring developers. The speaker also offers a more collaborative approach, suggesting that the community would be willing to work with city planners to create housing units while preserving neighborhood character.\n\nGiven the strong alignment on key points and the speaker's clear opposition to the current proposal based on similar reasoning to the reference talking points, I would classify this testimony as SUPPORTS_TALKING_POINTS. While it doesn't cover all points and uses somewhat different language, it fundamentally aligns with several core arguments present in the reference talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

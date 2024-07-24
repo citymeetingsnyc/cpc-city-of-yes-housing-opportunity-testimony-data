@@ -1,0 +1,56 @@
+{
+    "testimony": {
+        "name": "Vito Labella",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/vito-labella-senate-candidate-for-brooklyns-26th",
+        "start_time_in_seconds": 28521.064,
+        "end_time_in_seconds": 28703.178,
+        "for_or_against": "Against",
+        "borough": "Brooklyn",
+        "neighborhood": "Bay Ridge",
+        "stated_affiliations": [
+            "Political Campaign for Brooklyn's 26th District Senate Seat"
+        ],
+        "key_points": [
+            "35 community boards voted against the proposal",
+            "Opposition to the proposal is not based on racism",
+            "Transit opportunity districts will negatively impact single and 2-family homes",
+            "Special zoning should be maintained unless community boards and city council members vote otherwise",
+            "More community engagement and consensus-building is needed",
+            "Suggests a compromise on zoning for commercial strips while protecting single and 2-family zoning",
+            "Lack of infrastructure improvements in the proposal",
+            "Calls for rejection of the City of Yes proposal in its current form"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "To analyze the similarity between the testimony and the reference talking points, I'll compare the main arguments and themes:\n\n1. Neighborhood character: The testimony mentions protecting the character of neighborhoods, which aligns with the reference talking points.\n\n2. Community opposition: The testimony emphasizes that 35 community boards voted against the proposal, which relates to the talking point about loss of local control.\n\n3. Zoning changes: The testimony discusses concerns about zoning changes in single and 2-family home areas, which aligns with the talking point about low-density neighborhoods being targeted.\n\n4. Infrastructure concerns: The testimony mentions the need for infrastructure improvements, which is similar to the environmental and infrastructure concerns in the talking points.\n\n5. Developer interests: While not as explicit, the testimony implies that the proposal favors developers, which aligns with the talking point about proposals favoring developers over existing residents.\n\n6. Public engagement: The testimony suggests more community engagement is needed, which relates to the talking point about questionable public engagement process.\n\nWhile there are similarities, the testimony doesn't cover all the points in the reference talking points and uses different language and examples. The alignment is significant but not identical.",
+        "talking_point_evidence": [
+            {
+                "quote": "Just because this body has the power to approve this, it doesn't mean you have the moral right to do so.",
+                "analysis": "This quote implies that the proposal favors those in power (potentially developers) over existing residents, which is similar to the talking point about proposals favoring developers over existing residents.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "No. It is not true that when a person says they want to keep the character of a neighborhood the same it's a dog whistle for anything except over development.",
+                "analysis": "This quote directly addresses the issue of neighborhood character, which is a key point in the reference talking points. It supports the idea that concerns about neighborhood character are legitimate and not racially motivated.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "4600 feet from a subway station will carve out thousands of single and 2 family homes and make them targets for developers who will buy adjacent homes and properties combine them to meet the five thousand square foot threshold and build apartment buildings there that are currently not not allowed under the prison zone.",
+                "analysis": "This quote discusses the impact on low-density neighborhoods, which is very similar to the reference talking point about low-density neighborhoods being unfairly targeted.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Please go back to the communities. Work with the residents on what they want for their neighborhoods.",
+                "analysis": "This quote suggests a need for more community engagement, which relates to the talking point about questionable public engagement process.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "And none of your presentations, the slides that you presented to the community boards spoke to the needed infrastructure improvements.",
+                "analysis": "This quote directly addresses the concern about infrastructure, which is mentioned in the reference talking points under environmental and infrastructure concerns.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            }
+        ],
+        "analysis": "The testimony shows significant alignment with several of the reference talking points, although it doesn't cover all of them and uses different language and examples. The speaker addresses concerns about neighborhood character, community opposition, zoning changes affecting low-density areas, infrastructure issues, and the need for more community engagement. These themes closely relate to multiple points in the reference talking points.\n\nHowever, the testimony doesn't mention some key points from the reference talking points, such as claims about housing shortage being misleading, specific statistics about NYC population changes, or detailed concerns about the loss of local control over development. The language used is also different, focusing more on the speaker's personal perspective and specific examples from their community.\n\nWhile there is clear alignment on several major themes, the testimony doesn't appear to be directly based on or fully reproducing the reference talking points. It seems more like an independently formulated argument that happens to share several concerns with the reference talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

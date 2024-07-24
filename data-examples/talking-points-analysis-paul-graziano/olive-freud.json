@@ -1,0 +1,47 @@
+{
+    "testimony": {
+        "name": "Olive Freud",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/olive-freud-president-of-the-committee-for",
+        "start_time_in_seconds": 16006.036,
+        "end_time_in_seconds": 16194.06,
+        "for_or_against": "Against",
+        "borough": "Manhattan",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Committee for Environmentally Sound Development"
+        ],
+        "key_points": [
+            "Concerned about global warming and its impact on city planning",
+            "Opposes increased density and congestion in Manhattan",
+            "Criticizes the lack of mandated affordable housing in the plan",
+            "Worried about loss of open space, light, and air in the city",
+            "Objects to reduced distances between buildings and potential infill development",
+            "Concerns about the reduction of public input and City Council involvement in decision-making",
+            "Argues that Manhattan is already the densest borough and shouldn't be made denser",
+            "Criticizes the reliance on developers for affordable housing",
+            "Emphasizes the importance of preserving existing affordable housing"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step and compare it with the reference talking points:\n\n1. The testimony focuses on environmental concerns, quality of life, and density issues in New York City, particularly Manhattan.\n\n2. The speaker expresses concern about global warming, which aligns with the environmental concerns mentioned in the reference talking points.\n\n3. The testimony discusses the threat of increased density, congestion, and shadows, which relates to the talking point about changing neighborhood character and enabling much denser development.\n\n4. The speaker mentions the reduction of open space and mandatory distances between buildings, which aligns with the environmental concerns in the talking points.\n\n5. The testimony criticizes the lack of mandated affordable housing, which doesn't directly align with any of the reference talking points but touches on housing issues.\n\n6. The speaker mentions the reduction of public approval processes and giving more power to the City Planning Commission, which aligns closely with the talking point about loss of local control over development.\n\n7. The testimony expresses concern about the mayor's pro-development stance, which relates to the talking point about proposals favoring developers over existing residents.\n\nWhile there are some similarities, the testimony doesn't cover all the points mentioned in the reference talking points, and it focuses more on environmental and density concerns specific to Manhattan.",
+        "talking_point_evidence": [
+            {
+                "quote": "This is an increase in density congestion, shadows of a overcapacity use of use of infrastructure.",
+                "analysis": "This quote supports the reference talking point about enabling much denser development in neighborhoods and changing neighborhood character. It also touches on infrastructure concerns mentioned in the talking points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Juler approval, which involves the city council and a required public hearing, would be eviscerated. Koi, a lot of major decisions about the future of New York City. To be made by 13 people in the city planning commission.",
+                "analysis": "This quote directly supports the reference talking point about the loss of local control over development and giving more power to the City Planning Commission. It's very close to the sentiment expressed in the talking points.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "The council of the mayor has shown himself to be pro development, not concerned what what he applied for those of us live here.",
+                "analysis": "This quote supports the talking point about proposals favoring developers over existing residents. While not identical, it expresses a similar sentiment about prioritizing development over residents' concerns.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows some alignment with the reference talking points, particularly in areas of environmental concerns, increased density, and loss of local control over development. However, it doesn't cover all the points mentioned in the reference talking points and focuses more on specific concerns related to Manhattan's density and environmental issues. The testimony supports some of the key arguments made in the talking points, but it doesn't appear to be directly based on them or use very similar language throughout. Therefore, while there is some alignment, it's not a high level of similarity across all points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

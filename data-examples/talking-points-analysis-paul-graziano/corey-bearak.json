@@ -1,0 +1,46 @@
+{
+    "testimony": {
+        "name": "Corey Bearak",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/corey-bearak-chair-of-community-board-13-land-use",
+        "start_time_in_seconds": 45648.336,
+        "end_time_in_seconds": 45856.64,
+        "for_or_against": "Against",
+        "borough": "Queens",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Queens Community Board 13",
+            "Vision Long Island"
+        ],
+        "key_points": [
+            "Community Board 13 unanimously adopted a resolution recommending rejection of City of Yes for Housing Opportunity",
+            "The proposal would remove traditional community board, borough president, and city council review of uses not permitted under existing zoning",
+            "Charter-mandated community review protects neighborhoods from adverse impacts",
+            "The city should provide tools and resources to community boards to identify appropriate parcels for beneficial local development",
+            "The 'as of right' features would weaken or render useless the Charter-mandated community review provisions",
+            "Suggests implementing tools through a community review process on a case-by-case basis instead of citywide",
+            "Advocates for community-based collaborations for affordable housing and senior housing, similar to Long Island's smart growth initiatives"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Corey Bearak, represents Community Board 13 in Queens.\n2. He states that their board unanimously voted to reject the provisions of City of Yes for Housing Opportunity.\n3. Main concerns:\n   a. Removal of traditional community board, borough president, and city council review for uses not permitted under existing zoning.\n   b. Weakening of charter-mandated community review, which protects neighborhoods from adverse impacts.\n4. He argues for providing tools and resources to community boards to identify parcels suitable for beneficial local development.\n5. Bearak mentions successful community-based collaborations on Long Island for affordable and senior housing.\n6. He suggests implementing City of Yes tools through a community review process, rather than citywide.\n\nNow, let's compare this to the reference talking points:\n\n1. There's alignment on the concern about loss of local control over development.\n2. Both the testimony and talking points mention the removal of community review for certain projects.\n3. The testimony doesn't directly address character changes, population statistics, or environmental concerns mentioned in the talking points.\n4. While the talking points frame the issue as favoring developers, the testimony focuses more on the need for community involvement.\n5. The testimony doesn't use the same strong language against the proposal as the talking points do.\n\nOverall, while there are some similarities, the testimony is not as strongly aligned with the reference talking points as it could be.",
+        "talking_point_evidence": [
+            {
+                "quote": "Each of the provisions of City of Yes for Housing Opportunity would remove traditional New York City Charter mandated community board, co president and city council review of use is not permitted under existing zoning and land use provisions",
+                "analysis": "This quote directly relates to the talking point about loss of local control over development. It highlights the removal of community board input, which is a key concern in the reference talking points.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "Charter mandated community review protects neighborhoods and adverse, and unplanned and unanticipated impacts before new development can occur.",
+                "analysis": "This quote supports the talking point about loss of local control and the importance of community input. While not using the exact same language, it emphasizes the protective role of community review, which aligns with the concerns expressed in the talking points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "The as of right features because you're changing the rules to allow something that's not allowed now of each of the provisions of city of yes. Would weaken if that rendered totally useless. That was Charter mandated community review provisions.",
+                "analysis": "This quote relates to the talking point about loss of local control and the concept of 'as-of-right' development. While the language is different, the concern about weakening community review aligns with the talking points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows some alignment with the reference talking points, particularly regarding the loss of local control over development and the importance of community review. However, it doesn't cover many of the other key points mentioned in the reference talking points, such as neighborhood character changes, population statistics, or environmental concerns. \n\nThe speaker, while opposing the City of Yes for Housing Opportunity, focuses more on the need for community involvement and resources for community boards rather than outright rejecting the ideas behind the proposal. The tone is less confrontational and more focused on finding alternative solutions that involve community input.\n\nWhile there are areas of overlap, the testimony doesn't use the same strong language or cover the breadth of arguments presented in the reference talking points. It appears to be independently formulated opposition rather than a direct repetition of the provided talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

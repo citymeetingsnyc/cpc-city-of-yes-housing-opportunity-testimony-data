@@ -1,0 +1,49 @@
+{
+    "testimony": {
+        "name": "Jody Corry",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/jody-corry-resident-of-glendale-queens-on",
+        "start_time_in_seconds": 21926.844,
+        "end_time_in_seconds": 22101.406,
+        "for_or_against": "Against",
+        "borough": "Queens",
+        "neighborhood": "Glendale",
+        "stated_affiliations": [],
+        "key_points": [
+            "The City of Yes initiative is wrong and will hurt innocent people",
+            "Glendale is a beautiful middle-class community with a strong sense of community",
+            "The quality of life in the neighborhood has been declining",
+            "The initiative will lead to overcrowding, loss of neighborhood character, and infrastructure problems",
+            "The city should focus on converting empty office buildings in Manhattan into apartments instead",
+            "The initiative is an assault on homeowners who have worked hard for their homes",
+            "The proposal is not equitable and will disrupt the lives of millions of people",
+            "Concerns about increased crime and safety issues in the neighborhood"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Jody Corry, is strongly against the \"City of Yes\" proposal.\n2. She emphasizes the character of her neighborhood (Glendale, Queens), describing it as a beautiful middle-class community with tree-lined streets and century-old homes.\n3. Corry mentions declining quality of life and safety concerns, linking it to illegal immigration.\n4. She expresses fear that the zoning amendment will lead to overcrowding, loss of parking, increased crime, and infrastructure strain.\n5. Corry suggests converting empty Manhattan office spaces into apartments as an alternative solution.\n6. She feels the proposal is unfair to existing residents who have worked hard for their homes.\n\nNow, let's compare these points to the reference talking points:\n\n1. There's a strong alignment with concerns about changing neighborhood character.\n2. Corry doesn't directly mention commercial uses in residential areas, but she does mention fears of stores on each corner.\n3. She expresses concern about denser development in her low-density neighborhood.\n4. Corry doesn't discuss population decline or existing zoning capacity.\n5. While not explicitly mentioning developers, her concerns align with the idea that the proposal favors new development over existing residents.\n6. Her testimony strongly aligns with the point about low-density neighborhoods being unfairly targeted.\n7. She doesn't directly mention loss of local control, but her overall sentiment suggests she feels powerless against the changes.\n8. Corry raises environmental and infrastructure concerns, particularly about flooding and overcrowded schools.\n9. She doesn't discuss the public engagement process.\n\nOverall, there is significant alignment between Corry's testimony and the reference talking points, particularly regarding neighborhood character, density concerns, and infrastructure issues.",
+        "talking_point_evidence": [
+            {
+                "quote": "Our neighborhoods don't want this. I lived in Forest Hills Regal Park Area my whole life. I scrimped and I saved for many, many years. 9 years ago, my husband and I bought a house in Glendale. We have a happy home with 3 beautiful children and 2 dogs and are living the American dream.",
+                "analysis": "This quote strongly aligns with the talking point about low-density neighborhoods being unfairly targeted. It emphasizes the speaker's personal investment in her neighborhood and her perception of achieving the 'American dream' through homeownership.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "My once quiet beautiful neighborhood will become filled with apartment buildings, rented out basements, rented out garages, stores on each corner, super overcrowded schools, nowhere to park, It will become dirty, filthy, riddled with crime, just like everywhere else this was trying.",
+                "analysis": "This quote directly relates to the talking point about proposals dramatically changing neighborhood character. It expresses fears about increased density, commercial uses in residential areas, and overall negative changes to the neighborhood.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "Our hundred year old infrastructure cannot handle this. We already have flooding. Due to streams underneath our homes, lighting will only get worse due to the loss of green space, and these communities are going to get hurt financially by these changes.",
+                "analysis": "This quote closely aligns with the talking point about environmental and infrastructure concerns. It specifically mentions flooding risks and loss of green space, which are directly mentioned in the reference talking points.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "We all know that office buildings in Manhattan are practically empty. And are never going to be full again due to remote work. Invent, convert the empty office space into apartments. You can create many, many new wonderful homes. Wouldn't that be a practical solution without disrupting lives of millions of people?",
+                "analysis": "While this quote doesn't directly match a specific talking point, it supports the overall narrative that the proposed changes are unnecessary and that there are better alternatives. It indirectly supports the point about claims of housing shortage being misleading by suggesting an alternative solution.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony by Jody Corry is closely related to the reference talking points, often making similar claims and arguments. While the exact language differs, the core concerns and sentiments expressed in the testimony strongly align with many of the key points in the reference talking points.\n\nThe testimony particularly emphasizes concerns about changing neighborhood character, increased density in low-density areas, and environmental and infrastructure issues. These are all prominent themes in the reference talking points. The speaker's personal narrative about achieving homeownership and fearing its loss due to the proposed changes closely aligns with the talking point about low-density neighborhoods being unfairly targeted.\n\nWhile the testimony doesn't touch on every point mentioned in the reference talking points (such as the public engagement process or specific claims about population decline), the overall message and tone are very similar. The speaker's strong opposition to the \"City of Yes\" proposal and her concerns about its impact on existing communities closely mirror the sentiments expressed in the reference talking points.\n\nGiven the significant overlap in themes and arguments, it is plausible that the speaker is familiar with or influenced by the same narratives present in the reference talking points, even if she's not directly quoting them.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}

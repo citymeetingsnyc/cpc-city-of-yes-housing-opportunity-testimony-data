@@ -1,0 +1,62 @@
+{
+    "testimony": {
+        "name": "Elaine Young",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/elaine-young-president-of-west-cunningham-park",
+        "start_time_in_seconds": 34663.207,
+        "end_time_in_seconds": 34851.375,
+        "for_or_against": "Against",
+        "borough": "Queens",
+        "neighborhood": "Fresh Meadows",
+        "stated_affiliations": [
+            "West Cunningham Park Civic Association"
+        ],
+        "key_points": [
+            "Only 17% of New York City is single family homes, yet they are being targeted by this plan",
+            "The plan will decimate communities by overturning existing zoning",
+            "The plan will increase density without supporting infrastructure",
+            "Legalizing basement, attic, and garage apartments won't address affordable housing needs",
+            "Homeowners will likely charge market rates for ADUs, not use them for family members",
+            "Infrastructure (schools, sewers, water, electric utilities) will be overwhelmed",
+            "Parking will become impossible, especially with the elimination of parking mandates",
+            "The plan doesn't consider the needs of areas with poor public transportation",
+            "Most civics in the area and 12 of 14 community boards in Queens are against this plan"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Elaine Young, represents a civic association in Queens.\n2. She mentions that only 17% of NYC is single-family homes, which is close to the 15% mentioned in the reference talking points.\n3. She criticizes the \"one size fits all approach\" and feels targeted, which aligns with the talking point about low-density neighborhoods being unfairly targeted.\n4. The speaker mentions \"decimate our communities\" and \"overturning all of the zoning\", which echoes the talking point about dramatically changing neighborhood character.\n5. She discusses infrastructure concerns, including schools, sewers, water, and electric utilities, which aligns with the environmental and infrastructure concerns in the talking points.\n6. The testimony mentions parking issues, which relates to the talking point about removing parking requirements to favor developers.\n7. The speaker criticizes the plan for not addressing affordable housing, which doesn't directly align with any specific talking point but goes against the general premise of the proposal.\n8. She mentions that 12 of 14 community boards in Queens are against the proposal, which relates to the talking point about loss of local control over development.\n\nOverall, the testimony shows significant alignment with several of the reference talking points, particularly regarding neighborhood character changes, infrastructure concerns, and the targeting of low-density areas.",
+        "talking_point_evidence": [
+            {
+                "quote": "I would like to begin by pointing out that only 17% of New York City is single family homes. Yet we are part of this one size fits all approach. In fact, It seems we are being targeted and attacked for what we are.",
+                "analysis": "This quote closely aligns with the reference talking point about low-density neighborhoods being unfairly targeted. The speaker's statistic (17%) is very close to the talking point's claim of 15% of NYC being zoned for single-family homes.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "The city of B.S. Is an ill conceived plan that will decimate our communities overturning all of the zoning that we work so hard to have in place and that maintains a character of the neighborhoods and works with our infrastructure.",
+                "analysis": "This quote supports the talking point about dramatically changing neighborhood character. While the language is different, the sentiment is very similar to the reference talking point.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "The CDBS would allow a large increase in the intensity with 0 infrastructure to support it. It would create living spaces that would do nothing to address the lack of affordable housing such as legalizing basement attic and garage apartments.",
+                "analysis": "This quote relates to the environmental and infrastructure concerns mentioned in the talking points. It also touches on the idea that the proposals might not effectively address housing issues, though this is not directly stated in the reference talking points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "The infrastructure will be stressed to the max. There will be not enough space in schools which are already overcrowded. Sewer, water, and electric utilities will all be overwhelmed.",
+                "analysis": "This quote directly supports the talking point about environmental and infrastructure concerns, mentioning specific issues like schools, sewers, and utilities.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "And speaking of parking, to eliminate the parking mandate citywide is another example of the one size fits all approach that does not work for everywhere.",
+                "analysis": "This quote relates to the talking point about removing parking requirements to increase developer profits, though the speaker frames it more as a concern for residents rather than developer profit.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "So to reiterate, almost every civic in our area is against this, 12 of 14 community boards in Queens are against this. It's high time for the city of New York to listen to its residents.",
+                "analysis": "This quote supports the talking point about loss of local control over development, emphasizing community opposition to the proposal.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony by Elaine Young shows a high degree of alignment with the reference talking points. While the speaker doesn't use identical language, she touches on many of the same concerns and arguments presented in the talking points. Key areas of alignment include:\n\n1. Concern about changes to neighborhood character\n2. Criticism of a \"one size fits all\" approach\n3. Belief that low-density neighborhoods are being unfairly targeted\n4. Worries about infrastructure and environmental impacts\n5. Opposition to removing parking requirements\n6. Emphasis on community board opposition to the proposal\n\nThe speaker also brings up some points not directly mentioned in the reference talking points, such as specific concerns about ADUs (Accessory Dwelling Units) and the potential for homeowners to exploit these for profit rather than family use. However, these additional points generally support the overall narrative present in the reference talking points.\n\nWhile the testimony doesn't cover all the points in the reference list (e.g., it doesn't discuss population decline or the public engagement process), it strongly aligns with several key arguments and presents a similar overall perspective on the proposed changes.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}

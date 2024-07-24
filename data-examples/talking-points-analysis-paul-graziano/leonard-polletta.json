@@ -1,0 +1,42 @@
+{
+    "testimony": {
+        "name": "Leonard Polletta",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/leonard-polletta-on-city-of-yes-for-housing",
+        "start_time_in_seconds": 46512.48,
+        "end_time_in_seconds": 46695.633,
+        "for_or_against": "Against",
+        "borough": "Manhattan",
+        "neighborhood": "Chelsea",
+        "stated_affiliations": [
+            "Penn South"
+        ],
+        "key_points": [
+            "City of Yes will not provide low-income affordable housing",
+            "Comprehensive nature and one-size-fits-all approach is wrong",
+            "Lack of mandatory affordability requirements",
+            "No provisions for building amenities and infrastructure",
+            "Will exacerbate economic and racial segregation",
+            "City should focus on building more public housing and infrastructure",
+            "Rehabilitate vacant apartments in NYCHA and warehoused units",
+            "Stronger rent control laws and enforcement needed",
+            "Current proposal favors developers over affordable housing needs"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Leonard Polletta, is a resident of Chelsea, Manhattan, and a co-op owner.\n2. He opposes the \"City of Yes for Housing Opportunity\" proposal.\n3. His main arguments are:\n   a. The proposal won't provide low-income affordable housing.\n   b. The comprehensive, one-size-fits-all approach is wrong.\n   c. Lack of mandatory affordability requirements is a \"fatal capitulation to developers.\"\n   d. There are no provisions for building amenities and infrastructure.\n   e. The proposal may exacerbate economic and racial segregation.\n   f. The city should focus on building more public housing and maintaining existing stock.\n   g. There are many vacant apartments that could be rehabilitated.\n   h. Stronger rent control laws and enforcement would be more effective.\n\n4. Comparing to the reference talking points:\n   - The testimony doesn't directly mention neighborhood character changes.\n   - It doesn't discuss population decline or existing zoning capacity.\n   - It does align with the point about proposals favoring developers, especially regarding affordability.\n   - It doesn't specifically mention low-density neighborhoods or local control.\n   - It does touch on infrastructure concerns, albeit briefly.\n   - It doesn't discuss the public engagement process.\n\n5. While there are some overlaps, the testimony focuses more on affordability and public housing, which are not primary focuses of the reference talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "This deregulation of zoning was frictions together with the absence of mandatory affordability requirements will not provide us with affordable housing.",
+                "analysis": "This quote aligns with the reference talking point about proposals favoring developers over existing residents. While it doesn't use the exact same language, it expresses a similar sentiment that the changes benefit developers at the expense of affordable housing.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Additionally, there are no provisions for the city to address the building of amenities and infrastructure, which so many of the earlier speakers have addressed.",
+                "analysis": "This quote relates to the reference talking point about environmental and infrastructure concerns. While it doesn't go into as much detail as the reference point, it does highlight the lack of consideration for infrastructure in the proposal.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony by Leonard Polletta shows some alignment with the reference talking points, but it's not a close match overall. The speaker focuses primarily on affordability issues and the need for public housing, which are not major themes in the reference talking points. \n\nThere are two main areas of overlap:\n1. The concern that the proposal favors developers over residents, particularly in terms of affordability.\n2. The mention of infrastructure concerns, although this is only briefly touched upon in the testimony.\n\nHowever, the testimony doesn't address many of the key themes from the reference talking points, such as changes to neighborhood character, population decline, targeting of low-density neighborhoods, loss of local control, or the public engagement process.\n\nThe testimony presents a somewhat different perspective, focusing more on the need for affordable and public housing rather than preserving existing neighborhood characteristics or opposing density increases. While there are some shared concerns, the overall focus and arguments are quite different.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

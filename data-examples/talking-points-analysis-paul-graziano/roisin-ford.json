@@ -1,0 +1,39 @@
+{
+    "testimony": {
+        "name": "Roisin Ford",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/roisin-ford-from-ditmas-park-west-neighborhood",
+        "start_time_in_seconds": 38694.65,
+        "end_time_in_seconds": 38902.184,
+        "for_or_against": "Against",
+        "borough": "Brooklyn",
+        "neighborhood": "Victorian Flatbush",
+        "stated_affiliations": [
+            "Ditmas Park West Neighborhood Association"
+        ],
+        "key_points": [
+            "The neighborhood association supports some aspects of City of Yes, like town center zoning and commercial conversions, but strongly opposes transit-oriented developments and district fixes as written",
+            "Affordable housing availability in their neighborhood increased by 846% in the last 10 years after a 2009 rezoning",
+            "Concerns about the potential demolition of historic Victorian homes under the proposed transit-oriented development plans",
+            "Request for the commission to visit Victorian Flatbush and acknowledge the untapped potential for more affordable housing",
+            "Suggestion to include minimum sizes for units to accommodate families, not just studios and one-bedrooms",
+            "Concern that the proposed changes would allow demolition of historic homes and replacement with larger buildings without sensitivity to the neighborhood character"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "To analyze the similarity between the testimony and the reference talking points, I'll compare the main ideas and arguments presented in both:\n\n1. The testimony acknowledges support for some aspects of City of Yes, like town center zoning and commercial conversions, but strongly opposes transit-oriented developments and district fixes.\n\n2. The speaker mentions that their neighborhood has seen a significant increase in affordable housing (846%) in the last 10 years, which contrasts with the reference talking point about housing shortage claims being misleading.\n\n3. The testimony expresses concerns about the potential impact on neighborhood character, particularly in Victorian Flatbush, which aligns with the reference talking point about dramatic changes to neighborhood character.\n\n4. The speaker mentions the possibility of demolishing Victorian homes and replacing them with denser developments, which relates to the talking point about enabling much denser development in low-density neighborhoods.\n\n5. There's a mention of developers favoring studios and one-bedrooms for better ROI, which loosely relates to the talking point about proposals favoring developers over existing residents.\n\n6. The testimony doesn't directly address many of the other talking points, such as loss of local control, environmental concerns, or the public engagement process.\n\nOverall, while there are some similarities, the testimony is not as strongly aligned with the reference talking points as it could be. The speaker seems more focused on specific local concerns rather than broader arguments against the proposal.",
+        "talking_point_evidence": [
+            {
+                "quote": "But strongly opposes transit oriented developments and district fixes as written.",
+                "analysis": "This quote indicates opposition to specific aspects of the City of Yes proposal, which aligns with the general sentiment of the reference talking points. However, it's not an exact match to any specific talking point.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "6 out of 8 of them could be demolished and replaced with 3, 4, or 5 story buildings that maximize the f a r, which would nearly double. From 0.65 to 1 under the transit oriented development of city of yes or housing opportunity.",
+                "analysis": "This quote expresses concern about potential changes to neighborhood character and increased density, which aligns closely with the reference talking point about enabling much denser development in low-density neighborhoods.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows some alignment with the reference talking points, particularly in expressing concerns about changes to neighborhood character and increased density in low-density areas. However, the testimony is more focused on specific local impacts and doesn't cover many of the broader arguments present in the reference talking points. The speaker acknowledges support for some aspects of the City of Yes proposal, which differs from the generally oppositional stance of the reference talking points. While there are similarities, the overall alignment is not high, as the testimony lacks the same level of broad opposition and doesn't touch on many key points from the reference list.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

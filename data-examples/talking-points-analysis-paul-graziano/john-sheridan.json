@@ -1,0 +1,42 @@
+{
+    "testimony": {
+        "name": "John Sheridan",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/john-sheridan-resident-of-city-island-bronx-on",
+        "start_time_in_seconds": 12854.792,
+        "end_time_in_seconds": 13041.959,
+        "for_or_against": "Against",
+        "borough": "Bronx",
+        "neighborhood": "City Island",
+        "stated_affiliations": [],
+        "key_points": [
+            "The proposal threatens zoning regulations for special purpose districts, including City Island",
+            "City Island's special purpose district was approved in 1977 and reaffirmed in 2003 and 2011, not outdated",
+            "Current City Island regulations protect low-rise character, environmental quality, and village character",
+            "The proposal ignores unique characteristics of diverse neighborhoods",
+            "The initiative represents 'a little more Manhattan in every neighborhood'",
+            "Urges commission and City Council to vote against the proposal"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step in relation to the reference talking points:\n\n1. The testimony focuses heavily on the impact of the new zoning proposal on special purpose districts, particularly City Island. This aligns with the reference talking point about changing neighborhood character.\n\n2. The speaker emphasizes the unique characteristics of City Island and other special purpose districts, which relates to the talking point about low-density neighborhoods being unfairly targeted.\n\n3. The testimony mentions specific zoning regulations for City Island, including maintaining low-rise character and parking requirements. This relates to the talking points about allowing denser development and removing parking requirements.\n\n4. The speaker criticizes the justification of \"outdated\" regulations, which doesn't directly correspond to any specific talking point but challenges the overall narrative of the proposal.\n\n5. The phrase \"A little more Manhattan in every neighborhood\" suggests a concern about dramatically changing neighborhood character, which aligns with the first talking point.\n\n6. The testimony doesn't directly mention housing shortages, developer profits, local control, environmental concerns, or the public engagement process, which are key points in the reference talking points.\n\nWhile there are some similarities, the testimony is more focused on the specific impact on special purpose districts rather than making broader arguments against the proposal as seen in the reference talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "What is also at stake is the zoning for the city's special purpose districts, of which City Island is just one of at least 50. That's at least 50 neighborhoods like mine whose unique characteristic have been specifically recognized as worthy of specific regulatory protections until now.",
+                "analysis": "This quote supports the talking point about changing neighborhood character and targeting low-density neighborhoods. While it doesn't use the exact language from the talking points, it expresses a similar concern about preserving unique neighborhood characteristics.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "A little more Manhattan in every neighborhood. That is this proposal. A little more Manhattan in every neighborhood.",
+                "analysis": "This quote aligns closely with the talking point about dramatically changing neighborhood character. It suggests that the proposal would make every neighborhood more like Manhattan, implying a significant change in character and density.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Number 1, the maintenance of the existing low rise residential and commercial character of this district. Number 2, the maintenance and protection of the environmental quality and village character of City Island Avenue by imposing special controls on building setbacks. And number 3, parking requirements for developers.",
+                "analysis": "This quote lists specific zoning regulations that the speaker fears may be at risk. It relates to multiple talking points, including changing neighborhood character, allowing denser development, and removing parking requirements. However, it's more focused on preserving existing regulations rather than directly criticizing the new proposal.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows some alignment with the reference talking points, particularly in its concern about changing neighborhood character and the impact on low-density areas. However, it focuses more specifically on the issue of special purpose districts and the unique characteristics of City Island, rather than making broader arguments against the zoning proposal.\n\nThe testimony doesn't cover many of the key points mentioned in the reference talking points, such as claims about housing shortages, developer profits, loss of local control, environmental concerns, or the public engagement process. It also doesn't use language that closely mirrors the reference talking points.\n\nWhile there are some shared concerns, the testimony appears to be independently focused on the specific impact on special purpose districts rather than directly echoing the reference talking points. The alignment is present but not strong enough to suggest that the speaker is directly using the reference talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

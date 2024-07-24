@@ -1,0 +1,38 @@
+{
+    "testimony": {
+        "name": "Joy Goldberg",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/joy-goldberg-on-the-affordability-gap-in-nycs",
+        "start_time_in_seconds": 23873.885,
+        "end_time_in_seconds": 24061.191,
+        "for_or_against": "Against",
+        "borough": "Brooklyn",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [],
+        "key_points": [
+            "The gap between median renter income and required income for affordable housing in NYC is significant",
+            "Current 'affordable' housing options on Housing Connect are not truly affordable for those in dire need",
+            "Many affordable housing options still require high incomes (often above 100% AMI)",
+            "Questions who the City of Yes initiative is actually making housing affordable for",
+            "Criticizes the initiative as benefiting the 'lesser rich' rather than those truly in need",
+            "Expresses concern about rezoning and densification of the city",
+            "Suggests that dividing land for profit is harmful to the city"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The testimony focuses heavily on the issue of affordable housing in New York City.\n2. The speaker cites statistics about the gap between median renter income and the income needed to afford a median-priced apartment.\n3. They question who the affordable housing is really for, suggesting that even \"affordable\" units are out of reach for many.\n4. The speaker expresses skepticism about the rezoning plans, asking \"City of yes for whom?\"\n5. There's a mention of \"carving up the land\" and \"densifying\" the city, which could relate to the talking points about changing neighborhood character and denser development.\n6. The testimony doesn't directly use language from the reference talking points, but there are some thematic overlaps.\n\nNow, let's compare this to the reference talking points:\n\n1. The testimony doesn't explicitly mention changing neighborhood character or commercial uses in residential areas.\n2. There's no discussion of population decline or existing zoning capacity.\n3. While the testimony is critical of the proposals, it doesn't explicitly frame it as favoring developers over residents.\n4. There's no mention of low-density neighborhoods or single-family homes.\n5. The testimony doesn't discuss loss of local control or community board input.\n6. Environmental and infrastructure concerns are not addressed.\n7. The public engagement process is not mentioned.\n\nWhile there are some broad thematic similarities in being critical of the proposals and questioning who they benefit, the testimony doesn't closely align with the specific talking points provided.",
+        "talking_point_evidence": [
+            {
+                "quote": "So while you intend to carve up the land in the beloved city, rezone it, densify as you so describe it.",
+                "analysis": "This quote loosely relates to the talking point about enabling denser development in low-density neighborhoods. However, it doesn't directly mirror the language or specific claims of the talking point.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            },
+            {
+                "quote": "City of yes for whom. Because while some of the affordable housing is very good and well intended, throwing a bone to the lesser rich to populate the neighborhoods to destroy plunder and build for their own profits.",
+                "analysis": "This quote somewhat aligns with the sentiment of the talking point that suggests the proposals favor developers over existing residents. However, it doesn't use the same specific arguments or language.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony focuses primarily on the issue of affordable housing in New York City, questioning the effectiveness of current affordable housing initiatives and expressing skepticism about who will truly benefit from the proposed changes. While the testimony is critical of the rezoning plans, it doesn't closely align with most of the specific talking points provided.\n\nThe testimony does not directly address many of the key issues raised in the reference talking points, such as changes to neighborhood character, population decline, loss of local control, or environmental concerns. Instead, it focuses on the affordability crisis and questions whether the proposed changes will actually help those most in need of affordable housing.\n\nThere are some broad thematic similarities in being critical of the proposals and questioning who they benefit, but the testimony uses different arguments and evidence compared to the reference talking points. The speaker relies more on specific examples of current \"affordable\" housing listings and income requirements to make their point, rather than the arguments presented in the talking points.\n\nWhile there are a couple of quotes that loosely relate to some of the talking points, they don't closely mirror the language or specific claims made in the reference material. The alignment between the testimony and the talking points is relatively low.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

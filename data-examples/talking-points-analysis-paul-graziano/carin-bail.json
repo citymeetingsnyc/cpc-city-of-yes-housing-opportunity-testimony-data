@@ -1,0 +1,51 @@
+{
+    "testimony": {
+        "name": "Carin Bail",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/carin-bail-president-of-hollis-hills-civic",
+        "start_time_in_seconds": 39362.6,
+        "end_time_in_seconds": 39544.324,
+        "for_or_against": "Against",
+        "borough": "Queens",
+        "neighborhood": "Hollis Hills",
+        "stated_affiliations": [
+            "Hollis Hills Civic Association"
+        ],
+        "key_points": [
+            "Questions the definition and effectiveness of 'affordable housing'",
+            "Criticizes the lack of detail in the City of Yes initiative",
+            "Suggests the initiative benefits real estate industry and developers rather than communities",
+            "Points out existing empty apartments that could be used for affordable housing",
+            "Argues that Queens residents don't want to live in a more dense community",
+            "Questions why Eastern Queens should handle the city's affordability housing crisis",
+            "Highlights the community's existing contributions to other city issues (homeless shelters, migrant shelters)",
+            "Calls for more meaningful dialogue and public health review of the initiative"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step and compare it with the reference talking points:\n\n1. The testimony questions the definition of affordable housing, which isn't directly addressed in the talking points, but relates to the overall theme of housing issues.\n\n2. The speaker asks who benefits from the \"City of Yes\" proposal, suggesting it doesn't benefit the environment, public health, those seeking affordable housing, or existing communities. This aligns with the talking point about proposals favoring developers over existing residents.\n\n3. The testimony mentions empty apartments and nitri units, questioning why the city hasn't addressed these. This somewhat relates to the talking point about claims of housing shortage being misleading, though it approaches it from a different angle.\n\n4. The speaker criticizes the \"blanket statement\" approach, which aligns with the talking point about low-density neighborhoods being unfairly targeted.\n\n5. The testimony mentions Queens residents and community boards voicing disapproval, which relates to the talking point about loss of local control over development.\n\n6. The speaker questions why Eastern Queens should handle the city's affordability housing crisis, which indirectly relates to the talking point about low-density neighborhoods being unfairly targeted.\n\n7. The testimony asks about public health review and more meaningful dialogues, which somewhat relates to the talking point about questionable public engagement process.\n\nWhile the testimony doesn't use identical language to the talking points, it does touch on several similar themes and concerns.",
+        "talking_point_evidence": [
+            {
+                "quote": "So I'm just curious, Who does the city of yes benefit? It doesn't seem to benefit the environment or public health or those seeking affordable housing, the homeless population, it doesn't benefit the existing communities that threatens to destroy. So who does it benefit? Because it seems like gonna benefit the real estate industry, the developers, the elected officials, maybe the mayor, maybe some of the city planning commission, Who is it really benefiting?",
+                "analysis": "This quote expresses concern about who benefits from the proposal, suggesting it favors developers and officials over existing communities. This closely aligns with the talking point about proposals favoring developers over existing residents.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "And in Queens, a lot of the community boards and civic associations and residents and business owners have consistently been voicing their disapproval of this blanket zoning change.",
+                "analysis": "This quote mentions community disapproval of the zoning change, which relates to the talking point about loss of local control over development. While it doesn't specifically mention removing community board input, it does highlight community opposition.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "So people who chose to live in Queens just don't want to live in a more dense community.",
+                "analysis": "This quote indirectly relates to the talking point about low-density neighborhoods being unfairly targeted. It expresses the desire of Queens residents to maintain their current density, which aligns with the sentiment in the talking points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "I'm just wondering after a day of Zoom is how you're planning to engage with us in more meaningful dialogues.",
+                "analysis": "This quote questions the engagement process, which relates to the talking point about questionable public engagement process. While it doesn't provide specific criticisms mentioned in the talking points, it does express concern about the quality of engagement.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            }
+        ],
+        "analysis": "The testimony shares several concerns with the reference talking points, although it doesn't use identical language or cover all the same points. The speaker questions who benefits from the proposal, expresses concerns about community input and the impact on existing neighborhoods, and criticizes the engagement process. These themes align with several of the reference talking points, particularly those related to favoring developers over residents, loss of local control, and questionable public engagement.\n\nHowever, the testimony also focuses on aspects not directly addressed in the talking points, such as questioning the definition of affordable housing and discussing empty apartments. It doesn't delve into some of the specific claims made in the talking points, like population decline or environmental concerns.\n\nWhile there is clear alignment on some key issues, the testimony doesn't appear to be directly based on or closely following the reference talking points. It seems to be an independent expression of concerns that happen to overlap with some of the themes in the talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

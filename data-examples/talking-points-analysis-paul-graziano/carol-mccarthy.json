@@ -1,0 +1,57 @@
+{
+    "testimony": {
+        "name": "Carol McCarthy",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/carol-mccarthy-from-douglaston-civic-association",
+        "start_time_in_seconds": 10189.771,
+        "end_time_in_seconds": 10315.26,
+        "for_or_against": "Against",
+        "borough": "Queens",
+        "neighborhood": "Douglaston",
+        "stated_affiliations": [
+            "Douglaston Civic Association"
+        ],
+        "key_points": [
+            "The plan is based on a false premise and will not provide affordable housing",
+            "Only special interests and developers will benefit from the plan",
+            "Lack of infrastructure to support the proposed changes",
+            "Negative impact on health care, education, sanitation, and public safety",
+            "Will destroy the nature of the community",
+            "Accessory units (basements, attics, garages, yards) pose safety risks",
+            "Threat of secession from New York City if the plan passes",
+            "The majority of civic associations have voted against the plan",
+            "Residents pay taxes and should have their voices heard"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step and compare it to the reference talking points:\n\n1. The testimony mentions that the plan is based on a false premise and will not provide affordable housing. This aligns with the reference talking point about claims of housing shortage being misleading.\n\n2. The speaker states that only special interests and developers will benefit. This closely matches the talking point about proposals favoring developers over existing residents.\n\n3. The testimony mentions concerns about infrastructure, including parking and transportation. This aligns with the environmental and infrastructure concerns in the talking points.\n\n4. The speaker discusses negative impacts on community character, which directly relates to the talking point about dramatically changing neighborhood character.\n\n5. The testimony mentions accessory units (basements, attics, garages) as a \"recipe for disaster,\" which could be seen as related to the talking point about allowing much denser development in low-density neighborhoods.\n\n6. The speaker threatens secession from New York City, which is not directly mentioned in the talking points but indicates a strong opposition to the plan.\n\n7. The testimony emphasizes that the majority of civics have voted against the plan, which aligns with the talking point about loss of local control over development.\n\n8. The speaker mentions that they pay the salaries of city officials through taxes, which relates to the talking point about low-density neighborhoods paying disproportionately high property taxes.\n\nOverall, there are several strong connections between the testimony and the reference talking points, although the language used is not identical.",
+        "talking_point_evidence": [
+            {
+                "quote": "The special interest and developers will be the only ones benefit from this poorly conceived plan.",
+                "analysis": "This quote directly supports the talking point about proposals favoring developers over existing residents. It makes a very similar claim, although it doesn't mention specific details like parking requirements or larger buildings.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "There will be no infrastructure to support this. No additional parking or transportation. There'll be a negative impact on health care, education, sanitation, and public safety.",
+                "analysis": "This quote closely aligns with the talking point about environmental and infrastructure concerns. It mentions several specific infrastructure issues, including some that are explicitly mentioned in the talking points (parking, sewers, schools).",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "It will destroy the nature of our community and the very reason for our being here.",
+                "analysis": "This quote supports the talking point about dramatically changing neighborhood character. While it doesn't use the exact same language, it expresses the same concern about fundamental changes to the community.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "As far as accessory units are concerned, basements, attics, garages, yards. This is a recipe for disaster.",
+                "analysis": "This quote relates to the talking point about enabling much denser development in low-density neighborhoods. While the talking points don't specifically mention accessory units, this quote expresses concern about increased density in existing residential areas.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "The vast majority of the civics have voted no.",
+                "analysis": "This quote supports the talking point about loss of local control over development. It implies that local opinions are being ignored, which aligns with the concern about removing community board input.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows a strong alignment with several key themes from the reference talking points. The speaker expresses concerns about the plan benefiting developers at the expense of existing residents, worries about infrastructure and community character, and emphasizes local opposition to the plan. These align closely with multiple talking points.\n\nHowever, the testimony doesn't use identical language to the talking points and doesn't cover all the points mentioned. For example, it doesn't discuss the claims about housing shortage being misleading or mention specific statistics about zoning and population changes.\n\nThe testimony also includes some elements not present in the talking points, such as the threat of secession from New York City, which indicates an even stronger opposition than expressed in the talking points.\n\nOverall, while the testimony is not a word-for-word repetition of the talking points, it strongly supports many of the same arguments and concerns, suggesting that the speaker is likely aware of and influenced by similar talking points, even if not these exact ones.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

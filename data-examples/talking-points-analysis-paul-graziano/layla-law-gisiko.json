@@ -1,0 +1,41 @@
+{
+    "testimony": {
+        "name": "Layla Law-Gisiko",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/layla-law-gisiko-president-of-the-city-club-of-new",
+        "start_time_in_seconds": 3611.9673,
+        "end_time_in_seconds": 3811.012,
+        "for_or_against": "Against",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "City Club of New York"
+        ],
+        "key_points": [
+            "The proposal fails to address affordable housing needs",
+            "Increasing housing supply does not automatically result in more affordable housing",
+            "The initiative may reduce housing quality by allowing reduced standards",
+            "The proposal lacks assessment of environmental impact and infrastructure needs",
+            "Concerns about the transfer of development rights from landmarks potentially creating disproportionately large towers",
+            "Urges for mandatory affordable housing provisions",
+            "Calls for protection of housing standards and local oversight",
+            "Emphasizes the need for planning community infrastructure"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step and compare it with the reference talking points:\n\n1. The testimony acknowledges the intent to increase housing but criticizes the proposal for not addressing affordable housing adequately. This doesn't directly align with any of the reference talking points.\n\n2. The speaker argues against the assumption that increasing housing supply will automatically result in more affordable housing. This is somewhat related to the reference point about claims of housing shortage being misleading, but it's not exactly the same argument.\n\n3. The testimony mentions concerns about reduced housing quality standards, which is not directly addressed in the reference talking points.\n\n4. Environmental impact and lack of planning for additional infrastructure are mentioned in the testimony. This aligns closely with one of the reference talking points about environmental and infrastructure concerns.\n\n5. The testimony raises concerns about the transfer of development rights from landmarks, potentially resulting in very large towers. This is somewhat related to the reference point about proposals favoring developers and allowing much larger buildings as-of-right, but it's not an exact match.\n\n6. The speaker calls for mandatory affordable housing provisions, which is not mentioned in the reference talking points.\n\n7. The testimony doesn't mention many of the key points from the reference talking points, such as changes to neighborhood character, loss of local control, or questionable public engagement process.\n\nOverall, while there are some similarities, the testimony doesn't closely follow the reference talking points. It shares some concerns but focuses more on affordable housing and quality of life issues.",
+        "talking_point_evidence": [
+            {
+                "quote": "The initiative also fails to assess the environmental impact of new housing development, there is no planning for the additional infrastructure needed to support these developments such as hospital beds, school seats, parts and other essential services.",
+                "analysis": "This quote directly supports the reference talking point about environmental and infrastructure concerns. It mentions the lack of analysis for impacts on infrastructure, which is very similar to the reference point.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "The transfer of development rights from Landmars also raises significant concerns. This mechanism could result in the creation of disproportionately large towers.",
+                "analysis": "This quote somewhat relates to the reference talking point about proposals favoring developers and allowing much larger buildings. However, it's not an exact match as it specifically refers to the transfer of development rights from landmarks.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            }
+        ],
+        "analysis": "The testimony, while addressing some similar concerns, does not closely align with the provided reference talking points. The speaker focuses primarily on affordable housing and quality of life issues, which are not central themes in the reference talking points. There are some overlapping concerns, particularly regarding environmental and infrastructure impacts, but the overall framing and emphasis of the testimony differ significantly from the reference talking points.\n\nThe testimony does not heavily emphasize changes to neighborhood character, loss of local control, or the public engagement process, which are key themes in the reference talking points. Instead, it concentrates on the need for mandatory affordable housing and maintaining housing quality standards, which are not mentioned in the reference points.\n\nWhile there are a couple of points where the testimony touches on similar issues to the reference talking points, these are not extensive enough to suggest a high level of alignment or direct use of the talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

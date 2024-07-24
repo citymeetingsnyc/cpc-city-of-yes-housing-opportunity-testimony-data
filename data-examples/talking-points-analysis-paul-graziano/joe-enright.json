@@ -1,0 +1,44 @@
+{
+    "testimony": {
+        "name": "Joe Enright",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/joe-enright-from-the-community-association-of-west",
+        "start_time_in_seconds": 36361.473,
+        "end_time_in_seconds": 36557.28,
+        "for_or_against": "Against",
+        "borough": "Brooklyn",
+        "neighborhood": "West Midwood",
+        "stated_affiliations": [
+            "Community Association of West Midwood"
+        ],
+        "key_points": [
+            "Not everyone in Victorian Flatbush is opposed to City of Yes",
+            "Concern about potential multiple dwellings on Glenwood Road, which is the center of the neighborhood",
+            "Worry about 300 garages in Victorian Flatbush being converted into living spaces",
+            "Opposition to allowing 25-foot structures in backyards",
+            "Concern about increasing FAR from 0.6 to 1.0, leading to overbuilding",
+            "Acknowledges some proposals in City of Yes are supported by residents in the area"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step in relation to the reference talking points:\n\n1. The testimony is from Joe Enright, representing the Community Association of West Midwood.\n\n2. He states that not everybody in Victorian Flatbush is opposed to the City of Yes proposal, indicating some support for parts of the plan.\n\n3. The main concerns expressed in the testimony are:\n   a. Potential for multiple dwellings in the heart of the community (Glenwood Road).\n   b. Conversion of garages on property lines into living spaces.\n   c. Ability to build 25-foot structures in backyards.\n   d. Increase of FAR from 0.5 to 1.0, leading to fears of overbuilding.\n\n4. Comparing to the reference talking points:\n   a. There is some alignment with the concern about changing neighborhood character, but it's not as dramatic as the talking points suggest.\n   b. The testimony doesn't mention commercial uses in residential areas.\n   c. The density concern is present but more specific to certain areas.\n   d. There's no mention of a housing shortage or population decline.\n   e. The testimony doesn't frame the issue as favoring developers over residents.\n   f. While low-density neighborhoods are mentioned, it's not framed as unfair targeting.\n   g. There's no mention of loss of local control or community board input.\n   h. Environmental and infrastructure concerns are not mentioned.\n   i. The public engagement process is not discussed.\n\n5. The testimony seems more balanced and specific to the neighborhood's concerns, rather than adopting the more oppositional stance of the reference talking points.\n",
+        "talking_point_evidence": [
+            {
+                "quote": "The major problem is, let me explain this. We're at the southern tip of the Victorian Flatbush area, so to the boot. And the center of our neighborhood is going with road. It extends the 4 Blocks from the Q Train to Kony Island Avenue. And it there are about 30 there are exactly 30 houses, 15 on each side, also an an historic church. All those houses are built in 1905. They're beautiful houses. They're mostly 5000 square feet lots. And About 20 of them would be subject to building multiple dwellings there.",
+                "analysis": "This quote relates to the talking point about changing neighborhood character and enabling denser development in low-density neighborhoods. However, the testimony is more specific about the local context and doesn't use the same dramatic language as the talking points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Victorian Flatbush has about 300 garages that are flushed on the property line of neighbors. And if they start turning into, you know, I don't know, Johnny being banished to the garage to play his drums all day. I think that's going to be a problem. Also, the ability to build a twenty five foot structure in the back yard is something that neighbors don't look forward to having to experience.",
+                "analysis": "This quote aligns with the talking point about changing neighborhood character, but it focuses on specific local concerns rather than broader claims about commercial uses or dramatic changes.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Also the other thing is the increase of the SAR from 6 slides to 1.0. A lot of people are afraid that neighbors are just going to overbuild their houses.",
+                "analysis": "This quote relates to the talking point about allowing much larger buildings as-of-right, but it's presented as a specific concern rather than framing it as favoring developers over residents.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows some alignment with the reference talking points, particularly regarding concerns about changes to neighborhood character and increased density. However, the testimony presents a more nuanced and locally-focused perspective compared to the broader, more oppositional stance of the reference talking points.\n\nThe speaker acknowledges that there is some support for the City of Yes proposal in his community, which contrasts with the uniformly negative tone of the reference talking points. The testimony focuses on specific local concerns such as the potential for multiple dwellings in a particular area, conversion of garages, and backyard structures, rather than making sweeping claims about citywide impacts or developer favoritism.\n\nNotably, the testimony does not touch on many of the points raised in the reference talking points, such as claims about housing shortages, loss of local control, environmental concerns, or criticisms of the public engagement process. The speaker also doesn't frame the issues in terms of developers versus residents or unfair targeting of low-density neighborhoods.\n\nWhile there is some overlap in concerns, the testimony presents a more balanced view and doesn't adopt the same rhetoric or framing as the reference talking points. The speaker seems more focused on specific local impacts rather than broader ideological arguments against the proposal.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

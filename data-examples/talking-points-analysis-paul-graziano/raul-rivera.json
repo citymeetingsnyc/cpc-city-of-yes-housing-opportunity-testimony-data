@@ -1,0 +1,38 @@
+{
+    "testimony": {
+        "name": "Raul Rivera",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/raul-rivera-on-opposition-to-city-of-yes-and",
+        "start_time_in_seconds": 45364.6,
+        "end_time_in_seconds": 45553.19,
+        "for_or_against": "Against",
+        "borough": "Bronx",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [],
+        "key_points": [
+            "Opposes the City of Yes initiative",
+            "Criticizes city council members and the mayor for not supporting New Yorkers",
+            "Claims the initiative will not help homeless or low-income individuals",
+            "Argues that renovated buildings in the Bronx are now unaffordable for long-time residents",
+            "Criticizes the mayor for perceived alignment with wealthy developers",
+            "Mentions issues with the Taxi and Limousine Commission and a petition to reform it",
+            "Expresses disappointment in the mayor for not lifting mandates (likely referring to COVID-19 related mandates)"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Raul Rivera, explicitly states he opposes the \"City of Yes\" proposal.\n2. He doesn't directly address most of the reference talking points. Instead, he focuses on:\n   - Personal circumstances (being homeless)\n   - Allegations of political corruption\n   - Criticism of local politicians and the mayor\n   - Affordability issues in the Bronx\n   - Taxi driver advocacy\n3. There are a few points that loosely align with some of the reference talking points:\n   - He mentions not being able to afford renovated buildings in the Bronx, which could relate to the talking point about proposals favoring developers over existing residents.\n   - His criticism of the mayor attending events with developers (Stephen Ross) could be seen as supporting the notion that the proposals favor developers.\n4. However, most of his testimony is not directly related to the specific talking points provided.\n5. The speaker doesn't use language or arguments that closely mirror the reference talking points.\n6. While he opposes the \"City of Yes\" proposal, his reasons seem to be more personal and based on general distrust of local politicians rather than the specific issues raised in the reference talking points.\n\nGiven this analysis, the testimony has some minimal alignment with the reference talking points, but it's quite limited and not the main focus of the speaker's comments.",
+        "talking_point_evidence": [
+            {
+                "quote": "I grew up in the Bronx. There's plenty of buildings in the Bronx that are renovated. I used to play in those buildings. I should play in those building as a kid. That was my playground, and I can't afford to live in those buildings now. And the city of yes is not gonna help people like me.",
+                "analysis": "This quote loosely relates to the reference talking point about proposals favoring developers over existing residents. The speaker is expressing concerns about affordability, which could be seen as supporting the idea that the changes benefit developers more than current residents. However, the connection is not direct or explicit.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            },
+            {
+                "quote": "And when you have the mayor in a $5000 suit going to Hudson Yards, the cut of ribbon, for 50 Hudson Yards with Stephen Ross. Right? That tells you he's not with the New Yorker. He's not with he's not with me,",
+                "analysis": "This quote could be loosely interpreted as supporting the talking point about proposals favoring developers over existing residents. The speaker is criticizing the mayor's association with a prominent developer, which could imply a bias towards developer interests. However, the connection to the specific zoning proposal is not explicit.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            }
+        ],
+        "analysis": "The testimony provided by Raul Rivera shows minimal alignment with the reference talking points. While the speaker clearly opposes the \"City of Yes\" proposal, his arguments and focus differ significantly from the provided talking points. \n\nThe speaker's testimony primarily revolves around personal experiences, criticisms of local politicians, and general distrust of the city administration. He doesn't directly address most of the specific concerns raised in the reference talking points, such as changes to neighborhood character, population statistics, zoning specifics, or environmental impacts.\n\nThere are a couple of instances where the speaker's comments loosely align with the idea that the proposals may favor developers over existing residents. However, these connections are tenuous and not explicitly tied to the zoning proposal.\n\nThe language and specific arguments used by the speaker do not closely mirror those in the reference talking points. Instead, the testimony appears to be more of a personal critique of the city's leadership and their perceived disconnect from the needs of ordinary citizens.\n\nGiven these observations, while the speaker opposes the proposal, his testimony cannot be classified as having high alignment or directly supporting the provided talking points.",
+        "similarity": "NOT_ALIGNED"
+    }
+}

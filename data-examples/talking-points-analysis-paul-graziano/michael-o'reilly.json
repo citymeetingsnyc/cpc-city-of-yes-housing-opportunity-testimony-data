@@ -1,0 +1,30 @@
+{
+    "testimony": {
+        "name": "Michael O'Reilly",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/michael-oreilly-candidate-for-state-senate-on-city",
+        "start_time_in_seconds": 20777.264,
+        "end_time_in_seconds": 20876.156,
+        "for_or_against": "Against",
+        "borough": "Queens",
+        "neighborhood": "Southeast Queens",
+        "stated_affiliations": [],
+        "key_points": [
+            "Questions why the mayor invited illegal migrants to New York City during a housing crisis",
+            "Suggests that the City Planning Commission is not listening to the community's concerns",
+            "States that people in Queens are overwhelmingly against the City of Yes initiative",
+            "Criticizes the placement of migrant shelters in Southeast Queens"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Michael O'Reilly, acknowledges a housing shortage in NYC, which aligns with the premise of the \"City of Yes for Housing Opportunity\" proposal.\n\n2. However, he questions the approach, particularly in light of the recent influx of migrants to the city.\n\n3. O'Reilly expresses skepticism about the comprehensive nature of the plan and the committee's responsiveness to community feedback.\n\n4. He suggests that people in Queens are overwhelmingly against the \"City of Yes\" proposal.\n\n5. The speaker doesn't directly echo any of the specific talking points provided in the reference list. He doesn't mention neighborhood character changes, population decline, developer favoritism, or environmental concerns.\n\n6. There is a slight alignment with the \"Loss of local control over development\" talking point, as O'Reilly implies that the committee is not listening to local communities.\n\n7. There's also a tenuous connection to the \"Questionable public engagement process\" talking point, as O'Reilly acknowledges the committee's attendance at community meetings but questions whether they're truly listening to residents.",
+        "talking_point_evidence": [
+            {
+                "quote": "But With respect, I'm not sure that you'll listen because in my district, it seems like the people and queens overwhelmingly are against a city of yes, and they're demanding that the agencies listen to them, not just attend their meetings, but listen to them and to the people that that you serve.",
+                "analysis": "This quote loosely relates to the talking points about loss of local control and questionable public engagement. While it doesn't directly mirror the language in the reference talking points, it does express concern about the community's voice not being heard, which aligns with the spirit of those points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony by Michael O'Reilly shows limited alignment with the provided reference talking points. While O'Reilly acknowledges the housing shortage that the \"City of Yes\" proposal aims to address, his main concerns revolve around the influx of migrants and the perceived lack of responsiveness to community feedback. He doesn't directly echo most of the specific arguments presented in the reference talking points.\n\nThere is some alignment in the general skepticism towards the proposal and the concern about community voices not being heard. However, O'Reilly doesn't delve into the specific issues mentioned in the talking points, such as changes to neighborhood character, population decline arguments, developer favoritism, or environmental concerns.\n\nThe testimony appears to be more focused on the speaker's personal political stance (as a candidate for State Senate) and the issue of migrant shelters, rather than directly addressing the zoning proposal in the way the reference talking points do.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

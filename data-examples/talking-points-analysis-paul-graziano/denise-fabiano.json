@@ -1,0 +1,44 @@
+{
+    "testimony": {
+        "name": "Denise Fabiano",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/denise-fabiano-resident-of-howard-beach-queens-on",
+        "start_time_in_seconds": 51254.39,
+        "end_time_in_seconds": 51455.258,
+        "for_or_against": "Against",
+        "borough": "Queens",
+        "neighborhood": "Howard Beach",
+        "stated_affiliations": [],
+        "key_points": [
+            "Cannot enforce permanent affordability",
+            "Concern about potential abuse of the system",
+            "Lack of trust in the mayor's all-or-nothing approach",
+            "Migrant and illegal immigrant problem exacerbating housing situation",
+            "35 community boards voted against, while 24 voted in favor",
+            "Suggestion to implement changes in areas that have approved and evaluate results",
+            "Concerns about infrastructure, particularly mentioning water issues in basement",
+            "Proposal to rename initiative to 'City of Those That Said Yes' and allow others to wait and see if it works"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step and compare it with the reference talking points:\n\n1. The speaker acknowledges the need for housing and affordable housing in NYC, which is not directly mentioned in the reference talking points.\n\n2. The speaker expresses concern about enforcing permanent affordability, which is not explicitly mentioned in the reference talking points but aligns with the general skepticism towards the proposal.\n\n3. The speaker mentions that 35 districts have voted no, which relates to the reference point about loss of local control over development.\n\n4. The speaker brings up the migrant problem and illegal immigrants, which is not mentioned in the reference talking points.\n\n5. The speaker mentions vacant low-income housing and programs for affordable home ownership, which are not directly mentioned in the reference talking points.\n\n6. The speaker suggests implementing the changes in areas that have voted yes, which indirectly relates to the point about loss of local control.\n\n7. The speaker mentions water in their basement, which loosely relates to the environmental and infrastructure concerns in the reference talking points.\n\n8. The speaker expresses concern about builders using the program for affordable housing and potentially ruining infrastructure, which aligns with the points about favoring developers and infrastructure concerns.\n\nWhile there are some similarities, the testimony does not closely follow the specific talking points provided. The speaker's concerns are more general and less aligned with the detailed arguments in the reference talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "35 community boards have voted no. And 24 have voted. Yes.",
+                "analysis": "This quote relates to the reference talking point about loss of local control over development. While it doesn't directly mention the removal of community board input, it does highlight that many community boards are against the proposal.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "I live in in in Howard Beach. I get water in my basement all the time.",
+                "analysis": "This quote loosely relates to the environmental and infrastructure concerns mentioned in the reference talking points. While it doesn't directly address sewers or flooding risks, it does highlight existing infrastructure issues.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            },
+            {
+                "quote": "In 2 years, I'll check it out with you, and I'll see how many of these builders really did use it for affordable housing. How many of them did not ruin the already very shoddy infrastructure that we're left with?",
+                "analysis": "This quote relates to two reference talking points: the concern that proposals favor developers over existing residents, and the environmental and infrastructure concerns. The speaker is expressing skepticism about whether the program will truly result in affordable housing and worry about the impact on infrastructure.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows some alignment with the reference talking points, but it does not closely follow them or make the same specific arguments. The speaker expresses general concerns about the proposal's implementation, affordability enforcement, and potential infrastructure issues. While these themes are present in the reference talking points, the testimony lacks the detailed arguments and specific claims found in the talking points.\n\nThe speaker acknowledges the need for housing, which is not a stance taken in the reference talking points. Additionally, the testimony brings up issues not mentioned in the talking points, such as the impact of immigration on the housing situation.\n\nThe testimony does touch on some key themes from the talking points, such as community opposition, concerns about infrastructure, and skepticism about developer intentions. However, it does not delve into the specific arguments about neighborhood character changes, population statistics, or the detailed critiques of the proposal's impact on zoning and development.\n\nOverall, while there is some alignment, the testimony appears to be more of an individual's perspective rather than a direct repetition or close paraphrasing of the provided talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

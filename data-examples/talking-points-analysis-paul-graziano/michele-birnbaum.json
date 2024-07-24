@@ -1,0 +1,46 @@
+{
+    "testimony": {
+        "name": "Michele Birnbaum",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/michele-birnbaum-from-historic-park-avenue-on",
+        "start_time_in_seconds": 21584.76,
+        "end_time_in_seconds": 21791.512,
+        "for_or_against": "Against",
+        "borough": "Manhattan",
+        "neighborhood": "Upper East Side",
+        "stated_affiliations": [
+            "Historic Park Avenue"
+        ],
+        "key_points": [
+            "Zoning laws are important for avoiding chaos and preserving history",
+            "Removing height limits for new residential construction will increase carbon footprint and negatively impact light and air",
+            "The proposal lacks detail and will lower the standard of living",
+            "Concerns about apartments with shared bathrooms and mixing residential with commercial uses",
+            "Potential increase in Airbnb-style rentals in stable neighborhoods",
+            "Safety concerns about strangers in residential buildings due to mixed-use",
+            "Lack of proper ventilation for proposed home businesses like nail salons",
+            "Difficulty in enforcing time limits on home businesses"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Michele Birnbaum, expresses opposition to the proposed zoning changes.\n2. She acknowledges the need for some updates but finds this resolution \"very challenging\" and \"very broad.\"\n3. She mentions concerns about removing height limits for new residential construction, which aligns with the reference talking point about allowing much denser development.\n4. The speaker discusses the potential for businesses in residential buildings, which relates to the talking point about allowing commercial uses in residential areas.\n5. She expresses concerns about privacy, safety, and quality of life, which aligns with the general tone of the reference talking points about neighborhood character and favoring developers over residents.\n6. The testimony mentions specific concerns about Air B&Bs, noise from bars and rooftops, and businesses like nail salons in residential buildings, which relate to the talking point about dramatically changing neighborhood character.\n7. While the testimony doesn't use identical language to the reference talking points, it does touch on several of the same themes and concerns.\n\nBased on this analysis, the testimony appears to be supporting many of the same arguments as the reference talking points, even if it doesn't use the exact same language or cover all the points.",
+        "talking_point_evidence": [
+            {
+                "quote": "Removing hype limits for new residential construction will defeat the systemic ability aims of your program as it has been shown that the taller buildings above 250 feet, the higher the carbon footprint not to mention the negative impact on light and air.",
+                "analysis": "This quote supports the reference talking point about enabling much denser development in neighborhoods. It also touches on environmental concerns, which is another point mentioned in the reference talking points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Apartments with bathrooms in the hall and neighbors that have nail salons, barbershops, and agriculture, which will be mainly cannabis in the apartment next to yours, does not represent an improvement in the name of creating affordable housing.",
+                "analysis": "This quote aligns closely with the reference talking point about allowing commercial uses in residential areas and dramatically changing neighborhood character.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "You can expect air b and b's to pop up all over the place putting transits and unaccountable populations in the middle of stable neighborhoods.",
+                "analysis": "This quote supports the talking point about dramatically changing neighborhood character, though it provides a specific example not mentioned in the reference points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony is supporting many of the same claims and arguments as the reference talking points. While it doesn't cover all the points mentioned in the reference and doesn't use identical language, it does align with several key themes. The speaker expresses concerns about changes to neighborhood character, increased density, mixing commercial and residential uses, and potential negative impacts on quality of life. These align closely with the reference talking points about dramatic changes to neighborhood character, favoring developers over existing residents, and allowing commercial uses in residential areas.\n\nHowever, the testimony doesn't touch on some specific points mentioned in the reference, such as claims about housing shortage being misleading, loss of local control over development, or the public engagement process. It also provides some specific examples and concerns not explicitly mentioned in the reference talking points.\n\nGiven these observations, the testimony can be classified as supporting the talking points, but not reaching the level of high alignment due to the differences in specific examples and language used.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

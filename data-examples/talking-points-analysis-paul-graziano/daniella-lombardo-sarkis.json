@@ -1,0 +1,51 @@
+{
+    "testimony": {
+        "name": "Daniella Lombardo Sarkis",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/daniella-lombardo-sarkis-resident-of-bay-ridge",
+        "start_time_in_seconds": 42065.582,
+        "end_time_in_seconds": 42255.035,
+        "for_or_against": "Against",
+        "borough": "Brooklyn",
+        "neighborhood": "Bay Ridge",
+        "stated_affiliations": [],
+        "key_points": [
+            "One-size-fits-all approach is not appropriate for all neighborhoods",
+            "Community Board 10 opposes the proposal",
+            "Local communities and elected representatives should have input",
+            "Concerns about antiquated drainage and sewage infrastructure",
+            "Worries about overburdening existing transportation and parking",
+            "Public safety concerns, especially regarding ADUs and illegal conversions",
+            "Fear of developers taking advantage of zoning rule changes",
+            "Potential negative impact on property values and neighborhood character",
+            "Concerns about living next to basement apartments or inhabited sheds",
+            "Urges City Council to vote no on the proposal in its current form"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step and compare it to the reference talking points:\n\n1. The testimony is from a resident of Bay Ridge, Brooklyn, opposing the \"City of Yes for Housing Opportunity\" proposal.\n\n2. The speaker acknowledges the need for affordable housing but argues against a \"one size fits all\" approach, which aligns with the reference talking point about dramatically changing neighborhood character.\n\n3. The testimony mentions that Community Board 10 opposes the proposal, which relates to the talking point about loss of local control over development.\n\n4. Infrastructure concerns are raised, specifically about drainage, sewage, parking, and transportation. This aligns with the environmental and infrastructure concerns in the reference talking points.\n\n5. The speaker expresses concern about public safety and the ability of the Department of Buildings to ensure safety in ADUs (Accessory Dwelling Units). While this specific point isn't in the reference talking points, it relates to the broader theme of neighborhood character and safety.\n\n6. The testimony mentions the potential for developers to take advantage of the proposal, which aligns with the talking point about proposals favoring developers over existing residents.\n\n7. The speaker uses an example of a closed school that could be redeveloped into \"monstrous buildings,\" which relates to the talking point about enabling much denser development in low-density neighborhoods.\n\n8. The testimony expresses concern about changing the character of the neighborhood they chose to live in, which directly aligns with the talking point about dramatically changing neighborhood character.\n\n9. The speaker urges the city council to vote no on the proposal in its current form, which is in line with the overall message of the reference talking points.\n\nOverall, the testimony shows high alignment with several key reference talking points, particularly regarding neighborhood character, infrastructure concerns, and favoring developers over residents.",
+        "talking_point_evidence": [
+            {
+                "quote": "We cannot apply a one size fits all approach to this. Some neighborhood just not set up to handle all these changes.",
+                "analysis": "This quote directly supports the reference talking point about dramatically changing neighborhood character and the idea that low-density neighborhoods are being unfairly targeted. The speaker is arguing against a uniform approach, which aligns with the talking points' emphasis on preserving existing neighborhood characteristics.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "For example, on Bay Ridge, we have an antiquated drainage and sewage infrastructure something that our councilman, Justin Brennan, has publicly acknowledged anytime there's even moderate rain. That is a problem based on our current population and housing. What is going to happen when we add thousands and thousands of additional residents into dwellings.",
+                "analysis": "This quote strongly aligns with the reference talking point about environmental and infrastructure concerns. The speaker is highlighting specific infrastructure issues in their neighborhood, which directly supports the talking point's concern about the lack of analysis on impacts on sewers and other infrastructure.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "While I don't believe that the intent to this proposal is to do this, I do believe that the passing of it will only benefit and create opportunities for developers to take advantage of, in essence, the waiving of these zoning rules.",
+                "analysis": "This quote supports the reference talking point about proposals favoring developers over existing residents. The speaker expresses concern that developers will take advantage of the zoning changes, which aligns closely with the talking point's message.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "It makes me sick to think that I could potentially be living next door to a store in someone's basement. Or inhabited shed in my neighbor's yard. This is not the neighbor of what I chose, and it is not fair to the homeowners whose largest investment is in their homes.",
+                "analysis": "This quote strongly supports the reference talking point about dramatically changing neighborhood character and allowing commercial uses in residential areas. The speaker's concern about potential changes to their residential neighborhood closely aligns with the talking points' emphasis on preserving existing neighborhood characteristics.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            }
+        ],
+        "analysis": "The testimony shows a high degree of alignment with the reference talking points. The speaker, Daniella Lombardo Sarkis, echoes many of the concerns raised in the talking points, particularly regarding changes to neighborhood character, infrastructure concerns, and the potential for developers to take advantage of the proposed changes.\n\nThe testimony strongly emphasizes the impact on neighborhood character, which is a central theme in the reference talking points. The speaker's concerns about infrastructure, especially sewage and transportation, directly mirror the environmental and infrastructure concerns mentioned in the talking points.\n\nWhile the testimony doesn't explicitly mention some aspects of the talking points (such as population decline or specific zoning statistics), it does align closely with the overall message and sentiment of opposition to the \"City of Yes for Housing Opportunity\" proposal.\n\nThe speaker's call for local control and tailoring of the proposal to community needs also aligns with the talking point about loss of local control over development.\n\nGiven the multiple instances of direct alignment and the overall tone and content of the testimony, it appears that the speaker may be familiar with or influenced by arguments similar to those in the reference talking points, even if not directly quoting them.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}

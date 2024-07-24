@@ -1,0 +1,34 @@
+{
+    "testimony": {
+        "name": "Agnes Vendina",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/agnes-vendina-from-oakwood-residence-civic",
+        "start_time_in_seconds": 32134.0,
+        "end_time_in_seconds": 32327.951,
+        "for_or_against": "Against",
+        "borough": "Staten Island",
+        "neighborhood": "Oakwood",
+        "stated_affiliations": [
+            "Oakwood Residence Civic Association of Staten Island"
+        ],
+        "key_points": [
+            "Challenges the hypothesis that lack of housing is the primary cause of homelessness",
+            "Argues that addiction and mental illness are the leading causes of homelessness based on national statistics",
+            "Criticizes the city for not addressing the root causes of homelessness, particularly drug addiction",
+            "Suggests that addressing homelessness requires medical expertise and resources, not just housing solutions",
+            "Advocates for homeownership as the real solution to the housing crisis",
+            "Criticizes the lack of creative solutions for homeownership in the current proposal"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze this testimony step by step:\n\n1. The speaker, Agnes Vendina, focuses mainly on homelessness and its causes, which is not directly addressed in the reference talking points.\n\n2. She challenges the hypothesis that lack of housing causes homelessness, citing studies from SAMHSA and the U.S. Conference of Mayors. This could be seen as somewhat related to the talking point about \"Claims of housing shortage are misleading\", but the focus is different.\n\n3. Vendina argues that the main causes of homelessness are addiction and mental illness, not lack of housing. This is not directly addressed in the talking points.\n\n4. She suggests that the city council needs to address these root causes of homelessness, which would require medical expertise and significant funding. This is not mentioned in the talking points.\n\n5. Vendina briefly mentions homeownership as the \"only real solution to housing crisis\", which is not directly addressed in the talking points.\n\n6. She shares a personal anecdote about her family's journey to homeownership, which is not related to the talking points.\n\n7. The testimony does not address most of the key points in the reference talking points, such as changes to neighborhood character, zoning changes, developer interests, or environmental concerns.\n\nGiven this analysis, the testimony appears to have very little direct alignment with the reference talking points. While there is a slight connection in challenging the idea of a housing shortage, the overall focus and arguments are quite different.",
+        "talking_point_evidence": [
+            {
+                "quote": "One of the hypothesis you made on on your website regarding homelessness and the statement was that a city's failure to produce enough housing has real and direct human consequences. And among these are homelessness. But I, you know, I reviewed all the national statistics from SAMHSA.",
+                "analysis": "This quote challenges the idea that lack of housing causes homelessness, which is somewhat related to the talking point about misleading claims of housing shortage. However, the focus and argument are different. The talking point discusses population decline, while the testimony focuses on the causes of homelessness.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            }
+        ],
+        "analysis": "The testimony by Agnes Vendina is not closely aligned with the reference talking points. While there is a slight connection in challenging the idea of a housing shortage causing homelessness, the overall focus and arguments of the testimony are quite different from the provided talking points. \n\nThe testimony primarily focuses on the causes of homelessness, arguing that addiction and mental illness are the main factors, rather than lack of housing. This is not directly addressed in the reference talking points. The speaker also briefly mentions homeownership as a solution to the housing crisis, which is also not present in the talking points.\n\nThe reference talking points cover a wide range of issues related to zoning changes, neighborhood character, developer interests, and environmental concerns, none of which are substantially addressed in Vendina's testimony.\n\nGiven the minimal overlap and different focus, the testimony cannot be considered closely aligned with the reference talking points.",
+        "similarity": "NOT_ALIGNED"
+    }
+}

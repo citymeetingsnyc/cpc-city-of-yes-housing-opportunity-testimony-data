@@ -1,0 +1,58 @@
+{
+    "testimony": {
+        "name": "Dave Pecoraro",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/dave-pecoraro-from-rosedale-civic-association-and",
+        "start_time_in_seconds": 49869.49,
+        "end_time_in_seconds": 50043.336,
+        "for_or_against": "Against",
+        "borough": "Queens",
+        "neighborhood": "Rosedale",
+        "stated_affiliations": [
+            "Rosedale Civic Association",
+            "Queens Community Board 13"
+        ],
+        "key_points": [
+            "Universal opposition to City of Yes from his neighbors",
+            "Community Board 13 unanimously voted no",
+            "Residents chose to live in Eastern Queens to avoid congestion",
+            "Concerns about environmental impact on already strained infrastructure",
+            "Lack of required parking fails to recognize needs of areas with limited mass transit",
+            "Half-mile transit zones from LIRR stations are excessive",
+            "Paving green spaces could increase flooding risks",
+            "Some neighborhoods are considering seceding from the city due to this plan",
+            "Plan is seen as benefiting Manhattan realtors and elites at the expense of local communities"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step and compare it to the reference talking points:\n\n1. The speaker, Dave Pecoraro, is from Queens and represents the Rosedale Civic Association and Community Board 13.\n\n2. He mentions \"universal opposition\" to the City of Yes proposal in his community, which aligns with the reference talking points about low-density neighborhoods being unfairly targeted.\n\n3. Pecoraro emphasizes that residents chose to live in less congested areas, which relates to the talking point about dramatically changing neighborhood character.\n\n4. He mentions that the majority of Queens community boards voted against the proposal, indicating a loss of local control over development, which is one of the reference talking points.\n\n5. The speaker raises concerns about environmental impact and infrastructure strain, which directly aligns with the environmental and infrastructure concerns in the reference talking points.\n\n6. Pecoraro criticizes the lack of required parking in the proposal, which matches the talking point about removing parking requirements to increase developer profits.\n\n7. He mentions \"half mile transit zones\" being excessive, which relates to the talking point about enabling much denser development in low-density neighborhoods.\n\n8. The speaker mentions paving green spaces and increased flooding risk, which aligns with the environmental concerns in the reference talking points.\n\n9. Pecoraro suggests that the plan is flawed and unwanted, which echoes the sentiment in the talking points about favoring developers over existing residents.\n\n10. He mentions that neighborhoods are considering seceding from the city, which, while not directly in the talking points, suggests strong opposition to the proposal.\n\nOverall, the testimony shows significant alignment with many of the reference talking points, particularly regarding neighborhood character, environmental concerns, infrastructure issues, and loss of local control.",
+        "talking_point_evidence": [
+            {
+                "quote": "I listened to the universal opposition to the city of yes for my neighbors, a community of predominantly African American an afro Caribbean homeowner who are outraged by mayor Adams calling zoning rags, we support racism.",
+                "analysis": "This quote supports the talking point about low-density neighborhoods being unfairly targeted. While it doesn't make the exact same claim, it shows strong opposition from a specific community, which aligns with the sentiment expressed in the talking points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "No matter our ethnicity, we all chose to live in Eastern Quate. We didn't want to live in congested areas of our city.",
+                "analysis": "This quote supports the talking point about dramatically changing neighborhood character. It expresses the residents' preference for less congested areas, which the proposal threatens to change.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "The occupancy plan that fails to address the environmental impact on infrastructure already strayed to the max.",
+                "analysis": "This quote is almost identical to the talking point about environmental and infrastructure concerns. It directly mentions the lack of analysis on infrastructure impacts.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "The lack of required parking fails to recognize the needs of those of us who live in mass transit wastelands.",
+                "analysis": "This quote supports the talking point about proposals favoring developers over existing residents, specifically mentioning the removal of parking requirements. While it doesn't explicitly mention developer profits, it highlights the negative impact on residents.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Paving of a green space that could absorb rain in an era of increasing flooding is sheer madness.",
+                "analysis": "This quote is very close to the talking point about environmental concerns, specifically mentioning loss of green space and increased flooding risk.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            }
+        ],
+        "analysis": "The testimony by Dave Pecoraro shows a high level of alignment with the reference talking points. While the speaker doesn't use identical language for most points, he covers many of the same concerns and arguments presented in the talking points.\n\nKey alignments include:\n1. Opposition to changing neighborhood character\n2. Concerns about environmental and infrastructure impacts\n3. Criticism of removing parking requirements\n4. Emphasis on loss of local control over development\n5. Perception that the proposal favors developers over existing residents\n\nThe speaker's testimony reflects the sentiments expressed in the talking points, particularly regarding the impact on low-density neighborhoods, environmental concerns, and the perceived lack of consideration for existing residents' needs. While he doesn't touch on all the points (such as claims about housing shortage or specific statistics), the overall message and concerns align closely with the reference talking points.\n\nThe testimony doesn't appear to be directly reading from the talking points, but it expresses very similar ideas and concerns, suggesting that these issues are widely shared among opponents of the City of Yes proposal.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}

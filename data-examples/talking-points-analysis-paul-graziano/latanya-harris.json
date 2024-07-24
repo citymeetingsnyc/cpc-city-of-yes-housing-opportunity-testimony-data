@@ -1,0 +1,52 @@
+{
+    "testimony": {
+        "name": "Latanya Harris",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/latanya-harris-on-concerns-about-accessory",
+        "start_time_in_seconds": 29737.486,
+        "end_time_in_seconds": 29927.414,
+        "for_or_against": "Against",
+        "borough": "Queens",
+        "neighborhood": "Saint Albans",
+        "stated_affiliations": [
+            "Queens Pension Fund",
+            "Department of Buildings",
+            "Department of Consumer Affairs"
+        ],
+        "key_points": [
+            "ADUs will negatively impact quality of life in residential neighborhoods",
+            "Changes to neighborhoods will be permanent and unwanted",
+            "City planners are not considering the perspectives of current homeowners",
+            "Queens has unique, diverse communities that should be preserved",
+            "ADUs were previously illegal and fined, now suddenly considered safe",
+            "The initiative seems to prioritize revenue generation over residents' concerns",
+            "The plan doesn't consider the impact on long-time New Yorkers who have worked hard for their homes"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Latanya Harris, is a long-time resident of Queens and a homeowner.\n2. She expresses concerns about the impact of the proposed changes on the quality of life in her neighborhood and surrounding areas.\n3. She specifically mentions ADUs (Accessory Dwelling Units) as a major concern.\n4. Harris emphasizes the unique character of Queens neighborhoods and how the proposals might alter that.\n5. She suggests that the city's motivation is primarily about generating revenue and benefiting developers.\n6. The speaker highlights the contrast between previous enforcement against illegal ADUs and the current proposal to legalize them.\n\nNow, let's compare these points to the reference talking points:\n\n1. There's a strong alignment with the point about changing neighborhood character.\n2. The testimony supports the idea that the proposals favor developers over existing residents.\n3. Harris's concerns about ADUs and neighborhood changes align with the point about targeting low-density neighborhoods.\n4. Her comments about the city's motivations for revenue generation partially align with the point about favoring developers.\n5. The speaker doesn't directly address some points like population decline, parking requirements, or environmental concerns.\n\nOverall, while the testimony doesn't use identical language to the reference talking points, it strongly supports several key arguments against the proposal.",
+        "talking_point_evidence": [
+            {
+                "quote": "However, what is about to take place in Queens is personal to me. I have family in Queens Village. My parents live in Queens Village. I have family in Canberra Heights. I have family in Bellrose. So this is not about business for the developers for me. This is personal because it's gonna impact the quality of life of several of my family and members.",
+                "analysis": "This quote strongly supports the reference talking point about the proposals dramatically changing neighborhood character and favoring developers over existing residents. While not using identical language, it makes a very similar argument about the personal impact on residents and their quality of life.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Particularly what's what's alarming to me is the ADUs. Several people speak about the ADUs and how it will give the homeowners opportunities. Well, I'm a homeowner. And if my homeowner of my neighbors around me decide to convert a cottage, change their garage, it may be all fine to them, but it impacts me. My surroundings are ultimately changed forever because I have people coming and going.",
+                "analysis": "This quote aligns closely with the reference talking point about low-density neighborhoods being unfairly targeted. It specifically mentions ADUs and their impact on existing homeowners, which is a key concern in the reference talking points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "There's a certain field that comes to living in Queens that I enjoy and that most of my neighbors enjoy.",
+                "analysis": "This quote supports the reference talking point about dramatically changing neighborhood character. While not using identical language, it emphasizes the unique character of Queens neighborhoods that residents value.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "How come all of a sudden they become safe? Because the city of yes wants to make money off of the tax revenue that will be generated. I submit to you that this has been all about revenue generating making money for developers",
+                "analysis": "This quote aligns with the reference talking point about proposals favoring developers over existing residents. It suggests that the city's motivation is primarily financial, benefiting developers and generating tax revenue, which is a key argument in the reference talking points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony by Latanya Harris shows a strong alignment with several key points from the reference talking points, although it doesn't cover all of them. Harris's testimony focuses primarily on the impact of the proposed changes on existing neighborhoods and residents, particularly in Queens.\n\nHer concerns about ADUs and neighborhood character changes closely mirror the reference talking points about dramatically altering neighborhood character and unfairly targeting low-density areas. Harris's emphasis on the unique qualities of Queens neighborhoods and the potential negative impacts on existing residents strongly supports the talking points about favoring developers over current residents.\n\nWhile Harris doesn't use identical language to the reference talking points, her arguments and concerns are very much in line with their overall message. She doesn't address some specific points like population decline, parking requirements, or environmental concerns, but her general stance aligns well with the opposition to the \"City of Yes for Housing Opportunity\" proposal.\n\nThe testimony supports the talking points' narrative that the proposed changes would negatively impact existing communities, benefit developers at the expense of current residents, and fundamentally alter the character of neighborhoods that people have invested in and come to value.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

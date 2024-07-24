@@ -1,0 +1,47 @@
+{
+    "testimony": {
+        "name": "George Calderaro",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/george-calderaro-board-member-of-several-nyc-civic",
+        "start_time_in_seconds": 10603.473,
+        "end_time_in_seconds": 10771.756,
+        "for_or_against": "Against",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Several New York City Civic Organizations"
+        ],
+        "key_points": [
+            "City of Yes is part of a multipronged offensive to deregulate development in NYC",
+            "The proposal does not prioritize or require affordable housing",
+            "There are many empty market rate and luxury units already",
+            "The initiative is a developer-driven plot to deregulate the city for private real estate development",
+            "City of Yes eliminates important regulations including special zoning districts, landmarks commission reviews, and open space requirements",
+            "Preservation of historic districts preserves thousands of businesses and affordable housing units",
+            "Demolition of viable, historically significant buildings should be stopped",
+            "Criticism of City of Yes should not be dismissed as NIMBY-ism",
+            "Concerns for communities are considered and sincere"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step and compare it with the reference talking points:\n\n1. The testimony criticizes the \"City of Yes\" proposal as part of a larger effort to deregulate development in NYC.\n2. It mentions that these proposals, including \"City of Yes for Housing Opportunity,\" do not prioritize or require affordable housing.\n3. The speaker argues that there are already empty market-rate and luxury units, challenging the need for more units.\n4. The testimony claims this is a \"developer-driven plot to deregulate the city for private real estate development.\"\n5. It mentions the elimination of important regulations, including special zoning districts and landmarks commission reviews.\n6. The speaker emphasizes the role of preservation in maintaining affordable housing and businesses.\n7. The testimony criticizes the demolition of viable buildings that could have been used for housing.\n8. It challenges the labeling of criticism as \"NIMBY,\" arguing that community concerns are valid.\n\nComparing these points to the reference talking points:\n\n- The testimony aligns with the claim that the proposals favor developers over existing residents.\n- It supports the idea that claims of housing shortage are misleading, mentioning empty units.\n- The testimony touches on the loss of local control over development by mentioning the elimination of certain reviews.\n- It indirectly relates to the concern about changing neighborhood character by discussing preservation.\n- The testimony does not directly address some points like low-density neighborhoods being targeted or environmental concerns.\n\nOverall, while the testimony doesn't use identical language, it supports many of the same arguments present in the reference talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "The city of yes is part of the current multipronged offensive to deregulate development in New York City often using the disingenuous, empty promise of affordable housing.",
+                "analysis": "This quote aligns closely with the reference talking point that claims the proposals favor developers over existing residents. It suggests that the City of Yes proposal is part of a larger effort to deregulate development, which is similar to the talking point's claim about the proposals being a 'wish list from developers'.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "While city of yes for housing opportunity does not require or even incentivize affordable housing, it does eliminate important regulations including special zoning districts, landmarks commission, and Uler re reviews, and open space requirements among others.",
+                "analysis": "This quote supports the reference talking point about the loss of local control over development. It mentions the elimination of important regulations and reviews, which aligns with the talking point's claim about removing community board input and giving more power to the City Planning Commission.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "But rather argue that we need more units, period, including market rate and luxury units despite the fact that there are many empty market rate and luxury units not to mention the thousands of units that landlords are sitting on because current rates are too affordable due to rent regulations.",
+                "analysis": "This quote supports the reference talking point that claims of housing shortage are misleading. While it doesn't mention population decline, it does challenge the need for more units by pointing out existing empty units, which aligns with the talking point's argument against the housing shortage narrative.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows a significant alignment with several key points from the reference talking points, although it doesn't use identical language or cover all the points mentioned. The speaker's arguments largely support the narrative that the City of Yes proposal favors developers over existing residents and challenges the claimed need for more housing units. The testimony also touches on concerns about loss of local control and changes to neighborhood character through the elimination of certain regulations and reviews.\n\nWhile the testimony doesn't directly address some specific points like the targeting of low-density neighborhoods or environmental concerns, it does provide additional context and examples that support the overall narrative of the reference talking points. The speaker's emphasis on preservation and criticism of demolishing viable buildings for development aligns with the general sentiment of protecting existing communities and questioning the motives behind the proposed changes.\n\nThe testimony can be classified as supporting the talking points, as it makes similar arguments and expresses comparable concerns, even if it doesn't cover all the specific points or use the exact same language.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

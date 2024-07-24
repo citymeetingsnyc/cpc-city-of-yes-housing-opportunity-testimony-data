@@ -1,0 +1,48 @@
+{
+    "testimony": {
+        "name": "Daisy Calone",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/daisy-calone-bronx-resident-on-concerns-about-city",
+        "start_time_in_seconds": 22391.074,
+        "end_time_in_seconds": 22621.482,
+        "for_or_against": "Against",
+        "borough": "Bronx",
+        "neighborhood": "LaSalle, Mayflower, Scottsdale",
+        "stated_affiliations": [],
+        "key_points": [
+            "Opposes changes to R4 and R4A districts",
+            "Concerned about allowing higher density without parking or community input",
+            "Argues that one-size-fits-all zoning doesn't consider neighborhood character",
+            "Worries about the impact of half-mile Transit-Oriented Development (TOD) zones on the community",
+            "Concerned about the conversion of owner-occupied homes to apartment buildings",
+            "Highlights low homeownership rates in the Bronx, especially among minority communities",
+            "Requests a full analysis of the potential impact of the proposed zoning changes"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The testimony is from Daisy Calone, a resident of the Bronx, opposing the zoning amendments, particularly for R4 and R4A districts.\n\n2. She argues that the amendments will negatively impact the quality of life in low-density areas, which aligns with the reference talking point about changing neighborhood character.\n\n3. Calone mentions that the amendments will allow \"as of right density without parking,\" which corresponds to the talking point about removing parking requirements to benefit developers.\n\n4. She emphasizes that \"one size fits all zoning does not take into consideration the character of our diverse neighborhoods,\" which aligns with the talking point about dramatically changing neighborhood character.\n\n5. The testimony expresses concern about the half-mile transit-oriented development (TOD) zone, which relates to the talking point about enabling much denser development in low-density neighborhoods.\n\n6. Calone discusses the impact on homeownership, particularly for minority communities, which isn't directly addressed in the reference talking points but indirectly relates to the point about favoring developers over existing residents.\n\n7. She requests a \"full blown analysis\" of the zoning changes, which aligns with the talking point about the lack of environmental and infrastructure analysis.\n\n8. While the testimony doesn't mention all the reference talking points, it strongly aligns with several key points, particularly those related to neighborhood character, favoring developers, and concerns about increased density.",
+        "talking_point_evidence": [
+            {
+                "quote": "It is about allowing as of right density without parking, which will give developers an as of right permit to build higher density without looking at community impact of seeking community input.",
+                "analysis": "This quote directly addresses the reference talking point about proposals favoring developers over existing residents by removing parking requirements and allowing larger buildings as-of-right. It also touches on the loss of local control over development.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "Now one size fits all zoning does not take into consideration the character of our diverse neighborhoods.",
+                "analysis": "This quote aligns closely with the reference talking point about the proposals dramatically changing neighborhood character. It emphasizes the unique nature of different neighborhoods, which the zoning changes fail to consider.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "The Half Mount Transit District will decimate my community and change the fabric of my LaSalle Waterbury neighborhood. That half mile TLD is too drastic and would significantly impact a large land area.",
+                "analysis": "This quote supports the reference talking point about enabling much denser development in low-density neighborhoods. It specifically mentions the impact of transit-oriented development zones on existing communities.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "I asked that before the planning commission makes a decision, I believe anonymous standing of what a little more housing means needs to be fully presented through a full blown analysis of what can be built as a right with the current zoning and the full developmental analysis of what the proposed zoning would look like visually depicted in GIS or GP GIS space.",
+                "analysis": "This quote relates to the reference talking point about environmental and infrastructure concerns, specifically the lack of proper analysis. While it doesn't mention specific infrastructure issues, it calls for a comprehensive analysis of the zoning changes' impact.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony by Daisy Calone shows a strong alignment with several key reference talking points. She focuses on the impact of the zoning changes on neighborhood character, the favoring of developers over existing residents, and the concerns about increased density in low-density areas. Her arguments about the loss of community input and the need for comprehensive analysis also align with the reference talking points.\n\nWhile Calone doesn't touch on all the reference talking points (such as claims about housing shortage or the public engagement process), the points she does make are very closely related to the provided talking points. Her testimony appears to be independently formulated but aligns strongly with the main themes of the reference talking points.\n\nThe language used is not identical to the reference talking points, but the core arguments and concerns are very similar. This suggests that Calone may be aware of these talking points or that these concerns are widely shared among opponents of the zoning changes.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

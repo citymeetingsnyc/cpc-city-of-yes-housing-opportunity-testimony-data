@@ -1,0 +1,55 @@
+{
+    "testimony": {
+        "name": "Paul Graziano",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/paul-graziano-urban-planner-and-land-use",
+        "start_time_in_seconds": 13312.898,
+        "end_time_in_seconds": 13489.604,
+        "for_or_against": "Against",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [],
+        "key_points": [
+            "The city's population is similar to 1960 levels, with recent population loss not accounted for in the plan",
+            "There are 800,000 more housing units now than in 1960",
+            "Current zoning can accommodate 16-20 million people if built to maximum potential",
+            "The proposed zoning could accommodate over 50 million people",
+            "The plan will devastate low, middle, and high-density communities",
+            "Single-family zoning will be eliminated, converting to two-family baseline",
+            "Potential for significant density increase in low-density areas",
+            "Claims the plan is not 'gentle density' but 'apocalyptic' for communities",
+            "Represents over 200 organizations opposing the City of Yes initiative"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Paul Graziano, identifies himself as an urban planner and land use consultant working with organizations opposing the \"City of Yes\" proposal.\n\n2. He mentions population statistics:\n   - NYC's current population is similar to 1960, with only about 100,000 more people.\n   - The city has lost a significant number of people in the last 4 years.\n\n3. He discusses housing units:\n   - There are 800,000 more housing units now than in 1960.\n   - Current zoning can accommodate 16 to 20 million people if built out to maximum potential.\n   - The proposed zoning could accommodate over 50 million people.\n\n4. He argues that the proposal will \"devastate communities\" across different density levels.\n\n5. He provides an example of how the proposal would affect his neighborhood:\n   - Two 50x100 parcels could be combined for a 20-unit apartment building.\n   - Single-family zoning would be eliminated, converting to 2-family baseline.\n   - Additional accessory dwelling units (ADUs) may be allowed.\n\n6. He characterizes this as \"apocalyptic\" for low, middle, and even some high-density communities.\n\n7. He criticizes the City Planning Commission and Department of City Planning for what he calls \"propaganda.\"\n\n8. He mentions opposition from community boards and civic organizations outside of Manhattan.\n\nThese points align closely with several of the reference talking points, particularly regarding population statistics, claims of housing shortage being misleading, and concerns about neighborhood character and density changes.",
+        "talking_point_evidence": [
+            {
+                "quote": "We have the same population more or less in the city of New York that we had in 1960. We have about a 100,000 people more. We've lost an enormous number of people over the last 4 years, which are not being accounted for in this plan. We continue to lose more people.",
+                "analysis": "This quote directly supports the reference talking point about claims of housing shortage being misleading. It uses very similar language and makes the same argument about recent population decline.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "The zoning that we have today, the quote unquote outdated zoning that we have today, can accommodate 16 to 20 million people if it is built out to its maximum potential.",
+                "analysis": "This quote aligns closely with the reference talking point about existing zoning being able to accommodate millions more people. It makes the same argument using similar specific numbers.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "This will absolutely devastate communities, not just low density communities, but even middle and upper density, high density communities.",
+                "analysis": "This quote supports the reference talking point about the proposals dramatically changing neighborhood character. While it doesn't use the exact same language, it conveys the same concern about widespread negative impacts on communities.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "I live in a single family zone, in a transit zone. I have 20 homes on my block. Most of them are 50 by a 100 or larger, which is typical. If 2 of those houses are purchased at 50 by a 100 and they're within a 100 feet of a corner and those two parcels are eligible for an apartment building, they'll whoever buys those 2 parcels will be able to build a 20 unit apartment building up to 20 units just on that property alone.",
+                "analysis": "This quote provides a specific example that supports the reference talking point about enabling much denser development in low-density neighborhoods. It illustrates how the proposal could dramatically increase density in a single-family area.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "This is not gentle density. This is apocalyptic for low density communities and middle density communities as well, and even some high density communities.",
+                "analysis": "This quote strongly supports the reference talking point about low-density neighborhoods being unfairly targeted. It emphasizes the severe impact on these communities, aligning with the sentiment expressed in the reference talking points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony of Paul Graziano is very closely related to the reference talking points. He makes several arguments that are nearly identical to those in the reference talking points, particularly regarding population statistics, the capacity of existing zoning, and the potential impacts on low-density neighborhoods. The language and specific examples he uses strongly suggest that he is drawing from similar sources or arguments as the reference talking points.\n\nKey areas of alignment include:\n1. Questioning the need for rezoning based on recent population declines\n2. Arguing that existing zoning can accommodate significant population growth\n3. Expressing concern about dramatic changes to neighborhood character, especially in low-density areas\n4. Characterizing the proposals as favoring dense development over existing community preferences\n\nWhile Graziano doesn't touch on every point in the reference list (such as parking requirements or the public engagement process), the points he does make are very closely aligned with the reference talking points. His testimony could easily be seen as an elaboration or specific application of the arguments presented in the talking points.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}

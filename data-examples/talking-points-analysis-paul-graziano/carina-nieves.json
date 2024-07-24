@@ -1,0 +1,49 @@
+{
+    "testimony": {
+        "name": "Carina Nieves",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/carina-nieves-on-opposition-to-city-of-yes-for",
+        "start_time_in_seconds": 9960.136,
+        "end_time_in_seconds": 10159.63,
+        "for_or_against": "Against",
+        "borough": "Queens",
+        "neighborhood": "Richmond Hill",
+        "stated_affiliations": [],
+        "key_points": [
+            "Low density communities are being targeted for transit-oriented development",
+            "Residents chose these communities for light, air, space, and tranquility",
+            "The proposal may lead to harassment of property owners by developers",
+            "Lower density zones have helped keep rents lower for low and middle-income residents",
+            "Community Board 9 preserved lower density zoning in 2009 after a diligent rezoning process",
+            "Previous upzoning along Jamaica Avenue and Atlantic Avenue has not resulted in significant affordable housing development",
+            "New apartment buildings in the area are not affordable for the local community",
+            "The community is against the City of Yes proposal"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "1. The testimony focuses on concerns about changes to low-density neighborhoods, which aligns with several reference talking points.\n2. The speaker mentions \"transit oriented development\" targeting their community, which relates to the talking point about denser development in low-density areas.\n3. There's a strong emphasis on preserving neighborhood character, which directly corresponds to a key reference talking point.\n4. The testimony discusses rezoning efforts and their impacts, which aligns with talking points about favoring developers and changing neighborhood dynamics.\n5. The speaker mentions issues with affordability in new developments, which indirectly relates to the talking point about proposals favoring developers over existing residents.\n6. There's no direct mention of citywide population changes or specific claims about housing shortages, which are present in the reference talking points.\n7. The testimony doesn't discuss loss of local control or environmental concerns, which are prominent in the reference talking points.\n8. While the overall sentiment aligns with the reference talking points, the specific examples and focus areas are somewhat different.",
+        "talking_point_evidence": [
+            {
+                "quote": "People have moved into these communities for a reason for for light, air, and space, and for tranquility to get away from this from the hustle and bustle of Manhattan or other areas that have a lot of apartment building.",
+                "analysis": "This quote supports the talking point about preserving neighborhood character in low-density areas. While not using identical language, it expresses the same sentiment about why people choose to live in these neighborhoods.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Low density community that is targeted for transit oriented development because we have the J train and the A train to ourself.",
+                "analysis": "This quote relates to the talking point about enabling much denser development in low-density neighborhoods. It doesn't use the same language but identifies the same issue of targeting low-density areas for development.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "This proposal the proposal of an a ADUs in transit oriented and is one way to force property owners in these areas of the city to be harassed by developers to sell our our properties to build, baby, build, or build back better for use of political jargon.",
+                "analysis": "This quote supports the talking point about proposals favoring developers over existing residents. While not using identical language, it expresses a similar sentiment about developers pressuring existing property owners.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "So I'm against the city of yes, and our our communities are against the city of yes.",
+                "analysis": "This quote, while not directly related to a specific talking point, summarizes the overall opposition to the proposed changes, which aligns with the general sentiment of the reference talking points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows a moderate level of alignment with the reference talking points. While it doesn't cover all the points mentioned in the reference, it strongly emphasizes preserving neighborhood character and expresses concerns about increased development in low-density areas. The speaker's arguments about the reasons people choose to live in these neighborhoods and the potential negative impacts of transit-oriented development align well with the reference talking points about dramatically changing neighborhood character and targeting low-density areas.\n\nHowever, the testimony doesn't touch on some key points from the reference, such as claims about housing shortages, citywide population changes, loss of local control, or environmental concerns. The speaker focuses more on specific local examples and personal experiences rather than broader policy arguments.\n\nThe overall sentiment of opposition to the \"City of Yes\" proposal and concern about the impact on existing communities is consistent with the reference talking points, even if the specific details and focus areas differ somewhat.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

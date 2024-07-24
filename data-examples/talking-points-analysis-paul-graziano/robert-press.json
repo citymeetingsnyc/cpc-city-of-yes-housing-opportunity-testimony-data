@@ -1,0 +1,46 @@
+{
+    "testimony": {
+        "name": "Robert Press",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/robert-press-from-bronx-community-board-11-on-city",
+        "start_time_in_seconds": 27813.602,
+        "end_time_in_seconds": 27986.254,
+        "for_or_against": "Against",
+        "borough": "Bronx",
+        "neighborhood": "Morris Park",
+        "stated_affiliations": [
+            "Bronx Community Board 11"
+        ],
+        "key_points": [
+            "Bronx Community Board 11 voted overwhelmingly against the City of Yes for Housing Opportunity",
+            "Parking mandate may work in Manhattan but not in other boroughs",
+            "Council District 13 in the East Bronx has already produced significant affordable housing without this initiative",
+            "The process was rushed and incomplete information was provided to Community Board 11",
+            "Concerns about inadequate parking spaces for new housing developments",
+            "The plan does not control or make housing affordable, it just increases housing supply",
+            "AMI calculation method needs to be changed to make housing truly affordable in the Bronx",
+            "Current 'affordable' housing in the Bronx is still too expensive"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step and compare it with the reference talking points:\n\n1. The testimony is from a member of Bronx Community Board 11, who states that the board voted against the City of Yes Housing Opportunity proposal.\n\n2. The speaker mentions issues with parking mandates, which aligns with one of the reference talking points about removing parking requirements.\n\n3. There's a mention of new housing being built in the Bronx, which somewhat counters the claim of a housing shortage in the reference talking points.\n\n4. The testimony criticizes the process as being rushed and lacking complete information, which aligns with the reference point about questionable public engagement.\n\n5. The speaker mentions concerns about inadequate parking spaces for new developments, which relates to the infrastructure concerns in the reference points.\n\n6. There's a critique of how affordability is calculated, which doesn't directly align with any specific reference talking point but relates to the overall theme of housing affordability.\n\n7. The testimony doesn't strongly emphasize many of the key points from the reference talking points, such as changes to neighborhood character, loss of local control, or environmental concerns.\n\nWhile there are some alignments, the testimony doesn't closely follow or extensively use the language from the reference talking points. It seems to be more focused on local Bronx issues and specific concerns about the proposal's implementation.",
+        "talking_point_evidence": [
+            {
+                "quote": "Let's say that the parking mandate may work in Manhattan, but not in the 4 out of boroughs.",
+                "analysis": "This quote relates to the reference talking point about removing parking requirements. The speaker is suggesting that reducing parking requirements might be problematic outside of Manhattan, which aligns with the talking point's claim that this change favors developers over existing residents.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "So Council District 13 will be getting new affordable housing without the city of yes housing opportunity to say that this process was not rushed is felt is false as your branch representative Paul Phillips did not give Community Board 11 all the information it needed as we found out that after his Bronx meeting with the Bronxboro delegation, there was more information that we found out, so he rushed it.",
+                "analysis": "This quote relates to the reference talking point about questionable public engagement. The speaker is claiming that the process was rushed and that complete information wasn't provided, which supports the talking point about limited outreach and complex proposals being difficult for the public to understand.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "To the person who said 200 parking spaces at 1601 Bromstale Avenue is enough. There are 24108 units of housing. It is ridiculous that only 200 parking spaces will be there. Where will the other 2200 plus or more cars be parked?",
+                "analysis": "This quote indirectly relates to the reference talking point about environmental and infrastructure concerns. While the talking point doesn't specifically mention parking, this concern about inadequate parking spaces for new developments falls under the broader category of infrastructure issues.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            }
+        ],
+        "analysis": "The testimony shows some alignment with the reference talking points, but it's not closely following them or using very similar language. The speaker touches on a few points that are mentioned in the reference talking points, such as concerns about parking requirements, rushed public engagement, and infrastructure issues. However, the testimony is more focused on local Bronx issues and specific concerns about the proposal's implementation rather than echoing the broader arguments presented in the reference talking points.\n\nThe testimony doesn't extensively cover many of the key points from the reference talking points, such as changes to neighborhood character, loss of local control, or environmental concerns beyond parking. It also presents some information that seems to counter the reference talking points, such as mentioning new affordable housing being built in the Bronx, which goes against the claim of a misleading housing shortage.\n\nWhile there are some similarities, the overall tone and focus of the testimony appear to be more independently formed based on local concerns rather than closely aligning with or directly using the reference talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

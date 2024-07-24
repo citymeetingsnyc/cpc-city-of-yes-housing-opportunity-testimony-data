@@ -1,0 +1,37 @@
+{
+    "testimony": {
+        "name": "Christopher Leon Johnson",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/christopher-leon-johnson-on-opposing-city-of-yes",
+        "start_time_in_seconds": 18384.578,
+        "end_time_in_seconds": 18570.53,
+        "for_or_against": "Against",
+        "borough": "Queens",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [],
+        "key_points": [
+            "The City of Yes initiative will result in unaffordable, luxury housing",
+            "The plan caters to developers and those with higher incomes (80-120% AMI) rather than those with lower incomes (30% AMI or less)",
+            "The initiative will displace current residents",
+            "Community boards are influenced by lobbyists and developers",
+            "Calls for term limits and elected positions for community boards",
+            "Labels the initiative as 'City of Mess' instead of 'City of Yes'"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze this testimony step by step:\n\n1. The speaker, Christopher Leon Johnson, identifies himself as a member of the public and not affiliated with any organization or lobbyist group.\n\n2. He opposes the \"City of Yes\" proposal, which he refers to as \"City of Mes.\"\n\n3. His main arguments against the proposal are:\n   a. It's focused on luxury housing, not truly affordable housing.\n   b. It benefits developers and those with higher incomes (80-120% AMI) rather than those with lower incomes (30-40% AMI).\n   c. It will lead to displacement of current residents.\n   d. It's supported by politicians who are aligned with developers.\n\n4. He also criticizes community boards, suggesting they are influenced by lobbyists and should have term limits and be elected rather than appointed.\n\n5. Comparing to the reference talking points:\n   a. There's some alignment on the idea that the proposal favors developers over existing residents.\n   b. The testimony doesn't directly address many of the specific points in the reference talking points, such as changes to neighborhood character, environmental concerns, or loss of local control.\n   c. The focus on affordability and AMI levels is not explicitly mentioned in the reference points.\n\n6. The overall tone and opposition to the proposal align with the reference talking points, but the specific arguments and focus areas are different.",
+        "talking_point_evidence": [
+            {
+                "quote": "This is all about, you know, built for people that make 80 AMI, 90 AMI, 90% 80%, 100 percent, 120 percent AMI. It's not about the people that fix it, that make it 30% AMI or 4% AMI, and less than less than 30% AMI.",
+                "analysis": "This quote aligns with the reference talking point about proposals favoring developers over existing residents. While the reference point doesn't specifically mention AMI levels, both the quote and the talking point suggest that the proposals benefit certain groups at the expense of others.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "This is the developer plan guys. We had to pose this this concept. This this is called the city of Mes. It's not CES, city of Mes. And This this is gonna really destroy New York City.",
+                "analysis": "This quote supports the general sentiment of the reference talking points that the proposals favor developers and will have negative impacts on the city. However, it doesn't make the same specific claims about neighborhood character or environmental concerns.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows some alignment with the reference talking points in terms of overall opposition to the \"City of Yes\" proposal and the belief that it favors developers over existing residents. However, the specific arguments and focus areas differ significantly. \n\nThe testimony primarily focuses on affordability issues and AMI levels, which are not explicitly mentioned in the reference talking points. It also criticizes community boards, which is somewhat contrary to the reference points that emphasize the importance of local control.\n\nWhile both the testimony and the reference points oppose the proposal, they do so for different reasons and with different emphases. The testimony doesn't address many of the specific concerns raised in the reference points, such as changes to neighborhood character, environmental impacts, or the claims about housing shortages being misleading.\n\nThe alignment is more in the overall sentiment of opposition rather than in the specific arguments or evidence presented.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

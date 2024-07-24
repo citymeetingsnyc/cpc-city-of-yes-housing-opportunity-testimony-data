@@ -1,0 +1,59 @@
+{
+    "testimony": {
+        "name": "Meta Brunzema",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/meta-brunzema-from-the-collective-for-community",
+        "start_time_in_seconds": 8432.573,
+        "end_time_in_seconds": 8624.033,
+        "for_or_against": "Against",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Collective for Community, Culture, and Environment, LLC"
+        ],
+        "key_points": [
+            "Appreciates the goal of affordable housing but cannot endorse current proposals without modifications",
+            "Zoning changes are too numerous to be adequately reviewed as a whole",
+            "Lack of affordability requirements in the proposal",
+            "Increased supply is needed for low-income housing, not luxury housing",
+            "Universal affordability preference is unpredictable and voluntary",
+            "Proposal neglects local context beyond zoning density",
+            "Concerns about reduced rear and side yards, lot sizes, and FAR increases in low-density districts",
+            "Worries about loss of trees and permeability in medium to high-density districts",
+            "Elimination of public review for many zoning changes",
+            "Issues with campus development changes reducing open space and potentially causing displacement",
+            "Agrees with increased housing density in town centers and transit-oriented districts, but notes lack of affordability requirements",
+            "Concerns about allowing R5 density in R1 and R2 districts",
+            "Supports allowing accessory dwelling units but worried about increased lot coverage",
+            "Suggests that expanded transfer of air rights from landmark buildings should include affordable housing requirements",
+            "Adaptive reuse changes are potentially positive but lack affordability requirements",
+            "Reducing parking is commendable but must consider limitations of on-street parking and mass transit accessibility"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step in relation to the reference talking points:\n\n1. The testimony acknowledges the need for affordable housing but expresses concerns about the current proposals, which aligns with the general sentiment in the reference talking points.\n\n2. The testimony mentions that the zoning changes are numerous and can't be adequately reviewed as a whole, which echoes the reference point about the complexity of the proposals.\n\n3. The testimony argues that increased supply alone is not adequate, particularly for luxury housing, which partially aligns with the reference point about misleading claims of housing shortage.\n\n4. The testimony criticizes the lack of consideration for local context, including infrastructure capacity, neighborhood character, and displacement risk. This aligns closely with several reference talking points about neighborhood character, environmental concerns, and favoring developers over residents.\n\n5. The testimony expresses concerns about reduced yard spaces, lot sizes, and increased density in low-density districts, which aligns with the reference point about unfairly targeting low-density neighborhoods.\n\n6. The testimony mentions the elimination of public review for many changes, which directly corresponds to the reference point about loss of local control over development.\n\n7. The testimony agrees with increased housing density in transit-oriented districts but notes the lack of affordability requirements, which partially aligns with the reference points about favoring developers.\n\n8. The testimony expresses concerns about parking changes, which aligns with the reference point about removing parking requirements to increase developer profits.\n\nWhile there are several points of alignment, the testimony is more nuanced and balanced than the reference talking points. It acknowledges some positive aspects of the proposals while raising concerns, whereas the reference talking points are more uniformly negative.",
+        "talking_point_evidence": [
+            {
+                "quote": "City of YES, neglect neglect local context beyond zoning density. It should consider population growth, income, infrastructure capacity services, neighborhood character, climate risk, and potential for displacement.",
+                "analysis": "This quote closely aligns with multiple reference talking points about neighborhood character, environmental concerns, and infrastructure impacts. It supports the idea that the proposals do not adequately consider local context and potential negative impacts.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Many of the changes to yard, open space, and height regulations in most zoning designations subject to DCP or BSA permits would become as of right. Thus eliminating public review of different contexts.",
+                "analysis": "This quote directly relates to the reference talking point about loss of local control over development. It supports the claim that community input would be reduced for many projects.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "In low density district, reduced rear and side yards, lot sizes, f a r increases are concerning.",
+                "analysis": "This quote supports the reference talking point about low-density neighborhoods being unfairly targeted. It expresses concern about increased density in these areas, which aligns with the reference point's perspective.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "While reducing parking is commendable, eliminating parking mandates must consider the limitations of on street parking As it is voluntary, parking may be included in market rate developments.",
+                "analysis": "This quote partially aligns with the reference talking point about removing parking requirements to increase developer profits. While the testimony sees some merit in reducing parking, it also raises concerns about the impact, which is similar to the reference point's perspective.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows a moderate level of alignment with the reference talking points. While it shares some concerns raised in the reference points, such as changes to neighborhood character, loss of local control, and impacts on low-density areas, it presents a more balanced view. The testimony acknowledges some potential benefits of the proposals while raising specific concerns.\n\nThe testimony doesn't use the same strong language or rhetoric as the reference talking points. It focuses more on specific zoning and urban planning aspects rather than broader claims about population decline or developer favoritism. The testimony also suggests modifications rather than outright rejection of the proposals.\n\nOverall, while there are clear similarities in the concerns raised, the testimony appears to be an independent analysis rather than a direct repetition of the reference talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

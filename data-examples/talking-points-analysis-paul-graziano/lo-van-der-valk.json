@@ -1,0 +1,47 @@
+{
+    "testimony": {
+        "name": "Lo van der Valk",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/lo-van-der-valk-president-of-carnegie-hill",
+        "start_time_in_seconds": 43708.895,
+        "end_time_in_seconds": 43932.78,
+        "for_or_against": "Against",
+        "borough": "Manhattan",
+        "neighborhood": "Upper East Side",
+        "stated_affiliations": [
+            "Carnegie Hill Neighbors"
+        ],
+        "key_points": [
+            "Supports goals of increasing affordable housing but has specific concerns",
+            "Opposes changes to Madison Avenue special preservation district",
+            "Concerned about height increase from 75 to 105 feet in RBH zones",
+            "Objects to shortening of required minimum rear yards from 30 to 20 feet",
+            "Opposes allowing rear yards to be completely covered to a height of 15 feet for non-dwelling residential uses",
+            "Suggests avenues and avenue corners as appropriate places for height increases",
+            "Concerned about increased reliance on CPC authorizations instead of public reviews",
+            "Believes extended boundaries for transferring development rights may be too generous",
+            "Fears that 20% height increase for affordable housing may displace existing affordable units and mainly provide luxury housing"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Lo van der Valk, represents Carnegie Hill Neighbors from the Upper East Side of Manhattan.\n2. They support the goal of increasing affordable housing but have specific concerns.\n3. They discuss the Madison Avenue special preservation district, emphasizing its historical importance.\n4. They express concerns about changes to mid-block regulations, including increased height allowances and reduced rear yard requirements.\n5. They mention concerns about increased reliance on authorizations by the City Planning Commission, potentially bypassing public review.\n6. They touch on the transfer of development rights for landmark buildings.\n7. They briefly mention universal affordability preferences and express concern about potential displacement of existing affordable units.\n\nNow, let's compare this to the reference talking points:\n\n1. There is some alignment with concerns about neighborhood character, particularly regarding height increases and changes to mid-block regulations.\n2. The testimony doesn't directly address claims of housing shortage or population decline.\n3. While the testimony expresses some concerns that could be seen as favoring existing residents, it's not as strongly worded as the reference talking points.\n4. The testimony doesn't specifically mention low-density neighborhoods being targeted.\n5. There is some alignment on concerns about loss of local control, particularly regarding increased reliance on CPC authorizations.\n6. Environmental concerns are touched on briefly (green donut spaces), but not extensively.\n7. The testimony doesn't mention anything about the public engagement process.\n\nOverall, while there is some alignment with the reference talking points, particularly regarding neighborhood character and local control, the testimony is more focused on specific zoning details and is less oppositional in tone than the reference talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "We think this height increase is too great. It would alter the character of the network.",
+                "analysis": "This quote aligns with the reference talking point about proposals dramatically changing neighborhood character. However, it's focused on a specific aspect (height increase) rather than making a broad claim about the entire proposal.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "We understand that the required minimum mirror yards will be allowed to be shortened from 30 to 20 feet. We think this will have a serious detrimental impact on on the green donut spaces in in the midlocks.",
+                "analysis": "This quote somewhat relates to the environmental concerns mentioned in the reference talking points, specifically about loss of green space. However, it's more focused on specific zoning details rather than making broad claims about environmental impact.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            },
+            {
+                "quote": "Regarding the increase, and comprehensive reliance on authorizations by its CPC rather than the existing system of permits requiring. In many cases, public reviews such as you are we understand that this will think this side stepping of the public review should be cut back.",
+                "analysis": "This quote aligns with the reference talking point about loss of local control over development. It expresses concern about bypassing public review, which is similar to the point about removing community board input.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows some alignment with the reference talking points, particularly in concerns about changes to neighborhood character and loss of local control over development. However, the testimony is more focused on specific zoning details and regulations, and it's less oppositional in tone compared to the reference talking points. \n\nThe speaker expresses support for the goal of increasing affordable housing, which is not present in the reference talking points. Additionally, many of the key points from the reference talking points (such as claims about housing shortage being misleading, targeting of low-density neighborhoods, and concerns about the public engagement process) are not addressed in this testimony.\n\nWhile there are some shared concerns, the testimony doesn't use the same language or make the same broad claims as the reference talking points. It's more nuanced and focused on specific aspects of the proposal rather than making sweeping statements against it.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

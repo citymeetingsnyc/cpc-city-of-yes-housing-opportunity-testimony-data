@@ -1,0 +1,51 @@
+{
+    "testimony": {
+        "name": "Lucy Koteen",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/lucy-koteen-from-brooklyn-on-environmental",
+        "start_time_in_seconds": 47583.63,
+        "end_time_in_seconds": 47774.02,
+        "for_or_against": "Against",
+        "borough": "Brooklyn",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [],
+        "key_points": [
+            "Environmental concerns related to construction and cement production",
+            "Existence of empty structures and housing units throughout the city",
+            "Criticism of MIH (Mandatory Inclusionary Housing) for not providing affordable housing",
+            "Suggestion to focus on distributing existing housing rather than building new",
+            "Recommendation to fill empty units and repurpose existing buildings",
+            "Concern about the abundance of high-end housing construction",
+            "Criticism of what is considered 'affordable' housing (80-130% AMI)",
+            "Suggestion to subsidize lower-income families in existing units instead of building new",
+            "Proposal to help landlords bring empty units up to code",
+            "Concern about the loss of sky view and increased shadows due to high-rise construction"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "1. The testimony focuses primarily on environmental concerns and questions about the necessity of new construction.\n2. There are some overlaps with the reference talking points, particularly regarding environmental issues and skepticism about the need for new housing.\n3. However, the testimony doesn't directly mirror most of the specific points made in the reference talking points.\n4. Let's analyze the similarities and differences:\n\n- Environmental concerns: The testimony emphasizes the environmental impact of construction, which aligns with the reference point about environmental concerns, though the specifics differ.\n- Questioning housing shortage: Both the testimony and talking points challenge the idea of a housing shortage, but from different angles.\n- Existing empty units: The testimony focuses on filling existing empty units, which isn't directly mentioned in the talking points.\n- Affordability issues: Both mention concerns about affordability, but the testimony doesn't use the same developer-focused framing as the talking points.\n- Neighborhood character: The testimony briefly mentions changes to the skyline, which loosely relates to the talking point about neighborhood character.\n- Public engagement: The testimony doesn't discuss the public engagement process, which is a key point in the reference talking points.\n\n5. Overall, while there are some thematic similarities, the testimony doesn't closely follow the structure or specific arguments of the reference talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "Environmental concerns. I read that the problem of cement, the production of cement, accounts for 8% of global greenhouse gas emissions. The construction section produces almost a quarter of global green sorry. Does that right? Could the construction sector produces almost a quarter of global greenhouse gas emissions.",
+                "analysis": "This quote relates to the environmental concerns mentioned in the reference talking points. While the talking points focus on local environmental issues like green space and flooding, this quote discusses the broader environmental impact of construction. It supports the general idea of environmental concerns related to development, but with a different focus.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "All over the city, there are empty structures and empty housing units. There are thousands. Some say as much as 80,000 Rent controlled and rent stabilized units being warehoused. There are new apartment buildings, mostly high end that sit half empty. As we all know, office buildings have much empty space.",
+                "analysis": "This quote challenges the notion of a housing shortage, which is similar to the reference talking point that claims 'Claims of housing shortage are misleading'. However, the reasoning is different. The testimony focuses on existing empty units, while the talking points mention population decline and existing zoning capacity.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "The question the city should be looking at is do we have a housing shortage, or do we have a distribution distribution problem?",
+                "analysis": "This quote directly questions the existence of a housing shortage, which aligns with the reference talking point that claims 'Claims of housing shortage are misleading'. However, the framing is different, focusing on distribution rather than population changes.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "I hardly recognize Brooklyn for all the new high rises where we used to have 2 to 6 story buildings. Now we have less guide and more shadows.",
+                "analysis": "This quote loosely relates to the talking point about changing neighborhood character. While the talking points focus on allowing commercial uses and denser development in low-density areas, this quote describes the impact of high-rise development on the skyline and sunlight.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            }
+        ],
+        "analysis": "The testimony shares some thematic similarities with the reference talking points, particularly in questioning the need for new housing construction and raising environmental concerns. However, the specific arguments and focus areas differ significantly. \n\nThe testimony primarily emphasizes environmental impacts of construction, the existence of empty units, and the need to address distribution and affordability issues with existing housing stock. While these themes loosely align with some of the reference talking points, the testimony does not directly mirror the main arguments or use similar language to the talking points.\n\nThe testimony doesn't touch on many key aspects of the reference talking points, such as the loss of local control, the public engagement process, or specific claims about favoring developers. The overlaps that do exist are generally at a high level, with different specific arguments or examples being used.\n\nGiven these observations, while there are some shared concerns, the testimony does not appear to be closely following or directly inspired by the reference talking points. The similarities seem more likely to be due to shared general concerns about development and housing policy rather than a direct influence of the talking points on the testimony.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

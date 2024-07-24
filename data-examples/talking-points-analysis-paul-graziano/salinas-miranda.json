@@ -1,0 +1,49 @@
+{
+    "testimony": {
+        "name": "Salinas Miranda",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/salinas-miranda-on-opposing-city-of-yes-for",
+        "start_time_in_seconds": 53150.535,
+        "end_time_in_seconds": 53280.05,
+        "for_or_against": "Against",
+        "borough": "Manhattan",
+        "neighborhood": "Chelsea",
+        "stated_affiliations": [],
+        "key_points": [
+            "The proposal does not include low income and very low income housing",
+            "City of Yes primarily benefits private developers",
+            "It will not solve the homeless crisis",
+            "Height restrictions should be maintained",
+            "Constituents should be included in community decision-making processes",
+            "Concerns about private developers abusing power (e.g., Related Companies in Chelsea)",
+            "Existing buildings only need maintenance and repairs, not demolition",
+            "Opposes changing zoning to increase building heights and population density",
+            "Concerned about the impact on elderly, sick, disabled, and mental well-being of tenants",
+            "Calls for protecting the city from overdevelopment",
+            "Opposes rezoning and demolition in Chelsea",
+            "Suggests implementing rent caps for all housing",
+            "Calls for a comprehensive rent control plan from the mayor"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step and compare it with the reference talking points:\n\n1. The testimony focuses on affordable housing and homelessness, which is not directly addressed in the reference talking points.\n\n2. The speaker claims that \"City of Yes is a plan to service private developers,\" which aligns with the reference talking point about proposals favoring developers over existing residents.\n\n3. The testimony mentions changing zoning to double height and increase population, which relates to the reference point about enabling much denser development in low-density neighborhoods.\n\n4. The speaker expresses concern about changing the aesthetics of their community, which aligns with the talking point about dramatically changing neighborhood character.\n\n5. The testimony mentions open space and trees, which loosely relates to the environmental concerns in the talking points.\n\n6. The speaker calls for protecting the city and keeping height limits, which aligns with the talking point about low-density neighborhoods being unfairly targeted.\n\n7. The testimony doesn't directly address many of the specific points in the reference talking points, such as population decline, parking requirements, or the public engagement process.\n\nWhile there are some alignments, the testimony focuses more on affordable housing and homelessness, which are not major themes in the reference talking points. The alignment is present but not extremely strong.",
+        "talking_point_evidence": [
+            {
+                "quote": "City of Yes is a plan to service private developers.",
+                "analysis": "This quote directly aligns with the reference talking point that claims the proposals favor developers over existing residents. It expresses the same sentiment that the plan is designed to benefit developers rather than addressing the needs of current residents.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "They want to change the zoning to double the height and increase the population and change the aesthetics of our tranquil and cozy community.",
+                "analysis": "This quote supports two reference talking points. It relates to the point about enabling much denser development in low-density neighborhoods and changing neighborhood character. While not using identical language, it expresses similar concerns about increased density and altered community aesthetics.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Keep our height limit and no rezoning of 14 Ellie in Chelsea.",
+                "analysis": "This quote loosely relates to the talking point about low-density neighborhoods being unfairly targeted. While it doesn't mention single-family homes or property taxes, it does express a desire to maintain current zoning and height limits, which is in line with the sentiment of protecting existing neighborhood characteristics.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            }
+        ],
+        "analysis": "The testimony shows some alignment with the reference talking points, but it's not a very close match overall. The speaker touches on some similar themes, such as favoring developers, changing neighborhood character, and concerns about increased density. However, the testimony focuses heavily on affordable housing and homelessness, which are not primary themes in the reference talking points. \n\nThe testimony lacks many of the specific arguments present in the reference talking points, such as population decline, parking requirements, loss of local control, or detailed environmental concerns. The speaker's perspective seems more focused on immediate community impacts and affordable housing issues rather than the broader policy and zoning concerns outlined in the reference talking points.\n\nWhile there are some overlapping concerns, the overall focus and specific arguments differ enough that we can't say there's a high alignment between the testimony and the reference talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

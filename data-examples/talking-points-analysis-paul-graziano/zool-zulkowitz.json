@@ -1,0 +1,51 @@
+{
+    "testimony": {
+        "name": "Zool Zulkowitz",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/zool-zulkowitz-from-manhattan-community-board-5-on",
+        "start_time_in_seconds": 3971.4043,
+        "end_time_in_seconds": 4067.8093,
+        "for_or_against": "Against",
+        "borough": "Manhattan",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Manhattan Community Board 5"
+        ],
+        "key_points": [
+            "The City of Yes deal is not in the public interest",
+            "Concerns about influence of high-powered lobbies on elected officials",
+            "Criticism that the plan prioritizes private interests over public needs",
+            "Concerns about affordability for current residents",
+            "Worries about decreased air quality, light, and open space",
+            "Fear that the plan will not address economic and racial segregation",
+            "Criticism that the plan promotes privatization and commercialization",
+            "Concern that the plan prioritizes profit over people"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "To analyze how closely the testimony is related to the reference talking points, I'll compare the main points and language used in both:\n\n1. The testimony expresses strong opposition to the \"City of Yes\" proposal, which aligns with the overall negative stance in the reference talking points.\n\n2. The testimony questions whether the proposal is in the public interest, suggesting influence from \"high powered lobbies.\" This echoes the reference point about proposals favoring developers over existing residents.\n\n3. The testimony asks rhetorical questions about affordability, clean air, light, open space, and economic/racial segregation. These touch on concerns raised in the reference points about neighborhood character, environmental issues, and infrastructure.\n\n4. The speaker uses the phrase \"surrender of the Commonwealth,\" which relates to the reference point about loss of local control over development.\n\n5. The testimony criticizes the proposal as favoring privatization and commercialization, which aligns with the reference point about favoring developers and allowing commercial uses in residential areas.\n\n6. The speaker doesn't use specific data or quotes that match the reference talking points, but the overall sentiment and concerns are similar.\n\n7. The testimony doesn't mention some specific points from the reference talking points, such as parking requirements, population decline, or the public engagement process.\n\nGiven these observations, I'll now identify specific quotes that relate to the reference talking points and analyze their closeness.",
+        "talking_point_evidence": [
+            {
+                "quote": "Have our electors been influenced by high powered lobbies?",
+                "analysis": "This quote suggests that the proposal may be influenced by powerful interests, which aligns with the reference talking point about proposals favoring developers over existing residents. While not an identical point, it supports the idea that the changes may not be in the best interest of current residents.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Will it give us more clean air? More availability to ever decreasing light, ever decreasing open space, will it decrease economic and racial segregation?",
+                "analysis": "This series of questions touches on environmental and social concerns mentioned in the reference talking points, particularly those related to environmental and infrastructure concerns. While not using identical language, it supports the idea that the proposal may have negative impacts on the quality of life and environment in the city.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "The city of yes is the advocate of public power to private interest It is the surrender of the Commonwealth.",
+                "analysis": "This quote strongly relates to the reference talking point about loss of local control over development. While not using identical language, it conveys a similar sentiment that public control is being given away to private interests.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "It is yes to privatization, yes to crash commercialization, yes the final dehumanization of the New York City streetscape",
+                "analysis": "This quote aligns with the reference talking point about allowing commercial uses in residential areas and changing neighborhood character. It supports the idea that the proposal would lead to increased commercialization and changes to the city's character.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows a significant alignment with the reference talking points, although it doesn't use identical language or cover all the same specific points. The speaker expresses strong opposition to the \"City of Yes\" proposal, echoing many of the concerns raised in the reference talking points. These include worries about the influence of private interests, potential negative impacts on the environment and quality of life, loss of local control, and increased commercialization.\n\nWhile the testimony doesn't provide specific data or examples that match the reference talking points, it conveys a similar overall message and sentiment. The speaker's rhetorical style, using a series of \"yes\" and \"no\" statements, effectively communicates opposition to the proposal in a way that aligns with the concerns raised in the reference talking points.\n\nHowever, the testimony doesn't touch on some specific points mentioned in the reference talking points, such as population decline, parking requirements, or the public engagement process. It also doesn't use the same level of specific detail or examples found in the reference talking points.\n\nGiven these observations, while the testimony is not identical to the reference talking points, it strongly supports many of the same arguments and concerns.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

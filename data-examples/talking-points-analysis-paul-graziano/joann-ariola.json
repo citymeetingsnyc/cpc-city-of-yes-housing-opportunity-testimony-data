@@ -1,0 +1,58 @@
+{
+    "testimony": {
+        "name": "Joann Ariola",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/council-member-joann-ariola-on-opposition-to-city",
+        "start_time_in_seconds": 2991.2424,
+        "end_time_in_seconds": 3198.5134,
+        "for_or_against": "Against",
+        "borough": "Queens",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "NYC City Council"
+        ],
+        "key_points": [
+            "The City of Yes would be an unmitigated disaster in its current form",
+            "Current building regulations exist to protect quality of life",
+            "Homeowners deserve to raise families in the environment they bought into",
+            "The proposal would devastate quality of life for many taxpayers and residents",
+            "It would eliminate community input via ULURP",
+            "It favors large developers over small businesses and homeowners",
+            "New Yorkers deserve a say in their neighborhoods",
+            "Advocating for smart, sustainable development that doesn't destroy suburban community character",
+            "Concerns about preserving one and two-family homes and mom-and-pop shops",
+            "Not opposed to creating more housing, but wants it done in a smarter and more sustainable manner"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "1. Let's analyze the testimony in relation to the reference talking points:\n2. The testimony strongly opposes the \"City of Yes for Housing Opportunity\" proposal, which aligns with the general sentiment in the reference talking points.\n3. The speaker emphasizes protecting neighborhood character and quality of life, which directly relates to the first talking point about dramatic changes to neighborhood character.\n4. The testimony mentions concerns about large developers and the suppression of small businesses and homeowners, which aligns with the talking point about favoring developers over existing residents.\n5. There's a strong emphasis on preserving suburban communities and opposing dense development in low-density areas, which relates to the talking point about unfairly targeting low-density neighborhoods.\n6. The speaker mentions the removal of community board input (ULURP), which directly corresponds to the talking point about loss of local control over development.\n7. While the testimony doesn't explicitly mention environmental or infrastructure concerns, it does advocate for \"smart, sustainable development,\" which somewhat relates to those talking points.\n8. The testimony doesn't address claims of housing shortage or the public engagement process, which are mentioned in the reference talking points.\n\nGiven these observations, let's identify specific quotes that align with the reference talking points and analyze their closeness.",
+        "talking_point_evidence": [
+            {
+                "quote": "The city of yes as it stands would be an unmitigated disaster and we cannot allow it to pass in its current form.",
+                "analysis": "This quote sets the tone for the testimony and aligns with the overall sentiment of the reference talking points, which strongly oppose the proposal. While it doesn't match any specific talking point verbatim, it supports the general opposition expressed in the talking points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "People who invest their life savings into purchasing a home in a residential section of the city's deserve to raise their families in the environment that was currently afforded to them.",
+                "analysis": "This quote closely relates to the talking point about dramatic changes to neighborhood character and unfairly targeting low-density neighborhoods. It emphasizes preserving the existing residential environment, which is a key theme in the reference talking points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "It opens the door for large developers to travel across small businesses and homeowners. And would turn this city into a place where only the interest of those who had the money to to build and self serve their own interests while other community members like mom and pop shops, would see their their voices suddenly suppressed.",
+                "analysis": "This quote directly aligns with the talking point about proposals favoring developers over existing residents. It expresses concern about large developers dominating at the expense of small businesses and homeowners, which is nearly identical to the sentiment in the reference talking points.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "Taking away community board input via Ulerb, and instead handing responsibility over to government could spell the beginning of the end for neighborhoods across the city.",
+                "analysis": "This quote is almost identical to the talking point about loss of local control over development. It specifically mentions the removal of community board input, which is a key point in the reference talking points.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "New Yorkers deserve to have a say in their neighborhoods. They deserve to have the peace and quiet that that they call their in their home, that's what they bought in the suburbs for.",
+                "analysis": "This quote supports the talking point about low-density neighborhoods being unfairly targeted. It emphasizes the desire for quiet, suburban-like living, which aligns with the reference talking points' defense of low-density areas.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows a high degree of alignment with the reference talking points. The speaker, Council Member Joann Ariola, expresses strong opposition to the \"City of Yes for Housing Opportunity\" proposal, which mirrors the overall sentiment of the reference talking points.\n\nKey areas of alignment include:\n1. Concerns about changes to neighborhood character and quality of life\n2. Opposition to favoring developers over existing residents and small businesses\n3. Desire to preserve low-density, suburban-like areas\n4. Strong objection to the loss of community input in development decisions\n\nThe testimony uses similar arguments and, in some cases, nearly identical language to the reference talking points. For example, the mention of removing community board input (ULURP) is directly in line with the talking points about loss of local control.\n\nHowever, the testimony doesn't cover all aspects of the reference talking points. Notably, it doesn't address claims about housing shortage, specific environmental concerns, or criticisms of the public engagement process. Despite these omissions, the overall message and key points are very closely aligned with the reference talking points.\n\nGiven the strong similarities in content and sentiment, it is plausible that the speaker is using or has been influenced by the reference talking points in their testimony.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}

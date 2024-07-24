@@ -1,0 +1,46 @@
+{
+    "testimony": {
+        "name": "Mark Anderson",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/mark-anderson-of-wesley-improvement-society-staten",
+        "start_time_in_seconds": 49024.797,
+        "end_time_in_seconds": 49219.65,
+        "for_or_against": "Against",
+        "borough": "Staten Island",
+        "neighborhood": "North Shore",
+        "stated_affiliations": [
+            "Wesley Improvement Society",
+            "Citibank Group"
+        ],
+        "key_points": [
+            "No need for more housing as housing availability has exceeded need for the past 50 years",
+            "New York City lost about 600,000 residents in the last 3 years",
+            "Current zoning is sufficient for creating needed housing",
+            "North shore of Staten Island could have 2 to 3 times the current occupancy under current zoning",
+            "The proposal is not truly about affordable housing, especially in Staten Island",
+            "Accessory dwelling units are unnecessary and potentially unsafe",
+            "Living in basements is dangerous due to flooding risks from plumbing and groundwater"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Mark Anderson, represents the Wesley Improvement Society on Staten Island.\n2. He opposes the proposal entirely, which aligns with the general sentiment in the reference talking points.\n3. He mentions that housing availability has exceeded need for 50 years, which is similar to the reference point about existing zoning accommodating more people.\n4. Anderson cites a population loss of 600,000 residents in the last 3 years, which is nearly identical to a statistic mentioned in the reference talking points.\n5. He questions the need for more housing, which aligns with the reference points about misleading claims of housing shortage.\n6. The speaker mentions that current zoning on Staten Island's north shore could accommodate 2-3 times the current occupants, supporting the reference point about existing zoning capacity.\n7. He criticizes the affordable housing aspect of the proposal, which isn't directly mentioned in the reference points but aligns with the general skepticism.\n8. Anderson opposes accessory dwelling units, particularly in basements, citing safety concerns. This relates to the environmental and infrastructure concerns in the reference points, though it's more specific.\n9. The speaker doesn't directly mention some key points from the reference talking points, such as changes to neighborhood character, loss of local control, or the public engagement process.\n\nOverall, while the testimony doesn't cover all the reference talking points, it strongly aligns with several key points, particularly regarding population decline, housing capacity, and skepticism about the need for the proposed changes.",
+        "talking_point_evidence": [
+            {
+                "quote": "New York City lost about 600,000 residents in the last 3 years.",
+                "analysis": "This quote is almost identical to a statistic mentioned in the reference talking points. It supports the argument that claims of housing shortage are misleading due to recent population decline.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "We don't understand why the current zoning is is not creating housing to the level that's needed. It seems to be working fine. On the north shore of Staten Island, we we estimate according to current zoning that we could have 2 to 3 times the amount of occupants as we currently have.",
+                "analysis": "This quote supports the reference talking point that existing zoning can accommodate more people. While it's specific to Staten Island, it makes the same argument as the reference point.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "You know, these spaces, I'm an architect, it's horrifying to think that that this proposal would advocate for people to live in basements. And our experience is that the basements have been flooding in in recent years for for 2 reasons.",
+                "analysis": "While this quote doesn't directly match any of the reference talking points, it relates to the environmental and infrastructure concerns mentioned. It provides a specific example (basement flooding) that supports the general point about environmental risks.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony by Mark Anderson shows a high level of alignment with the reference talking points, although it doesn't cover all of them. The speaker's main arguments closely mirror several key points from the reference, particularly regarding population decline, existing housing capacity, and skepticism about the need for zoning changes. \n\nThe most striking similarity is the mention of 600,000 residents leaving New York City, which is almost identical to a statistic in the reference talking points. This suggests that the speaker may be drawing from similar sources or talking points.\n\nAdditionally, Anderson's argument about current zoning being sufficient to accommodate more residents aligns closely with the reference point about existing zoning capacity. His criticism of the proposal and skepticism about the need for more housing also echo the general tone and content of the reference talking points.\n\nWhile the testimony doesn't explicitly mention some aspects like changes to neighborhood character or loss of local control, the overall message and key arguments are very similar to those in the reference talking points. The speaker does bring up some points not explicitly mentioned in the reference, such as concerns about basement dwellings, but these align with the general theme of opposition to the proposal.\n\nGiven these strong similarities in both specific points and overall message, it's plausible that the speaker is familiar with or influenced by the same talking points or sources as those in the reference.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}
