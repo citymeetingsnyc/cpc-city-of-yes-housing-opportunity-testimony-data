@@ -1,0 +1,40 @@
+{
+    "testimony": {
+        "name": "John Woelfling",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/john-woelfling-principal-at-dattner-architects-on",
+        "start_time_in_seconds": 37283.766,
+        "end_time_in_seconds": 37468.31,
+        "for_or_against": "For",
+        "borough": "Brooklyn",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Dattner Architects",
+            "Member of Local Community Board"
+        ],
+        "key_points": [
+            "Current zoning resolution restricts housing production",
+            "The scale of the housing problem requires a big, complex solution",
+            "Personal experience of seeing a family living in a tent in Prospect Park",
+            "Encourages the commission to not exempt some communities from playing their part",
+            "Supports all portions of the City of Yes for Housing Opportunity proposal",
+            "Advocates for a democratic approach where everyone contributes to create a more stable housing supply"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, John Woelfling, is testifying in favor of the \"City of Yes for Housing Opportunity\" proposal.\n2. He has experience as an architect working on affordable housing projects and is also a community board member.\n3. He mentions that the current zoning resolution restricts housing production, which aligns with the general theme of the reference talking points about reforming outdated rules.\n4. The speaker emphasizes the need for a comprehensive solution, which matches the scope of the reference talking points.\n5. He shares a personal anecdote about seeing a family living in a tent, highlighting the urgent need for more housing options.\n6. The speaker specifically mentions not pulling out parking from the proposal, which relates directly to the reference talking points about parking mandates.\n7. He advocates for a democratic approach where all communities contribute, which indirectly supports the idea of city-wide reforms mentioned in the talking points.\n\nWhile the testimony doesn't go into specific details about parking mandates or their effects, it does touch on the general themes of housing affordability, the need for reform, and the importance of including parking changes in the proposal.",
+        "talking_point_evidence": [
+            {
+                "quote": "I would encourage the commission to not exempt some communities from playing their part, not pull out EDUs, not pull out the parking, not pull out UAP, because that will undermine the credibility and I think the approach of having everybody contribute a little bit.",
+                "analysis": "This quote indirectly supports the reference talking points about parking reform. While it doesn't specifically argue for reducing parking mandates, it emphasizes the importance of including parking reforms in the overall proposal. This aligns with the talking points' emphasis on comprehensive parking reform.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "And in those years, I have seen up close and personal the way the current zoning resolution restricts housing production.",
+                "analysis": "This quote supports the general theme of the reference talking points about outdated zoning rules restricting housing production. While it doesn't specifically mention parking mandates, it aligns with the overall argument for zoning reform to increase housing availability.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony is generally supportive of the \"City of Yes for Housing Opportunity\" proposal, which includes parking reforms. While the speaker doesn't directly address many of the specific points mentioned in the reference talking points, there is an overall alignment in the goals and approach.\n\nThe testimony emphasizes the need for comprehensive zoning reform to address housing issues, which is consistent with the reference talking points' argument for updating outdated parking rules. The speaker specifically mentions not exempting parking from the reforms, indicating support for changes to parking regulations, although he doesn't go into the details that the talking points provide.\n\nThe personal anecdote about the family living in a tent underscores the urgency of addressing housing affordability, which is a key theme in the reference talking points, particularly in relation to how parking mandates can increase housing costs.\n\nWhile the testimony doesn't directly discuss the environmental or urban design impacts of parking mandates, the speaker's support for comprehensive reform and inclusion of parking in the changes suggests an openness to the arguments presented in the reference talking points.\n\nOverall, while the testimony doesn't closely mirror the language or specific arguments of the reference talking points, it does support the general direction and some key themes, particularly the need for comprehensive reform including parking regulations.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

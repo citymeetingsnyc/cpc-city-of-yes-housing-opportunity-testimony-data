@@ -1,0 +1,29 @@
+{
+    "testimony": {
+        "name": "Emily Kurtz",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/emily-kurtz-from-riseboro-community-partnership-on",
+        "start_time_in_seconds": 25298.748,
+        "end_time_in_seconds": 25453.596,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "RiseBoro Community Partnership"
+        ],
+        "key_points": [
+            "Support for the City of Yes for Housing Opportunity zoning text amendment",
+            "The pressing need for affordable housing across all neighborhoods in New York City",
+            "The current 1.4% vacancy rate across the city, indicating demand far exceeds supply",
+            "The density bonus for affordable housing as a critical tool for addressing the housing crisis",
+            "The amendment encourages the creation of mixed-income communities, fostering diversity and economic integration",
+            "The amendment allows updating outdated zoning rules to build more housing of every type and affordable housing in every neighborhood",
+            "The importance of creating a fairer, more inclusive city with affordable housing options for all New Yorkers"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step in relation to the reference talking points:\n\n1. The testimony focuses primarily on affordable housing, while the reference talking points are mainly about parking regulations.\n\n2. The testimony mentions \"density bonus for affordable housing\" and \"updating outdated zoning rules\", which aligns with the general idea of zoning reform present in the talking points.\n\n3. There's no direct mention of parking regulations or their impact on housing affordability in the testimony.\n\n4. The testimony emphasizes the need for affordable housing across all neighborhoods, which indirectly relates to the talking point about creating housing affordability and availability.\n\n5. The speaker supports the \"City of Yes for Housing Opportunity\" zoning text amendment, which is likely part of the broader zoning reforms mentioned in the talking points.\n\n6. While both the testimony and talking points aim to address housing issues, they focus on different aspects - the testimony on affordable housing creation, and the talking points on parking regulation reforms.\n\n7. There are no direct quotes that exactly match or strongly support the provided talking points.\n\nGiven this analysis, the testimony has some alignment with the general theme of zoning reform for housing, but does not directly address or support the specific talking points provided about parking regulations.",
+        "talking_point_evidence": [],
+        "analysis": "The testimony is focused on supporting the \"City of Yes for Housing Opportunity\" zoning text amendment, primarily emphasizing the need for affordable housing across New York City. While this aligns with the broader theme of zoning reform to address housing issues, it does not directly address or support the specific talking points provided, which are mainly about parking regulation reforms.\n\nThe testimony mentions updating outdated zoning rules and using density bonuses to create more affordable housing, which indirectly relates to some of the goals mentioned in the talking points, such as increasing housing affordability and availability. However, the speaker does not discuss parking mandates, their impact on housing costs, or any of the other specific points made in the reference talking points.\n\nGiven the lack of direct references to the provided talking points and the focus on a different aspect of housing policy (affordable housing creation rather than parking regulation reform), the testimony cannot be classified as highly aligned or directly supporting the given talking points.",
+        "similarity": "NOT_ALIGNED"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "testimony": {
+        "name": "Robert Poole",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/robert-poole-from-bronx-pro-group-on-city-of-yes",
+        "start_time_in_seconds": 41381.93,
+        "end_time_in_seconds": 41567.453,
+        "for_or_against": "For",
+        "borough": "Manhattan",
+        "neighborhood": "Harlem",
+        "stated_affiliations": [
+            "Bronx Pro Group"
+        ],
+        "key_points": [
+            "Bronx Pro Group supports the City of Yes zoning reform legislation",
+            "There is a dire need for more affordable housing options in NYC",
+            "Their Melrose North project received 67,000 applicants for just 67 lottery units",
+            "Every district should help address the housing affordability crisis",
+            "New York is stronger when people of all economic circumstances can live here",
+            "Personal experience of living in various housing situations in NYC",
+            "City of Yes is a step in the right direction to alleviate the housing crunch",
+            "The legislation will help ensure young families and newcomers can make it in the city"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Robert Poole, represents Bronx Pro Group, an affordable housing developer.\n2. He strongly supports the City of Yes zoning reform legislation.\n3. The main focus of his testimony is on the need for more affordable housing in New York City.\n4. He provides examples of the high demand for affordable housing, mentioning 67,000 applicants for just 67 lottery units.\n5. Poole emphasizes the importance of all districts contributing to addressing the housing affordability crisis.\n6. He shares his personal experience of living in various types of housing in New York City, including shared apartments and what he calls a \"modern day SRO\".\n7. The speaker expresses his desire to raise a family in the city and the need for more housing choices.\n\nNow, let's compare this to the reference talking points:\n\n1. The testimony doesn't directly mention parking mandates or their removal, which is a major focus of the reference talking points.\n2. The speaker doesn't discuss the specific details of the City of Yes proposal, such as its impact on parking or transportation.\n3. However, the testimony does align with the general idea of increasing housing affordability and availability, which is mentioned in the reference talking points.\n4. The personal story about living in various types of housing supports the idea of needing diverse housing options, which is indirectly related to the talking points about reducing parking mandates to allow for more housing.\n5. The testimony doesn't touch on climate change, transportation emissions, or the impact of parking on street life, which are key points in the reference talking points.\n\nOverall, while the testimony supports the City of Yes proposal, it focuses primarily on affordable housing and doesn't directly address many of the specific points mentioned in the reference talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "There's a dire need for more affordable housing options in our city.",
+                "analysis": "This quote aligns with the general sentiment expressed in the reference talking points about increasing housing affordability and availability. However, it doesn't specifically mention parking mandates or their impact on housing costs.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "City of yes, a step in the right direction to alleviate the housing crunch and ensure young families or people just move into the city can make it here.",
+                "analysis": "This statement supports the overall goal of the City of Yes proposal to address housing issues, which is mentioned in the reference talking points. However, it doesn't specifically address parking mandates or other details mentioned in the talking points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony provided by Robert Poole on behalf of Bronx Pro Group is supportive of the City of Yes zoning reform legislation, but it focuses primarily on the need for affordable housing and doesn't directly address many of the specific points mentioned in the reference talking points. \n\nThe testimony emphasizes the high demand for affordable housing and the need for more housing options in New York City. This aligns with the general goal of increasing housing affordability and availability mentioned in the reference talking points. However, the testimony doesn't discuss parking mandates, transportation issues, climate change, or the specific details of how the City of Yes proposal would impact these areas.\n\nWhile there is some overlap in the overall objective of addressing housing issues, the testimony doesn't use language or arguments that closely mirror the provided talking points. The speaker's focus is narrower, concentrating on affordable housing development and his personal experiences with housing in the city.\n\nGiven this analysis, the testimony can be classified as SUPPORTS_TALKING_POINTS. It supports the general idea of zoning reform to address housing issues, but it doesn't closely align with or directly reference the specific arguments presented in the talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

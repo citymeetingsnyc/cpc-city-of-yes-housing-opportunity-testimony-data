@@ -1,0 +1,42 @@
+{
+    "testimony": {
+        "name": "Campbell Munn",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/campbell-munn-from-manhattan-community-board-3-on",
+        "start_time_in_seconds": 52000.832,
+        "end_time_in_seconds": 52151.73,
+        "for_or_against": "For",
+        "borough": "Manhattan",
+        "neighborhood": "East Village",
+        "stated_affiliations": [
+            "Manhattan Community Board 3",
+            "New York City Economic Operation"
+        ],
+        "key_points": [
+            "Support for City of Yes without conditions",
+            "High housing costs for New Yorkers",
+            "City of Yes as a generational proposal for critical zoning reforms",
+            "Need for equal distribution of new housing production across the city",
+            "Historically low vacancy rates forcing people to leave New York City",
+            "Support for more housing and affordable housing in every neighborhood",
+            "Concern about personal future in New York City due to housing costs",
+            "Support for universal affordability preference proposal"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Campbell Munn, is a resident of the East Village and a member of Community Board 3.\n2. He expresses support for the \"City of Yes\" proposal without conditions.\n3. He mentions paying too much for housing, which aligns with the affordability concerns in the reference talking points.\n4. He describes the proposal as \"generational\" and an opportunity for critical reforms in zoning code.\n5. He emphasizes the need for more housing and affordable housing in every neighborhood.\n6. The speaker mentions the city's lowest vacancy rate in history, forcing people to leave New York City.\n7. He expresses concern about his own future in the city due to housing issues.\n\nWhile the testimony strongly supports the \"City of Yes\" proposal, it doesn't directly mention parking mandates or transportation issues, which are the main focus of the reference talking points. The testimony aligns more with the general theme of housing affordability and availability, which is briefly mentioned in the talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "Simply put, I pay too much for housing as to countless new owners.",
+                "analysis": "This quote relates to the talking point about increasing housing affordability, but it doesn't directly mention parking mandates. It supports the general idea that housing costs are too high.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Countless New Yorkers like myself were in desperate need of more housing in every neighborhood, more affordable housing in every neighborhood.",
+                "analysis": "This quote aligns with the talking point about increasing housing affordability and availability. While it doesn't mention parking mandates specifically, it supports the overall goal of the proposed reforms.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony provided by Campbell Munn is primarily focused on supporting the \"City of Yes\" proposal for its potential to address housing affordability and availability issues in New York City. While these concerns are mentioned briefly in the reference talking points, the testimony does not directly address the main themes of the talking points, which are centered around parking mandates, transportation, and climate change.\n\nThe speaker's emphasis on the need for more affordable housing and concern about high housing costs aligns with some of the broader goals mentioned in the talking points. However, the testimony does not make any specific references to parking mandates, transportation issues, or climate change, which are central to the provided talking points.\n\nThe testimony supports the \"City of Yes\" proposal for its potential to reform zoning codes and increase housing production across the city, but it does not delve into the specific mechanisms (like reducing parking mandates) that the talking points focus on.\n\nGiven this analysis, while there is some alignment in the overall goal of increasing housing affordability and availability, the testimony does not closely follow or appear to be directly influenced by the specific talking points provided.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

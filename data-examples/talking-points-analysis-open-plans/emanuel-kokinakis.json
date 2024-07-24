@@ -1,0 +1,39 @@
+{
+    "testimony": {
+        "name": "Emanuel Kokinakis",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/emanuel-kokinakis-from-mega-contracting",
+        "start_time_in_seconds": 44385.98,
+        "end_time_in_seconds": 44525.535,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "MEGA Contracting Development"
+        ],
+        "key_points": [
+            "The City of Yes proposal is necessary and beneficial for affordable housing development",
+            "Current provisions have required unnecessary ULURPs and rezonings for 100% affordable projects",
+            "The proposal will allow for mixed income development, generating low income affordable housing without city subsidy",
+            "The current 485x tax break alone is not sufficient for financial feasibility of new developments in outer boroughs",
+            "The proposal will benefit 100% affordable units providing truly affordable low income housing",
+            "Parking benefits in the proposal will make previously infeasible projects feasible"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Emanuel Kokinakis, is from MEGA Contracting Development, an affordable housing builder and developer.\n2. He supports the City of Yes proposal, stating it's \"absolutely necessary.\"\n3. He mentions that under current provisions, they've had to undergo U Alerts and rezoning for 100% affordable projects, which would not have been necessary if this proposal had been adopted earlier.\n4. He emphasizes that the proposal will allow for mixed-income development, generating low-income affordable housing without city subsidy.\n5. Importantly, he mentions the parking benefits of the proposal, stating that it will make previously infeasible projects feasible.\n\nNow, let's compare this to the reference talking points:\n\n1. The testimony doesn't directly mention most of the specific talking points about parking.\n2. However, the speaker does highlight the parking benefits of the proposal, aligning with the general sentiment of the talking points about parking reform.\n3. The testimony focuses more on the affordable housing aspects of the proposal, which isn't a major focus of the provided talking points.\n4. There's an indirect connection to the point about parking mandates making projects more expensive, as the speaker mentions that the parking benefits will make previously infeasible projects feasible.\n\nWhile there's some alignment, particularly regarding parking benefits, the testimony doesn't closely mirror most of the specific talking points provided.",
+        "talking_point_evidence": [
+            {
+                "quote": "So we we thank you for taking on this endeavor, and we'll conclude my testimony.",
+                "analysis": "This quote shows general support for the proposal, which aligns with the overall sentiment of the talking points. However, it doesn't reference any specific talking point directly.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            },
+            {
+                "quote": "So we absolutely are for this proposal and think that also the parking benefits, which render a lot of projects infeasible, will now become fusible.",
+                "analysis": "This quote supports the idea that current parking requirements make some projects infeasible, which indirectly relates to the talking point about parking mandates increasing costs and rents. However, it doesn't make the exact same argument about cost increases or specific numbers.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony is somewhat related to the reference talking points, but it doesn't closely mirror them. The speaker, Emanuel Kokinakis, focuses primarily on the benefits of the proposal for affordable housing development, which isn't a major theme in the provided talking points. \n\nHowever, there is some alignment when it comes to parking. The speaker mentions that the parking benefits of the proposal will make previously infeasible projects feasible, which indirectly supports the talking points about how current parking mandates increase costs and make housing less affordable.\n\nThe testimony doesn't go into the specific details about parking that are present in many of the talking points, such as the environmental impact, the effect on street life, or comparisons to other cities. Instead, it presents a more general support for the proposal from the perspective of an affordable housing developer.\n\nWhile there is some support for the ideas behind the talking points, particularly regarding parking reform, the testimony doesn't use similar language or make the same specific arguments as the talking points. The alignment is present but not strong enough to suggest that the speaker is directly using these talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

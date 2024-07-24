@@ -1,0 +1,45 @@
+{
+    "testimony": {
+        "name": "Ryder Kessler",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/ryder-kessler-manhattan-community-board-2-member",
+        "start_time_in_seconds": 53480.887,
+        "end_time_in_seconds": 53627.74,
+        "for_or_against": "For",
+        "borough": "Manhattan",
+        "neighborhood": "West Village",
+        "stated_affiliations": [
+            "Manhattan Community Board 2"
+        ],
+        "key_points": [
+            "The current housing crisis is due to not creating enough homes to keep up with population and job growth",
+            "The city is stuck in a 60+ year old zoning regime that needs to change",
+            "There is a crisis of housing affordability, not just affordable housing",
+            "New York needs to add housing of all types across the city",
+            "The City of Yes for Housing Opportunity is necessary but not sufficient to address the crisis",
+            "Dense, walkable neighborhoods are important for fighting climate change",
+            "Making the city affordable, equitable, and sustainable is crucial for maintaining New York's vitality"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Ryder Kessler, is from Manhattan Community Board 2 but speaking for himself.\n2. He mentions the housing affordability crisis in New York City, citing high rents, low vacancy rates, and displacement.\n3. Kessler emphasizes the need to build more housing of all types across the city to address the affordability crisis.\n4. He supports the approval of \"City of Yes for Housing Opportunity\" in its strongest form.\n5. The speaker also mentions the importance of dense, walkable neighborhoods in fighting climate change.\n6. While the testimony doesn't directly mention parking, it does align with some of the broader themes in the reference talking points.\n\nNow, let's compare this to the reference talking points:\n\n1. The testimony doesn't mention parking specifically, which is a main focus of the talking points.\n2. However, the testimony does align with the broader goals mentioned in the talking points, such as increasing housing affordability and availability, and addressing the climate crisis.\n3. The speaker's emphasis on building more housing aligns with the talking points' argument that parking mandates increase housing costs and reduce available space for housing.\n4. The mention of dense, walkable neighborhoods supports the talking points' argument about reducing car dependence and promoting alternative transportation.\n5. While not explicitly stated, the testimony's support for more housing and denser neighborhoods implicitly aligns with the idea of reducing parking requirements to allow for more housing construction.\n\nGiven this analysis, while the testimony doesn't directly reference many of the specific talking points about parking, it does support the broader goals and outcomes that the talking points argue would result from changing parking regulations.",
+        "talking_point_evidence": [
+            {
+                "quote": "We are stuck in a sixty plus year old zoning regime And that status quo is what is leading to the crisis.",
+                "analysis": "This quote aligns with the talking point about outdated parking minimum rules, although it doesn't specifically mention parking. It supports the idea that old zoning laws are contributing to the current housing crisis.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "We must do much more to address this crisis and make New York a place where folks like my parents can could could live today, where people who are fleeing other parts of the country or the world for a place like New York where they can live their full identity and find belonging and find opportunity can have that once again.",
+                "analysis": "This quote supports the overall goal of increasing housing affordability and availability mentioned in the talking points, although it doesn't specifically mention parking regulations.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "So I urge approval of CDS for housing opportunity in its strongest possible form to address the affordability crisis, but also to promote the dense walkable neighborhoods that are our superpower in fighting climate change, which is also an existential threat to the city over the long term.",
+                "analysis": "This quote aligns with several talking points about addressing affordability, promoting walkable neighborhoods, and combating climate change. While it doesn't mention parking specifically, it supports the outcomes that the talking points argue would result from changing parking regulations.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows a moderate level of alignment with the reference talking points, although it doesn't directly address many of the specific points about parking regulations. The speaker supports the \"City of Yes for Housing Opportunity\" proposal and emphasizes the need for more housing to address affordability issues, which aligns with the overall goals mentioned in the talking points. The testimony also touches on themes of climate change and the importance of dense, walkable neighborhoods, which indirectly support the arguments against parking mandates in the talking points.\n\nHowever, the testimony doesn't explicitly mention parking or transportation issues, which are central to many of the reference talking points. The alignment is more in the broader goals and outcomes rather than in specific policy details.\n\nGiven this analysis, the testimony can be classified as SUPPORTS_TALKING_POINTS. While it doesn't make the same specific arguments about parking, it does support the overall objectives that the talking points argue would result from changing parking regulations, such as increased housing affordability and addressing climate change.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

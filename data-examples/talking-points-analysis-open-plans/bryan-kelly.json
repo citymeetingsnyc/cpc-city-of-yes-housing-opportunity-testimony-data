@@ -1,0 +1,41 @@
+{
+    "testimony": {
+        "name": "Bryan Kelly",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/bryan-kelly-president-of-development-at-gotham",
+        "start_time_in_seconds": 38907.527,
+        "end_time_in_seconds": 39036.184,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Gotham Organization"
+        ],
+        "key_points": [
+            "Support for the City of Yes legislation",
+            "Belief in supply-side economics to address housing crisis",
+            "Need for increased housing production in New York City",
+            "UAP (Unified as of Right) will generate more units and permanent affordability",
+            "City of Yes will help repurpose obsolete office buildings",
+            "Mandated parking adds unnecessary costs to housing development",
+            "Importance of small-scale developments in addition to mega projects",
+            "Support for mixed-income housing to retain the 'missing middle' in the city"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Bryan Kelly, is a developer with experience in affordable housing.\n2. He strongly supports the legislation, calling it \"fantastic\".\n3. He mentions that the creation of units will help with the housing crisis, which aligns with the general theme of the talking points about increasing housing availability.\n4. He specifically mentions that \"parking is required in many neighborhoods\" and argues against mandating parking, stating it adds significant cost ($50,000 to $75,000 per unit).\n5. He emphasizes that making construction of affordable housing cheaper and more efficient is important.\n6. The speaker doesn't directly mention climate change, street safety, or public transportation, which are key points in the reference talking points.\n7. However, his argument against mandated parking aligns closely with several of the reference talking points about parking mandates and their impact on housing costs.\n\nNow, let's identify specific quotes that align with the reference talking points:",
+        "talking_point_evidence": [
+            {
+                "quote": "Although parking is required in many neighborhoods, it is also a marketability question and decision. To mandate parking in areas that may need may not need it. Just only adds more cost anywhere from 50 to 75,000 per unit because of the inclusion of parking, making the construction of affordable housing cheaper, they're more efficient, and more obtainable.",
+                "analysis": "This quote directly addresses the issue of parking mandates and their impact on housing costs, which is a key point in the reference talking points. The speaker's argument aligns closely with the talking points about the high cost of parking spaces and how they increase housing costs.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "UAP, whether for all affordable housing or for mixed income housing is going to generate more units and more permanent affordability.",
+                "analysis": "While this quote doesn't directly match any of the reference talking points, it supports the overall theme of increasing housing affordability and availability, which is mentioned in the talking points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows a moderate level of alignment with the reference talking points. While the speaker doesn't cover all the points mentioned in the reference talking points, there is a strong focus on the issues related to parking mandates and their impact on housing costs. The testimony supports the idea of removing parking mandates to make housing more affordable and efficient, which is a key theme in the reference talking points.\n\nHowever, the testimony doesn't touch on several other aspects mentioned in the talking points, such as climate change, street safety, or public transportation. The speaker's focus is primarily on housing production and affordability, with parking mandates being a significant part of that discussion.\n\nThe level of similarity is best described as SUPPORTS_TALKING_POINTS. While there is a strong alignment on the parking mandate issue, the testimony doesn't cover the full range of points mentioned in the reference talking points, and the language used is not so similar as to suggest direct use of the talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "testimony": {
+        "name": "Olivia Killingsworth",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/olivia-killingsworth-actor-and-open-new-york",
+        "start_time_in_seconds": 43407.418,
+        "end_time_in_seconds": 43580.06,
+        "for_or_against": "For",
+        "borough": "Brooklyn",
+        "neighborhood": "South Brooklyn",
+        "stated_affiliations": [
+            "Open New York",
+            "Actor's Equity",
+            "SAG-AFTRA"
+        ],
+        "key_points": [
+            "Support for City of Yes for Housing Opportunity initiative",
+            "Importance of affordable housing for artists and creative professionals",
+            "Advocacy for shared housing and SROs (Single Room Occupancy units)",
+            "Personal experience living in micro apartments and its positive impact",
+            "Concern about the city's ability to welcome new generations of creative workers",
+            "Impact of housing affordability on the vibrancy and creative culture of New York City"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "To analyze the similarity between the testimony and the reference talking points, I'll go through the testimony and compare it to the talking points:\n\n1. The testimony focuses mainly on housing affordability and opportunities, especially for artists and young professionals.\n2. The speaker mentions the \"City of Yes for Housing Opportunity\" initiative, which aligns with the general theme of the talking points about improving housing affordability.\n3. The testimony strongly supports allowing shared housing and SROs, which relates to the talking points about increasing housing affordability and availability.\n4. The speaker doesn't directly mention parking mandates or their removal, which is a significant focus of the reference talking points.\n5. The testimony doesn't discuss climate change, transportation emissions, or incentivizing/disincentivizing driving, which are key points in the reference talking points.\n6. The speaker doesn't mention specific cost savings related to parking spaces or comparisons to apartment costs, which are detailed in the talking points.\n7. There's no mention of other cities that have implemented similar policies, which is discussed in the talking points.\n\nWhile the testimony supports increased housing opportunities and affordability, which aligns with some aspects of the talking points, it doesn't directly address many of the specific points related to parking mandates and their effects.",
+        "talking_point_evidence": [
+            {
+                "quote": "I'm really excited about the city of yes for housing opportunity initiative. I really hope that the planning commission approves this proposal in its strongest possible form so that we can provide new opportunities for New Yorkers to live in more types of housing, especially young artists just starting out.",
+                "analysis": "This quote supports the general idea of increasing housing affordability and availability, which is mentioned in the talking points. However, it doesn't specifically address parking mandates or other details mentioned in the talking points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "I especially wanna focus on the provisions to allow shared housing and SROs or single room occupancy units. I understand apartments with shared kitchens and bathrooms aren't for everyone. But this kind of housing can be a real boom for people just starting out.",
+                "analysis": "This quote supports the idea of increasing housing affordability and availability through alternative housing types. While not directly mentioned in the talking points, it aligns with the overall goal of increasing housing options and affordability.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Even if it's small and it only has like a 2 burner stove and a mini fridge, it's life changing. And in some cases, it can be life saving.",
+                "analysis": "This quote emphasizes the importance of affordable housing options, which relates to the talking points about reducing rent burdens and increasing housing affordability. However, it doesn't directly address the specific points about parking mandates.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony is partially related to the reference talking points, but it focuses on different aspects of housing affordability. The speaker strongly supports the \"City of Yes for Housing Opportunity\" initiative, which aligns with the overall goal of increasing housing affordability and availability mentioned in the talking points. \n\nHowever, the testimony doesn't address many of the specific points mentioned in the reference talking points, such as parking mandates, climate change, transportation emissions, or comparisons to other cities' policies. The speaker instead focuses on the benefits of shared housing and SROs for artists and young professionals, which are not explicitly mentioned in the talking points.\n\nWhile there is some overlap in the general theme of improving housing affordability and opportunities, the specific arguments and focus areas differ significantly between the testimony and the reference talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

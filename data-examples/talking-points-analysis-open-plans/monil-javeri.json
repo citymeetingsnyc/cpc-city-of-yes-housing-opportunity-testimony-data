@@ -1,0 +1,38 @@
+{
+    "testimony": {
+        "name": "Monil Javeri",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/monil-javeri-on-support-for-city-of-yes-and-its",
+        "start_time_in_seconds": 33972.758,
+        "end_time_in_seconds": 34161.46,
+        "for_or_against": "For",
+        "borough": "Queens",
+        "neighborhood": "Woodside",
+        "stated_affiliations": [],
+        "key_points": [
+            "Supports City of Yes proposal, especially for families",
+            "ADUs will allow for caring for aging parents while maintaining some separation",
+            "Reducing parking requirements promotes walkability and community connections",
+            "Increased housing supply can help reduce homelessness",
+            "Affordable housing allows young people to stay in their communities",
+            "Building more housing makes it easier to build and maintain communities",
+            "Personal experience of improved quality of life after moving from car-dependent Long Island to walkable Woodside"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "1. The testimony is from a resident of Woodside, Queens who strongly supports the City of Yes proposal.\n2. The speaker doesn't directly mention parking mandates or their removal, which is a key focus of the reference talking points.\n3. However, the testimony does touch on some related themes:\n   - The benefits of walkable neighborhoods\n   - The importance of building community\n   - The need for more affordable housing\n   - The potential to reduce homelessness through increased housing supply\n4. The speaker mentions \"park Game of Marketing is great\", which might be a misinterpretation of \"parking minimum\", but this is not clear.\n5. The testimony focuses more on personal experiences and family-related benefits of the proposal, rather than the specific policy points in the reference talking points.\n6. There are some thematic overlaps, such as the benefits of walkable neighborhoods and the need for more housing, but the specific arguments don't closely align with the reference talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "Having lived in Long Island where I had to where I had to get my mom to drive me everywhere until I was sixteen, severely limited my independence growing up And and now I live in Woodside where I can walk to get groceries, and I can walk to the train station, I can walk and I can I can walk to work even has allowed me to I've lost weight because I I'm able to do that?",
+                "analysis": "This quote supports the idea of reducing car dependency and promoting walkable neighborhoods, which aligns with the talking points about the benefits of reducing parking mandates. However, it doesn't directly address parking policy.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Texas does not do social services better than New York does. It what they do do is they build more housing and feel that they have a lower rate of homes homesites.",
+                "analysis": "This quote supports the general idea that increasing housing supply can help reduce homelessness, which is tangentially related to the talking points about how reducing parking mandates can increase housing affordability and availability. However, it doesn't directly address parking policy.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            }
+        ],
+        "analysis": "The testimony is somewhat related to the reference talking points, but it doesn't directly address many of the key issues mentioned in the talking points, such as parking mandates, climate change, or specific policy details. The speaker focuses more on personal experiences and the benefits of walkable neighborhoods, which aligns with some of the broader goals mentioned in the talking points, but doesn't use the same language or make the same specific arguments.\n\nThe testimony does touch on themes of housing affordability, community building, and the benefits of less car-dependent neighborhoods, which are related to some of the goals mentioned in the talking points. However, the speaker doesn't explicitly connect these benefits to the removal of parking mandates or other specific policy proposals mentioned in the talking points.\n\nWhile there is some thematic overlap, the testimony doesn't appear to be directly based on or closely aligned with the reference talking points. The speaker seems to be speaking from personal experience and perspective rather than repeating prepared talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

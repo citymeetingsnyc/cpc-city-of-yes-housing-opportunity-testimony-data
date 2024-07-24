@@ -1,0 +1,52 @@
+{
+    "testimony": {
+        "name": "Rachel Simpson",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/rachel-simpson-architect-and-brooklyn-cb6-resident",
+        "start_time_in_seconds": 39115.77,
+        "end_time_in_seconds": 39315.703,
+        "for_or_against": "For",
+        "borough": "Brooklyn",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [],
+        "key_points": [
+            "Support for City of Yes for Housing Opportunity",
+            "Acute housing crisis with rising rents and low vacancy rates",
+            "Not enough housing, especially affordable housing, being built",
+            "Zoning changes are necessary but not sufficient to solve the crisis",
+            "Proposal offers various tools to increase housing",
+            "Minor zoning changes can have significant cumulative impact",
+            "Support for UAP (Unified Affordable Proposal) benefiting nonprofit housing developers",
+            "Encouragement for deeper affordability and stronger guardrails",
+            "Importance of eliminating parking mandates to encourage more housing",
+            "Parking is expensive and values should prioritize people over cars",
+            "Urges approval of the proposal in its strongest form"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Rachel Simpson, is an architect working in affordable housing and a resident of Brooklyn.\n2. She supports the 'City of Yes for Housing Opportunity' proposal.\n3. She acknowledges the current housing crisis, mentioning rising rents and low vacancy rates.\n4. She emphasizes the need for more housing, especially affordable housing.\n5. She supports the proposal's various tools to increase housing, including minor zoning changes.\n6. She specifically mentions and supports the elimination of parking mandates.\n7. She provides details about the high cost of parking construction, citing figures similar to those in the reference talking points.\n8. She argues that people should be valued more than cars, aligning with the idea of prioritizing housing over parking.\n\nNow, let's compare this to the reference talking points:\n\n1. The testimony aligns closely with the point about the high cost of parking construction.\n2. The speaker's support for eliminating parking mandates matches several of the talking points.\n3. The testimony doesn't explicitly mention climate change or transportation emissions, which are in the talking points.\n4. The speaker doesn't discuss the specifics of how parking mandates affect neighborhood walkability or street life.\n5. The testimony doesn't mention other cities that have implemented similar changes.\n\nOverall, while the testimony doesn't cover all the points in the reference talking points, it strongly aligns with the core message about eliminating parking mandates to support housing development and affordability.",
+        "talking_point_evidence": [
+            {
+                "quote": "As Mark Ginsburg noted earlier, parking is incredibly expensive from between 75,000 to upwards of a 150,000 for sub grade structured parking.",
+                "analysis": "This quote directly relates to the reference talking point about the high cost of parking construction. The speaker cites similar figures to those mentioned in the talking points, demonstrating a clear alignment with this specific point.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "That's comparable to the per unit subsidy or more that HPD currently has on their alert term sheets.",
+                "analysis": "This quote supports the talking point about the high cost of parking affecting housing affordability. While not using the exact language from the talking points, it makes a similar argument by comparing parking costs to housing subsidies.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "And lastly, eliminating the parking mandate is incredibly important for encouraging more housing.",
+                "analysis": "This statement directly supports the talking points about eliminating parking mandates to increase housing availability and affordability. It aligns closely with the overall message of the reference talking points.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "They say we build what we value, and I would hope that we value our neighbors more than our cars. People should always come before parking.",
+                "analysis": "While not using the exact language from the talking points, this quote supports the idea of prioritizing housing and people over parking. It aligns with the general sentiment expressed in several of the talking points about the negative impacts of prioritizing parking over housing and other needs.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows a strong alignment with the reference talking points, particularly on the topic of eliminating parking mandates to support housing development and affordability. The speaker, Rachel Simpson, directly addresses the high cost of parking construction and its impact on housing, using figures very similar to those in the talking points. She strongly supports the elimination of parking mandates, which is a key theme in the reference talking points.\n\nWhile the testimony doesn't cover all aspects mentioned in the talking points (such as climate change impacts or examples from other cities), it focuses on the core arguments related to housing affordability and the negative impacts of parking mandates. The speaker's professional background as an architect in affordable housing lends credibility to her arguments, which closely mirror several of the provided talking points.\n\nThe language and specific examples used by the speaker suggest that she is well-informed on the issue and may be drawing from similar sources or arguments as the reference talking points. However, her testimony also includes personal observations and professional insights, indicating that she's not simply reciting prepared talking points but rather incorporating them into her own perspective and experience.\n\nGiven the strong alignment on core issues and the use of similar data points, it's plausible that the speaker is familiar with and potentially influenced by the same arguments presented in the reference talking points, even if she's not directly quoting from them.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}

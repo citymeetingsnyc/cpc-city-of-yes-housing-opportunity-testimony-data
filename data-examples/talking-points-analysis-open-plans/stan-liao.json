@@ -1,0 +1,39 @@
+{
+    "testimony": {
+        "name": "Stan Liao",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/stan-liao-on-strong-support-for-city-of-yes-for",
+        "start_time_in_seconds": 52641.445,
+        "end_time_in_seconds": 52683.88,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [],
+        "key_points": [
+            "Strongly supports the City of Yes with no amendments",
+            "Long-time New York resident",
+            "Rent is extremely expensive in the city",
+            "Friends are moving away due to high costs",
+            "City is in an immense housing crisis",
+            "Urgently need to build more housing of all kinds",
+            "Supports CDBS plan",
+            "Looks forward to more affordable housing being built"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Stan Liao, strongly supports the \"City of Yes\" proposal without amendments.\n2. He mentions being a long-time New Yorker and loving the city.\n3. He points out that rent is extremely expensive in New York City.\n4. He states that many of his friends have moved away due to high costs.\n5. He acknowledges an \"immense housing crisis\" and the urgent need to build more housing of all kinds.\n6. He expresses support for affordable housing being built in the city.\n\nNow, let's compare this to the reference talking points:\n\n1. The testimony doesn't mention parking at all, which is a major focus of the reference talking points.\n2. The speaker does mention the housing crisis and the need for more housing, which aligns with the general theme of increasing housing affordability and availability mentioned in the third talking point.\n3. The testimony touches on the issue of high rents, which is briefly mentioned in the third and sixth talking points.\n4. The speaker doesn't discuss any specific policy details or arguments presented in the talking points, such as climate change, transportation, or the history of parking mandates.\n\nGiven this analysis, the testimony seems to have a limited alignment with the reference talking points. While it supports the general idea of addressing housing affordability, it doesn't use the same arguments or focus on the same specific issues (particularly parking) as the talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "Rent is just extremely expensive here. A lot of my friends who would like to stay are moved to other places.",
+                "analysis": "This quote relates to the issue of housing affordability mentioned in the talking points, but it doesn't directly reference parking mandates or their impact on rent. It's a more general statement about the high cost of living in New York City.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            },
+            {
+                "quote": "And, yeah, you know, like, I fully support Anadorse, the CDBS plan. And I look forward to more affordable housing being built in this great city.",
+                "analysis": "This quote expresses support for affordable housing, which is tangentially related to the talking points about increasing housing affordability. However, it doesn't specifically mention parking mandates or any of the detailed arguments presented in the talking points.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            }
+        ],
+        "analysis": "The testimony shows limited alignment with the reference talking points. While the speaker supports the \"City of Yes\" proposal and mentions issues related to housing affordability and the need for more housing, they do not delve into the specific arguments or policy details outlined in the talking points, particularly regarding parking mandates. The testimony focuses more on personal experiences and a general support for addressing the housing crisis, without engaging with the detailed policy arguments presented in the talking points.",
+        "similarity": "NOT_ALIGNED"
+    }
+}

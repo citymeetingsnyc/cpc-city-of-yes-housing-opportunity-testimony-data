@@ -1,0 +1,45 @@
+{
+    "testimony": {
+        "name": "Bria Donohue",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/bria-donohue-from-american-institute-of-architects",
+        "start_time_in_seconds": 4100.27,
+        "end_time_in_seconds": 4223.8296,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "American Institute of Architects"
+        ],
+        "key_points": [
+            "AIA New York strongly supports the proposed citywide zoning tax amendment, City of Yes for Housing Opportunity",
+            "The proposal eliminates antiquated barriers that restrict development and burden the housing market",
+            "The proposal will create missing middle housing, which is critical for addressing the city's housing needs",
+            "The changes are necessary to address the ongoing housing crisis in NYC",
+            "The proposal will help reach Mayor Adams' goal of creating 500,000 housing units over the next decade",
+            "The proposal addresses the current housing supply deficit and potential future shortages",
+            "The zoning changes are a step in the right direction for creating more affordable housing options"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Bria Donohue, represents the American Institute of Architects, New York.\n2. She strongly supports the proposed citywide zoning text amendment, \"City of Yes for Housing Opportunity.\"\n3. The testimony focuses on the need for more housing, particularly \"missing middle\" housing.\n4. The speaker emphasizes the importance of creating affordable housing and addressing the housing crisis.\n5. The testimony mentions the goal of creating 500,000 housing units over the next decade.\n6. The speaker stresses the importance of increasing housing supply to address the housing deficit.\n\nNow, let's compare this to the reference talking points:\n\n1. The testimony doesn't mention parking at all, which is a major focus of the reference talking points.\n2. Both the testimony and the talking points emphasize the need for housing affordability, but from different angles.\n3. The testimony doesn't discuss climate change or transportation, which are mentioned in the talking points.\n4. Both the testimony and the talking points suggest that current regulations are outdated and need to be reformed.\n5. The testimony focuses more on the general need for housing, while the talking points are more specific about parking regulations.\n",
+        "talking_point_evidence": [
+            {
+                "quote": "This proposal will have widespread effects on New York City's housing market namely creating missing metal housing.",
+                "analysis": "This quote supports the general idea of increasing housing affordability and availability, which is mentioned in the reference talking points. However, it doesn't directly address parking or transportation issues.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "To reach Mayor Adam Moon Chuckle of creating 5500,000 housing units over the next decade, We need we need bold and comprehensive action.",
+                "analysis": "This quote aligns with the general sentiment of the talking points about the need for comprehensive reform, although it doesn't specifically mention parking mandates.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Right now, the name of the game is supply.",
+                "analysis": "This quote indirectly supports the talking points about increasing housing affordability and availability, but it doesn't make the same specific arguments about parking mandates.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            }
+        ],
+        "analysis": "The testimony provided by Bria Donohue is focused on supporting the \"City of Yes for Housing Opportunity\" proposal, emphasizing the need for increased housing supply and affordability in New York City. While there are some general themes that align with the reference talking points, such as the need for zoning reform and increasing housing affordability, the testimony does not directly address many of the specific points mentioned in the reference talking points.\n\nThe testimony doesn't mention parking regulations, transportation issues, or climate change, which are central themes in the reference talking points. Instead, it focuses more broadly on the housing crisis and the need for \"missing middle\" housing.\n\nThere is some overlap in the general sentiment that current regulations need to be updated to address housing issues, but the specifics differ significantly. The testimony is more focused on overall housing supply and affordability, while the talking points are specifically targeting parking mandates and their effects on housing and transportation.\n\nGiven these observations, while there is some alignment in the broader goals of addressing housing affordability, the testimony does not closely follow or appear to be directly influenced by the provided reference talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

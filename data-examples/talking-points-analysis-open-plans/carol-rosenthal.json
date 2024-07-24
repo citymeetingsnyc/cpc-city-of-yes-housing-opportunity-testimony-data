@@ -1,0 +1,44 @@
+{
+    "testimony": {
+        "name": "Carol Rosenthal",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/carol-rosenthal-from-fried-frank-law-firm-on",
+        "start_time_in_seconds": 31929.379,
+        "end_time_in_seconds": 32085.049,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Fried Frank Law Firm",
+            "REBNY Zoning and Design Committee"
+        ],
+        "key_points": [
+            "Support for residential conversion regulations in the City of Yes text",
+            "The proposed text eliminates most zoning issues for commercial to residential conversions",
+            "The text broadens the geographical area for special conversion rules",
+            "Allows buildings up to 1990 to use the conversion rules",
+            "Allows existing building floor area and bulk for conversions",
+            "Allows conversions to supportive housing and dormitories",
+            "Eliminates or reduces the dwelling unit factor",
+            "New tax benefit (AHHC) aligns with conversion rules, requiring 25% affordable units",
+            "Suggests clarification on elimination of required parking for conversions",
+            "Supports the opportunity to convert underutilized space to needed housing"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The testimony primarily focuses on residential conversion regulations in the proposed \"City of Yes\" text.\n2. It mentions eliminating zoning issues for conversions, which could potentially relate to parking requirements.\n3. The speaker specifically asks for clarification on \"the elimination of required parking for conversions.\"\n4. The testimony doesn't directly address most of the talking points about parking mandates and their effects.\n5. There's no mention of climate change, affordability issues related to parking, or encouraging car-centric infrastructure.\n6. The focus is more on converting commercial spaces to residential use, which is not directly addressed in the reference talking points.\n\nGiven these observations, let's look for any potential connections to the reference talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "The COI or COI tax provides a rare opportunity to right size the zoning and land use priorities for the city specifically with conversions to take underutilized space and convert it to critically needed housing and simultaneously meet the and all objectives of reuse.",
+                "analysis": "This quote aligns with the general sentiment of the talking points about making better use of space and addressing housing needs, although it doesn't specifically mention parking. The idea of 'right-sizing' zoning priorities could be seen as indirectly supporting the talking points about reforming outdated parking rules.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            },
+            {
+                "quote": "The revenue committee asks that the new tax clarify the elimination of required parking for conversions, especially in buildings where there had been existing accessory commercial park parking. In order to put conversions on par with the parking requirements for residential new construction.",
+                "analysis": "This quote directly mentions eliminating required parking for conversions, which relates to the talking points about reducing parking mandates. However, it doesn't elaborate on the benefits or reasoning behind this change as extensively as the talking points do.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony primarily focuses on residential conversion regulations and doesn't extensively discuss parking mandates or their effects. While there is a brief mention of eliminating required parking for conversions, the testimony doesn't delve into the broader implications or benefits of reducing parking requirements as outlined in the reference talking points.\n\nThe speaker's main concern is facilitating the conversion of commercial spaces to residential use, which is not directly addressed in the reference talking points. The testimony doesn't touch on issues like climate change, affordability related to parking costs, or the impact of parking on urban design and walkability.\n\nHowever, there is some alignment in the general idea of updating zoning regulations to better meet current needs, particularly in terms of housing. The mention of eliminating required parking for conversions does support one aspect of the reference talking points, albeit without the same level of detail or emphasis.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "testimony": {
+        "name": "Daniel Cohen",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/daniel-cohen-from-the-upper-west-side-on-support",
+        "start_time_in_seconds": 10971.182,
+        "end_time_in_seconds": 11061.569,
+        "for_or_against": "For",
+        "borough": "Manhattan",
+        "neighborhood": "Upper West Side",
+        "stated_affiliations": [],
+        "key_points": [
+            "Supports City of Yes because it would make housing more affordable by alleviating the city's housing shortage",
+            "Strongly in favor of repealing parking mandates, which is environmentally friendly and economically progressive",
+            "Argues that mandatory parking increases rents for all, including those who don't own cars",
+            "Supports legalizing SROs (Single Room Occupancy) as an affordable housing option",
+            "Has personal experience living in an SRO when unable to afford a full apartment",
+            "Hopes City of Yes passes in its full form without any modifications"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "The testimony by Daniel Cohen strongly supports the City of Yes proposal, particularly focusing on two aspects: repealing parking mandates and legalizing SROs. Let's analyze how closely his points align with the reference talking points:\n\n1. Parking mandates:\n- Cohen emphasizes that repealing parking mandates is environmentally friendly and economically progressive.\n- He mentions that forcing developers to build parking increases rents, which aligns with the reference point about parking costs increasing rents.\n- Cohen points out that people without cars (often less wealthy) end up subsidizing those with cars (often wealthier), which indirectly relates to the talking point about parking mandates prioritizing car owners.\n\n2. SROs (Single Room Occupancy):\n- While the reference talking points don't specifically mention SROs, Cohen's support for legalizing them aligns with the overall theme of increasing housing affordability and availability.\n\n3. Overall support:\n- Cohen expresses strong support for the City of Yes proposal, which aligns with the general tone of the reference talking points.\n\nThe testimony doesn't cover all the points in the reference list, but the points it does cover are closely aligned. The language used is different, but the underlying arguments are very similar, especially regarding parking mandates.",
+        "talking_point_evidence": [
+            {
+                "quote": "So when we force developers to build parking, they pass on the costs in the form of higher rents.",
+                "analysis": "This quote directly supports the reference talking point about parking mandates increasing rents. While the language is not identical, the claim is essentially the same.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "People who own cars would be paying for the parking anyway, but people who don't own cars cars have to pay extra rent for something they don't need. And since people who don't own cars tend to be less wealthy than people who do, the ultimate economic effect is that the less wealthy are subsidizing the more wealthy.",
+                "analysis": "This quote supports the reference talking point about parking mandates prioritizing car owners and increasing costs for non-car owners. While not using the same language, it makes a similar argument about the economic inequity of parking mandates.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "So so not only is this environmental for environmentally friendly, it's also economically progressive.",
+                "analysis": "This quote loosely relates to the reference talking points about parking mandates and environmental impact. While not as specific as the reference points, it touches on the same themes of environmental and economic benefits.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony by Daniel Cohen shows a high level of alignment with the reference talking points, particularly in regard to parking mandates. While Cohen doesn't use the exact language or cover all the points in the reference list, his arguments about the economic and environmental impacts of parking mandates closely mirror those in the talking points. \n\nCohen's testimony focuses on two main aspects: repealing parking mandates and legalizing SROs. The parking mandate arguments are very closely aligned with the reference points, making similar claims about increased rents and economic inequity. His points about SROs, while not directly mentioned in the reference talking points, support the overall theme of increasing housing affordability and availability.\n\nThe language and specific examples used by Cohen differ from the reference talking points, but the underlying arguments and sentiments are very similar. This suggests that while Cohen may not be directly using the reference talking points, he is likely well-informed on the issues and arguments supporting the City of Yes proposal.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}

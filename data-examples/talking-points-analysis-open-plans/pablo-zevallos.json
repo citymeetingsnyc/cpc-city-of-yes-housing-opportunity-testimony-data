@@ -1,0 +1,36 @@
+{
+    "testimony": {
+        "name": "Pablo Zevallos",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/pablo-zevallos-tenants-rights-attorney-and",
+        "start_time_in_seconds": 43029.527,
+        "end_time_in_seconds": 43197.223,
+        "for_or_against": "For",
+        "borough": "Manhattan",
+        "neighborhood": "Upper West Side",
+        "stated_affiliations": [],
+        "key_points": [
+            "New York City is experiencing a severe housing shortage, particularly for affordable housing",
+            "The shortage disproportionately affects low-income households and contributes to segregation",
+            "City of Yes for Housing Opportunity will facilitate increased construction of affordable housing",
+            "The policy will combat exclusionary zoning practices",
+            "Legalizing EDUs (Efficient Dwelling Units) offers various benefits, including intergenerational wealth and aging in place",
+            "Lifting restrictions on SROs (Single Room Occupancy) would help provide permanent housing opportunities",
+            "Transit-oriented development and town center zoning would add needed 'missing middle' housing",
+            "Ending required parking mandates would remove barriers to housing goals",
+            "The amendments would make affordable housing more widely available across communities",
+            "Passing these amendments would set a precedent for future city governments to address the housing crisis"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The testimony is primarily focused on supporting the \"City of Yes for Housing Opportunity\" proposal, emphasizing its potential to advance affordable and fair housing.\n\n2. The speaker highlights the housing shortage in New York City, particularly for low-income households and in certain communities.\n\n3. The testimony mentions several policies within the proposal, including:\n   - Facilitating increased construction of affordable housing\n   - Combating exclusionary zoning practices\n   - Legalizing EDUs (Existing Dwelling Units)\n   - Lifting restrictions on building SROs (Single Room Occupancy)\n   - Transit-oriented development\n   - Town center zoning\n   - Ending required parking mandates\n\n4. The speaker specifically mentions that \"ending required parking mandates would remove spatial and cost barriers to these goals,\" which aligns with one of the reference talking points.\n\n5. However, the testimony does not go into detail about parking mandates or their effects, which is a major focus of the reference talking points.\n\n6. The testimony touches on affordability, which is mentioned in the reference talking points, but from a different angle - focusing on the overall housing shortage rather than the specific impact of parking mandates on housing costs.\n\n7. The testimony does not mention climate change, transportation emissions, or the impact on walkability and street life, which are key points in the reference talking points.\n\n8. The testimony does not discuss the history of parking mandates or compare New York City's situation to other cities that have ended parking mandates.\n\nGiven this analysis, while there is some overlap in themes (particularly regarding affordability and the mention of ending parking mandates), the testimony is not closely aligned with the specific arguments presented in the reference talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "And ending required parking mandates would remove spatial and cost barriers to these goals.",
+                "analysis": "This quote directly mentions ending required parking mandates, which is a key point in the reference talking points. However, it doesn't go into the same level of detail about the benefits or rationale for ending these mandates. It simply states that it would remove barriers to the goals of increasing affordable housing and combating exclusionary zoning practices.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony is primarily focused on supporting the \"City of Yes for Housing Opportunity\" proposal as a means to address the housing shortage and affordability crisis in New York City. While it does mention ending required parking mandates as one of several policy changes that would support these goals, it does not delve into the specific arguments about parking mandates that are central to the reference talking points.\n\nThe testimony touches on themes of affordability and housing availability, which are also present in the reference talking points. However, it approaches these issues from a broader perspective of overall housing policy, rather than focusing specifically on the impact of parking mandates.\n\nThe testimony does not address many of the key arguments presented in the reference talking points, such as the impact on climate change, transportation emissions, walkability, street life, or the comparison to other cities that have ended parking mandates. It also doesn't discuss the historical context of parking mandates or the specific costs associated with building parking spaces.\n\nWhile there is some overlap in the general theme of supporting changes to increase housing affordability and availability, the testimony is not closely aligned with the specific arguments and focus of the reference talking points. The mention of ending parking mandates is brief and lacks the detailed argumentation present in the reference talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

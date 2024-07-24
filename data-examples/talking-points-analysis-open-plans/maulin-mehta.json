@@ -1,0 +1,40 @@
+{
+    "testimony": {
+        "name": "Maulin Mehta",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/maulin-mehta-from-regional-plan-association-on",
+        "start_time_in_seconds": 15361.632,
+        "end_time_in_seconds": 15542.088,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Regional Plan Association"
+        ],
+        "key_points": [
+            "New York City is experiencing a significant housing crisis with low vacancy rates and high demand for affordable housing",
+            "Current zoning regulations limit housing construction in many neighborhoods",
+            "The proposal will facilitate the construction of more homes across all five boroughs",
+            "The initiative includes expansion of inclusionary zoning, office conversions, middle-density housing, transit-oriented development, accessory dwelling units, and elimination of parking minimums",
+            "The proposal is designed to equitably and reasonably expand housing stock in every neighborhood",
+            "Without action, housing costs are projected to rise by 25% by 2035, leading to more housing cost burdens",
+            "The current housing deficit of over half a million units could double in the next decade without intervention"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The testimony focuses primarily on the housing crisis in New York City, emphasizing the need for more housing units, especially affordable ones.\n\n2. It mentions several aspects of the \"City of Yes for Housing Opportunity\" proposal, including expansion of inclusionary zoning, office conversions, reintroduction of middle-density housing, transit-oriented development, accessory dwelling units, and elimination of parking minimums.\n\n3. The elimination of parking minimums is the only point that directly relates to the reference talking points provided.\n\n4. The testimony doesn't go into detail about parking minimums, only mentioning it as one of several measures in the proposal.\n\n5. The testimony doesn't discuss any of the specific benefits or rationales for eliminating parking minimums that are mentioned in the reference talking points.\n\n6. The overall focus of the testimony is on the housing crisis and the need for more housing, which aligns with some of the broader themes in the reference talking points, such as increasing housing affordability and availability.\n\n7. However, the testimony doesn't explicitly connect the elimination of parking minimums to these broader housing goals, as the reference talking points do.\n\nBased on this analysis, while there is some overlap in the broader themes of housing affordability and availability, the testimony doesn't closely align with the specific talking points about parking minimums. The mention of eliminating parking minimums is brief and lacks the detailed arguments present in the reference talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "The housing opportunity proposal is designed to tackle these challenges by facilitating the construction of more homes across all five boroughs.",
+                "analysis": "This quote broadly aligns with the reference talking points about increasing housing affordability and availability, but it doesn't specifically mention parking minimums. It's a general statement about the goals of the proposal.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "The proposal includes significant expansion of occlusionary zoning, enables office conversions, reintroduces middle debt necessity, build by leveraging more transit oriented development, enabling accessory dwelling units, and promoting town centers, and eliminates parking minimums among others.",
+                "analysis": "This quote mentions the elimination of parking minimums, which is directly related to the reference talking points. However, it's just listed as one of many measures without any elaboration on its benefits or rationale.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony is primarily focused on the housing crisis in New York City and the broader aspects of the \"City of Yes for Housing Opportunity\" proposal. While it does mention the elimination of parking minimums, which is a key point in the reference talking points, it does so only briefly and without elaboration.\n\nThe testimony aligns with the general theme of increasing housing affordability and availability, which is touched upon in the reference talking points. However, it doesn't delve into the specific arguments about parking minimums that are central to the reference talking points, such as the cost of building parking, the impact on rent, or the environmental and urban design considerations.\n\nThe speaker supports the proposal in its entirety, which includes the elimination of parking minimums, but doesn't specifically advocate for this aspect or provide the detailed rationale found in the reference talking points.\n\nGiven this analysis, the testimony can be classified as SUPPORTS_TALKING_POINTS. It supports the same general goal (increasing housing affordability and availability) and mentions the elimination of parking minimums, but it doesn't closely align with the specific arguments and focus of the reference talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

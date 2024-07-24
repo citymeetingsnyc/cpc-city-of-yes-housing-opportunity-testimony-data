@@ -1,0 +1,43 @@
+{
+    "testimony": {
+        "name": "Theresa Kaplan",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/theresa-kaplan-architect-and-prospect-heights",
+        "start_time_in_seconds": 42322.816,
+        "end_time_in_seconds": 42460.6,
+        "for_or_against": "For",
+        "borough": "Brooklyn",
+        "neighborhood": "Prospect Heights",
+        "stated_affiliations": [],
+        "key_points": [
+            "Support for City of Yes to increase housing affordability and availability",
+            "Personal struggle with rising rental prices in the neighborhood",
+            "Contrast between high investment in brownstone renovations and limited housing stock increase due to outdated zoning policies",
+            "Enthusiasm for transit-oriented development proposal",
+            "Benefits of allowing people to remain in their neighborhoods as housing needs change",
+            "Creating housing that fits residents rather than selecting residents who fit the housing",
+            "Fostering stable communities through diverse housing options"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "To analyze how closely the testimony is related to the reference talking points, I'll go through the testimony and compare it to the provided talking points:\n\n1. The testimony focuses on supporting the \"City of Yes for Housing Opportunity\" initiative, which aligns with the overall goal of the talking points to reform zoning and parking regulations.\n\n2. The speaker mentions the difficulty of affording housing in their neighborhood, which relates to the talking point about increasing housing affordability and availability.\n\n3. The testimony specifically mentions \"transit oriented development,\" which aligns with the talking points about prioritizing active and public transportation over car-centric infrastructure.\n\n4. The speaker discusses how current zoning policies hamstring modest increases to housing stock, which relates to the talking points about outdated parking minimum rules.\n\n5. The testimony doesn't directly mention parking mandates or their removal, which is a significant focus of the reference talking points.\n\n6. The speaker emphasizes the need for diverse housing options to meet changing needs of residents, which indirectly supports the idea of reducing parking mandates to allow for more flexible development.\n\n7. There's no mention of specific issues like climate change, street safety, or the cost of building parking spaces, which are prominent in the reference talking points.\n\nOverall, while the testimony supports the same general initiative and shares some common themes with the reference talking points, it doesn't directly address many of the specific arguments presented in the talking points, particularly those related to parking mandates.",
+        "talking_point_evidence": [
+            {
+                "quote": "City of Yes is a real proposal to address this severe lack of housing across the city.",
+                "analysis": "This quote supports the general idea of increasing housing availability, which is mentioned in the reference talking points. However, it doesn't specifically address parking mandates or affordability issues.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "I am particularly excited about the transit oriented development proposal. Which will make it feasible for New Yorkers to stay within their communities as their housing needs change.",
+                "analysis": "This quote aligns with the talking points about prioritizing public transportation and moving away from car-centric infrastructure. However, it doesn't directly mention parking mandates or their removal.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Seeing the amount that individuals will invest to live in Brownstone, Brooklyn, it is particularly disheartening to know that even modest increases to the housing stock or hamstrung by outdated zoning policy.",
+                "analysis": "This quote supports the idea that current zoning policies are outdated and hinder housing development, which is similar to the talking point about outdated parking minimum rules. However, it doesn't specifically mention parking mandates.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            }
+        ],
+        "analysis": "The testimony supports the \"City of Yes for Housing Opportunity\" initiative and shares some common themes with the reference talking points, such as the need for increased housing availability, transit-oriented development, and updating outdated zoning policies. However, the testimony doesn't directly address many of the specific arguments presented in the talking points, particularly those related to parking mandates, climate change, and the costs associated with building parking spaces.\n\nThe speaker focuses more on personal experiences and the benefits of diverse housing options within communities, rather than the technical aspects of zoning reform and parking regulations. While there is some alignment in the overall goals, the testimony doesn't use the same language or make the same specific arguments as the reference talking points.\n\nGiven this analysis, the testimony can be classified as SUPPORTS_TALKING_POINTS. It supports the same general initiative and some of the underlying principles, but it doesn't make the same specific claims or use very similar language to the reference talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

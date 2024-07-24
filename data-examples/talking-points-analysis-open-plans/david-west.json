@@ -1,0 +1,35 @@
+{
+    "testimony": {
+        "name": "David West",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/david-west-from-zoning-and-design-committee-on",
+        "start_time_in_seconds": 21361.02,
+        "end_time_in_seconds": 21551.219,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "REBNY's Zoning and Design Committee"
+        ],
+        "key_points": [
+            "Supportive of the overall initiative, particularly changes in R6 through R9 districts",
+            "Concerns about height and setback changes in medium and high density districts",
+            "Issues with the proposed text regarding towers and street walls",
+            "Suggestion to exempt residential towers from certain provisions or modify encroachment zone limits",
+            "Request to restore all current exemptions for street walls",
+            "Concern that mandatory setbacks may make buildings more expensive and less efficient",
+            "Broad support for Housing Opportunity initiative with suggestions for improvement"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The testimony is from David West, an architect speaking on behalf of the Redney's zoning and design committee.\n2. The focus of the testimony is on heightened setback changes proposed for medium and high density districts.\n3. The speaker is generally supportive of the changes, stating they will increase housing production.\n4. The main concerns raised are about hours and street walls, focusing on technical aspects of building design and zoning regulations.\n5. The testimony does not mention parking, transportation, climate change, or affordability issues.\n6. The speaker's suggestions are aimed at making the proposal more flexible for building design, not addressing broader urban planning or environmental concerns.\n\nComparing this to the reference talking points:\n1. The testimony does not mention any of the specific points about parking mandates or their effects.\n2. There is no discussion about transportation, climate change, or affordability in the testimony.\n3. The only slight alignment is the general support for increasing housing production, which could indirectly relate to the talking points about housing affordability and availability.\n4. The technical nature of the testimony (focusing on architectural aspects) is very different from the broader urban planning and policy focus of the talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "Overall, I'm very supportive. The text provides new opportunities and includes many helpful changes particularly in our 6th through our 9 districts that I believe will indeed or increased housing production.",
+                "analysis": "This quote expresses support for the zoning changes and mentions increased housing production, which loosely aligns with the talking point about increasing housing affordability and availability. However, the testimony focuses on technical aspects of zoning rather than the broader impacts discussed in the talking points.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            }
+        ],
+        "analysis": "The testimony is primarily focused on technical aspects of zoning and building design, particularly related to setbacks, street walls, and tower regulations. It does not address the main themes present in the reference talking points, which include parking mandates, transportation, climate change, and housing affordability. \n\nThe only slight connection to the talking points is the speaker's general support for increased housing production, which could indirectly relate to the goal of increasing housing affordability and availability mentioned in the talking points. However, this connection is tenuous at best, as the testimony does not elaborate on the broader implications of increased housing production.\n\nThe majority of the testimony deals with specific architectural and zoning concerns that are not mentioned in the talking points at all. There is no discussion of parking, transportation modes, climate change, or the specific economic impacts of current zoning regulations, which are central themes in the talking points.\n\nGiven the lack of alignment between the testimony and the reference talking points, it appears that the speaker is not using or referencing the provided talking points in their testimony. Instead, they are focusing on their own areas of expertise and concern within the field of architecture and urban design.",
+        "similarity": "NOT_ALIGNED"
+    }
+}

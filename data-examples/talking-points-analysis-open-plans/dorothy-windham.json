@@ -1,0 +1,40 @@
+{
+    "testimony": {
+        "name": "Dorothy Windham",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/dorothy-windham-from-open-new-york-on-support-for",
+        "start_time_in_seconds": 6833.4097,
+        "end_time_in_seconds": 6905.2896,
+        "for_or_against": "For",
+        "borough": "Manhattan",
+        "neighborhood": "Upper West Side",
+        "stated_affiliations": [
+            "Open New York"
+        ],
+        "key_points": [
+            "Concern about rising cost of housing for young people",
+            "Support for City of Yes plan to allow New York to grow",
+            "Excitement about creation of permanent affordable housing through UIP proposal",
+            "Support for re-legalization of new NRSROs",
+            "Belief that growth is necessary for New York's future",
+            "Concern about consequences of not building new housing (higher prices, struggling businesses, families squeezed or moving away)",
+            "Hope that City of Yes will make living in New York more affordable"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Dorothy Windham, is a member of Open New York, a pro-housing organization.\n2. She expresses concern about rising housing costs and difficulty seeing a future for herself in New York City.\n3. She strongly supports the City of Yes plan, stating \"We absolutely need the city of yes plan because New York needs to grow.\"\n4. She mentions specific aspects of the plan she's excited about: the creation of permanent affordable housing through the UIP proposal and the re-legalization of new NRSROs.\n5. She emphasizes the need for growth and new housing after \"decades of stagnation.\"\n6. She warns about the consequences of not building more housing: higher prices, struggling businesses, and families being forced to live in undersized apartments or move away.\n7. She sees the City of Yes plan as \"the best way forward\" to address these issues.\n\nNow, let's compare this to the reference talking points:\n\n1. The testimony doesn't directly mention parking mandates or transportation issues, which are a major focus of the reference talking points.\n2. However, the testimony does align with the overall goal of increasing housing affordability and availability, which is mentioned in the talking points.\n3. The speaker's support for growth and new housing indirectly aligns with the talking points about reducing parking mandates to allow for more housing construction.\n4. The testimony doesn't discuss specific details about parking, climate change, or transportation that are prominent in the talking points.\n\nWhile there's some alignment in the overall goal of increasing housing affordability and availability, the testimony focuses more on general support for the City of Yes plan and the need for growth, rather than the specific parking and transportation issues highlighted in the talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "We absolutely need the city of yes plan because New York needs to grow.",
+                "analysis": "This quote indirectly supports the talking points about increasing housing affordability and availability. While it doesn't specifically mention parking mandates, it aligns with the overall goal of promoting growth and development in the city.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Prices will get higher, neighborhood businesses will struggle, and families will either squeeze into undersized apartments or move away.",
+                "analysis": "This quote aligns with the talking points about the negative effects of not addressing housing affordability. It supports the idea that current policies (which could include parking mandates) are contributing to higher prices and housing shortages.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony is generally supportive of the City of Yes plan and emphasizes the need for growth and increased housing affordability in New York City. While it doesn't directly reference the specific talking points about parking mandates and transportation issues, it does align with the overall goal of increasing housing affordability and availability.\n\nThe speaker's focus on the need for growth and new housing indirectly supports the argument for reducing parking mandates, as such reductions could potentially allow for more housing construction. However, the testimony doesn't go into the level of detail present in the reference talking points, particularly regarding parking, transportation, and climate change.\n\nThe alignment between the testimony and the reference talking points is present but not extremely strong. The testimony supports the general direction of the proposed changes without delving into the specific policy details outlined in the talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

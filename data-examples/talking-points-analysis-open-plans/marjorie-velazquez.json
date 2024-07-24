@@ -1,0 +1,41 @@
+{
+    "testimony": {
+        "name": "Marjorie Velazquez",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/marjorie-velazquez-vice-president-of-technyc-on",
+        "start_time_in_seconds": 10798.22,
+        "end_time_in_seconds": 10944.785,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Tech:NYC",
+            "Former NYC City Council Member"
+        ],
+        "key_points": [
+            "The housing crisis is making it difficult for the tech sector to attract and retain talent",
+            "Increasing housing supply, particularly affordable housing, will create a more inclusive city",
+            "City of Yes will make NYC more accessible to essential workers like teachers, nurses, firefighters, and sanitation workers",
+            "The proposal will foster innovation and economic growth by ensuring talented individuals can afford to live in NYC",
+            "Mixed-income housing creates more diverse and vibrant communities",
+            "The proposal is not one-size-fits-all and incorporates community input and context-sensitive planning",
+            "The status quo is not an option, and City of Yes is a bold step towards making NYC more affordable and accessible"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Marjorie Velazquez, is speaking from two perspectives: as a former city council member and as a vice president of Tech:NYC.\n\n2. She emphasizes the housing crisis in New York City, mentioning that it's difficult for residents to find affordable housing.\n\n3. She highlights that the tech sector, a major driver of the city's economy, is struggling to attract and retain talent due to high housing costs.\n\n4. The speaker strongly supports the \"City of Yes\" proposal, stating that it offers a solution by increasing the supply of housing, particularly affordable housing.\n\n5. She mentions that increased housing options will drive down overall housing costs, making the city more accessible to various professions.\n\n6. The testimony focuses on the benefits of affordable housing, creating diverse communities, and fostering innovation and economic growth.\n\n7. While the speaker acknowledges concerns about the impact on existing neighborhoods, she emphasizes that the proposal is not one-size-fits-all and appreciates the community input and context-sensitive planning.\n\nNow, comparing this to the reference talking points:\n\n1. The testimony doesn't directly mention parking mandates or their removal, which is a key focus of the reference talking points.\n\n2. Both the testimony and the talking points emphasize the need for affordable housing and reducing housing costs.\n\n3. The talking points mention specific issues like climate change and transportation, which are not directly addressed in the testimony.\n\n4. While the testimony focuses on the tech sector and overall economic growth, the talking points are more specific about the costs of parking and its impact on rent.\n\n5. The testimony doesn't mention the benefits of removing parking mandates for street life or walkability, which are mentioned in the talking points.\n\nOverall, while there is some alignment in the general goal of increasing affordable housing, the testimony doesn't directly address many of the specific points mentioned in the reference talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "The city of YET's proposal offers a much needed solution by increasing the supply of housing, particularly next income housing, we can create a more inclusive city that benefits everyone.",
+                "analysis": "This quote supports the general idea of increasing housing supply and affordability, which is mentioned in the reference talking points. However, it doesn't specifically mention parking mandates or their removal.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "More housing options, including those debts, like, needed as affordable, will drive down overall housing costs, making us to be more accessible to teachers, nurses, firefighters, sanitation workers, and the countless others who keep New York City running",
+                "analysis": "This quote aligns with the talking point about increasing housing affordability and availability. However, it doesn't mention the specific mechanism of removing parking mandates to achieve this goal.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony by Marjorie Velazquez shows some alignment with the reference talking points, but it is not closely related to many of the specific points mentioned. The testimony focuses on the general need for affordable housing and its benefits for the city's economy, particularly the tech sector. It supports the \"City of Yes\" proposal as a solution to increase housing supply and affordability.\n\nHowever, the testimony does not directly address the main focus of the reference talking points, which is the removal of parking mandates. It doesn't mention parking at all, nor does it discuss specific issues like climate change, transportation, or the impact of parking on rent prices and street life.\n\nWhile both the testimony and the talking points advocate for increased affordable housing, they approach the issue from different angles. The testimony emphasizes the economic benefits and the need to attract and retain talent, while the talking points focus on the specific policy of removing parking mandates and its various impacts on affordability, climate, and urban design.\n\nGiven these differences, the testimony can be classified as supporting some of the general goals mentioned in the talking points, but it does not closely align with the specific policy proposals and arguments presented in the reference talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

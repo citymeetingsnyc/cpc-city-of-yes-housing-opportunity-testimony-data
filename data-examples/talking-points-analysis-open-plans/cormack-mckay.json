@@ -1,0 +1,39 @@
+{
+    "testimony": {
+        "name": "Cormack McKay",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/cormack-mckay-visitor-and-possible-future-resident",
+        "start_time_in_seconds": 51788.86,
+        "end_time_in_seconds": 51980.938,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [],
+        "key_points": [
+            "Support for the City of Yes proposal with additional amendments",
+            "Concern about deliberately leaving property empty and its negative effects on the city",
+            "Proposal for a vacant property tax or fine of $1 per square foot per day or 100% of expected rent",
+            "Suggestion to encourage rapid renovation and development of empty sites",
+            "Promotion of prefabrication and off-site construction methods",
+            "Proposal for a citizen reporting program for vacant properties",
+            "Suggestion to convert vacant commercial properties to emergency residential or tourist accommodation within 30-90 days",
+            "Recommendation for short-term tourist accommodation in buildings not suitable for long-term residential use"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The testimony focuses primarily on vacant properties and their impact on housing availability.\n2. The speaker proposes implementing fines or taxes on vacant properties to encourage their use.\n3. There's a suggestion to convert vacant office and commercial spaces into residential or tourist accommodations.\n4. The testimony mentions prefabrication and off-site construction methods for new developments.\n5. There's no direct mention of parking mandates, car usage, or transportation-related issues.\n6. The speaker's main concern is increasing housing availability and addressing property vacancy.\n\nNow, let's compare this to the reference talking points:\n\n1. The reference points focus heavily on parking mandates and their impact on housing affordability, climate change, and urban planning.\n2. There's a shared concern about housing affordability and availability, but the approaches differ significantly.\n3. The testimony doesn't address any of the specific parking-related issues mentioned in the talking points.\n4. Both the testimony and talking points touch on the idea of adapting to changing needs, but in different contexts (vacant property vs. parking).\n5. Climate change is briefly mentioned in the talking points but not in the testimony.\n6. The testimony's proposals are quite different from the talking points' focus on removing parking mandates.\n\nGiven this analysis, the testimony does not appear to be closely aligned with the reference talking points. While there is a shared general concern about housing availability and affordability, the specific focus and proposed solutions are quite different.",
+        "talking_point_evidence": [
+            {
+                "quote": "I would like to support this proposal with a couple of add on amendments to do this proposal.",
+                "analysis": "This quote shows general support for the proposal, which could potentially include the parking mandate changes mentioned in the talking points. However, the speaker's subsequent comments focus on different issues, making this connection tenuous at best.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            },
+            {
+                "quote": "Office vacancy rates are expected to rise from the current 1 in 5 to 104 by 2026 according to Moody's, and they can resonate using their units probably could be much higher than the estimate of 100,000 or 1.4 as reported.",
+                "analysis": "This quote discusses office vacancy rates, which relates to the talking point about adapting to changing needs in the city. However, the context and proposed solution are different from the parking mandate issue in the talking points.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            }
+        ],
+        "analysis": "The testimony is not closely related to the reference talking points. While both the testimony and the talking points address issues of housing availability and affordability in New York City, they approach these issues from very different angles. The testimony focuses primarily on vacant properties and proposes measures to discourage property vacancy, such as fines and taxes. It also suggests converting vacant office and commercial spaces into residential or tourist accommodations. \n\nIn contrast, the reference talking points center around the removal of parking mandates as a means to increase housing affordability and availability, reduce car dependence, and address climate change. The testimony does not mention parking mandates, transportation issues, or climate change in any significant way.\n\nThe only points of similarity are the general concerns about housing availability and the need to adapt city policies to changing needs. However, these similarities are superficial, and the specific proposals and focus areas are quite different.",
+        "similarity": "NOT_ALIGNED"
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "testimony": {
+        "name": "Sachi Takahashi-Rial",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/sachi-takahashi-rial-board-member-of-open-new-york",
+        "start_time_in_seconds": 41157.12,
+        "end_time_in_seconds": 41328.14,
+        "for_or_against": "For",
+        "borough": "Manhattan",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Open New York",
+            "Manhattan Community Board 5"
+        ],
+        "key_points": [
+            "New York City is issuing fewer housing units per capita than other large cities, including San Francisco",
+            "Support for the entire City of Yes for Housing Opportunity policy package",
+            "Particular support for the universal affordability preference",
+            "Support for allowing office to residential conversion, especially beneficial for Midtown",
+            "Support for more flexible transfer of air rights for landmarks",
+            "The policy changes will make New York City more accessible and inclusive"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Sachi Takahashi-Rial, is a board member of Open New York and Manhattan Community Board 5, speaking in her individual capacity.\n\n2. She mentions living in San Francisco from 2015 to 2020, which was the most expensive city in the country at that time.\n\n3. She expresses surprise at the cost of housing in Manhattan, initially attributing it to New York being \"the best city on Earth.\"\n\n4. Upon research, she learned that housing in New York is expensive because the city is not building enough of it. She states that in the last decade, New York City issued fewer housing units per capita than nearly every other large city, including 40% fewer units than San Francisco.\n\n5. She supports the entire policy package in the \"City of Yes for Housing Opportunity,\" particularly:\n   a) The universal affordability preference\n   b) Allowing office to residential conversion\n   c) More flexible transfer of air rights for landmarks\n\n6. She emphasizes that these policies will make New York City more accessible and inclusive.\n\nComparing this to the reference talking points:\n\n1. The testimony doesn't directly mention parking mandates or their removal, which is a significant focus of the reference talking points.\n\n2. Both the testimony and the talking points address housing affordability, but from different angles. The testimony focuses on increasing housing supply, while the talking points discuss how parking mandates increase housing costs.\n\n3. The testimony supports office to residential conversion, which isn't mentioned in the reference talking points.\n\n4. The testimony doesn't discuss climate change, transportation emissions, or incentivizing/disincentivizing driving, which are key points in the reference talking points.\n\n5. Both the testimony and talking points mention San Francisco, but in different contexts. The testimony uses it as a comparison for housing production, while the talking points mention it as an example of a city that has ended parking mandates.\n\n6. The testimony doesn't discuss the impact of parking on neighborhood walkability or street life, which is mentioned in the talking points.\n\nWhile there is some overlap in the general theme of addressing housing affordability, the specific points and focus areas are quite different between the testimony and the reference talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "New York City issued fewer housing units per capita than nearly every other large city including 40% fewer units than San Francisco.",
+                "analysis": "This quote relates to the talking point about San Francisco, but in a different context. The testimony uses San Francisco as a comparison for housing production, while the talking points mention San Francisco as an example of a city that has ended parking mandates. The connection is tenuous at best.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            },
+            {
+                "quote": "We've heard it set up many times today. New York is in a housing crisis, and the city of yes for housing opportunity is a critical city wide solution.",
+                "analysis": "This quote aligns with the general theme of addressing housing affordability mentioned in the talking points, but it doesn't specifically address parking mandates or other details from the talking points. The connection is supportive but not identical.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony by Sachi Takahashi-Rial focuses primarily on the need for increased housing production in New York City and supports the \"City of Yes for Housing Opportunity\" policy package. While the testimony addresses housing affordability, which is also a concern in the reference talking points, the specific focus and proposed solutions differ significantly.\n\nThe testimony doesn't mention parking mandates, which are a central theme in the reference talking points. Instead, it emphasizes increasing housing supply through measures like office-to-residential conversions and more flexible air rights transfers for landmarks. The testimony also doesn't address climate change, transportation emissions, or the impact of parking on neighborhood walkability, which are key points in the reference talking points.\n\nThere is some overlap in the general theme of addressing housing affordability and mentioning San Francisco as a point of comparison, but the contexts and specifics are quite different. The testimony uses San Francisco to compare housing production rates, while the talking points mention it as an example of a city that has ended parking mandates.\n\nGiven these differences, the testimony cannot be considered closely aligned with the reference talking points. While there is some support for the general idea of addressing housing affordability, the specific approaches and focus areas are quite different.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "testimony": {
+        "name": "Pedro Rodriguez",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/pedro-rodriguez-from-queens-community-board-6-on",
+        "start_time_in_seconds": 20551.828,
+        "end_time_in_seconds": 20744.824,
+        "for_or_against": "For",
+        "borough": "Queens",
+        "neighborhood": "Forest Hills",
+        "stated_affiliations": [
+            "Queens Community Board 6"
+        ],
+        "key_points": [
+            "Support for City of Yes to address the housing crisis",
+            "Neighborhood character is defined by people, not buildings",
+            "Need for a regional solution to housing problems, not piecemeal approaches",
+            "Removal of parking minimums to allow for more diverse and affordable housing options",
+            "Concern for future generations' ability to afford housing in New York City",
+            "Opposition to misinformation about the proposal"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze this testimony step by step:\n\n1. The speaker, Pedro Rodriguez, is speaking in support of the \"City of Yes\" proposal.\n2. He mentions the housing crisis multiple times, which aligns with the reference talking points about increasing housing affordability and availability.\n3. He specifically mentions removing parking minimums, which directly relates to several of the reference talking points.\n4. He argues that removing parking minimums will allow for smaller, more affordable housing developments, which aligns with the talking points about reducing costs and increasing affordability.\n5. He mentions that current parking requirements force developers to build \"massive overbearing buildings,\" which relates to the talking point about how parking mandates affect development.\n6. The speaker discusses how removing parking minimums can encourage other modes of transportation, which aligns with the talking points about prioritizing active and public transportation.\n7. While he doesn't explicitly mention climate change, his point about encouraging other modes of transportation indirectly supports the climate-related talking points.\n8. The testimony doesn't cover all the points in the reference talking points, but it strongly aligns with several key points, particularly those related to parking minimums and housing affordability.\n\nGiven this analysis, the testimony shows a high level of alignment with the reference talking points, often making very similar arguments, especially regarding parking minimums and their effects on housing affordability and development.",
+        "talking_point_evidence": [
+            {
+                "quote": "We need to remove parking minimums. They make low height, high density housing that we are actually quite used to here in New York City. Impossible to build nowadays.",
+                "analysis": "This quote directly addresses the issue of parking minimums, which is a central theme in the reference talking points. It aligns closely with the point about how parking mandates affect development and housing affordability.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "By eliminating parking minimums, then we can not only not only help the environment by encouraging other modes of transportation, but we also allowed the kind of small scale, small lot apartment developments that are cheaper to create.",
+                "analysis": "This quote supports multiple reference talking points. It mentions encouraging other modes of transportation, which aligns with the point about prioritizing active and public transportation. It also discusses how removing parking minimums can lead to more affordable housing development, which is a key theme in the reference talking points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Housing availability here in Forest Hills affects housing costs in Corona, Williamsburg, Whitestone, Morrisburg, the South Bronx, and even Long Island and and and and New Jersey. And the rear diverse. The reverse is true.",
+                "analysis": "While this quote doesn't directly reference a specific talking point, it supports the overall argument about the need for comprehensive reform to address housing affordability. It aligns with the idea that parking reform is part of a larger strategy to address housing issues across the city.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows a high level of alignment with the reference talking points. The speaker, Pedro Rodriguez, makes several arguments that are either identical to or strongly support the key points in the reference talking points. He focuses particularly on the need to remove parking minimums and how this change would affect housing affordability and development patterns.\n\nThe testimony directly addresses the issue of parking minimums, which is a central theme in the reference talking points. Rodriguez argues that these minimums make it impossible to build the kind of low-height, high-density housing that New York City needs, which aligns closely with the talking points about how parking mandates affect development and increase costs.\n\nRodriguez also touches on how removing parking minimums can encourage other modes of transportation, which supports the talking points about prioritizing active and public transportation and indirectly addresses the climate-related arguments in the reference points.\n\nWhile the testimony doesn't cover all aspects of the reference talking points (such as specific statistics on costs or examples from other cities), it strongly aligns with the core arguments about parking reform and its potential impacts on housing affordability and urban development. The speaker's personal anecdotes and concerns about the future of housing in New York City for the next generation add emotional weight to arguments that are very similar to those in the reference talking points.\n\nGiven this high level of alignment in key areas, it's plausible that the speaker is familiar with or has been influenced by the same or similar talking points as those provided in the reference.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}

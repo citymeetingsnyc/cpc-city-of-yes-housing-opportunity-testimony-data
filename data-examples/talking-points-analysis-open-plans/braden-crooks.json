@@ -1,0 +1,34 @@
+{
+    "testimony": {
+        "name": "Braden Crooks",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/braden-crooks-from-designing-the-we-on-historical",
+        "start_time_in_seconds": 22636.307,
+        "end_time_in_seconds": 22823.123,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Designing the We",
+            "Undesign the Red Line"
+        ],
+        "key_points": [
+            "Historical context of structurally racist policies like redlining",
+            "Continuation of exclusionary practices through zoning regulations after the 1968 Fair Housing Act",
+            "Current community processes often benefit wealthier residents and perpetuate exclusion",
+            "Necessity of increasing affordable housing",
+            "Obligation to permanently further fair housing"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze this testimony step by step:\n\n1. The speaker, Braden Crooks, is expressing support for the City of Yes proposal.\n\n2. The testimony primarily focuses on the historical context of exclusionary housing policies and zoning regulations, particularly how they have been used to maintain racial and economic segregation.\n\n3. While the testimony doesn't directly mention parking or transportation, it does touch on broader themes of exclusion and the need for more affordable housing, which aligns with some of the goals of the City of Yes proposal.\n\n4. The speaker emphasizes how zoning regulations have been used as a tool for exclusion, particularly after explicit racial discrimination became illegal. This indirectly relates to the talking points about how current parking mandates can be exclusionary and increase housing costs.\n\n5. The testimony calls for increasing affordable housing, which aligns with the talking points about how reducing parking mandates could lead to more affordable housing options.\n\n6. The speaker doesn't directly address any of the specific points about parking or transportation mentioned in the reference talking points.\n\n7. However, the overall theme of the testimony - the need to reform exclusionary policies and increase housing affordability - is broadly supportive of the goals outlined in the talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "And so I am urging this planning counsel to consider these things that I think there's a lot more that can be built in, there's a lot more that needs to be done, especially when it concerns both in increasing affordable housing, which is an absolute necessity.",
+                "analysis": "This quote supports the general idea of increasing affordable housing, which is mentioned in the reference talking points as one of the benefits of reducing parking mandates. However, the speaker doesn't directly mention parking or transportation issues.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony is broadly supportive of the City of Yes proposal and shares some common goals with the reference talking points, particularly around increasing affordable housing and addressing historical exclusionary policies. However, the testimony does not directly address most of the specific points mentioned in the reference talking points, such as parking mandates, transportation issues, or climate change. \n\nThe speaker focuses more on the historical context of exclusionary zoning and the need to address past injustices, which provides a different perspective on why zoning reform is necessary. While this aligns with the overall goal of the City of Yes proposal, it doesn't closely mirror the specific arguments presented in the reference talking points.\n\nThe testimony does support the idea of increasing affordable housing, which is mentioned in the talking points as a benefit of reducing parking mandates. However, the speaker doesn't make the direct connection between parking policies and housing affordability that the talking points do.\n\nGiven these factors, the testimony can be classified as supporting the general direction of the City of Yes proposal, but it doesn't closely align with the specific talking points provided.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

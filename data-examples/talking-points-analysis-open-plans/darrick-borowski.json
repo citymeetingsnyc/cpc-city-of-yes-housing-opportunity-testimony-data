@@ -1,0 +1,40 @@
+{
+    "testimony": {
+        "name": "Darrick Borowski",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/darrick-borowski-architect-and-member-of-the",
+        "start_time_in_seconds": 9264.07,
+        "end_time_in_seconds": 9427.902,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "AIA"
+        ],
+        "key_points": [
+            "Current zoning code from 1961 has contributed to the housing crisis",
+            "Changing codes is necessary to create affordable housing for all incomes",
+            "Supports proposals in the plan such as bonuses for affordability, housing over retail, legalizing shared living, small apartments, ADUs, and eliminating parking requirements",
+            "Housing affordability is crucial for maintaining New York City's vitality and cultural diversity",
+            "Many New Yorkers, including young professionals and creatives, are struggling to afford housing",
+            "Acknowledges concerns about increased density but believes prioritizing housing creation is necessary",
+            "Urges commissioners to vote yes for City of Yes for Housing Opportunity"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Darrick Borowski, is an architect and member of the Housing Committee of AIA.\n2. He supports the \"City of Yes for Housing Opportunity\" plan.\n3. He mentions several elements of the plan that he supports, including:\n   - Bonuses for affordability\n   - Housing over retail in town centers\n   - Legalizing shared living\n   - Small apartments\n   - ADUs (Accessory Dwelling Units)\n   - Eliminating parking requirements\n4. He discusses the housing crisis in New York City and how the current zoning code has contributed to it.\n5. He emphasizes the need to change the codes to create a city where people of all incomes can afford to live.\n6. The speaker doesn't go into great detail about parking requirements, but he does mention eliminating them as one of the positive aspects of the plan.\n7. His testimony focuses more on the overall housing affordability issue rather than specific talking points about parking.\n\nComparing this to the reference talking points:\n- The testimony aligns with the general idea of reforming parking requirements to address housing affordability.\n- However, the speaker doesn't delve into the specific arguments about parking that are present in the reference talking points.\n- There's no mention of the costs associated with parking construction or its impact on rent.\n- The climate crisis is briefly mentioned, but not directly tied to parking or transportation emissions.\n- The testimony doesn't discuss the potential benefits to street life or walkability that the talking points mention.\n\nOverall, while there is some alignment with the reference talking points, particularly in supporting the elimination of parking requirements, the testimony is broader in scope and less focused on parking-specific issues.",
+        "talking_point_evidence": [
+            {
+                "quote": "In this draft, I see proposals that enable many of the possibilities my colleagues students and IFCS tools to help us get get us out of this current crisis, including bonuses for affordability, housing over retail in town centers, legalizing shared living, small apartments, ADUs, and eliminating parking requirements",
+                "analysis": "This quote mentions eliminating parking requirements as one of several positive aspects of the plan. While it aligns with the general idea of removing parking mandates, it doesn't go into the specific arguments present in the reference talking points. The mention is brief and part of a larger list of changes.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "If we wanna create a city where people of all incomes can afford to live, we must change the codes.",
+                "analysis": "This quote aligns with the general sentiment of the reference talking points about increasing housing affordability. While it doesn't specifically mention parking, it supports the overall goal of changing regulations to improve affordability, which is one of the arguments made in the talking points against parking mandates.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows some alignment with the reference talking points, but it's not highly aligned. The speaker, Darrick Borowski, supports the \"City of Yes for Housing Opportunity\" plan and mentions eliminating parking requirements as one of several positive aspects. However, his testimony focuses more broadly on housing affordability and the need to change zoning codes, rather than delving into specific arguments about parking.\n\nThe testimony touches on some themes present in the reference talking points, such as the need to address housing affordability and the importance of changing outdated regulations. However, it doesn't go into detail about the specific impacts of parking mandates on housing costs, climate change, or street life, which are key points in the reference talking points.\n\nWhile the speaker's support for eliminating parking requirements aligns with the overall goal of the reference talking points, the testimony lacks the depth and specificity of the arguments presented in those points. The speaker's approach is more general, focusing on the broader housing crisis and the need for comprehensive zoning reform.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

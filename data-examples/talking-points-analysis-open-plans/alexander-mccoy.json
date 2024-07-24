@@ -1,0 +1,40 @@
+{
+    "testimony": {
+        "name": "Alexander McCoy",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/alexander-mccoy-marine-corps-veteran-on-city-of",
+        "start_time_in_seconds": 44547.625,
+        "end_time_in_seconds": 44736.562,
+        "for_or_against": "For",
+        "borough": "Manhattan",
+        "neighborhood": "Upper Manhattan",
+        "stated_affiliations": [
+            "Marine Corps",
+            "Open New York"
+        ],
+        "key_points": [
+            "Support for City of Yes initiative, especially for its benefits to veterans",
+            "Current housing prices and rent are unaffordable for many veterans, even with generous benefits",
+            "Exclusionary zoning forces veterans to live in substandard conditions or have long commutes",
+            "New York City has a lower percentage of veterans per capita due to housing issues",
+            "Some community members exploit veterans as props against building new homes",
+            "City of Yes program should be implemented in full to address these issues"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Alexander McCoy, is a veteran and member of Open New York, expressing support for the \"City of Yes\" program.\n\n2. He focuses on how the current zoning system and housing shortage affect veterans, particularly in terms of affordability and accessibility.\n\n3. McCoy provides specific examples of how veterans, even with generous benefits, struggle to afford housing in New York City.\n\n4. He mentions that exclusionary zoning forces veterans to live in substandard conditions with long commutes.\n\n5. The speaker supports the measures of the City of Yes program in full, believing they will help address these issues.\n\nNow, let's compare this to the reference talking points:\n\n- The testimony doesn't directly mention parking mandates or their removal, which is a significant focus of the talking points.\n- However, the speaker's concerns about housing affordability and accessibility align with some of the broader goals mentioned in the talking points, such as increasing housing affordability and availability, and reducing rent burdens.\n- The testimony doesn't discuss climate change, transportation emissions, or incentivizing public transit, which are key points in the reference talking points.\n- While the speaker mentions \"exclusionary restrictive zoning,\" he doesn't go into specifics that match the talking points about parking mandates or their effects on development costs.\n\nOverall, while there is some alignment in the general goal of improving housing affordability and accessibility, the testimony doesn't directly reference or closely align with most of the specific talking points provided.",
+        "talking_point_evidence": [
+            {
+                "quote": "I'd like to express my enthusiasm stick support for city of yes in its entirety and specifically explain why it's necessary for its provisions for the welfare of New York City's veteran.",
+                "analysis": "This quote shows support for the City of Yes program, which includes the parking reform mentioned in the talking points. However, it doesn't specifically mention parking or any of the detailed points in the reference talking points. It's a general statement of support that could potentially encompass the parking reforms, but doesn't directly reference them.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            },
+            {
+                "quote": "The exclusionary restrictive zoning of much of New York City forces veterans to live in substandard conditions and have lengthy lengthy commutes.",
+                "analysis": "This quote aligns with the general idea in the talking points about how current zoning rules can negatively impact housing affordability and accessibility. However, it doesn't specifically mention parking mandates or any of the detailed points about parking's impact on housing costs. The connection is there in spirit but not in specifics.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony by Alexander McCoy is primarily focused on the challenges veterans face in finding affordable housing in New York City due to current zoning regulations. While the testimony supports the \"City of Yes\" program, which includes the parking reforms mentioned in the reference talking points, it doesn't directly address most of the specific points about parking mandates, climate change, or transportation.\n\nThe testimony aligns with the broader goals of increasing housing affordability and accessibility, which are mentioned in the talking points. However, it doesn't delve into the specific mechanisms (like removing parking mandates) that the talking points emphasize.\n\nThe speaker's concerns about \"exclusionary restrictive zoning\" and its effects on housing affordability do indirectly support some of the arguments made in the talking points, but the connection is not explicitly made in the testimony.\n\nGiven this analysis, while there is some alignment in the overall goals and a general support for zoning reform, the testimony doesn't closely mirror or directly reference most of the specific talking points provided. The testimony is more focused on the veteran-specific aspects of housing affordability rather than the broader urban planning and environmental concerns highlighted in the talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "testimony": {
+        "name": "Alex Armlovich",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/alex-armlovich-housing-policy-manager-at-niskanen",
+        "start_time_in_seconds": 44760.3,
+        "end_time_in_seconds": 44935.383,
+        "for_or_against": "For",
+        "borough": "Queens",
+        "neighborhood": "Jackson Heights",
+        "stated_affiliations": [
+            "Niskanen Center",
+            "Jackson Heights Historic District"
+        ],
+        "key_points": [
+            "Endorses every component of the City of Yes initiative",
+            "Concerned that the transit-oriented component allowing 3-5 story buildings near mass transit may not be enough",
+            "Argues that 3 stories near transit is too small for New York City, comparing it unfavorably to Washington DC's height limits",
+            "Believes the proposal will meet 20% of Mayor Adams' housing goal, but visible changes to neighborhoods will be minimal",
+            "Calls for bigger Transit-Oriented Development (TOD) to reach 500,000 units and restore MTA ridership to 2019 levels",
+            "Supports the initiative but warns it may not be sufficient for New York City's needs as a global megacity"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Alex Armlovich, is from the Niskanen Center and endorses every component of the \"City of Yes\" proposal.\n\n2. He focuses mainly on the transit-oriented development (TOD) aspect, arguing that the proposed 3-5 story buildings near mass transit might not be sufficient for New York City.\n\n3. He suggests that 3-story buildings near transit are too small for NYC, comparing it unfavorably to Washington DC's height limits.\n\n4. The speaker acknowledges that the proposal will meet 20% of Mayor Adams' housing goal but argues that the changes will be barely noticeable.\n\n5. He advocates for \"bigger TOD\" to reach the 500,000 units goal and restore MTA ridership to 2019 levels.\n\n6. The testimony doesn't directly mention parking mandates, affordability issues related to parking, or climate change concerns as outlined in the reference talking points.\n\n7. However, there is an implicit alignment with the idea of increasing housing density near transit, which relates to some of the goals mentioned in the talking points (e.g., increasing housing affordability and availability, addressing climate crisis).\n\n8. The speaker's emphasis on allowing taller buildings near transit aligns with the general spirit of the talking points about reducing car dependence and prioritizing public transportation.",
+        "talking_point_evidence": [
+            {
+                "quote": "3 stories may be transit oriented development in the Dallas suburbs but this is New York City. Our historic prewarvanacular is the six story walk up building. Three stories near transit and jobs is is arguably a historic and a contextual in this city.",
+                "analysis": "This quote supports the idea of increasing density near transit, which aligns with the general goal of reducing car dependence mentioned in the talking points. However, it doesn't directly reference any specific talking point.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "To get to 500,000 units and to get MTA ridership back to 2019 levels, we need big bigger TOD. We're gonna need to do better than half half or less of DCs, already pretty small high limits near transit.",
+                "analysis": "This quote indirectly supports the talking points about increasing housing affordability and availability, and prioritizing public transportation. It doesn't use the same language but advocates for similar goals.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony is somewhat related to the reference talking points, but it focuses more specifically on the issue of building height limits near transit rather than parking mandates. While the speaker supports increased density and transit-oriented development, which aligns with some of the goals mentioned in the talking points (like increasing housing affordability and availability, and prioritizing public transportation), he doesn't directly address many of the specific points about parking mandates, their costs, or their impact on climate change.\n\nThe testimony does implicitly support the idea of reducing car dependence by advocating for higher density near transit, which aligns with the spirit of the talking points. However, the speaker's main argument is that the proposed height limits are too low for New York City, rather than focusing on the removal of parking mandates.\n\nGiven this analysis, the testimony can be classified as supporting the general goals of the talking points, but it doesn't directly reference or closely align with most of the specific points mentioned.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

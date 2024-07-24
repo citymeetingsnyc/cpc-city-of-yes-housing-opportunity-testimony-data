@@ -1,0 +1,38 @@
+{
+    "testimony": {
+        "name": "Tibita Kaneene",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/tibita-kaneene-from-manhattan-community-board-7-on",
+        "start_time_in_seconds": 27158.594,
+        "end_time_in_seconds": 27339.496,
+        "for_or_against": "For",
+        "borough": "Manhattan",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Manhattan Community Board 7"
+        ],
+        "key_points": [
+            "Strong support for City of Yes with some caveats and suggestions",
+            "Concerns about potential reduction in affordable units due to replacing voluntary inclusionary housing with UAP",
+            "Suggestion for 20% FAR credits for off-site preservation of affordable housing",
+            "Opposition to eliminating public hearings and review by elected officials",
+            "General approval of eliminating obstacles to quality housing developments in non-contextual zoning districts, but with community input",
+            "Support for conversion of nonresidential buildings to residences, with suggested 35-year age requirement",
+            "Approval of creating R11 and R12 district designations, subject to ULURP and mandatory 30% affordable housing",
+            "Disapproval of miscellaneous amendments without additional information",
+            "Disapproval of certain proposals for low-density districts",
+            "Overall support for City of Yes as it addresses the district's top need of affordable housing"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker represents Manhattan Community Board 7 and strongly supports the City of Yes proposal, but with some caveats.\n2. The testimony focuses mainly on affordable housing, zoning changes, and community input.\n3. There is no explicit mention of parking regulations or transportation issues in the testimony.\n4. The speaker's main concerns are about preserving and increasing affordable housing units, maintaining community input in development processes, and specific zoning recommendations.\n5. The reference talking points, on the other hand, are primarily about parking regulations, their impact on housing affordability, climate change, and urban planning.\n6. There is a slight overlap in the general theme of housing affordability, but the specifics differ greatly.\n7. The testimony does not directly address or support any of the specific points made in the reference talking points about parking mandates, transportation, or climate change.\n\nGiven this analysis, it appears that the testimony is not closely aligned with the reference talking points. While both touch on the broader issue of housing affordability, the specific focus and recommendations are quite different.",
+        "talking_point_evidence": [
+            {
+                "quote": "For years, our number one district need has been the patient affordable housing. So overall, we're very pleased with City of Yes. I think that it does goes a long way towards creating more affordable housing for our district and for the whole city.",
+                "analysis": "This quote touches on the general theme of affordable housing, which is mentioned in the reference talking points. However, the testimony focuses on directly creating affordable housing through zoning changes, while the talking points discuss reducing parking mandates as a way to indirectly make housing more affordable. The connection is tenuous at best.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            }
+        ],
+        "analysis": "The testimony is not closely related to the reference talking points. While both the testimony and the talking points address the broad issue of housing affordability in New York City, they approach it from very different angles. The testimony focuses on specific zoning changes, affordable housing requirements, and community input in the development process. In contrast, the reference talking points primarily discuss parking regulations and their impact on housing costs, transportation, and climate change.\n\nThe testimony does not mention parking mandates, transportation issues, or climate change, which are central themes in the reference talking points. The speaker's concerns are more focused on direct measures to increase affordable housing supply and maintain community involvement in the development process.\n\nThe only slight overlap is in the general goal of increasing affordable housing, but the methods and specific recommendations differ significantly. The testimony supports the City of Yes proposal for its potential to create more affordable housing, but does not discuss how parking regulations factor into this goal, which is a key argument in the reference talking points.\n\nGiven these differences, it would be inaccurate to say that the testimony aligns closely with or strongly supports the specific arguments made in the reference talking points.",
+        "similarity": "NOT_ALIGNED"
+    }
+}

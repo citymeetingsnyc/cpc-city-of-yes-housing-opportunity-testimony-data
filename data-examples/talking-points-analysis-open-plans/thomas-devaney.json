@@ -1,0 +1,37 @@
+{
+    "testimony": {
+        "name": "Thomas Devaney",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/thomas-devaney-from-municipal-art-society-on-city",
+        "start_time_in_seconds": 29221.184,
+        "end_time_in_seconds": 29412.713,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Municipal Art Society"
+        ],
+        "key_points": [
+            "City of Yes for Housing Opportunity is a good start to address the housing crisis",
+            "The plan aims to unlock the 'missing middle' in housing typologies",
+            "Supports equitable distribution of housing density across the city",
+            "Supports transit-oriented development, accessory dwelling units, and universal affordability preference",
+            "Supports office-to-residential conversions and elimination of parking requirements",
+            "Projections for new housing units are modest (109,000 by 2039)",
+            "Zoning is just one tool; a comprehensive approach is needed",
+            "The city must ensure social and physical infrastructure meets neighborhood needs with increased density",
+            "MAS will provide further comments on campus infill, community engagement, and heat island impacts"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The testimony primarily focuses on the City of Yes for Housing Opportunity proposal and its potential impact on housing production.\n\n2. The speaker, Thomas Devaney from the Municipal Art Society, generally supports the proposal, viewing it as a good start to addressing the housing crisis.\n\n3. The testimony mentions several aspects of the proposal, including:\n   - Unlocking the \"missing middle\" housing types\n   - Transit-oriented development\n   - Accessory dwelling units\n   - Universal affordability preference\n   - Office to residential conversions\n   - Elimination of parking requirements\n   - Expanding transfer of development rights\n\n4. Of these points, only the elimination of parking requirements directly relates to the reference talking points provided.\n\n5. The testimony doesn't go into detail about parking requirements, merely mentioning their elimination as part of a list of supported measures.\n\n6. The reference talking points, on the other hand, are entirely focused on the benefits of removing parking mandates and their impact on housing affordability, climate change, and urban design.\n\n7. While there is some overlap in the general theme of increasing housing affordability and availability, the testimony doesn't directly address most of the specific arguments made in the reference talking points about parking.\n\n8. The testimony does touch on some broader themes that align with the reference talking points, such as the need for affordable housing and the importance of comprehensive urban planning.\n\nGiven this analysis, while there is some alignment on general themes, the testimony does not closely follow or extensively use the reference talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "We also support incentives for office to residential conversions and the elimination of parking requirements and expanding transfer of landlord development rights.",
+                "analysis": "This quote mentions the elimination of parking requirements, which is a central theme in the reference talking points. However, it's just a brief mention without elaboration, and is part of a list of other supported measures. The testimony doesn't go into the detailed reasoning for eliminating parking requirements that the talking points provide.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony by Thomas Devaney of the Municipal Art Society is only marginally related to the reference talking points provided. While the testimony does mention the elimination of parking requirements, which is the central focus of the reference talking points, it does so only briefly and without elaboration. The majority of the testimony focuses on other aspects of the City of Yes for Housing Opportunity proposal, such as increasing housing density, creating more affordable housing, and addressing the overall housing crisis in New York City.\n\nThe reference talking points, on the other hand, are entirely focused on the benefits of removing parking mandates, discussing their impact on housing affordability, climate change, and urban design. These specific arguments are not reflected in the testimony.\n\nThere is some alignment in the broader themes of increasing housing affordability and availability, which both the testimony and the talking points address. However, the approaches and specific points made are quite different.\n\nGiven this analysis, while there is some support for one of the talking points (elimination of parking requirements), the overall testimony cannot be said to be closely aligned with the reference talking points. The testimony appears to be independently formulated, focusing on a broader range of issues related to the City of Yes proposal, rather than specifically echoing the provided talking points about parking mandates.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

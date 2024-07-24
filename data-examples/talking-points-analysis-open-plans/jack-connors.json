@@ -1,0 +1,41 @@
+{
+    "testimony": {
+        "name": "Jack Connors",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/jack-connors-from-the-permanent-citizens-advisory",
+        "start_time_in_seconds": 52173.535,
+        "end_time_in_seconds": 52358.41,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Permanent Citizens Advisory Committee to the MTA"
+        ],
+        "key_points": [
+            "Support for City of Yes for Housing Opportunity proposal",
+            "Affordable housing crisis hurts MTA riders, with longer commute times compared to other cities",
+            "Racial disparities in commute times, with Black New Yorkers having longer commutes",
+            "Proposal addresses inequities by returning to transit-focused housing policies",
+            "Encourages transit-oriented development and removal of parking mandates",
+            "Potential to improve lives of current and future transit riders",
+            "Calls for additional initiatives like expanding bus lanes and Fair Fares program",
+            "Emphasizes the need to ensure transit infrastructure is accessible to working New Yorkers"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Jack Connors, represents the Permanent Citizens Advisory Committee to the MTA, which advocates for public transit riders.\n2. He strongly supports the \"City of Yes for Housing Opportunity\" proposal.\n3. He mentions that NYC's affordable housing crisis negatively impacts MTA riders, who spend more time in transit compared to other cities.\n4. The testimony highlights racial disparities in commute times, with Black New Yorkers having longer commutes than white New Yorkers.\n5. Connors supports transit-focused housing policies, including accessory dwelling units, transit-oriented development, and the absence of parking mandates.\n6. He emphasizes the importance of connecting new housing to transit to improve ridership and fare revenue for the MTA.\n7. The speaker calls for additional initiatives like expanding bus lanes, zoning for accessibility, and expanding Fair Fares program.\n8. The testimony concludes by stating that exclusionary zoning policies should not put transit infrastructure out of reach for working New Yorkers.\n\nComparing this to the reference talking points:\n- The testimony aligns with the idea of reducing parking mandates, though it's not the main focus.\n- It supports transit-oriented development, which is in line with the talking points about prioritizing public transportation over car-centric infrastructure.\n- The testimony doesn't specifically mention climate change, but it does promote public transit use, which aligns with the climate-related talking points.\n- While the testimony doesn't discuss specific parking-related issues like cost or street life, it does support the overall goal of prioritizing transit over cars.\n- The testimony adds additional context about racial equity and expanding public transit options that are not directly mentioned in the talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "City of yes for housing opportunity addresses these glaring inequities by returning to the transit focused housing policies that enabled our rail networks expansion in the early 20th century. During that time, policies included in the city, yes, for housing opportunities such as accessory dwelling units, transit oriented development, and the absence of parking mandates were known by a different name. Common sense.",
+                "analysis": "This quote directly supports the talking points about reducing parking mandates and promoting transit-oriented development. It frames these policies as a return to historical 'common sense' approaches, which aligns with the talking points' argument for reforming outdated parking rules.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Getting back to basics will help the city and the MTA as both continue to recover. From the from pandemic ridership losses by bringing riders closer to stations, thereby encouraging and improving ridership and simultaneously fair revenue.",
+                "analysis": "This quote supports the talking points about prioritizing public transportation and reducing car dependence. It emphasizes the benefits of transit-oriented development, which aligns with the goals mentioned in the talking points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony from Jack Connors shows a moderate level of alignment with the reference talking points. While it doesn't focus exclusively on parking mandates or repeat the exact language of the talking points, it does support key ideas present in the talking points.\n\nThe testimony strongly advocates for transit-oriented development and mentions the absence of parking mandates as part of a \"common sense\" approach to urban planning. This aligns with the talking points' emphasis on reducing parking mandates and prioritizing public transportation over car-centric infrastructure.\n\nHowever, the testimony doesn't delve into specific details about parking costs, climate change impacts, or street-level effects of parking mandates that are mentioned in the talking points. Instead, it focuses more on the benefits of transit-oriented development for public transportation ridership and addressing racial inequities in commute times.\n\nThe overall message of the testimony supports the general direction of the talking points by advocating for policies that would reduce car dependence and promote public transit use. While it doesn't use the same specific arguments or language as the talking points, it does support the broader goals and some of the specific policy changes mentioned in the talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

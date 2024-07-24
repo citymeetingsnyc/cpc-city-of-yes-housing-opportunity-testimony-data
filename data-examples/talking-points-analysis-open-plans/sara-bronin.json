@@ -1,0 +1,35 @@
+{
+    "testimony": {
+        "name": "Sara Bronin",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/sara-bronin-chair-of-the-advisory-council-on",
+        "start_time_in_seconds": 7642.7695,
+        "end_time_in_seconds": 7805.732,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Advisory Council on Historic Preservation"
+        ],
+        "key_points": [
+            "The proposal aligns with ACHP's federal historic preservation policy",
+            "Support for legalizing conversion of nonresidential structures for residential uses",
+            "Support for legalization of accessory dwelling units to increase density in historic neighborhoods",
+            "Elimination of parking minimums is a positive step",
+            "Changes to rules concerning transfer of development rights from landmark buildings can provide financial support for rehabilitation",
+            "Changes to how historic campuses are treated could help utilize excess land for new density without demolition",
+            "The proposal leverages the city's historic built environment to support housing"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. Sara Bronin speaks as the Chair of the Advisory Council on Historic Preservation (ACHP), a federal agency focused on historic preservation.\n2. She mentions that ACHP adopted a policy statement on housing and historic preservation last year.\n3. The testimony focuses on how the \"City of Yes for Housing Opportunity\" proposal aligns with ACHP's federal historic preservation policy.\n4. She specifically mentions several aspects of the proposal that align with ACHP's policy:\n   a. Conversion of non-residential structures for residential use\n   b. Legalization of accessory dwelling units\n   c. Elimination of parking minimums\n   d. Changes to rules concerning transfer of development rights from landmark buildings\n   e. Changes to how historic campuses are treated\n5. The testimony is primarily focused on historic preservation and how the proposal can benefit historic properties while also addressing housing needs.\n6. The only direct overlap with the reference talking points is the mention of eliminating parking minimums.\n\nWhile there is some alignment with the reference talking points, particularly regarding parking minimums, the testimony is primarily focused on historic preservation aspects of the proposal rather than the specific benefits of eliminating parking minimums that are detailed in the reference talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "3rd, the elimination of parking minimums. It's a positive step for the city. We talk about that too in the housing policy statement.",
+                "analysis": "This quote directly mentions the elimination of parking minimums, which is a key point in the reference talking points. However, the testimony does not elaborate on the benefits of this change as extensively as the reference talking points do. The testimony simply states it's a positive step and that it's mentioned in their housing policy statement, without providing specific reasons or benefits.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony by Sara Bronin, representing the Advisory Council on Historic Preservation, is primarily focused on how the \"City of Yes for Housing Opportunity\" proposal aligns with federal historic preservation policies. While the testimony does mention the elimination of parking minimums, which is a key point in the reference talking points, it does not delve into the specific benefits or arguments presented in those talking points.\n\nThe testimony briefly touches on several aspects of the proposal, including the conversion of non-residential structures, legalization of accessory dwelling units, and changes to rules concerning landmark buildings and historic campuses. These topics are not directly addressed in the reference talking points.\n\nThe only significant overlap with the reference talking points is the mention of eliminating parking minimums. However, the testimony does not elaborate on the benefits of this change in the same way or to the same extent as the reference talking points. It simply states that it's a positive step for the city and that it's mentioned in their housing policy statement.\n\nGiven this analysis, while there is some alignment with the reference talking points, it is limited to a single point (parking minimums) and lacks the depth and specificity found in the reference talking points. The testimony is more focused on historic preservation aspects of the proposal rather than the specific benefits of eliminating parking minimums or other points mentioned in the reference talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

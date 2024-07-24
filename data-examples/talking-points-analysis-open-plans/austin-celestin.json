@@ -1,0 +1,35 @@
+{
+    "testimony": {
+        "name": "Austin Celestin",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/austin-celestin-urban-planning-graduate-student-at",
+        "start_time_in_seconds": 9639.794,
+        "end_time_in_seconds": 9764.733,
+        "for_or_against": "For",
+        "borough": "Manhattan",
+        "neighborhood": "Upper West Side",
+        "stated_affiliations": [
+            "NYU Wagner"
+        ],
+        "key_points": [
+            "Current housing situation is unaffordable for many, including the speaker and his family",
+            "Low vacancy rates, slow construction pace, high rents, and increasing homelessness are major issues",
+            "Current zoning plan has reduced buildable capacity by 80% and led to housing loss in some neighborhoods",
+            "The City of Yes proposal caters to different neighborhood needs and capacities",
+            "Proposal includes various strategies like transit-oriented development, commercial conversions, ADUs, and lifting parking mandates",
+            "The plan is modest but ambitious, covering about 20% of the housing need",
+            "Urges the City Planning Commission to approve the City of Yes proposal and consider doing even more"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Austin Celestin, is an urban planning graduate student at NYU Wagner.\n2. He expresses difficulty in affording housing in NYC, citing record low vacancies, low construction pace, high rents, and increasing homelessness.\n3. He attributes these issues to decades of restrictive zoning that reduced buildable capacity by 80%.\n4. He supports the \"City of Yes for Housing Opportunity\" proposal, praising its multi-faceted approach to addressing housing issues.\n5. He specifically mentions \"whipping parking mandates, which makes housing more expensive\" as an underappreciated aspect of the proposal.\n6. The testimony doesn't go into depth about parking mandates, but the mention aligns with several reference talking points.\n7. The speaker calls the proposal \"modest\" and covering only about 20% of the housing need, suggesting he would support even more ambitious changes.\n\nNow, let's compare this to the reference talking points:\n\n1. The testimony doesn't directly mention most of the specific points about parking mandates.\n2. However, the speaker's support for removing parking mandates aligns with the overall message of the talking points.\n3. The speaker's mention of parking mandates making housing more expensive aligns with the talking point about parking increasing rents.\n4. The testimony doesn't contradict any of the reference talking points.\n5. The overall pro-housing, pro-zoning reform stance of the testimony is consistent with the spirit of the talking points, even if it doesn't address them all specifically.",
+        "talking_point_evidence": [
+            {
+                "quote": "whipping parking mandates, which makes housing more expensive",
+                "analysis": "This quote directly supports the talking point about parking mandates increasing housing costs. The speaker acknowledges that removing parking mandates is a positive aspect of the proposal because it will make housing less expensive. This aligns closely with the talking point that mentions parking can increase rents by an estimated 17%.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows some alignment with the reference talking points, particularly in its support for removing parking mandates to make housing more affordable. However, the testimony focuses more broadly on the housing crisis and the need for zoning reform, with parking mandates being only one aspect mentioned briefly.\n\nThe speaker's overall message of supporting increased housing density, zoning reforms, and making housing more affordable is consistent with the goals implied by the talking points. However, the testimony doesn't go into the specific details about parking mandates that are outlined in the reference talking points, such as the environmental benefits, the impact on street life, or examples from other cities.\n\nWhile there is clear support for the removal of parking mandates, the testimony doesn't make this a central focus, instead treating it as one of several positive aspects of the proposed zoning changes. This suggests that while the speaker's views are aligned with the talking points, they may not be directly derived from or strongly influenced by them.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

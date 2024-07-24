@@ -1,0 +1,39 @@
+{
+    "testimony": {
+        "name": "Basha Gerhards",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/basha-gerhards-senior-vice-president-of-planning",
+        "start_time_in_seconds": 15168.902,
+        "end_time_in_seconds": 15328.182,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Real Estate Board of New York"
+        ],
+        "key_points": [
+            "Support for the City of Yes for Housing Opportunity initiative",
+            "Approval of transit-oriented development, accessory dwelling units, and parking changes",
+            "Support for new R11 and R12 districts to unlock housing opportunities",
+            "Support for expanded radius of potential receiving sites for landmark development rights",
+            "Importance of Article 1 Chapter 5 changes to facilitate office-to-residential conversions",
+            "Concern about elimination of existing voluntary inclusionary housing and inclusionary housing certificate program",
+            "Opposition to reduction in maximum preventive density for market-rate housing in Lower Manhattan and Midtown districts",
+            "Need for carefully crafted vesting and transition provisions to protect existing housing pipeline",
+            "Recommendation for refinement of bulk rules to accommodate additional density",
+            "Urge to treat conversions, new construction, and enlargements equally in determining parking",
+            "Recognition of the proposal as a significant change to zoning text"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The testimony is from Basha Gerhards, Senior VP of Planning for the Real Estate Board of New York.\n2. They express support for the \"City of Yes for Housing Opportunity\" proposal.\n3. The testimony mentions several aspects of the proposal, including transit-oriented development, accessory dwelling units, and parking.\n4. Specifically on parking, the testimony states: \"The reduction in parking mandates is an important change, and we urge the commission to treat equally conversions, new construction, and enlargements into terminating the amount of parking permitted.\"\n5. This aligns with some of the reference talking points about reducing parking mandates.\n6. However, the testimony doesn't go into detail about the benefits of reducing parking mandates as extensively as the reference talking points do.\n7. The testimony focuses more on other aspects of the proposal, such as office-to-residential conversions and affordability programs.\n8. While there is some alignment on the parking issue, the testimony doesn't mention climate change, affordability related to parking costs, or many of the other specific points in the reference talking points.\n\nGiven this analysis, while there is some alignment, particularly on the reduction of parking mandates, the testimony doesn't closely mirror most of the specific talking points provided.",
+        "talking_point_evidence": [
+            {
+                "quote": "The reduction in parking mandates is an important change, and we urge the commission to treat equally conversions, new construction, and enlargements into terminating the amount of parking permitted.",
+                "analysis": "This quote directly supports the idea of reducing parking mandates, which is a key theme in the reference talking points. However, it doesn't go into the specific benefits mentioned in the talking points, such as affordability, climate impact, or encouraging public transit use.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows some alignment with the reference talking points, particularly in supporting the reduction of parking mandates. However, the testimony doesn't delve into the specific benefits and rationales for reducing parking mandates that are outlined in the reference talking points. The testimony focuses more broadly on various aspects of the \"City of Yes for Housing Opportunity\" proposal, with parking being just one of many points mentioned.\n\nWhile the testimony supports reducing parking mandates, it doesn't discuss how this could affect affordability, climate change, or encourage public transit use, which are key themes in the reference talking points. The testimony's approach to parking is more focused on equalizing treatment across different types of development (conversions, new construction, and enlargements) rather than on the broader societal impacts emphasized in the talking points.\n\nGiven this, while there is some support for a key point (reducing parking mandates), the overall alignment with the specific talking points provided is limited.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

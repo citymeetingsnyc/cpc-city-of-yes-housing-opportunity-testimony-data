@@ -1,0 +1,47 @@
+{
+    "testimony": {
+        "name": "Eric Lee",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/eric-lee-director-of-policy-and-planning-at",
+        "start_time_in_seconds": 42482.496,
+        "end_time_in_seconds": 42663.695,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Homeless Services United"
+        ],
+        "key_points": [
+            "The main driver of homelessness is the inability to afford housing",
+            "HSU endorses the City of Yes housing plan in full",
+            "The plan will eliminate zoning barriers and unlock the ability to create more affordable housing units throughout the 5 boroughs",
+            "New York City's housing is in an affordability crisis with nearly 600,000 households spending more than half their income on rent",
+            "More than 145,000 people slept in shelters in a single night in December of the previous year",
+            "The city's vacancy rate for housing is the lowest it's been since 1968",
+            "The City of Yes Plan is projected to support the creation of 150,000 new units of housing across the next 15 years in all five boroughs",
+            "Recommends prioritizing resources for more robust operational affordable housing for very low income and extremely low income households",
+            "Emphasizes the importance of ensuring that affordable housing is truly affordable for lower income New Yorkers"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Eric Lee, represents Homeless Services United, an organization advocating for affordable housing and services for homeless individuals.\n\n2. The testimony strongly endorses the City of Yes housing plan, which aims to eliminate zoning barriers and create more affordable housing units across New York City.\n\n3. The speaker highlights the severe housing affordability crisis in NYC, mentioning high rent burdens and a record number of people in shelters.\n\n4. The testimony focuses on the need for more housing units, citing statistics about population growth outpacing housing development.\n\n5. While the testimony supports the City of Yes plan, it doesn't specifically mention parking regulations or mandates, which are a significant part of the reference talking points.\n\n6. The speaker emphasizes the need for affordable housing for very low and extremely low-income households, which aligns with the general theme of housing affordability in the reference talking points.\n\n7. The testimony doesn't discuss climate change, transportation emissions, or the impact of parking on street life and walkability, which are prominent in the reference talking points.\n\nGiven this analysis, while there is some overlap in the general theme of housing affordability, the testimony doesn't directly address most of the specific points mentioned in the reference talking points about parking mandates and their effects.",
+        "talking_point_evidence": [
+            {
+                "quote": "HSU endorses the city of yes housing plan in full, which is made to eliminate zoning barriers and eliminate and unlock the ability to create more housing of more units of a portable housing throughout the 5 boroughs.",
+                "analysis": "This quote supports the general idea of reforming zoning laws to increase housing availability, which is related to the reference talking point about reducing parking mandates to increase housing affordability and availability. However, it doesn't specifically mention parking mandates.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Our city's housing is gripped by an affordability crisis and nearly 600,000 households spent more than half their income on rent with more than a more than 145,000 people sleeping in shelter in a single night in December of last year.",
+                "analysis": "This quote highlights the housing affordability crisis, which is indirectly related to the reference talking point about how parking mandates increase housing costs. However, it doesn't make a direct connection to parking mandates.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            },
+            {
+                "quote": "The city of Yes Plan will help to address this lag and is projected to support the creation of 150,000 new units of housing across the next 15 years across all five boroughs.",
+                "analysis": "This quote supports the idea that zoning reforms can lead to increased housing production, which is related to the reference talking points about how reducing parking mandates can increase housing availability. However, it doesn't specifically mention parking mandates.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony by Eric Lee from Homeless Services United is primarily focused on the housing affordability crisis in New York City and the need for more affordable housing units. While the testimony strongly supports the City of Yes housing plan, which aims to eliminate zoning barriers and create more housing, it does not specifically address the issue of parking mandates or many of the other specific points mentioned in the reference talking points.\n\nThe testimony does align with the general theme of increasing housing affordability and availability, which is one of the key arguments in the reference talking points for reducing parking mandates. However, the testimony doesn't make any direct connections between parking regulations and housing affordability or availability.\n\nMany of the specific points in the reference talking points, such as the impact of parking mandates on climate change, street life, walkability, and car dependence, are not addressed in the testimony. The speaker focuses more on the immediate need for affordable housing for low-income and homeless individuals, rather than the broader urban planning and transportation aspects covered in the reference talking points.\n\nWhile there is some overlap in the overall goal of increasing affordable housing, the specific arguments and focus areas are quite different between the testimony and the reference talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

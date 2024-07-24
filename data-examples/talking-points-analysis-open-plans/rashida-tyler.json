@@ -1,0 +1,48 @@
+{
+    "testimony": {
+        "name": "Rashida Tyler",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/rashida-tyler-from-the-new-york-city-council-of",
+        "start_time_in_seconds": 30811.22,
+        "end_time_in_seconds": 31004.117,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "New York City Council of Churches",
+            "Interfaith Affordable Housing Collaborative"
+        ],
+        "key_points": [
+            "Generally supportive of the City of Yes proposal",
+            "Believes changes should be made to allow more time for community boards and residents to comment",
+            "Supports policies that create more affordable housing",
+            "Current zoning often prevents houses of worship from building enough units to make projects feasible",
+            "City of Yes has potential to increase housing in communities that need it most",
+            "Zoning is only one part of the equation in addressing the housing crisis",
+            "Concerns about whether the policy will achieve its goals of creating more affordable housing",
+            "Highlights the multifaceted nature of the housing crisis, including lack of affordability and political will",
+            "Expresses skepticism about assumptions that building more housing will lower costs and lead to equitable development across the city"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Rashida Tyler, is generally supportive of the City of Yes proposal, which aims to create more affordable housing.\n2. She suggests modifications to allow more time for community input and to ensure the proposal meets the needs of communities requiring affordable housing.\n3. Tyler represents faith-based organizations interested in building affordable housing but often face zoning restrictions.\n4. She mentions that the City of Yes has the potential to increase housing in communities that need it most.\n5. Tyler acknowledges that the housing crisis is multifaceted, involving not just availability but also affordability and political will.\n6. She expresses some skepticism about whether increasing housing supply alone will lower costs or lead to equitable development across the city.\n7. The testimony doesn't directly address parking mandates or transportation issues, which are central to the reference talking points.\n\nNow, let's compare this to the reference talking points:\n\n1. The testimony doesn't mention parking at all, which is a major focus of the reference talking points.\n2. There's no discussion of climate change, emissions, or incentivizing/disincentivizing driving in the testimony.\n3. The testimony doesn't address the cost of building parking or its impact on housing affordability, which is a key point in the reference talking points.\n4. Both the testimony and the talking points emphasize the need for affordable housing, but they approach it from different angles.\n5. The testimony focuses more on community input and the role of faith-based organizations in housing development, which aren't mentioned in the talking points.\n\nGiven this analysis, the testimony doesn't closely align with the specific points made in the reference talking points. While both are concerned with housing affordability, they focus on different aspects of the issue.",
+        "talking_point_evidence": [
+            {
+                "quote": "While we are supportive of the city of yes, we believe there are some changes or modifications that could be made to allow community boards more time and residents more time to comment and for the proposal to undergo any occasions to ensure it meets the needs of the many communities across the city that are desperately in need of affordable housing.",
+                "analysis": "This quote indirectly relates to the reference talking point about increasing housing affordability and availability. While the talking points focus on removing parking mandates as a means to achieve affordability, the testimony suggests community input is crucial in meeting affordable housing needs. The connection is tenuous as the approaches differ significantly.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            },
+            {
+                "quote": "The city of Yes, has the potential to increase housing in the community that needs it most.",
+                "analysis": "This quote aligns with the general sentiment of the reference talking points about increasing housing availability. However, it doesn't specifically mention the mechanisms (like removing parking mandates) that the talking points focus on. The connection is supportive but not identical.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "I would like to believe that if we build more housing, costs would be lower.",
+                "analysis": "This quote touches on the idea presented in the reference talking points that increasing housing supply could lead to lower costs. However, the speaker expresses skepticism about this assumption, whereas the talking points present it as a more definitive outcome. The connection supports the general idea but with reservations.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony by Rashida Tyler shows limited alignment with the reference talking points. While both the testimony and the talking points address the need for affordable housing, they approach the issue from different perspectives. \n\nThe testimony focuses on:\n1. The role of faith-based organizations in developing affordable housing\n2. The importance of community input in the City of Yes proposal\n3. Skepticism about whether increasing housing supply alone will solve affordability issues\n\nIn contrast, the reference talking points emphasize:\n1. Removing parking mandates as a key strategy for increasing affordability\n2. The environmental benefits of reducing car dependence\n3. The financial impact of parking requirements on housing costs\n\nThe testimony does not directly address parking mandates, transportation issues, or environmental concerns, which are central themes in the reference talking points. While there is some overlap in the general goal of increasing affordable housing, the specific strategies and focus areas differ significantly.\n\nThe speaker expresses support for the City of Yes proposal but also suggests modifications and expresses some reservations about its potential impact. This nuanced stance doesn't fully align with the more assertive pro-development position of the reference talking points.\n\nGiven these differences, the testimony cannot be classified as having high alignment with the reference talking points. However, it does support some of the broader goals related to increasing housing availability and affordability, albeit through different means and with more reservations.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

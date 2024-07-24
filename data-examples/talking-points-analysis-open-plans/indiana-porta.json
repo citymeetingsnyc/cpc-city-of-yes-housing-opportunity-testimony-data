@@ -1,0 +1,27 @@
+{
+    "testimony": {
+        "name": "Indiana Porta",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/indiana-porta-from-manhattan-community-board-9-on",
+        "start_time_in_seconds": 50524.246,
+        "end_time_in_seconds": 50721.4,
+        "for_or_against": "For",
+        "borough": "Manhattan",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Manhattan Community Board 9"
+        ],
+        "key_points": [
+            "Requests for public availability of written and oral testimony",
+            "Clarification on the universal affordability preference proposal, specifically the fixed percentage of affordable housing",
+            "Suggestion to set a base minimum of affordable units (20%)",
+            "Question about recently rezoned areas and how the new initiative would affect them",
+            "Support for accessibility features as a wheelchair user"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "I will analyze the testimony transcript and compare it to the reference talking points:\n\n1. The testimony is primarily focused on questions about the proposed changes, particularly regarding affordable housing requirements.\n2. The speaker does not directly address any of the parking-related talking points provided in the reference.\n3. The main topics discussed by the speaker are:\n   - Availability of written and oral testimony summaries\n   - Clarification on the universal affordability preference proposal\n   - Questions about recently rezoned areas\n   - Brief mention of accessibility features for wheelchair users\n4. There is no mention of parking mandates, climate change, transportation emissions, or any other topics related to the reference talking points.\n5. The speaker identifies themselves as not being a land use specialist, which may explain the lack of specific comments on the parking-related aspects of the proposal.\n6. The only potential connection to the reference talking points is the mention of FAR (Floor Area Ratio), which is tangentially related to development density, but this is not directly linked to any of the parking-related points.\n\nGiven this analysis, it appears that the testimony is not aligned with the provided reference talking points. The speaker's focus is entirely different from the parking-related issues outlined in the talking points.",
+        "talking_point_evidence": [],
+        "analysis": "The testimony provided by Indiana Porta is not closely related to the reference talking points. The speaker's comments and questions are primarily focused on affordable housing requirements, the availability of testimony summaries, and briefly touches on accessibility concerns. There is no mention of parking mandates, climate change, transportation emissions, or any other topics directly related to the reference talking points about parking reform. The testimony appears to be addressing different aspects of the \"City of Yes for Housing Opportunity\" proposal than those covered in the provided talking points.",
+        "similarity": "NOT_ALIGNED"
+    }
+}

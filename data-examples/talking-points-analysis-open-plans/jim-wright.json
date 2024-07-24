@@ -1,0 +1,50 @@
+{
+    "testimony": {
+        "name": "Jim Wright",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/jim-wright-from-aia-new-york-chapter-on-transit",
+        "start_time_in_seconds": 7087.808,
+        "end_time_in_seconds": 7283.5537,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "AIA New York Chapter"
+        ],
+        "key_points": [
+            "Support for the expansion of transit zones citywide, allowing modest density increases in low and moderate density areas near transit stations",
+            "Endorsement of removing minimum off-street parking requirements for most new buildings",
+            "Transit-oriented development links land use with access to public transportation and job opportunities",
+            "Current parking requirements increase housing costs and suppress full utilization of existing zoning capacity",
+            "Eliminating parking mandates and increasing density near transit will create more affordable and sustainable neighborhoods",
+            "The overlap of transit zones with Town Center zones creates opportunities for mixed-use housing with transit access",
+            "These changes will accommodate city growth in coming decades"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Jim Wright, is representing AIA New York and supports the City of Yes for Housing Opportunity.\n2. He focuses on two aspects: expansion of transit zones and removal of minimum parking requirements.\n3. The testimony strongly aligns with the idea of transit-oriented development, which is related to several reference talking points.\n4. Wright discusses how current parking requirements increase housing costs, which directly relates to multiple reference talking points.\n5. He mentions that parking requirements can lead to inefficient use of property and suppress the full utilization of zoning capacity.\n6. The speaker supports the elimination of parking mandates, which is a key theme in the reference talking points.\n7. While the testimony doesn't use identical language to the talking points, it covers many of the same concepts and arguments.\n\nOverall, there is a high degree of alignment between the testimony and the reference talking points, particularly regarding the removal of parking mandates and its benefits for housing affordability and sustainable development.",
+        "talking_point_evidence": [
+            {
+                "quote": "Current residential zoning and most low and moderate density districts requires a minimum of one parking space per unit. This can affect how site is developed for new housing and civil waves.",
+                "analysis": "This quote directly relates to the reference talking point about the city forcing new housing to build off-street parking. It highlights the same issue of mandatory minimum parking requirements.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "First, providing structured parking with an apartment building drives up the associated costs to create the related apartment units in that building.",
+                "analysis": "This quote supports the reference talking point about parking increasing housing costs. While it doesn't provide specific numbers like the talking points do, it makes the same argument.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "These parking requirements increased the cost to build new housing and suppressed the full utilization of existing zoning capacity.",
+                "analysis": "This quote aligns closely with the reference talking points about parking mandates increasing housing costs and reducing housing availability. It makes the same argument using slightly different language.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "Unlocking the potential for higher density transitorian development coupled with the elimination of parking mandates will create the conditions for more affordable and sustainable neighborhoods to accommodate our city's growth in the coming decades.",
+                "analysis": "This quote supports multiple reference talking points about reducing parking mandates to increase affordability, sustainability, and accommodate growth. While it doesn't go into as much detail as the talking points, it conveys the same overall message.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony by Jim Wright shows a high degree of alignment with the reference talking points. While the speaker doesn't use identical language or cover every point mentioned in the reference talking points, he addresses many of the same key issues and arguments.\n\nThe testimony focuses heavily on the negative impacts of parking requirements on housing development and affordability, which is a central theme in the reference talking points. Wright discusses how these requirements increase construction costs, lead to inefficient use of land, and suppress the full utilization of zoning capacity. This aligns closely with the talking points about parking mandates increasing housing costs and reducing availability.\n\nThe speaker also emphasizes the benefits of transit-oriented development and the elimination of parking mandates, which corresponds to several talking points about reducing car dependence, promoting sustainable development, and prioritizing public transportation.\n\nWhile the testimony doesn't go into as much detail on some aspects (such as specific cost figures or comparisons to other cities), the overall arguments and perspective closely match those presented in the reference talking points. The speaker clearly supports the removal of parking mandates and sees it as a way to create more affordable and sustainable neighborhoods, which is a key message in the talking points.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}
