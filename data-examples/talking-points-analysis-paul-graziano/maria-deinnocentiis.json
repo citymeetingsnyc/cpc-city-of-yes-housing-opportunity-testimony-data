@@ -1,0 +1,60 @@
+{
+    "testimony": {
+        "name": "Maria Deinnocentiis",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/maria-deinnocentiis-president-of-utopia-estates",
+        "start_time_in_seconds": 25072.496,
+        "end_time_in_seconds": 25269.375,
+        "for_or_against": "Against",
+        "borough": "Queens",
+        "neighborhood": "Fresh Meadows",
+        "stated_affiliations": [
+            "Utopia Estates Civic Association",
+            "Community Board 8 in Queens"
+        ],
+        "key_points": [
+            "The proposal will eliminate current zoning and create a one-size-fits-all zoning law",
+            "What works in Manhattan does not always work in Queens",
+            "The plan will destroy the accomplishments of contextual zoning done in 2011",
+            "The plan will change the character of communities and potentially destroy neighborhoods",
+            "Housing in the community is already diverse",
+            "The plan risks homes being demolished and replaced by apartments",
+            "It reduces and removes parking requirements",
+            "The plan will eliminate zoning for historic and special districts",
+            "It will allow campus infill, potentially destroying open spaces",
+            "It will allow religious houses of worship to build apartment buildings",
+            "The plan will streamline zoning regulations, significantly changing neighborhood character"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze this testimony step by step:\n\n1. The speaker, Maria Deinnocentiis, represents a civic association in Queens and opposes the proposal.\n\n2. She argues that the proposal will eliminate current zoning and create a \"one size fits all\" approach, which aligns with the reference talking point about dramatic changes to neighborhood character.\n\n3. The testimony mentions that the plan will destroy what they've accomplished with contextual zoning in 2011, which relates to the talking point about loss of local control over development.\n\n4. She discusses how the plan will allow for larger buildings, multifamily homes, and shared housing models, which aligns with the talking point about enabling denser development in low-density neighborhoods.\n\n5. The speaker mentions the reduction and removal of parking requirements, which directly corresponds to a reference talking point about favoring developers over existing residents.\n\n6. She expresses concern about the potential for homes being demolished and replaced by apartments, which relates to the talking point about low-density neighborhoods being unfairly targeted.\n\n7. The testimony mentions the impact on historic and special districts, as well as allowing infill in open spaces, which aligns with environmental concerns in the reference talking points.\n\n8. While the testimony doesn't explicitly mention all the points in the reference talking points (e.g., claims of housing shortage being misleading), it does cover many of the same themes and concerns.\n\nGiven these observations, the testimony appears to be closely aligned with many of the reference talking points, though it doesn't cover all of them and uses somewhat different language.",
+        "talking_point_evidence": [
+            {
+                "quote": "This proposal will eliminate our current zoning and create a one size fits all zoning law.",
+                "analysis": "This quote directly aligns with the reference talking point about the proposals dramatically changing neighborhood character. It suggests that the unique character of different neighborhoods will be lost due to a uniform zoning approach.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "Your plan expands the opportunity for multifamily homes and creates models for shared housing. It reduces and removes parking requirements.",
+                "analysis": "This quote closely aligns with two reference talking points. It mentions the expansion of multifamily homes, which relates to enabling denser development in low-density neighborhoods. The removal of parking requirements is explicitly mentioned in the talking points as favoring developers over existing residents.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "Your changes are risk to are homes being demolished and replaced by apartments.",
+                "analysis": "This quote supports the talking point about low-density neighborhoods being unfairly targeted. While it doesn't use the same language, it expresses the same concern about the potential loss of single-family homes to denser development.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Your plan will eliminate zoning for historic and special districts such as our Fresh Meadows Development And Klein Farm. It will also allow campus infill where properties of 1 and a half acres or more can be changed by building in the open space garden areas of those apartments.",
+                "analysis": "This quote relates to the environmental concerns mentioned in the reference talking points. While it doesn't explicitly mention sewers or schools, it does address the loss of green space, which is a point raised in the talking points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "In 2011, our local civics worked with city planning to contextualize our current zoning into R2A and other upgraded and downgraded zoning. Now your plan to destroy now your plan will destroy what we have accomplished.",
+                "analysis": "This quote supports the talking point about loss of local control over development. It implies that the community's previous efforts to shape their zoning will be undone, which aligns with the concern about removing community input on projects.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows a high degree of alignment with the reference talking points. While it doesn't use identical language or cover every single point, it addresses many of the same concerns and arguments. The speaker touches on issues such as changes to neighborhood character, denser development in low-density areas, removal of parking requirements, potential loss of single-family homes, environmental concerns, and loss of local control over development. These all closely mirror themes present in the reference talking points.\n\nThe testimony does not appear to be directly quoting from the talking points, but rather seems to be expressing similar sentiments in the speaker's own words. This suggests that while the speaker may not have been directly using the reference talking points, they are likely part of a broader community or movement that shares these concerns about the proposed zoning changes.\n\nIt's worth noting that the testimony doesn't cover all aspects of the reference talking points. For example, it doesn't discuss claims about housing shortage being misleading or mention specific statistics about NYC's population changes. However, the overall thrust of the argument and the main points of concern are very much in line with the reference talking points.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}

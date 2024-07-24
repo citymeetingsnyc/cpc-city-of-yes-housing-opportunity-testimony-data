@@ -1,0 +1,43 @@
+{
+    "testimony": {
+        "name": "Phil Koenigsberg",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/phil-koenigsberg-health-chair-of-queens-community",
+        "start_time_in_seconds": 45966.08,
+        "end_time_in_seconds": 46148.54,
+        "for_or_against": "Against",
+        "borough": "Queens",
+        "neighborhood": "Bay Terrace",
+        "stated_affiliations": [
+            "Bay Terrace Community Lions",
+            "Queens Community Board 7"
+        ],
+        "key_points": [
+            "Opposes the City of Yes for Housing Opportunity",
+            "Believes the proposal will lead to chaos in all boroughs except Manhattan",
+            "Argues it will destroy communities, especially in low density areas",
+            "Claims it won't create affordable housing",
+            "Suggests it will replace owner-occupied housing with market-rate rentals",
+            "Concerns about increased density without adequate infrastructure",
+            "Worries about enforcement of illegal occupancy",
+            "Urges media to investigate and expose the potential negative impacts of the proposal",
+            "Suggests implementing a pilot program in a neighborhood that favors the proposal"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze this testimony step by step:\n\n1. The speaker, Phil Koenigsberg, is strongly opposed to the \"City of Yes for Housing Opportunity\" proposal.\n\n2. He represents a community board and a large number of residents, primarily living in co-ops and condos in a low-density area.\n\n3. He believes the proposal will \"destroy our communities\" and lead to \"chaos\" in all boroughs except Manhattan.\n\n4. He claims the proposal won't create affordable housing, but instead replace owner-occupied housing with market-rate rentals.\n\n5. He mentions increased density without proper infrastructure and enforcement of illegal occupancy.\n\n6. The speaker urges the press to investigate and expose the negative aspects of the proposal.\n\n7. He supports the idea of a pilot program in a neighborhood that favors the proposal.\n\nNow, let's compare these points to the reference talking points:\n\n- The testimony aligns with the point about changing neighborhood character and enabling denser development in low-density areas.\n- It supports the claim that the proposals favor developers over existing residents.\n- The speaker's concerns about infrastructure align with the environmental and infrastructure concerns in the talking points.\n- The testimony doesn't directly mention loss of local control, but it implies disapproval of the proposal's process.\n- The speaker doesn't specifically mention parking requirements, commercial uses in residential areas, or population decline.\n\nOverall, while the testimony doesn't cover all the reference talking points, it strongly aligns with several key points and the general opposition to the proposal.",
+        "talking_point_evidence": [
+            {
+                "quote": "If approved, each and every part of the proposed zodiac text will destroy our communities across the city, particularly low density but high density areas such as Bay Terrace, where our civic association represents over 5000 residents primarily living in coop and condos.",
+                "analysis": "This quote directly supports the talking point about the proposals dramatically changing neighborhood character and enabling much denser development in low-density neighborhoods. The speaker's concern about destroying communities, especially in low-density areas, closely aligns with the reference talking point.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "They know it's not going to create affordable housing on any coin. Rather, as others have mentioned earlier this morning, afternoon, and evening will replace owner occupied housing with market rate rental units that increased density without infrastructure that ultimately and enforcement of illegal opulence throughout the city.",
+                "analysis": "This quote supports multiple talking points. It aligns with the claim that the proposals favor developers over existing residents by suggesting that owner-occupied housing will be replaced with market-rate rentals. It also touches on the environmental and infrastructure concerns mentioned in the talking points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows a strong alignment with several of the reference talking points, particularly those related to changing neighborhood character, favoring developers over existing residents, and concerns about infrastructure. While the speaker doesn't cover all the points mentioned in the reference talking points, the overall message and tone are very similar. The testimony presents a strong opposition to the \"City of Yes for Housing Opportunity\" proposal, which is consistent with the stance taken in the reference talking points.\n\nHowever, the testimony doesn't go into as much detail on some specific points like parking requirements, commercial uses in residential areas, or the claims about population decline. It also doesn't directly address the loss of local control over development, although it implies disapproval of the proposal's process.\n\nDespite these minor differences, the core arguments and concerns expressed in the testimony closely mirror those in the reference talking points, suggesting a high level of alignment between the two.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}

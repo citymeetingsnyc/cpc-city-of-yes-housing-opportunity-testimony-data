@@ -1,0 +1,52 @@
+{
+    "testimony": {
+        "name": "Diane Viggiano",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/diane-viggiano-from-old-town-civic-association-of",
+        "start_time_in_seconds": 20985.121,
+        "end_time_in_seconds": 21135.346,
+        "for_or_against": "Against",
+        "borough": "Staten Island",
+        "neighborhood": "Old Town",
+        "stated_affiliations": [
+            "Old Town Civic Association of Staten Island"
+        ],
+        "key_points": [
+            "Opposition to high-rise buildings along Staten Island Rapid Transit",
+            "Concern about promoting multifamily habitation in attics, basements, and garages",
+            "Opposition to building cottages in backyards, which could reduce light, air, and trees",
+            "Disagreement with eliminating parking space requirements for new construction",
+            "Worry about degradation of quality of life due to increased housing, traffic, and population",
+            "Concern about strain on infrastructure, educational and medical services",
+            "Request for a borough-specific plan instead of a one-size-fits-all approach",
+            "Suggestion to consider using empty buildings in Manhattan for housing",
+            "Appeal to preserve the 'American dream' of a peaceful place to live and raise families"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step and compare it with the reference talking points:\n\n1. The testimony is from Diane Viggiano, representing the Old Town Civic Association of Staten Island.\n2. She expresses concerns about the \"City of Yes for Housing Opportunity\" proposal.\n3. Her main points include:\n   a. Addition of high-rise buildings along Staten Island Rapid Transit\n   b. Promotion of multifamily habitation in homes (attics, basements, garages)\n   c. Allowing cottages in backyards\n   d. Elimination of parking space requirements\n   e. Concerns about degradation of quality of life\n   f. Worries about increased traffic, pollution, and strain on infrastructure\n4. These points align with several of the reference talking points:\n   a. Changing neighborhood character\n   b. Enabling denser development in low-density neighborhoods\n   c. Removing parking requirements\n   d. Environmental and infrastructure concerns\n5. The testimony doesn't directly mention some talking points like loss of local control or questionable public engagement process.\n6. The overall tone and concerns expressed in the testimony are very similar to the reference talking points, even if the exact language differs.",
+        "talking_point_evidence": [
+            {
+                "quote": "For example, you proposed the addition of high rise buildings in areas along the Staten Island Rapid Transit.",
+                "analysis": "This quote directly relates to the reference talking point about enabling much denser development in low-density neighborhoods. It supports the claim that the proposals would dramatically change neighborhood character.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "To top it off, your plan would eliminate the need for parking spaces in new construction even though most presidents on Staten Island commute by car, with some homes having 4 or 5 cars, one for each family member.",
+                "analysis": "This quote is very closely related to the reference talking point about removing parking requirements to increase developer profits. It supports the claim that the proposals favor developers over existing residents.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "The zoning changes in your plan would degrade our quality of life. The prospect for life on Staten Island would become quite bleak. Much more housing, much more traffic with its pollution, substantial stress on our infrastructure, a plentiful increase in population, and strain on our educational and medical services.",
+                "analysis": "This quote aligns closely with the reference talking point about environmental and infrastructure concerns. It mentions similar issues such as impacts on infrastructure and increased pollution.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Don't take away our American dream of a peaceful place to live and raise our families.",
+                "analysis": "While not using the exact same language, this quote supports the reference talking point about low-density neighborhoods being unfairly targeted. It implies that the proposed changes threaten the lifestyle of those living in low-density areas.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony from Diane Viggiano is closely related to the reference talking points. While it doesn't use identical language, it makes many of the same arguments and expresses similar concerns. The testimony focuses on how the proposed changes would affect Staten Island, particularly in terms of increased density, changes to neighborhood character, removal of parking requirements, and strain on infrastructure. These align well with several key points from the reference talking points.\n\nThe testimony doesn't cover all the points mentioned in the reference (such as claims about housing shortage or the public engagement process), but the overall message and tone are very similar. The speaker clearly opposes the \"City of Yes for Housing Opportunity\" proposal for reasons that closely mirror those in the reference talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

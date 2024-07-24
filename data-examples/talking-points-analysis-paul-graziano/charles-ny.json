@@ -1,0 +1,39 @@
+{
+    "testimony": {
+        "name": "Charles Ny",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/charles-ny-from-community-board-5-on-housing-needs",
+        "start_time_in_seconds": 51509.668,
+        "end_time_in_seconds": 51708.1,
+        "for_or_against": "Against",
+        "borough": "Manhattan",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Community Board 5"
+        ],
+        "key_points": [
+            "Lack of adequate housing solutions for people with disabilities and low incomes",
+            "Current subsidized housing (SRO) is insufficient and potentially harmful to mental health",
+            "Need for more outreach and inclusion of impoverished individuals in housing design and decision-making",
+            "Criticism of current affordable housing standards and desire for better living conditions (e.g., one-bedroom apartments instead of SROs)",
+            "Lack of engagement from housing advocacy groups (like Open New York) with individuals in need",
+            "Call for more comprehensive outreach and planning before implementing the proposed plan"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze this testimony step-by-step:\n\n1. The speaker, Charles Ny, is a member of Community Board 5 and identifies as blind and on welfare.\n2. He expresses concern about the lack of support for people with disabilities and those on low incomes.\n3. He criticizes the current subsidized housing (SRO) as inadequate, describing it as a \"shoe box\" with limited amenities.\n4. He believes there hasn't been enough outreach to impoverished individuals to be part of the conversation about housing.\n5. He suggests that those making decisions about affordable housing may not understand the needs of people like himself.\n6. He opposes the current plan and calls for more outreach.\n7. He criticizes Open New York (a pro-housing group) for not addressing his housing needs.\n8. He advocates for better housing standards, such as one-bedroom apartments instead of SROs.\n\nComparing this to the reference talking points:\n\n1. The testimony doesn't directly address neighborhood character changes or zoning issues.\n2. There's no mention of population statistics or claims about housing shortages.\n3. The speaker doesn't discuss developer interests or as-of-right building.\n4. Low-density neighborhoods are not mentioned.\n5. While the speaker is on a community board, he doesn't discuss loss of local control over development.\n6. Environmental and infrastructure concerns are not raised.\n7. The speaker does mention limited outreach, which aligns somewhat with the last talking point about questionable public engagement.\n\nOverall, this testimony focuses on personal experiences and concerns about affordable housing quality and engagement of low-income residents. It doesn't closely align with most of the provided talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "I feel like there there are those who are have not struggled and not being through the welfare system who are making decisions on what they think people like myself should want from affordable housing, what what they think someone like myself should need.",
+                "analysis": "This quote somewhat relates to the talking point about questionable public engagement process, as it suggests that those making decisions about housing may not understand the needs of the affected population. However, it's not an exact match to the provided talking points.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            },
+            {
+                "quote": "I do feel like more outreach needs to be done.",
+                "analysis": "This quote aligns with the talking point about limited outreach to communities, but it's a very brief mention without going into the specifics mentioned in the reference talking points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony provided by Charles Ny is not closely aligned with the reference talking points. While there are a couple of points that touch on similar themes, particularly regarding public engagement, the majority of the testimony focuses on personal experiences and concerns about the quality of affordable housing for low-income and disabled individuals. The speaker doesn't address most of the key issues raised in the reference talking points, such as neighborhood character changes, zoning issues, developer interests, or environmental concerns.\n\nThe testimony does briefly mention the need for more outreach, which loosely aligns with the talking point about questionable public engagement. However, even this alignment is not strong, as the speaker's focus is more on including low-income voices in the planning process rather than the specific issues of meeting frequency or proposal complexity mentioned in the talking points.\n\nOverall, while the testimony is critical of the current housing situation and the proposed plan, it approaches the issue from a very different perspective than the reference talking points, focusing on the lived experiences of low-income residents rather than broader zoning and development concerns.",
+        "similarity": "NOT_ALIGNED"
+    }
+}

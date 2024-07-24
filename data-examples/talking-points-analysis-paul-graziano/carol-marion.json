@@ -1,0 +1,52 @@
+{
+    "testimony": {
+        "name": "Carol Marion",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/carol-marion-from-bayside-on-opposition-to-city-of",
+        "start_time_in_seconds": 19720.637,
+        "end_time_in_seconds": 19902.592,
+        "for_or_against": "Against",
+        "borough": "Queens",
+        "neighborhood": "Bayside",
+        "stated_affiliations": [],
+        "key_points": [
+            "The plan does not address the diversity of NYC neighborhoods",
+            "It will destroy communities over time",
+            "It will not create affordable housing",
+            "It will replace owner-occupied housing with market-rate rental units",
+            "It will increase density without infrastructure improvements",
+            "The plan benefits rich developers, architects, and real estate developers",
+            "The city has not listened to community board feedback",
+            "One-size-fits-all approach doesn't work for diverse NYC neighborhoods",
+            "Against accessory dwelling units",
+            "Concerns about loss of green space and increased flooding",
+            "Lack of flexibility for different community needs"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "1. Let's analyze the testimony and compare it to the reference talking points:\n2. The testimony strongly opposes the \"City of Yes for Housing Opportunity\" plan.\n3. Several key points in the testimony align with the reference talking points:\n   a. Concern about destroying neighborhood character\n   b. Criticism that the plan favors developers over residents\n   c. Argument that one-size-fits-all approach doesn't work for diverse neighborhoods\n   d. Environmental concerns about loss of green space and increased flooding\n   e. Criticism of the public engagement process\n4. The testimony also mentions some points not explicitly in the reference talking points:\n   a. Concern about replacing owner-occupied housing with market-rate rentals\n   b. Specific mention of opposing accessory dwelling units\n5. The language and specific examples differ, but the overall message aligns closely with the reference talking points.\n6. Let's identify specific quotes that relate to the reference talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "This plan does not address the diversity of our New York City neighborhoods. And it is a one size fits well, contrary to what some of your speakers have set. This will destroy our communities over a long period of time.",
+                "analysis": "This quote directly addresses the concern about neighborhood character and the one-size-fits-all approach, which is a key point in the reference talking points. The language is different, but the argument is very similar.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "The group that will benefit from City of Yes is only you rich developers, architects who woven speaking, builders groups representing 500 builders who are much in favor of this, real estate developers.",
+                "analysis": "This quote aligns closely with the reference talking point about the proposals favoring developers over existing residents. The sentiment is identical, though the specific examples differ.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "What has happened is you have not listened to all the community boards that you've been to seek. I thought the purpose of those hearings was for you to react and change things. As far as I could see after reading so much into your plans, you have not changed anything.",
+                "analysis": "This quote supports the reference talking point about questionable public engagement process. While it doesn't mention the specific numbers of meetings, it expresses the same concern about limited community input and lack of responsiveness.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "You're eliminating open space. You are concreting and filling in And as the other people have said, flooding has been a result.",
+                "analysis": "This quote directly addresses the environmental concerns mentioned in the reference talking points, specifically about loss of green space and increased flooding risk. The argument is identical, though less detailed.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            }
+        ],
+        "analysis": "The testimony shows a high level of alignment with the reference talking points. While the specific language and examples differ, the core arguments and concerns are very similar. The testimony hits on several key points from the reference talking points, including concerns about neighborhood character, favoring developers over residents, environmental issues, and criticism of the public engagement process. The speaker also emphasizes the \"one-size-fits-all\" approach, which is a central theme in the reference talking points. The main difference is that the testimony is more personal and less data-driven than the reference talking points, but the overall message and sentiment are highly aligned.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}

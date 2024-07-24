@@ -1,0 +1,54 @@
+{
+    "testimony": {
+        "name": "Theresa Westerdahl",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/theresa-westerdahl-from-brooklyn-community-board-9",
+        "start_time_in_seconds": 28025.41,
+        "end_time_in_seconds": 28222.273,
+        "for_or_against": "Against",
+        "borough": "Brooklyn",
+        "neighborhood": "Crown Heights",
+        "stated_affiliations": [
+            "Brooklyn Community Board 9",
+            "Sullivan Ludlam Stoddard Neighborhood Association"
+        ],
+        "key_points": [
+            "Opposition to City of Yes text amendments and changes to zoning regulations",
+            "Opposition to reducing parking mandates, believes in increasing parking mandates",
+            "Need for visionary planning including bike, EV, and micro device parking and charging stations",
+            "Concern about ongoing large-scale development projects and their environmental impacts",
+            "Lack of oversight and regulation enforcement by city agencies",
+            "Failure to conduct environmental and racial impact studies in the district",
+            "Criticism of the Bedford Army Terminal development as luxury housing instead of affordable housing",
+            "Concern about potential doubling of density in the district due to new zoning",
+            "Request for Community Board 9 to be exempt from City of Yes rezoning",
+            "Opposition to air rights sales for the historic district"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step and compare it with the reference talking points:\n\n1. The testimony opposes the City of Yes zoning proposal, which aligns with the general sentiment of the reference talking points.\n\n2. The speaker mentions concerns about increased density, which relates to the talking point about changing neighborhood character and enabling denser development.\n\n3. The testimony opposes reducing parking mandates, which aligns with the talking point about removing parking requirements to increase developer profits.\n\n4. The speaker mentions environmental concerns and lack of oversight, which partially aligns with the talking point about environmental and infrastructure concerns.\n\n5. The testimony criticizes the city's preparedness and data for their district, which somewhat relates to the talking point about questionable public engagement and lack of analysis.\n\n6. The speaker calls for their district (CB9) to be exempt from the zoning changes, which relates to the talking point about loss of local control over development.\n\nWhile there are some alignments, the testimony doesn't use identical language or make all the same arguments as the reference talking points. The speaker focuses more on their specific district and personal experiences rather than city-wide concerns.",
+        "talking_point_evidence": [
+            {
+                "quote": "I'm here to testify in opposition of City of Yes. Text amendments, changes to zoning regulations.",
+                "analysis": "This quote directly opposes the City of Yes proposal, which aligns with the general sentiment of the reference talking points. However, it doesn't use the same specific arguments.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "In addition, I am in opposition to reducing parking mandates. I believe we need to increase parking mandates.",
+                "analysis": "This quote directly opposes reducing parking requirements, which aligns with the reference talking point about removing parking requirements to increase developer profits. However, the reasoning is not explicitly stated in the same way.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "The new quoid zoning would allow for an additional 25 units, 25,000 units, meaning our density would double hell no.",
+                "analysis": "This quote expresses concern about increased density, which relates to the reference talking point about enabling much denser development in low-density neighborhoods. The sentiment is similar, but the specific numbers and focus on a particular district are different.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "In addition, I did attend the meeting with the city planning for our community board and they were ill prepared with their data facts and figures for our district.",
+                "analysis": "This quote criticizes the city's preparedness and data, which somewhat relates to the reference talking point about questionable public engagement and lack of analysis. However, it's not as specific or comprehensive as the reference point.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            }
+        ],
+        "analysis": "The testimony shows some alignment with the reference talking points, but it's not a direct replication. The speaker opposes the City of Yes proposal and shares concerns about increased density, reduced parking requirements, and questionable city planning processes. However, the testimony is more focused on the speaker's specific district (CB9) and personal experiences rather than presenting broader city-wide arguments like the reference talking points.\n\nThe testimony doesn't cover all the points mentioned in the reference talking points, such as claims about housing shortage being misleading, the targeting of low-density neighborhoods, or specific concerns about loss of local control. The language used is also quite different, with the testimony being more personal and less data-driven compared to the reference talking points.\n\nWhile there are shared themes and some similar concerns, the testimony appears to be an individual's perspective rather than a direct repetition of the provided talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

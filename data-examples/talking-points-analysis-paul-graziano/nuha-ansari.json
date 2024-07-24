@@ -1,0 +1,44 @@
+{
+    "testimony": {
+        "name": "Nuha Ansari",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/nuha-ansari-from-friends-of-the-upper-east-side",
+        "start_time_in_seconds": 2171.3992,
+        "end_time_in_seconds": 2357.4993,
+        "for_or_against": "Against",
+        "borough": "Manhattan",
+        "neighborhood": "Upper East Side",
+        "stated_affiliations": [
+            "Friends of the Upper East Side Historic Districts"
+        ],
+        "key_points": [
+            "The market has failed to regulate prices and create affordable housing on the Upper East Side",
+            "Concerns about weakening the public review process and transparency",
+            "Potential destruction of historic district character due to changes in landmark transfer development rights",
+            "Reduction in light, air, and green space due to proposed changes in rear yard sizes and open space requirements",
+            "Need for zoning that prioritizes resident well-being and creates truly affordable housing",
+            "Urges the commission to consider alternative solutions that strengthen neighborhoods and ensure an inclusive review process"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Nuha Ansari, represents Friends of the Upper East Side Historic Districts.\n2. She expresses concerns about the City of Yes for Housing Opportunity proposal.\n3. While acknowledging the need for affordable housing, she criticizes the proposal's market-based approach.\n4. She mentions several specific concerns:\n   a. Weakening of public review process\n   b. Changes to landmark transfer development rights\n   c. Reduction in rear yard sizes and open space requirements\n   d. Potential destruction of green spaces\n5. These concerns align with some of the reference talking points, particularly regarding neighborhood character, loss of local control, and environmental concerns.\n6. However, the testimony doesn't directly reference many of the specific claims made in the talking points, such as population decline or the targeting of low-density neighborhoods.\n\nLet's compare the testimony to the reference talking points:",
+        "talking_point_evidence": [
+            {
+                "quote": "City of Yes, a housing opportunity proposes to rely on the market to regulate prices, a system that has demonstrably failed, on the Upper East side, an area that has also seen hundreds of existing relatively affordable units in historic housing typologies such as tenements, demolished for ultra luxury high rises.",
+                "analysis": "This quote somewhat aligns with the talking point that the proposals favor developers over existing residents. While it doesn't directly mention parking requirements or as-of-right buildings, it does criticize the market-based approach that could benefit developers at the expense of affordable housing.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "We're concerned furthermore that the proposed amendments would weaken the public review process in several instances by shifting decision making to the commission level as in the case of the landmark transfer development rights. This removes valuable community input and undermines transparency.",
+                "analysis": "This quote closely aligns with the talking point about loss of local control over development. It specifically mentions the weakening of the public review process and the shift of decision-making power away from the community, which is very similar to the reference talking point.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "Propose changes like reducing rear yard sizes and eliminating open space requirements in favor of accessory dwelling units with diminished light, air and green space. And especially important in higher density areas like the Upper East side, the donut holes at the interior of our city block for instance are crucial for mitigating heat.",
+                "analysis": "This quote relates to the environmental concerns mentioned in the reference talking points. While it doesn't specifically mention sewers or schools, it does address the loss of green space and potential environmental impacts, which supports the general point about environmental concerns.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows some alignment with the reference talking points, particularly in areas of concern about neighborhood character, loss of local control, and environmental impacts. However, the testimony is more focused on specific issues related to the Upper East Side and historic districts, rather than broad city-wide concerns mentioned in the talking points.\n\nThe speaker shares concerns about the weakening of public review processes, which directly aligns with the talking point about loss of local control. She also mentions environmental concerns, particularly about the loss of green space, which supports the environmental talking points.\n\nHowever, the testimony doesn't touch on many of the other talking points, such as claims about housing shortage being misleading, population decline, or the targeting of low-density neighborhoods. The speaker's perspective is more focused on preserving the character of historic districts and ensuring affordable housing in high-density areas.\n\nWhile there is some alignment, the testimony doesn't appear to be directly based on or heavily influenced by the provided talking points. It presents a more nuanced and location-specific set of concerns.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

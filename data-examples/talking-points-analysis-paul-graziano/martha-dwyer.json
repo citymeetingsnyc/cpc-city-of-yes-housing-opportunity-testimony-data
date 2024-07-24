@@ -1,0 +1,50 @@
+{
+    "testimony": {
+        "name": "Martha Dwyer",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/martha-dwyer-on-concerns-about-the-city-of-yes-for",
+        "start_time_in_seconds": 13725.286,
+        "end_time_in_seconds": 13905.091,
+        "for_or_against": "Against",
+        "borough": "Manhattan",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [],
+        "key_points": [
+            "Quayo (City of Yes for Housing Opportunity) would deprive citizens of a say in the city's future",
+            "The initiative gives power to the mayor and developers",
+            "It does not mandate affordable housing",
+            "Affordable housing built under this plan can become market rate in 30 years",
+            "The plan would result in less open space, less green space, more density and congestion",
+            "There are no limitations on height and setbacks",
+            "Concerns about developers manipulating lot sizes to build oversized buildings",
+            "Examples of extremely tall buildings with empty space or amusement facilities",
+            "Fear that it would turn Manhattan into a city of expensive towers"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step in relation to the reference talking points:\n\n1. The testimony mentions \"Quayo\" (City of Yes for Housing Opportunity) would deprive citizens of a say in the city's future, giving power to the mayor and developers. This aligns with the reference point about loss of local control over development.\n\n2. The testimony criticizes the proposal for not mandating affordable housing and allowing affordable units to become market-rate after 30 years. This partially aligns with the point about proposals favoring developers over existing residents.\n\n3. The speaker mentions reduced open space, less green space, more density, and no height limitations. This relates to the reference points about changing neighborhood character and environmental concerns.\n\n4. The testimony provides specific examples of oversized buildings and manipulations of zoning laws. While not directly mentioned in the reference points, this supports the overall theme of favoring developers and changing neighborhood character.\n\n5. The speaker expresses concern about turning Manhattan into \"a city of expensive towers,\" which aligns with the point about proposals favoring developers and changing neighborhood character.\n\n6. The testimony does not mention population decline, parking requirements, or the specific percentage of single-family zoning, which are present in the reference talking points.\n\n7. The speaker does not discuss the public engagement process or questionable outreach, which is mentioned in the reference points.\n\nOverall, while the testimony doesn't use identical language to the reference talking points, it does align with several key themes, particularly regarding loss of local control, favoring developers, and environmental concerns.",
+        "talking_point_evidence": [
+            {
+                "quote": "Quaya would deprive nearly all the citizens of New York City. Of essentially any say in the future of our city. It gives that right to the mayor and developers.",
+                "analysis": "This quote directly supports the reference talking point about loss of local control over development. While the language is not identical, the argument is very similar to the reference point that states 'Removes community board input on many projects' and 'Gives more power to City Planning Commission'.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Quail, however, does not mandate affordable housing. Developers can build taller buildings if they include affordable housing. But that affordable housing can become market rate in only 30 years.",
+                "analysis": "This quote relates to the reference talking point about proposals favoring developers over existing residents. While it doesn't use the same examples (parking requirements, larger buildings as-of-right), it does argue that the proposal benefits developers more than it provides truly affordable housing for residents.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Fire would result less open space, less green space, more density and congestion, and no limitation on heightened status.",
+                "analysis": "This quote aligns with two reference talking points: changing neighborhood character and environmental concerns. It mentions increased density and loss of open space, which are directly referenced in the talking points.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "Under Quail, there would be no limits on such oversized buildings in addition to little affordable housing. It would turn men happening to a city of expensive towers.",
+                "analysis": "This quote supports the reference talking point about proposals favoring developers and changing neighborhood character. While not using identical language, it expresses the same concern about dramatically altering the city's character with large, expensive developments.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows significant alignment with several of the reference talking points, although it doesn't cover all the points and uses different specific examples. The speaker's main concerns align closely with the reference points about loss of local control, favoring developers over residents, changing neighborhood character, and environmental concerns. \n\nThe testimony provides detailed examples of zoning manipulations and oversized buildings, which, while not directly mentioned in the reference points, support the overall narrative of the talking points about developers taking advantage of zoning changes. The speaker's concerns about the loss of citizen input and the potential for Manhattan to become a \"city of expensive towers\" closely mirror the reference points about loss of local control and changing neighborhood character.\n\nHowever, the testimony doesn't touch on some key points mentioned in the reference talking points, such as the claims of a misleading housing shortage, specific concerns about low-density neighborhoods being targeted, or criticisms of the public engagement process. The speaker also doesn't use some of the specific statistics or examples provided in the reference talking points.\n\nDespite these differences, the overall message and main concerns expressed in the testimony strongly support and align with the core arguments presented in the reference talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "testimony": {
+        "name": "Suwen Cheong",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/suwen-cheong-chair-of-the-land-use-committee-of",
+        "start_time_in_seconds": 16214.417,
+        "end_time_in_seconds": 16415.69,
+        "for_or_against": "Against",
+        "borough": "Brooklyn",
+        "neighborhood": "Prospect Lefferts Gardens",
+        "stated_affiliations": [
+            "Brooklyn Community Board 9"
+        ],
+        "key_points": [
+            "CB9 overwhelmingly opposes the City of Yes for Housing Opportunity in its entirety",
+            "Two-thirds of CB9 district is covered by non-contextual R6 and R7 zoning, which is slated for the highest density increases",
+            "The Universal Affordability Program (UAP) would lead to significant increases in FAR, much larger than 20%",
+            "Most lots in these districts are already significantly underbuilt",
+            "UAP income and rent levels are higher than the district's median income",
+            "The proposal would push land prices down enough to demolish thousands of small buildings",
+            "Displacement of current residents during construction without compensation",
+            "New housing will not be affordable for the median family in the district",
+            "The proposal is seen as an 'extinction level event' for the community",
+            "Rent-stabilized apartment buildings face threat of demolition or significant alteration",
+            "Concerns about increased eviction pressure on long-time tenants",
+            "The proposal doesn't consider that different areas are starting from different places in terms of density and affordability"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze this testimony step by step:\n\n1. The speaker, Suwen Cheong, is from Brooklyn Community Board 9 and is speaking against the \"City of Yes for Housing Opportunity\" proposal.\n\n2. They mention that their district (CB9) is largely covered by R6 and R7 zoning, which would see significant density increases under the proposal.\n\n3. The speaker emphasizes that these increases are much larger than 20%, citing specific examples of 77% and 50% increases in FAR.\n\n4. They argue that the Universal Affordability Program (UAP) income and rent levels are higher than their district's median income.\n\n5. The testimony suggests that the proposal would lead to the demolition of many smaller buildings, replacing them with larger market-rate buildings.\n\n6. The speaker expresses concern about displacement of current residents and the affordability of new units.\n\n7. They characterize the proposal as an \"extinction level event\" for their community.\n\n8. The testimony highlights the threat to rent-stabilized buildings, suggesting that landlords might be incentivized to empty buildings and redevelop them.\n\n9. The speaker emphasizes high eviction rates in Central Brooklyn and existing pressures on tenants.\n\n10. They reject the idea of \"building a little bit more everywhere,\" arguing that not all communities are starting from the same place.\n\nComparing this to the reference talking points:\n\n- The testimony strongly aligns with the point about dramatic changes to neighborhood character, especially regarding much denser development.\n- It supports the idea that the proposals favor developers over existing residents, though it focuses more on displacement than on specific developer benefits.\n- The testimony touches on the loss of local control, though it's not a central focus.\n- There's a strong emphasis on how low-density neighborhoods are being targeted, though the specifics differ from the reference points.\n- The testimony doesn't significantly address claims of housing shortage, environmental concerns, or the public engagement process.\n",
+        "talking_point_evidence": [
+            {
+                "quote": "These are much larger than 20% increases. The increase in R6 on Nara Street is 77% from a 2.2 f a r to a 3.9 f a r And on our 7 narrow streets, it is 50% from 3.44 to 5.",
+                "analysis": "This quote directly supports the reference talking point about enabling much denser development in low-density neighborhoods. It provides specific examples of large increases in allowable density.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "This is an extinction level event for our community, already one of the densest in Brooklyn.",
+                "analysis": "This quote aligns closely with the reference talking point about dramatic changes to neighborhood character. While the language is more dramatic, the underlying concern is the same.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "We are not going to say yes with conditions and beg you to cut off just a hand or a foot instead of killing us. If you want to work with us to make your proposals better, Then stop jamming one size fits all down north throats and everything as of right and work with our communities individually to meet our housing and planning needs.",
+                "analysis": "This quote relates to the reference talking point about loss of local control over development. It expresses frustration with the 'one size fits all' approach and calls for more community input, which aligns with the concern about reduced community board input.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Even if you believe contrary to your own eyes, that these things will not happen frequently. You are asking us to lay down on the railroad tracks and play a chicken with developers and landlords.",
+                "analysis": "This quote supports the reference talking point about proposals favoring developers over existing residents. While it doesn't mention specific developer benefits, it clearly expresses the sentiment that the proposal puts residents at risk for the benefit of developers.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony from Suwen Cheong of Brooklyn Community Board 9 shows significant alignment with several of the reference talking points, though it doesn't cover all of them and provides some unique perspectives.\n\nThe testimony strongly supports the talking points about dramatic changes to neighborhood character and enabling much denser development. It provides specific examples of large density increases, which aligns closely with the reference concerns about changing neighborhood character.\n\nThe speaker's concerns about displacement and the impact on existing residents echo the talking point about proposals favoring developers over existing residents, although the testimony focuses more on the negative impact on current residents rather than specific benefits to developers.\n\nThere's also alignment with the idea of low-density neighborhoods being unfairly targeted, though the testimony presents this from a different angle, focusing on already dense areas being further densified rather than single-family home areas.\n\nThe testimony touches on the loss of local control, expressing frustration with the \"one size fits all\" approach, which aligns with the reference point about removing community board input.\n\nHowever, the testimony doesn't significantly address some of the reference talking points, such as claims about housing shortage being misleading, environmental and infrastructure concerns, or criticisms of the public engagement process.\n\nOverall, while the testimony doesn't cover all the reference talking points and provides some unique perspectives, it strongly aligns with several key points and generally supports the overall narrative of the reference talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

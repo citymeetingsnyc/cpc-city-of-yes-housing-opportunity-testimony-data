@@ -1,0 +1,52 @@
+{
+    "testimony": {
+        "name": "Phyllis Inserillo",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/phyllis-inserillo-co-president-of-howard-beach",
+        "start_time_in_seconds": 13071.69,
+        "end_time_in_seconds": 13268.376,
+        "for_or_against": "Against",
+        "borough": "Queens",
+        "neighborhood": "Howard Beach",
+        "stated_affiliations": [
+            "Howard Beach Lindenwood Civic Association"
+        ],
+        "key_points": [
+            "Howard Beach community is overwhelmingly opposed to the City of Yes Housing Opportunity amendment",
+            "The community faces significant coastal flooding issues, which make increased development unsafe",
+            "Increasing FAR and adding ADUs will worsen flooding and strain infrastructure",
+            "The plan should be voted on piece by piece by community boards and City Council, not as a citywide change",
+            "Howard Beach says no to overcrowded classrooms, longer waits for infrastructure fixes, and housing units on top of stores",
+            "The community needs more police officers, EMS workers, firefighters, and better laws to protect families",
+            "Better infrastructure for sewers and utilities, and solutions to flooding issues are needed",
+            "Homeowners are burdened with high property taxes and mortgages",
+            "12 out of 14 community boards in Queens have voted against this plan"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "1. Let's analyze the testimony against the reference talking points:\n2. The testimony focuses heavily on opposition to the \"City of Yes Housing Opportunity\" plan, which aligns with the general sentiment in the reference talking points.\n3. Several key themes in the testimony match closely with the reference talking points:\n   a. Concerns about changing neighborhood character\n   b. Infrastructure and environmental concerns, particularly flooding\n   c. Opposition to denser development in low-density areas\n   d. Loss of local control over development\n   e. Questioning the need for more housing\n4. The testimony also touches on some points not explicitly mentioned in the reference talking points, such as the need for more public services and issues with squatters.\n5. The language and specific examples used in the testimony are different from the reference talking points, but the overall arguments and concerns are very similar.\n6. Let's identify specific quotes that align with the reference talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "Howard Beach is a community that consists of 1 and 2 family homes, garden apartments, and high rise condo, and co op buildings. Families choose to live in this tight knit community because of its suburban field with easy access to the city.",
+                "analysis": "This quote aligns with the reference talking point about low-density neighborhoods being unfairly targeted. It emphasizes the current character of the neighborhood, which residents value.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "This plan could have easily been broken down to be voted on piece by piece by our community boards and the New York City Council, instead of as a city wide change through the existing Mueller process and city council review, which will be eliminated with the implementation of this plan and will snuff out the voice of the people.",
+                "analysis": "This quote directly supports the reference talking point about the loss of local control over development. It expresses concern about the elimination of community input, which is almost identical to the reference point.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "Increasing FAR will cause water to have nowhere to run off ADUs can put extra stress on existing infrastructure, especially in areas where the drainage systems may already be under pressure during heavy rains or floods.",
+                "analysis": "This quote aligns closely with the reference talking point about environmental and infrastructure concerns, specifically mentioning issues with flooding and infrastructure stress.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "The people and queens have spoken. 12 out of 14 community boards and queens have voted no on this plan. Their votes are the voice of the people which you should be listening to.",
+                "analysis": "This quote supports the reference talking point about questionable public engagement process. While it doesn't use the same language, it emphasizes the lack of consideration for community input, which is a key part of the reference point.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows a high level of alignment with the reference talking points. While the specific language and examples differ, the core arguments and concerns expressed in the testimony closely mirror those in the reference talking points. The speaker opposes the \"City of Yes Housing Opportunity\" plan, citing concerns about neighborhood character changes, infrastructure and environmental issues (particularly flooding), loss of local control over development, and questioning the need for more housing. These themes are all present in the reference talking points.\n\nThe testimony does not appear to be directly quoting or paraphrasing the reference talking points, but rather expressing similar sentiments in the speaker's own words and with local examples. This suggests that while the speaker may not be directly using the reference talking points, they are highly aligned with the same perspective and concerns.\n\nIt's worth noting that the testimony also includes some points not explicitly mentioned in the reference talking points, such as concerns about overcrowded classrooms and the need for more public services. However, these additional points do not contradict the reference talking points and can be seen as extensions of the same overall perspective.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

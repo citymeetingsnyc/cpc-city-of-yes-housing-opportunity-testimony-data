@@ -1,0 +1,47 @@
+{
+    "testimony": {
+        "name": "Lucie Levine",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/lucie-levine-from-the-historic-district-council-on",
+        "start_time_in_seconds": 38018.695,
+        "end_time_in_seconds": 38208.945,
+        "for_or_against": "Against",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Historic District Council"
+        ],
+        "key_points": [
+            "COYHO will have a significant impact on historic neighborhoods and districts",
+            "Concerns about creating market-rate and luxury housing while incentivizing demolition of historic neighborhoods",
+            "Support for relegalizing shared and supportive housing, Town Center zoning, and commercial to residential conversion",
+            "Support with caveats for accessory dwelling units and expanded transferable development rights",
+            "Opposition to the lack of affordable housing requirements in COYHO",
+            "Concerns about streamlining regulations and removing public oversight",
+            "Need to address loss of affordable housing through building combination, unit warehousing, and 'big footing'",
+            "Suggestion to include historic preservation as a tool for housing opportunity",
+            "Historic districts retain rent-subsidized units at a higher rate than non-designated areas"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The testimony is from Lucie Levine, representing the Historic District Council.\n2. The speaker expresses both support and opposition to various aspects of the City of Yes for Housing Opportunity (COYHO) proposal.\n3. While some of the concerns align with the reference talking points, the overall tone and focus are different.\n4. Let's compare key points:\n\na) Neighborhood character: The testimony mentions concerns about compromising the character of special districts, which aligns somewhat with the reference point about changing neighborhood character.\n\nb) Housing shortage: The testimony doesn't dispute the housing shortage, unlike the reference points.\n\nc) Favoring developers: The testimony expresses concern about luxury housing and loss of affordable units, which partially aligns with the reference point about favoring developers.\n\nd) Low-density neighborhoods: This is not a focus of the testimony.\n\ne) Loss of local control: The testimony mentions streamlining regulations might remove projects from public oversight, which somewhat aligns with the reference point.\n\nf) Environmental concerns: Not a major focus in this testimony.\n\ng) Public engagement: Not addressed in this testimony.\n\n5. The testimony focuses more on historic preservation, affordability, and specific zoning changes, which are not primary focuses of the reference talking points.\n\n6. While there are some overlapping concerns, the testimony presents a more nuanced view, supporting some aspects of the proposal while opposing others.\n\nGiven this analysis, the testimony shows some alignment with the reference talking points, but it's not a close match overall.",
+        "talking_point_evidence": [
+            {
+                "quote": "HCC is also seriously concerned that COYHO's efforts streamlined housing development regulations will remove these projects from public oversight",
+                "analysis": "This quote relates to the reference talking point about loss of local control over development. While it doesn't specifically mention community board input, it does express concern about reduced public oversight, which is a similar sentiment.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "We are concerned that COYHO's effort to streamlined special districts regulations, will compromise the character of special districts",
+                "analysis": "This quote partially aligns with the reference talking point about dramatically changing neighborhood character. While it's more specific to special districts, it expresses a similar concern about preserving existing neighborhood characteristics.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "HCC decries the fact that COYHO does not require any affordable housing. Luxury housing won't solve the housing crisis it will lead to the loss of more affordable units.",
+                "analysis": "This quote somewhat relates to the reference talking point about proposals favoring developers over existing residents. While it doesn't use the same language, it expresses a similar concern about the focus on luxury housing at the expense of affordability.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony from Lucie Levine on behalf of the Historic District Council shows some alignment with the reference talking points, but it is not closely related overall. The testimony presents a more nuanced view of the City of Yes for Housing Opportunity (COYHO) proposal, supporting some aspects while opposing others.\n\nThe main areas of alignment are concerns about changes to neighborhood character, reduced public oversight, and the potential for luxury housing development at the expense of affordability. However, the testimony differs significantly from the reference talking points in several ways:\n\n1. It doesn't dispute the existence of a housing shortage.\n2. It supports some aspects of the COYHO proposal, such as relegalizing shared and supportive housing, and commercial to residential conversion.\n3. It focuses heavily on historic preservation and the impact on historic districts, which is not a major theme in the reference talking points.\n4. It doesn't address concerns about low-density neighborhoods being targeted or environmental and infrastructure issues.\n5. The testimony doesn't mention the public engagement process, which is a key point in the reference talking points.\n\nWhile there are some overlapping concerns, the testimony presents a more balanced and specific critique of the COYHO proposal, focusing on its potential impacts on historic preservation and affordable housing rather than wholesale opposition to the plan.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

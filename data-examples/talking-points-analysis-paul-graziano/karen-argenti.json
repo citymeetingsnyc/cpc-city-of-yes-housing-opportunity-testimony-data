@@ -1,0 +1,58 @@
+{
+    "testimony": {
+        "name": "Karen Argenti",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/karen-argenti-from-the-bronx-council-for",
+        "start_time_in_seconds": 5934.357,
+        "end_time_in_seconds": 6124.926,
+        "for_or_against": "Against",
+        "borough": "Bronx",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Bronx Council for Environmental Quality",
+            "Broadway Community Alliance",
+            "Protect Bronx Neighborhoods from Over Development"
+        ],
+        "key_points": [
+            "The DEIS (Draft Environmental Impact Statement) is severely flawed",
+            "The proposal is not building any affordable units",
+            "There is no supply problem, but a problem with affordable rentals",
+            "The market is being manipulated by private entities",
+            "Zoning changes cannot solve the affordable housing problem",
+            "Need to meet the city's 2030 climate change goals",
+            "Concerns about impervious surface area and its impact on runoff volume",
+            "Need for affordability, clean air, and water simultaneously"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step and compare it with the reference talking points:\n\n1. The testimony is from Karen Argenti, representing the Bronx Council for Environmental Quality.\n\n2. She mentions that a majority of Bronx community boards voted no or yes with conditions, which aligns with the reference point about loss of local control over development.\n\n3. The testimony states that the DEIS (Draft Environmental Impact Statement) is severely flawed, which relates to the environmental and infrastructure concerns mentioned in the talking points.\n\n4. Argenti argues that there is no housing supply problem, but rather an affordability problem. This aligns with the reference point claiming that claims of housing shortage are misleading.\n\n5. She mentions the removal of rent-controlled units and the net loss of affordable housing over the years, which supports the idea that the proposals favor developers over existing residents.\n\n6. The testimony brings up climate change goals and impervious surface area, which relates to the environmental concerns in the talking points.\n\n7. Argenti states that the issue \"cannot be solved by zoning\" and needs an action plan, which indirectly supports the idea that the proposals might not be the right solution.\n\nWhile there are some alignments with the reference talking points, the testimony focuses more on affordability and environmental concerns rather than neighborhood character changes or targeting low-density areas. The overall tone is critical of the proposal, but for somewhat different reasons than those emphasized in the reference talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "We will be sending in comments on the DEIS. Along with the Broadway community alliance, we are cofounders of the protect Bronx neighborhoods from over development, and I wanna report that a majority of our 12 Bronx community boards 7 voted no or voted yes with conditions.",
+                "analysis": "This quote supports the talking point about loss of local control over development. It shows that community boards are voting against or placing conditions on the proposal, indicating concern over the changes.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "The DEIS is severely fadely flawed. We urge you to start over as the proposed action, housing supply and affordability is wrong.",
+                "analysis": "This quote supports the talking point about environmental and infrastructure concerns, specifically the lack of proper analysis. It also touches on the misleading claims of housing shortage.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "There is no supply problem. There's a problem in rentals that are affordable.",
+                "analysis": "This quote directly supports the talking point that claims of housing shortage are misleading. It argues that the issue is affordability, not supply.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "We need housing. Yeah. But we need affordable housing. This cannot be solved by zoning. It needs an action plan.",
+                "analysis": "This quote indirectly supports the idea that the proposals favor developers over existing residents by emphasizing the need for affordable housing and suggesting that zoning changes are not the solution.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "We also need to meet the city's 2030 climate change goals. New York City is more than 72% Bronx County is 59%, and the Sned in Riverdale is 30% impervious. Research indicates that watersheds that are not only degraded by impervious surface area increases, but its threat dramatically impacts runoff volume.",
+                "analysis": "This quote relates to the environmental concerns mentioned in the talking points, specifically addressing potential flooding risks and loss of green space.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows some alignment with the reference talking points, but it focuses more on specific issues related to affordability and environmental concerns. While it shares a critical stance towards the proposal, it doesn't directly address all the points mentioned in the reference talking points.\n\nThe testimony supports the ideas that:\n1. Claims of housing shortage are misleading\n2. There are environmental and infrastructure concerns\n3. There is a loss of local control over development\n\nHowever, it doesn't strongly emphasize:\n1. Changes to neighborhood character\n2. Targeting of low-density neighborhoods\n3. Favoring developers over residents (though this is implied)\n4. The public engagement process\n\nThe testimony brings unique perspectives on affordability and climate change goals that aren't directly mentioned in the reference talking points. While there is some alignment, the focus and specific arguments differ enough that it doesn't appear to be directly based on the reference talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "testimony": {
+        "name": "Henry Euler",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/henry-euler-president-of-auburndale-improvement",
+        "start_time_in_seconds": 10345.422,
+        "end_time_in_seconds": 10530.734,
+        "for_or_against": "Against",
+        "borough": "Queens",
+        "neighborhood": "Auburndale",
+        "stated_affiliations": [
+            "Auburndale Improvement Association"
+        ],
+        "key_points": [
+            "The proposal hasn't been completely vetted and more work is needed",
+            "Opposition to transit-oriented development, especially in low-density and single-family zoning areas",
+            "Concern about unfairness to homeowners who have invested in their properties",
+            "Against ADUs in basements, cellars, and garages due to safety concerns",
+            "Preference for expanding existing homes rather than creating ADUs",
+            "Criticism of the 'one size fits all' approach",
+            "Concern about deregulation in single-family and low-density zones",
+            "Lack of clarity on what 'a little more housing' means",
+            "Potential impacts on infrastructure and school enrollments not addressed"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "1. The testimony opposes the \"City of Yes for Housing Opportunity\" proposal.\n2. It mentions several key points that align with or are similar to the reference talking points:\n   a. Concerns about changing neighborhood character, especially in low-density areas\n   b. Criticism of the \"one size fits all\" approach\n   c. Worry about impacts on infrastructure and schools\n   d. Concerns about fairness to existing homeowners\n   e. Questioning the need for increased housing density\n3. However, the testimony doesn't use identical language or cover all the points in the reference list.\n4. Let's analyze specific quotes that align with the talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "We don't approve of transit oriented development. We feel that around a station, perhaps that that would be okay to have a little bit more development there. But as you move full out outward from from the center, I I I had heard it's gonna be a half a mile in wall directions. Well, you're gonna start going into neighborhoods that have low density zoning. Single family zoning. And that that's not fair to those people.",
+                "analysis": "This quote aligns with the reference talking point about low-density neighborhoods being unfairly targeted. It expresses concern about changes to single-family zoning areas, which is a key point in the reference talking points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "This proposal has a one size fits all mentality to it. This is a deregulation proposal. In single family and low density zones areas. This is gonna be especially for stresses to our communities.",
+                "analysis": "This quote supports the reference talking point about the proposals dramatically changing neighborhood character, especially in low-density areas. It uses similar language about 'one size fits all' and mentions deregulation in single-family zones.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Nor are the potential impacts on interest infrastructure and school enrollments in our communities addressed on these proposals.",
+                "analysis": "This quote directly supports the reference talking point about environmental and infrastructure concerns, specifically mentioning impacts on schools, which is mentioned in the reference points.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            }
+        ],
+        "analysis": "The testimony shows significant alignment with several key themes from the reference talking points, although it doesn't cover all of them and doesn't use identical language. The speaker opposes the \"City of Yes for Housing Opportunity\" proposal, citing concerns about changes to neighborhood character, especially in low-density areas, which is a major theme in the reference points. The testimony also touches on infrastructure concerns and questions the need for increased housing density, both of which are present in the reference talking points.\n\nHowever, the testimony doesn't mention some specific points from the reference list, such as the claims about population decline, the detailed critique of the public engagement process, or the specific concerns about loss of local control over development. The language used is also generally less specific and detailed than the reference talking points.\n\nWhile there is clear alignment on several key issues, the testimony appears to be independently formulated rather than directly repeating the reference talking points verbatim. The speaker seems to be expressing similar concerns from a personal or local perspective, rather than following a strict script.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

@@ -34,14 +34,39 @@ def cli():
 
 
 @cli.command()
-def proposal_elements():
+@click.option(
+    "--model-provider", default="ANTHROPIC", help="Model provider (ANTHROPIC or OPENAI)"
+)
+@click.option("--model-name", default="claude-3-5-sonnet-20240620", help="Model name")
+@click.option(
+    "--stance",
+    type=click.Choice(["FOR", "AGAINST"], case_sensitive=False),
+    help="Filter testimonies by whether they are for or against the proposal",
+)
+def proposal_elements(model_provider, model_name, stance=None):
     """Analyze testimonies for which City of Yes proposal elements they discuss."""
-    run_analysis(proposal_elements_analysis.extract)
+    run_analysis(
+        proposal_elements_analysis.extract,
+        model_provider=model_provider,
+        model_name=model_name,
+        stance=stance,
+    )
 
 
 @cli.command()
 @click.argument("reference_talking_points_path", type=click.Path(exists=True))
-def talking_points(reference_talking_points_path):
+@click.option(
+    "--model-provider", default="ANTHROPIC", help="Model provider (ANTHROPIC or OPENAI)"
+)
+@click.option("--model-name", default="claude-3-5-sonnet-20240620", help="Model name")
+@click.option(
+    "--stance",
+    type=click.Choice(["FOR", "AGAINST"], case_sensitive=False),
+    help="Filter testimonies by whether they are for or against the proposal",
+)
+def talking_points(
+    reference_talking_points_path, model_provider, model_name, stance=None
+):
     """Analyze testimonies for how closely they reference reference talking points.
 
     Talking points must be a Markdown file with bullet points, one for each talking point."""
@@ -52,6 +77,9 @@ def talking_points(reference_talking_points_path):
     run_analysis(
         talking_points_analysis.extract,
         reference_talking_points=reference_talking_points,
+        model_provider=model_provider,
+        model_name=model_name,
+        stance=stance,
     )
 
 
@@ -62,12 +90,15 @@ def talking_points_report(extracted_data_dir, reference_talking_points_path):
     """Generate a report from the talking points analysis."""
     print(
         talking_points_analysis.generate_report(
-            extracted_data_dir, reference_talking_points_path
+            extracted_data_dir,
+            reference_talking_points_path,
         )
     )
 
 
-def run_analysis(extract_fn: Callable[[Transcript, str], BaseModel], **extract_fn_args):
+def run_analysis(
+    extract_fn: Callable[[Transcript, str], BaseModel], stance=None, **extract_fn_args
+):
     if not os.path.exists(EXTRACTED_DATA_DIR):
         os.makedirs(EXTRACTED_DATA_DIR)
 
@@ -87,6 +118,9 @@ def run_analysis(extract_fn: Callable[[Transcript, str], BaseModel], **extract_f
         testimonies = json.load(f)
 
     for testimony in testimonies:
+        if stance and testimony["for_or_against"].lower() != stance.lower():
+            continue
+
         testimony_transcript = transcript.from_start_time_to_end_time(
             testimony["start_time_in_seconds"], testimony["end_time_in_seconds"]
         )

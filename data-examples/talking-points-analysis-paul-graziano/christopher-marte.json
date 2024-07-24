@@ -1,0 +1,55 @@
+{
+    "testimony": {
+        "name": "Christopher Marte",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/council-member-christopher-marte-on-concerns-with",
+        "start_time_in_seconds": 7847.6475,
+        "end_time_in_seconds": 8099.0693,
+        "for_or_against": "Against",
+        "borough": "Manhattan",
+        "neighborhood": "Lower Manhattan",
+        "stated_affiliations": [
+            "NYC City Council"
+        ],
+        "key_points": [
+            "The proposal is too large and complex for the public to fully understand in the given time frame",
+            "Lack of transparency and clear communication about the proposed changes",
+            "The plan will not create affordable housing",
+            "Conversion of office buildings to residential will not be affordable",
+            "Loss of public buildings to luxury condos",
+            "Micro apartments will force families to look elsewhere",
+            "Reduction in yard space, air, and light",
+            "Rents will continue to rise",
+            "The plan benefits those who profit from New York, not New Yorkers",
+            "Need for mandated affordability instead of trickle-down approach",
+            "Calls for strengthening the MIH program and requiring 100% affordability on public land",
+            "Opposes changes to apartment sizes and open space regulations"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "To analyze the similarity between the testimony and the reference talking points, let's break down the key points made in the testimony and compare them to the provided talking points:\n\n1. The testimony emphasizes the massive scale and complexity of the proposal, which aligns with the reference point about dramatic neighborhood changes.\n\n2. The speaker expresses concerns about the lack of transparency and difficulty in understanding the full scope of changes, which relates to the talking point about questionable public engagement.\n\n3. The testimony criticizes the speed and scale of the changes, which aligns with the point about loss of local control over development.\n\n4. The speaker questions who the plan is for, suggesting it benefits developers more than residents, which directly aligns with the talking point about favoring developers over existing residents.\n\n5. The testimony mentions concerns about losing public buildings to luxury condos and the lack of affordable housing, which partially aligns with the point about proposals favoring developers.\n\n6. The speaker mentions impacts on yards, air, and light, which relates to the environmental concerns in the reference talking points.\n\n7. The testimony doesn't specifically mention some points like population decline, parking requirements, or single-family zoning.\n\nOverall, there are several strong alignments between the testimony and the reference talking points, although the testimony doesn't cover all the points and has some unique focuses.",
+        "talking_point_evidence": [
+            {
+                "quote": "This proposal would change the fabric of our neighborhoods, of our homes, and our open spaces. Of our light and air and for generations to come.",
+                "analysis": "This quote closely aligns with the reference talking point about dramatic neighborhood changes. It expresses concern about the wide-ranging impacts of the proposal on neighborhoods and living conditions.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "Many community board members, let alone members of the public, not all versed in the nuance of zoning, still do not fully grasp some aspects of this text amendment.",
+                "analysis": "This quote supports the reference talking point about the questionable public engagement process. It highlights the complexity of the proposals and the difficulty for the public to understand them.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "This is not a plan for New Yorkers. This is a plan for people who profit off New York.",
+                "analysis": "This quote directly supports the reference talking point about proposals favoring developers over existing residents. It expresses the same sentiment that the plan benefits those who profit from development rather than ordinary New Yorkers.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "Our yards will shrink, our air and light will be taken away, and our rents will continue to rise.",
+                "analysis": "This quote relates to the environmental concerns mentioned in the reference talking points. While not identical, it supports the idea of negative impacts on open space and living conditions.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows a significant alignment with several key reference talking points. The speaker, Council Member Christopher Marte, echoes concerns about dramatic neighborhood changes, lack of transparency in the process, favoring developers over residents, and potential negative environmental impacts. \n\nThe testimony strongly emphasizes the scale and complexity of the proposal, which aligns with the reference points about dramatic changes to neighborhood character and the difficulty of the public engagement process. The speaker's criticism of the plan as benefiting those who profit from New York rather than New Yorkers themselves is nearly identical to the reference point about favoring developers over existing residents.\n\nHowever, the testimony doesn't cover all aspects of the reference talking points. For example, it doesn't mention population decline, specific zoning types like single-family homes, or parking requirements. The testimony also has some unique focuses, such as the emphasis on the need for affordable housing and criticism of the speed at which multiple large proposals are being pushed through.\n\nWhile not a perfect match, the testimony shows a high degree of similarity to the reference talking points in terms of overall sentiment and several specific concerns.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

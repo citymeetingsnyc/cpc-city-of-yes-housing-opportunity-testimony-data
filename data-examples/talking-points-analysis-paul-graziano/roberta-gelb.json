@@ -1,0 +1,53 @@
+{
+    "testimony": {
+        "name": "Roberta Gelb",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/roberta-gelb-resident-of-chelsea-manhattan-on-city",
+        "start_time_in_seconds": 35018.223,
+        "end_time_in_seconds": 35204.02,
+        "for_or_against": "Against",
+        "borough": "Manhattan",
+        "neighborhood": "Chelsea",
+        "stated_affiliations": [
+            "Chelsea Coalition on housing",
+            "Chelsea Reform Democratic Club"
+        ],
+        "key_points": [
+            "Affordable housing should be preserved and created, not just luxury housing",
+            "Many apartments are vacant while people are homeless or on waiting lists",
+            "Rent-stabilized apartments are being warehoused",
+            "The Chelsea Plan (197a) protections are at risk",
+            "Community input through ULURP is at risk",
+            "Different types of housing are needed (for homeless, artists, seniors, teachers)",
+            "Building luxury housing doesn't create affordable housing",
+            "The plan weakens regulations that maintain neighborhood character",
+            "The plan makes it easier to build on limited open space"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step and compare it with the reference talking points:\n\n1. The testimony focuses on preserving affordable housing and criticizes the potential for luxury housing development.\n2. The speaker expresses concern about the loss of community input and protections, which aligns with the reference talking point about loss of local control.\n3. The testimony mentions vacant apartments and warehoused rent-stabilized units, which partially aligns with the talking point about misleading housing shortage claims.\n4. The speaker criticizes the focus on luxury housing, which relates to the talking point about favoring developers over existing residents.\n5. There's mention of changing neighborhood character, which directly relates to one of the key talking points.\n6. The testimony doesn't extensively cover all the points in the reference list, such as environmental concerns or specific zoning changes.\n\nOverall, while the testimony doesn't use identical language or cover all points, it does align with several key themes from the reference talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "Everyone screams about the lack of housing, but numerous apartments in nature are vacant while people are sleeping on the street and others have been on waiting lists for years. Rent stabilized apartments are being warehoused.",
+                "analysis": "This quote partially supports the reference talking point about misleading housing shortage claims. While it doesn't mention population decline, it does suggest that the housing shortage may be exaggerated due to vacant and warehoused apartments.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "I'm afraid that the protections we got with 197 a as slim as they were will be lost. We also fought for Eulerve to ensure community input. And now that's also at risk.",
+                "analysis": "This quote aligns closely with the reference talking point about loss of local control over development. It expresses concern about losing community input, which is a key element of the reference point.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "The city of yes is a kiss. To for profit developers. The plan includes provisions that would give you larger and tall luxury condos in our neighborhoods",
+                "analysis": "This quote supports the reference talking point about proposals favoring developers over existing residents. It suggests that the plan benefits developers and allows for larger luxury developments.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "We move a week in long standing regulations that help us maintain our neighborhood character",
+                "analysis": "This quote directly relates to the reference talking point about dramatically changing neighborhood character. It expresses concern about weakening regulations that preserve neighborhood character.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            }
+        ],
+        "analysis": "The testimony shows significant alignment with several key themes from the reference talking points, although it doesn't cover all points and uses different language. The speaker expresses concerns about loss of community input, favoring luxury development over affordable housing, and changes to neighborhood character. These align closely with the reference talking points about loss of local control, favoring developers, and changing neighborhood character. The testimony also touches on the idea of misleading housing shortage claims, though from a different angle than the reference points. While the testimony doesn't go into detail about environmental concerns or specific zoning changes mentioned in the reference points, the overall message and concerns expressed are quite similar.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

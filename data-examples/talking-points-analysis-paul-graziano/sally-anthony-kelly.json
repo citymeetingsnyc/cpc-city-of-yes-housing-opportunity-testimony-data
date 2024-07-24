@@ -1,0 +1,39 @@
+{
+    "testimony": {
+        "name": "Sally Anthony Kelly",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/sally-anthony-kelly-on-city-of-yess-impact-on",
+        "start_time_in_seconds": 46729.035,
+        "end_time_in_seconds": 46793.613,
+        "for_or_against": "Against",
+        "borough": "Queens",
+        "neighborhood": "Howard Beach",
+        "stated_affiliations": [],
+        "key_points": [
+            "Howard Beach is in a flood area with severe flooding issues that need to be addressed before any proposal",
+            "More buildings and ADUs will reduce green space, which helps with water reabsorption during high tides",
+            "Increased development will lead to more flood claims, causing already high insurance prices to increase",
+            "The city should install floodgates that were promised and approved 40 years ago",
+            "Howard Beach is a suburban area, and residents chose to live there for that reason",
+            "The proposal should be broken up by community board and allow for community board votes",
+            "Residents should have a voice in decisions affecting their areas",
+            "Request to vote no on the City of Yes proposal or exclude Community Board 10 from it"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "1. The testimony focuses on concerns specific to Howard Beach, which is in a flood-prone area.\n2. The speaker expresses worry about increased density and loss of green space, which aligns with some of the reference talking points.\n3. There's mention of community input and voting, which relates to the \"Loss of local control over development\" talking point.\n4. Environmental concerns, particularly flooding, are highlighted, which aligns with the \"Environmental and infrastructure concerns\" talking point.\n5. The speaker doesn't directly reference many of the specific claims made in the talking points, but there are some thematic similarities.\n6. The overall tone is opposed to the proposal, which aligns with the general stance of the talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "More buildings and ADUs will take away green space, which currently helps us with reabsorption of water during high tides.",
+                "analysis": "This quote relates to the environmental concerns mentioned in the talking points, specifically about loss of green space and increased flooding risk. While not identical, it supports the same argument.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Why can't the proposal be broken up by community board? Community board votes. Why can't we the people have a voice in our own areas that we're invested in?",
+                "analysis": "This quote aligns with the talking point about loss of local control over development. While not using the same language, it expresses a similar concern about community input in the development process.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows some alignment with the reference talking points, particularly in areas of environmental concerns and community control. However, the testimony is much more focused on specific local issues in Howard Beach, particularly flooding, rather than the broader citywide concerns outlined in the talking points. The speaker doesn't directly reference many of the specific claims made in the talking points, such as population decline, developer favoritism, or the technical aspects of zoning changes. The alignment is present but not strong enough to suggest that the speaker is directly using the reference talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

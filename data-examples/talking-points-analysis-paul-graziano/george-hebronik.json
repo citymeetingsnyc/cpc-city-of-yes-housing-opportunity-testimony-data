@@ -1,0 +1,58 @@
+{
+    "testimony": {
+        "name": "George Hebronik",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/george-hebronik-president-of-spencer-state-civic",
+        "start_time_in_seconds": 29473.562,
+        "end_time_in_seconds": 29682.09,
+        "for_or_against": "Against",
+        "borough": "Bronx",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Spencer State Civic Association"
+        ],
+        "key_points": [
+            "Communities represented are adamantly opposed to the City of Yes plan",
+            "Concerns over town center development in low density neighborhoods",
+            "Concerns about commercial overlays on Ampere and Layton Avenue",
+            "Concerns about preexisting conditions on Westchester Avenue and transitory infant development",
+            "Integration of businesses within strictly residential areas, especially smoke shops",
+            "Questions about ADUs, apartment conversions, and shared apartments",
+            "Strong opposition to elimination of parking mandates",
+            "Concerns about the removal of parking spaces for Zipcars in Pelham Bay",
+            "Worries about the potential elimination of the land review process and council member deference",
+            "Increase in absentee landlords in neighborhoods"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step and compare it with the reference talking points:\n\n1. George Hebronik represents multiple communities (Spencer State Civic Association, Pelham Bay taxpayers, country club area) totaling about 2000 homes.\n\n2. He states that these communities are collectively against the \"City of Yes\" plan, which aligns with the overall sentiment in the reference talking points.\n\n3. Hebronik mentions concerns about town center development in low-density neighborhoods, which relates to the reference point about enabling denser development in low-density areas.\n\n4. He discusses commercial overlays and integration of businesses in residential areas, which directly relates to the reference point about allowing commercial uses in residential areas.\n\n5. The testimony expresses concern about ADUs, apartment conversions, and shared apartments, which aligns with the reference point about dramatically changing neighborhood character.\n\n6. Hebronik strongly opposes the elimination of parking mandates, emphasizing that these communities are car-centric. This aligns with the reference point about removing parking requirements to increase developer profits.\n\n7. He mentions concerns about the land review process being eliminated, which relates to the reference point about loss of local control over development and removal of community board input.\n\n8. The testimony touches on the issue of absentee landlords, which somewhat relates to the reference point about favoring developers over existing residents.\n\nWhile the testimony doesn't cover all the reference talking points (e.g., claims about housing shortage, environmental concerns), it does align closely with several key points, particularly regarding neighborhood character, density, and local control.",
+        "talking_point_evidence": [
+            {
+                "quote": "Now, collectively, these communities are against the city of yes. They they adamantly opposed to this specific plan.",
+                "analysis": "This quote directly expresses opposition to the City of Yes plan, which aligns with the overall sentiment of the reference talking points. However, it doesn't make a specific claim that matches any particular talking point.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "The town center development specifically in the small or low density neighborhood, it's the commercial overlays on currently on Ampere and Layton Avenue.",
+                "analysis": "This quote closely relates to the reference talking point about allowing commercial uses in residential areas and enabling denser development in low-density neighborhoods. It directly mentions concerns about commercial overlays in low-density areas.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "Also, integration of business within strictly residential areas is a primary concern, especially with all the smoke shops that are popping up.",
+                "analysis": "This quote is nearly identical to the reference talking point about allowing commercial uses in residential areas. It specifically mentions the concern about integrating businesses into residential areas.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "Now both communities are adamantly against any elimination of parking mandates because bottom line is the low density community is a car centric neighborhood.",
+                "analysis": "This quote directly supports the reference talking point about removing parking requirements to increase developer profits. While it doesn't mention developer profits, it strongly opposes the elimination of parking mandates, which is a key point in the reference talking points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Now, when apparently, it looks like the land review process is gonna be gone. And with that, we might have the death, the council member deference, and land use matters.",
+                "analysis": "This quote relates closely to the reference talking point about loss of local control over development and removal of community board input. It specifically mentions concerns about changes to the land review process and council member deference in land use matters.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony by George Hebronik shows a strong alignment with several key reference talking points. While it doesn't cover all the points mentioned in the reference, it touches on many of the same concerns and arguments.\n\nThe testimony focuses heavily on the potential changes to neighborhood character, particularly in low-density areas. It expresses concerns about commercial development in residential areas, increased density, and the elimination of parking mandates. These points directly align with the reference talking points about dramatically changing neighborhood character, allowing commercial uses in residential areas, and enabling denser development in low-density neighborhoods.\n\nHebronik's testimony also echoes the reference talking points' concerns about loss of local control over development, mentioning changes to the land review process and potential loss of council member deference in land use matters.\n\nWhile the testimony doesn't explicitly mention some points such as claims about housing shortage being misleading or specific environmental concerns, the overall sentiment and many of the key arguments align closely with the reference talking points.\n\nThe language used is not identical to the reference talking points, suggesting that Hebronik is not directly reading from a script. However, the alignment of concerns and arguments indicates that he may be familiar with or influenced by similar talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

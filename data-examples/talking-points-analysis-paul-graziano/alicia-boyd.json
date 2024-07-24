@@ -1,0 +1,48 @@
+{
+    "testimony": {
+        "name": "Alicia Boyd",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/alicia-boyd-crown-heights-resident-on-city",
+        "start_time_in_seconds": 19468.314,
+        "end_time_in_seconds": 19671.688,
+        "for_or_against": "Against",
+        "borough": "Brooklyn",
+        "neighborhood": "Crown Heights",
+        "stated_affiliations": [],
+        "key_points": [
+            "The City Planning Commission doesn't consider the impact on children in development projects",
+            "Development near Brooklyn Botanic Gardens will negatively impact sunlight for a nearby playground",
+            "The Commission prioritizes development over affordable housing",
+            "The affordable housing being created is not truly affordable for the local community",
+            "The City Planning Commission consistently fails to protect the interests of local residents",
+            "The Commission approves 99% of applications, questioning its effectiveness",
+            "The development plans do not genuinely care about communities of color"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The testimony focuses on the speaker's concerns about development in their neighborhood, particularly near the Brooklyn Botanic Gardens.\n\n2. The speaker criticizes the City Planning Commission for approving developments without considering the needs of the local community, especially people of color and children.\n\n3. There's a strong emphasis on the lack of truly affordable housing, with the speaker pointing out that the income brackets for \"affordable\" housing are much higher than what her community can afford.\n\n4. The speaker accuses the commission of not caring about brown communities and only being interested in development and their careers.\n\n5. There's criticism of the high approval rate of the commission for development applications.\n\nNow, let's compare this to the reference talking points:\n\n- While the testimony doesn't directly mention changing neighborhood character, it does express concern about development near the Brooklyn Botanic Gardens, which aligns with the talking point about changing neighborhood character.\n\n- The testimony doesn't mention population decline or existing zoning capacity.\n\n- There's a strong alignment with the talking point about proposals favoring developers over existing residents. The speaker repeatedly accuses the commission of not caring about the community and approving developments regardless of community needs.\n\n- The testimony doesn't specifically mention low-density neighborhoods being targeted.\n\n- There's an implicit alignment with the loss of local control over development, as the speaker criticizes the commission's high approval rate and lack of consideration for community needs.\n\n- The testimony mentions environmental concerns, specifically about a playground potentially losing sunlight due to development.\n\n- The testimony doesn't directly address the public engagement process.\n\nWhile there are some alignments, the testimony is more focused on specific local concerns and accusations of the commission not caring about communities of color, which aren't directly mentioned in the reference talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "And, you know, they wanna do development along the book and botanic gardens.",
+                "analysis": "This quote relates to the talking point about changing neighborhood character, specifically mentioning development near a significant local landmark. While it doesn't use the same language as the talking point, it supports the idea of neighborhood change due to development.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "And yet all you talk about is how you wanna provide housing for people like us, for people of color. You don't want to provide housing for us. You don't care about us.",
+                "analysis": "This quote aligns with the talking point about proposals favoring developers over existing residents. While the talking point doesn't specifically mention race, the speaker's sentiment that the commission doesn't truly care about providing housing for the existing community is similar.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "And did you know where my community starts at? 40 to $50,000. So even if they did create some affordable housing, it wouldn't be affordable for us.",
+                "analysis": "This quote relates to the talking point about proposals favoring developers over existing residents. It highlights the disconnect between what's considered 'affordable' in new developments and what's actually affordable for the existing community.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Do you know that the commissioners though 99% positive on every application that comes before them. So the question is why even bother having the commission if they're gonna approve it anyway?",
+                "analysis": "This quote aligns with the talking point about loss of local control over development. While it doesn't specifically mention community board input, it criticizes the high approval rate of the commission, implying a lack of meaningful oversight or consideration of community concerns.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows some alignment with the reference talking points, but it's not a close match overall. The speaker focuses more on specific local concerns and accusations of racial inequity, which aren't directly addressed in the reference talking points. However, there are clear parallels in the criticism of development favoring developers over existing residents and concerns about the loss of local control over development decisions. The testimony doesn't cover many of the specific points mentioned in the reference talking points, such as population decline, zoning capacity, or the public engagement process. While there are some similarities, the overall focus and specific concerns differ significantly from the reference talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "testimony": {
+        "name": "Juan Rivero",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/juan-rivero-from-village-preservation-on",
+        "start_time_in_seconds": 6157.1274,
+        "end_time_in_seconds": 6296.523,
+        "for_or_against": "Against",
+        "borough": "Manhattan",
+        "neighborhood": "Greenwich Village",
+        "stated_affiliations": [
+            "Village Preservation"
+        ],
+        "key_points": [
+            "Rejects the assumption that increasing unaffordable housing will make the city more affordable",
+            "Opposes increasing allowable size and height of market-rate development in contextual zoning districts in Manhattan Community Boards 1-8",
+            "Opposes increasing allowable FAR for purely market-rate development in voluntary inclusionary housing zones",
+            "Against vastly increasing the area for air rights transfers from individual landmarks",
+            "Opposes reducing rear yard requirements in medium and high-density zones",
+            "Against allowing building on open space on campuses",
+            "Opposes removing language from special district provisions",
+            "Believes City of Yes for Housing Opportunity moves in the wrong direction for city development"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "1. Let's analyze the testimony point by point and compare it with the reference talking points:\n\n2. The testimony starts by rejecting the assumption that increasing unaffordable housing will make the city more affordable. This aligns with the reference talking point about claims of housing shortage being misleading.\n\n3. The testimony opposes increasing allowable size and height in contextual zoning districts. This relates to the reference point about dramatically changing neighborhood character and enabling denser development.\n\n4. The testimony mentions opposing increased FAR for market-rate development, which aligns with the talking point about proposals favoring developers over existing residents.\n\n5. The testimony discusses air rights transfers and reduced oversight, which relates to the talking point about loss of local control over development.\n\n6. The testimony opposes reducing rear yard requirements and building on open spaces. This aligns with the environmental and infrastructure concerns mentioned in the talking points.\n\n7. While the testimony doesn't explicitly mention all the points in the reference talking points, it shares several key themes and concerns.\n\n8. The overall tone and message of the testimony align closely with the sentiments expressed in the reference talking points, both being critical of the proposed changes.",
+        "talking_point_evidence": [
+            {
+                "quote": "We reject the basic underlying assumption of city of yes for housing opportunity that increasing the amount of unaffordable housing built in New York City will somehow make our city more affordable and particularly more affordable to those most in need.",
+                "analysis": "This quote directly challenges the premise of the housing proposal, similar to how the reference talking points question the claims of housing shortage. While not using identical language, it makes a very similar argument.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "1st, increasing the allowable size and height of new market rate development in contextual zoning districts in Manhattan Community Boards 1 through 8.",
+                "analysis": "This quote directly relates to the reference talking point about dramatically changing neighborhood character and enabling much denser development. It uses different language but expresses the same concern.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "3rd, vastly increasing the area across which air rides from individual landmarks can be transferred and significantly significantly decreasing the oversight and public review for doing so.",
+                "analysis": "This quote aligns closely with the reference talking point about loss of local control over development. It specifically mentions decreasing oversight and public review, which is very similar to the talking point about removing community board input.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "4th, reducing rear yard requirements in medium and high density zones where such open space provides essential green space, light air, and storm runoff remediation.",
+                "analysis": "This quote relates to the environmental and infrastructure concerns mentioned in the reference talking points. While not using identical language, it expresses similar concerns about loss of green space and potential environmental impacts.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows a high level of alignment with the reference talking points. While it doesn't cover all the points mentioned in the reference, it touches on several key themes and expresses similar concerns. The testimony rejects the basic premise of the housing proposal, criticizes increased density and changes to neighborhood character, opposes reduced oversight, and raises environmental concerns. These points closely mirror the sentiments expressed in the reference talking points.\n\nThe language used in the testimony is more formal and specific to the proposal, while the reference talking points use more colloquial language. However, the underlying arguments and concerns are very similar. The testimony appears to be a more detailed and policy-focused articulation of the same overarching criticisms found in the reference talking points.\n\nGiven the significant overlap in themes and arguments, it's plausible that the person giving the testimony is familiar with or influenced by the same ideas expressed in the reference talking points, even if not directly quoting them.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}

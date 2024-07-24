@@ -1,0 +1,48 @@
+{
+    "testimony": {
+        "name": "Daniel Prebud",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/daniel-prebud-on-concerns-with-the-city-of-yes-for",
+        "start_time_in_seconds": 34397.484,
+        "end_time_in_seconds": 34582.78,
+        "for_or_against": "Against",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [],
+        "key_points": [
+            "Concerns about emergency services access and safety for accessory dwelling units (ADUs)",
+            "Skepticism about ADUs leading to lower rental costs",
+            "Opposition to shared living arrangements, comparing them to historical tenement issues",
+            "Concerns about lifting zoning regulations and potential uncontrolled development",
+            "Lack of clear definition for 'a little bit of housing'",
+            "Opposition to lifting parking mandates, especially in outer boroughs with limited mass transit",
+            "Need for better mass transit infrastructure before implementing housing changes"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "1. Let's analyze the testimony point by point and compare it with the reference talking points:\n\n2. The speaker is opposed to the City of Yes proposal, which aligns with the general sentiment in the reference talking points.\n\n3. Accessory Dwelling Units (ADUs):\n   - The speaker mentions concerns about ADUs creating complexities for emergency services.\n   - This doesn't directly match any reference talking point but relates to the general theme of neighborhood character changes.\n\n4. Lowering rental costs:\n   - The speaker doubts that ADUs will lead to lower rents.\n   - This doesn't directly match any reference talking point but could be seen as skepticism about the proposal's benefits.\n\n5. Shared living:\n   - The speaker expresses concerns about shared facilities, comparing them to tenements.\n   - This relates to the reference point about changing neighborhood character and density.\n\n6. Zoning regulations:\n   - The speaker worries about lifting zoning regulations and uncontrolled development.\n   - This aligns closely with the reference points about dramatically changing neighborhood character and denser development in low-density areas.\n\n7. Lifting parking mandates:\n   - The speaker opposes this, especially for outer boroughs.\n   - This directly matches the reference point about removing parking requirements to increase developer profits.\n\n8. Mass transit:\n   - The speaker argues for improved mass transit before implementing changes.\n   - This relates to the environmental and infrastructure concerns in the reference points.\n\n9. The overall tone of the testimony is skeptical of the proposal and its impacts, which aligns with the general sentiment of the reference talking points.\n\n10. However, the testimony doesn't cover all the points in the reference talking points, such as population decline, loss of local control, or the public engagement process.\n\nGiven this analysis, the testimony supports many of the same concerns as the reference talking points, but it doesn't use identical language or cover all the same points. It's more focused on specific aspects of the proposal rather than broader political implications.",
+        "talking_point_evidence": [
+            {
+                "quote": "Basically, I feel that in its current state, plan is putting the cart ahead of the horse, so to speak. We're going to build, you have to have a good base first.",
+                "analysis": "This quote expresses skepticism about the proposal's readiness, which aligns with the general tone of the reference talking points. However, it doesn't make an identical claim to any specific talking point.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Zoning regulations, they were meant to protect neighborhoods and infrastructure if listed I'm sorry, if lifted, how will uncontrolled development be curtailed and inevitable infrastructure stress be addressed.",
+                "analysis": "This quote directly relates to the reference talking point about dramatically changing neighborhood character and enabling much denser development in low-density neighborhoods. It expresses the same concern about uncontrolled development and infrastructure stress.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "Lifting parking mandates. This may work in Manhattan, but not in the outer boroughs where thorough mass transit grids do not exist.",
+                "analysis": "This quote is very closely related to the reference talking point about removing parking requirements to increase developer profits. While it doesn't mention developer profits explicitly, it opposes the same policy for similar reasons (impact on residents).",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "Sensibility dictates that a vast mass transit accessibility be in order first. It is not.",
+                "analysis": "This quote relates to the environmental and infrastructure concerns mentioned in the reference talking points. While not identical, it supports the idea that the proposal lacks proper infrastructure planning.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows a significant alignment with the reference talking points, although it doesn't cover all the points and doesn't use identical language. The speaker shares many of the same concerns as the reference talking points, particularly regarding changes to neighborhood character, zoning regulations, parking mandates, and infrastructure concerns.\n\nThe testimony supports the overall narrative that the City of Yes proposal is flawed and potentially harmful to existing neighborhoods and residents. However, it focuses more on specific aspects of the proposal (like ADUs and shared living) rather than broader issues like population decline or loss of local control that are mentioned in the reference talking points.\n\nWhile the language and specific examples differ, the underlying concerns and skepticism towards the proposal are very similar to those expressed in the reference talking points. The testimony could be seen as supporting the same overall position, even if it doesn't hit all the same notes.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "testimony": {
+        "name": "Rev. Carlene Thorbs",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/rev-carlene-thorbs-chairperson-of-queens-community",
+        "start_time_in_seconds": 50131.684,
+        "end_time_in_seconds": 50326.555,
+        "for_or_against": "Against",
+        "borough": "Queens",
+        "neighborhood": "Jamaica",
+        "stated_affiliations": [
+            "Queens Community Board 12"
+        ],
+        "key_points": [
+            "No environmental impact statement has been conducted",
+            "Lack of infrastructure considerations (sanitation, schools, water, sewage lines)",
+            "Parking is necessary in South Jamaica, which is a driving community",
+            "The proposal would destroy the neighborhood",
+            "Insufficient community engagement and awareness about City of Yes",
+            "Existing apartments in downtown area are expensive and some are empty",
+            "Community Board 12 and other Queens Community Boards do not support City of Yes",
+            "The area is already carrying the weight of shelters",
+            "Affordable housing is not truly affordable",
+            "Concerns about prioritizing new New Yorkers over existing shelter residents",
+            "The proposal is not a one-size-fits-all solution and should be considered community board by community board"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "        Let's analyze the testimony step by step:\n        1. Rev. Carlene Thorbs, Chairperson of Queens Community Board 12, is speaking against the \"City of Yes for Housing Opportunity\" proposal.\n        2. She mentions several key points that align with the reference talking points:\n           - No environmental impact statement (aligns with environmental concerns)\n           - No infrastructure considerations (aligns with infrastructure concerns)\n           - Parking is necessary (aligns with removing parking requirements)\n           - This would be destroying the neighborhood (aligns with changing neighborhood character)\n           - Only 3 meetings per Community Board (aligns with questionable public engagement process)\n           - Existing apartments in the area are empty and expensive (partially aligns with claims of misleading housing shortage)\n           - This is not a cookie-cutter situation (aligns with unfair targeting of neighborhoods)\n           - Concerns about affordable housing not being truly affordable\n           - Questions about prioritizing existing shelter residents over new arrivals\n        3. While not using identical language, many of her points strongly support or directly mirror the reference talking points.\n        4. Some unique points are made about shelters and prioritizing existing residents, which aren't directly in the talking points but align with the general sentiment.\n    ",
+        "talking_point_evidence": [
+            {
+                "quote": "No environmental impact statement. That's what's absolutely needed. No infrastructure. Considerations, sanitation schools, water sewage lines.",
+                "analysis": "This quote directly supports the reference talking point about environmental and infrastructure concerns. It highlights the lack of analysis on the impact on various infrastructure elements, which is nearly identical to the concern raised in the talking points.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "Parking is necessary, especially here in South Jamaica. We are a driving community.",
+                "analysis": "This quote supports the talking point about removing parking requirements. While the talking point focuses on developer profits, this quote emphasizes the community need, which aligns with the overall concern about parking changes.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "This would be destroying our neighborhood.",
+                "analysis": "This quote aligns closely with the talking point about dramatically changing neighborhood character. While not using the exact same language, it conveys the same sentiment of significant negative impact on existing neighborhoods.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "At a 59 CB, the 175 meetings, that means only 3 meetings. Per se being bored. Only three. I still talk to people on the street that have no idea what city of yes is about.",
+                "analysis": "This quote is nearly identical to the talking point about the questionable public engagement process. It uses the same numbers and draws the same conclusion about limited community involvement.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "This is not a cookie cutter situation. This is a community board by community board.",
+                "analysis": "This quote supports the talking point about low-density neighborhoods being unfairly targeted. It emphasizes the need for tailored approaches to different communities, which aligns with the concern about blanket policies affecting diverse neighborhoods.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "    The testimony by Rev. Carlene Thorbs shows a high level of alignment with the reference talking points. While she doesn't use identical language for all points, her arguments and concerns closely mirror those in the talking points. She touches on several key issues raised in the talking points, including environmental and infrastructure concerns, changes to neighborhood character, questionable public engagement process, and concerns about the impact on existing communities. Her testimony also adds some unique perspectives, particularly about shelters and prioritizing existing residents, which, while not directly in the talking points, align with the overall sentiment of favoring existing residents over new development. The high degree of overlap in concerns and arguments suggests a strong connection between the testimony and the reference talking points.\n    ",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "testimony": {
+        "name": "Megan Fitzpatrick",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/megan-fitzpatrick-from-landmark-west-on-city-of",
+        "start_time_in_seconds": 24862.727,
+        "end_time_in_seconds": 25011.38,
+        "for_or_against": "Against",
+        "borough": "Manhattan",
+        "neighborhood": "Upper West Side",
+        "stated_affiliations": [
+            "Landmark West"
+        ],
+        "key_points": [
+            "City of Yes will not produce more environmentally conscious, viable, and affordable housing",
+            "The proposal will weaken housing standards and benefit developers at the expense of residents",
+            "It will not significantly increase affordable housing stock and will make affordable housing optional",
+            "The plan will increase market-rate development in already dense residential areas",
+            "It may create substandard and unsustainable housing",
+            "The proposal could accelerate gentrification",
+            "It may negatively impact quality of life due to increased traffic and density",
+            "The plan excludes public and City Council input from land use decisions",
+            "It loosens landmark transfer development rights, potentially allowing taller market-rate buildings",
+            "The organization supports changes that enhance livability and equity, which they feel this proposal does not do"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker represents Landmark West, a historic preservation and land use nonprofit.\n2. They express concerns about the \"City of Yes for Housing Opportunity\" proposal.\n3. The testimony argues that the proposal will weaken housing standards and benefit developers at the expense of residents.\n4. It claims the proposal won't significantly increase affordable housing stock.\n5. The speaker suggests the proposal will increase market-rate development in dense areas.\n6. They argue it will create substandard housing and accelerate gentrification.\n7. The testimony criticizes the proposal for potentially excluding public and city council input from land use decisions.\n8. It mentions loosening landmark transfer development rights.\n9. The speaker supports changes that enhance livability and equity but argues this proposal doesn't further that goal.\n\nNow, let's compare this to the reference talking points:\n\n1. There's alignment on the claim that the proposal would change neighborhood character and allow denser development.\n2. The testimony doesn't directly address population decline or existing zoning capacity.\n3. There's strong alignment on the point that the proposals favor developers over existing residents.\n4. The testimony doesn't specifically mention low-density neighborhoods being targeted.\n5. There's alignment on the loss of local control over development, mentioning exclusion of public input.\n6. The testimony briefly touches on quality of life impacts but doesn't go into detail about environmental and infrastructure concerns.\n7. The testimony doesn't discuss the public engagement process.\n\nOverall, while the testimony doesn't cover all the reference talking points, there is significant alignment on several key issues, particularly regarding favoring developers, changing neighborhood character, and loss of local control.",
+        "talking_point_evidence": [
+            {
+                "quote": "City of US will weaken those standards and allow developers to make more money at the expense of the people who live here.",
+                "analysis": "This quote directly aligns with the reference talking point about proposals favoring developers over existing residents. It makes a nearly identical claim about developers benefiting at the expense of residents.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "Contrary to claims, in support of proposals, it will not significantly increase the stock of affordable housing. In fact, it will legislatively make affordable housing optional.",
+                "analysis": "While this quote doesn't exactly match any of the reference talking points, it supports the overall narrative that the proposals won't truly address housing issues and instead benefit developers. It's related to the point about claims of housing shortage being misleading.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "A close reading of city of yes for housing opportunity shows that one of the most damaging results of its passage will be to exclude the public and even seek counsel from land use decisions.",
+                "analysis": "This quote closely aligns with the reference talking point about loss of local control over development. It mentions the exclusion of public input, which is very similar to the point about removing community board input.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "It also seeks to loosen landmark transfer development rights to allow taller market rate buildings, while at the same time remove these decisions from both public scrutiny scrutiny and input.",
+                "analysis": "This quote supports the reference talking point about allowing much larger buildings as-of-right and removing community input. While it doesn't use the exact same language, it conveys a very similar idea.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows significant alignment with several key reference talking points, particularly those related to favoring developers over residents, changing neighborhood character, and loss of local control over development. The speaker from Landmark West expresses concerns that closely mirror those in the reference talking points, especially regarding the potential negative impacts on existing communities and the reduction of public input in land use decisions.\n\nHowever, the testimony doesn't cover all aspects mentioned in the reference talking points. It doesn't discuss population decline, specific targeting of low-density neighborhoods, or detailed environmental and infrastructure concerns. The public engagement process is also not addressed.\n\nDespite these omissions, the overall tone and main arguments of the testimony are very much in line with the stance presented in the reference talking points. Both the testimony and the talking points express strong opposition to the \"City of Yes for Housing Opportunity\" proposal, viewing it as detrimental to existing communities and overly favorable to developers.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

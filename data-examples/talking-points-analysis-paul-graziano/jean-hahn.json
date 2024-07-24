@@ -1,0 +1,55 @@
+{
+    "testimony": {
+        "name": "Jean Hahn",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/jean-hahn-resident-of-forest-hills-queens-on",
+        "start_time_in_seconds": 48625.992,
+        "end_time_in_seconds": 48794.156,
+        "for_or_against": "Against",
+        "borough": "Queens",
+        "neighborhood": "Forest Hills",
+        "stated_affiliations": [],
+        "key_points": [
+            "Opposes the City of Yes plan as it strips zoning decisions from local community boards",
+            "Concerned about loss of daylight, air, and open space",
+            "Believes the plan won't guarantee more affordable or low-income housing",
+            "Worried about strain on aging infrastructure and lack of plans for additional public services",
+            "Opposes expansion of transit and town center zones in low-density neighborhoods",
+            "Against ADUs in basements and rear yards due to quality of life concerns",
+            "Opposes eliminating parking requirements, citing needs of families, elderly, and disabled",
+            "Advocates for local community board control in housing decisions",
+            "Urges City Planning Commission to vote against the City of Yes housing plan"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step and compare it to the reference talking points:\n\n1. The testimony opposes the \"City of Yes\" proposal, which aligns with the overall sentiment of the reference talking points.\n\n2. Jean Hahn mentions stripping away zoning decisions from local community boards, which relates to the reference point about loss of local control over development.\n\n3. She discusses the importance of daylight, air, and open space, which corresponds to the environmental concerns in the reference talking points.\n\n4. The testimony touches on the housing crisis, questioning its validity, which aligns with the reference point about misleading claims of housing shortage.\n\n5. Jean Hahn mentions infrastructure concerns, including schools, hospitals, and other services, which correlates with the environmental and infrastructure concerns in the reference talking points.\n\n6. She opposes the expansion of transit and town center zones, citing negative effects on the historic and contextual fabric of her low-density neighborhood. This aligns with the reference points about dramatically changing neighborhood character and unfairly targeting low-density neighborhoods.\n\n7. The testimony mentions opposition to ADUs and basement conversions, which relates to the reference point about allowing much denser development in low-density neighborhoods.\n\n8. Jean Hahn opposes eliminating parking requirements, which directly corresponds to the reference point about removing parking requirements to increase developer profits.\n\n9. She advocates for local control through community boards, which aligns with the reference point about loss of local control over development.\n\nGiven these similarities, we can identify several quotes that closely relate to the reference talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "I'm opposed to the city of Yes, which on its face is an ill conceived plan designed to strip away zoning decisions from local community boards because we are not a one size fits all city.",
+                "analysis": "This quote directly relates to the reference talking point about loss of local control over development. It uses similar language and expresses the same concern about removing community board input.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "Daylight air and open space are important quality life issues, and tossing them to the wayside with city of gas because we are in a housing, quote, unquote, crisis is akin to throwing out the beep throwing the baby out with the bathwater because hopes only does not translate to or guarantee more affordable low income housing.",
+                "analysis": "This quote supports the reference talking point about environmental concerns and questionable claims of housing shortage. While it doesn't use identical language, it expresses similar doubts about the housing crisis and concerns about environmental impacts.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "I'm opposed to expansion of transit and town center zones, which would negatively affect the historic and contextual fabric of my low density neighborhood, which my neighbors and I pay a hefty property tax premium to live in.",
+                "analysis": "This quote closely aligns with the reference talking points about dramatically changing neighborhood character and unfairly targeting low-density neighborhoods. It mentions similar concerns about impacts on low-density areas and high property taxes.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "I'm opposed to eliminating the parking requirement. Many families rely on cars to transport our children to and from school and activities in our elderly and disabled family members.",
+                "analysis": "This quote directly corresponds to the reference talking point about removing parking requirements. While it doesn't mention developer profits, it expresses the same opposition to eliminating parking requirements.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "As many here have already said, let the people control the housing process through decision make and decision making at the local community board level instead of a one size fits all plan.",
+                "analysis": "This quote is very similar to the reference talking point about loss of local control over development. It advocates for community board input, which is exactly what the reference point mentions.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            }
+        ],
+        "analysis": "The testimony by Jean Hahn shows a high level of alignment with the reference talking points. Many of the key arguments and concerns expressed in the testimony closely mirror those in the reference talking points. The testimony touches on several main themes from the reference points, including:\n\n1. Loss of local control over development\n2. Concerns about changing neighborhood character\n3. Questioning the validity of the housing crisis\n4. Opposition to removing parking requirements\n5. Environmental and infrastructure concerns\n6. Unfair targeting of low-density neighborhoods\n\nThe language and specific examples used in the testimony often closely resemble those in the reference talking points, suggesting a strong connection between the two. While the testimony doesn't cover every single point from the reference list, it hits many of the major themes and arguments, often using similar framing and terminology.\n\nGiven this high level of similarity in both content and framing, it is plausible that the speaker is familiar with or has been influenced by the reference talking points, even if not directly quoting from them.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "testimony": {
+        "name": "Paul DiBenedetto",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/paul-dibenedetto-chair-of-queens-community-board",
+        "start_time_in_seconds": 37507.836,
+        "end_time_in_seconds": 37745.22,
+        "for_or_against": "Against",
+        "borough": "Queens",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Queens Community Board 11"
+        ],
+        "key_points": [
+            "Most community boards in Queens, Bronx, Staten Island, and Brooklyn voted against the City of Yes for Housing Opportunity",
+            "The initiative would destroy the character of historic suburban neighborhoods",
+            "There are better opportunities to create housing without tearing down existing homes",
+            "New York City already has a low percentage (15%) of single-family zoned areas compared to other major U.S. cities",
+            "Low-density neighborhoods in Queens are racially and ethnically diverse",
+            "The City Planning Commission did not engage community boards and council members in the planning process",
+            "The initiative is seen as a top-down approach, unlike previous contextual rezonings that were done in partnership with community boards and civics"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "To analyze the similarity between the testimony and the reference talking points, I'll go through the testimony and compare it to the talking points:\n\n1. The testimony begins by emphasizing community board votes against the proposal, which aligns with the talking point about loss of local control over development.\n\n2. The speaker mentions destroying the character of neighborhoods, which directly aligns with the first talking point about changing neighborhood character.\n\n3. The testimony discusses the historical context of zoning and population forecasts, which relates to the talking point about claims of housing shortage being misleading.\n\n4. The speaker mentions the percentage of single-family housing in NYC compared to other cities, which aligns with the point about low-density neighborhoods being unfairly targeted.\n\n5. The testimony emphasizes the diversity in low-density neighborhoods, which doesn't directly align with any specific talking point but counters the implication that these areas are exclusionary.\n\n6. The speaker mentions high property taxes in their area, which aligns with the point about low-density neighborhoods paying disproportionately high taxes.\n\n7. The testimony criticizes the lack of engagement with community boards, which aligns with the talking point about questionable public engagement process.\n\nOverall, the testimony shares several key points with the reference talking points, often using similar arguments and data points. However, the testimony also includes some unique points and perspectives not present in the reference talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "In Queens, 12 of of 14 community boards voted no. In the Bronx, 7 of 12 voted no. Staten Island, 3 or 3 voted no, and Brooklyn 13 of 18 voted no.",
+                "analysis": "This quote directly supports the talking point about loss of local control over development. It emphasizes the widespread opposition from community boards, implying that their input is being disregarded.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "These are the same boroughs where CWS housing would destroy the character and fabric of our very often historic suburban neighborhoods that have been coexisting with apartment buildings and commercial districts for well over a 100 years.",
+                "analysis": "This quote is nearly identical to the talking point about dramatically changing neighborhood character. It uses similar language about destroying the character of neighborhoods.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "According to DCP's own data, the citywide 1961 rezoning forecast forecast our population to be 16,000,000 by the year 2000. I found it on your site. While we've never gotten anywhere close to 16,000,000, the zoning was put in place at that time and crafted to for for to build out for that population number.",
+                "analysis": "This quote supports the talking point about claims of housing shortage being misleading. It argues that existing zoning can accommodate a much larger population than currently exists.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "New York City in 2019 was just 15% single family zoned, a wonderfully no low number produced by our zoning that all of the major mentioned that all the mentioned major US cities may only hope to achieve one day.",
+                "analysis": "This quote is identical to the talking point about low-density neighborhoods being unfairly targeted. It uses the exact same statistic of 15% single-family zoning.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "To that inclusive process, the current DCP never engaged community boards and council members for city of yes. It's a top down dare I say Robert Moses type of approach, and that is precisely why you have witnessed so much widespread opposition.",
+                "analysis": "This quote supports the talking point about questionable public engagement process. It criticizes the lack of community engagement, similar to the reference talking point.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony provided by Paul DiBenedetto, Chair of Queens Community Board 11, shows a high degree of alignment with the reference talking points. The speaker addresses several key issues that are present in the talking points, often using similar arguments and even the same statistics.\n\nKey alignments include:\n1. Emphasis on community board opposition to the proposal\n2. Concern about destroying neighborhood character\n3. Questioning the need for rezoning based on population projections\n4. Highlighting the low percentage of single-family zoning in NYC\n5. Criticizing the lack of community engagement in the process\n\nThe testimony does not cover all the points in the reference list, such as environmental concerns or specifics about favoring developers. However, the points it does address are very closely aligned with the reference talking points.\n\nThe speaker also adds some unique perspectives, such as emphasizing the diversity in low-density neighborhoods, which isn't directly mentioned in the talking points but supports the overall narrative of preserving these areas.\n\nGiven the high degree of similarity in arguments, data points, and overall message, this testimony shows a strong alignment with the reference talking points.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}

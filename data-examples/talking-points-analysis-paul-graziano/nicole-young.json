@@ -1,0 +1,46 @@
+{
+    "testimony": {
+        "name": "Nicole Young",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/nicole-young-department-of-education-doe-teacher",
+        "start_time_in_seconds": 43974.758,
+        "end_time_in_seconds": 44157.08,
+        "for_or_against": "Against",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "New York City Teaching Collaborative"
+        ],
+        "key_points": [
+            "Opposes the City of Yes initiative",
+            "Advocates for affordable home ownership programs like Mitchell-Lama instead of luxury buildings with a small percentage of affordable units",
+            "Criticizes the idea that increased housing production automatically leads to affordable housing",
+            "Expresses concern about the ability of city employees (teachers, police officers, firefighters) to afford living in the city",
+            "Points out issues with existing affordable housing programs like Camden Plaza's privatization and RAD-PAC's rent increases",
+            "Highlights problems with developers not complying with public space requirements in exchange for tax abatements",
+            "Argues that the city cannot keep up with building inspections",
+            "Suggests that the housing crisis is due to high rent burdens and that legislative changes to prevent landlord abuses are needed rather than zoning changes"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "To analyze the similarity between the testimony and the reference talking points, I'll go through the testimony and compare it to each of the reference talking points:\n\n1. The testimony doesn't directly mention neighborhood character changes or commercial uses in residential areas.\n2. There's no mention of population decline or existing zoning capacity.\n3. The testimony does criticize the idea that more housing production equals affordable housing, which somewhat aligns with the point about favoring developers.\n4. There's no specific mention of low-density neighborhoods being targeted.\n5. The testimony doesn't directly address loss of local control over development.\n6. Environmental and infrastructure concerns are not explicitly mentioned.\n7. The public engagement process is not directly criticized in this testimony.\n\nThe testimony focuses more on:\n- Criticism of the \"City of Yes\" proposal\n- Emphasis on affordable home ownership programs like Mitchellama\n- Concerns about luxury development and insufficient truly affordable housing\n- Issues with existing programs like RAD PAC and compliance problems\n- Suggestions for alternative solutions like recruiting city workers and offering pathways to affordable home ownership\n\nWhile there are some overlaps with the reference talking points, particularly regarding skepticism of new development solving affordability issues, the testimony presents a different set of concerns and suggestions.",
+        "talking_point_evidence": [
+            {
+                "quote": "I am opposed to the city of yes.",
+                "analysis": "This statement aligns with the general sentiment of the reference talking points, which are critical of the 'City of Yes' proposal. However, it doesn't make any specific claims that match the reference talking points.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            },
+            {
+                "quote": "We should be identifying more opportunities to support affordable home ownership and stop focusing on the belief that home production equals affordable housing.",
+                "analysis": "This statement somewhat aligns with the reference talking point that 'Proposals favor developers over existing residents'. It challenges the idea that simply producing more housing will solve affordability issues, which is implied in the reference talking points' criticism of developer-friendly policies.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Apparently, 80,000,000 was earmarked to preserve Mitchellamas, yet that might not be true because Camden Plaza in Brooklyn use loopholes to become privatized.",
+                "analysis": "While this doesn't directly match any of the reference talking points, it supports the general skepticism towards current housing policies and their effectiveness in providing affordable housing, which is a theme in the reference talking points.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            }
+        ],
+        "analysis": "The testimony by Nicole Young shows some alignment with the reference talking points, but it focuses on different aspects of the housing issue. While the reference talking points emphasize concerns about neighborhood character changes, population trends, and loss of local control, Young's testimony concentrates more on the need for affordable home ownership programs and criticizes current affordable housing initiatives.\n\nThere are a few areas where the testimony supports some of the reference talking points:\n\n1. Skepticism towards new development solving affordability issues\n2. Criticism of the \"City of Yes\" proposal\n3. Concern that current policies may favor luxury development over truly affordable housing\n\nHowever, the testimony doesn't directly address many of the specific points raised in the reference talking points, such as changes to neighborhood character, population decline, or environmental concerns. Instead, it brings up different issues like the importance of programs like Mitchellama and the need for pathways to affordable home ownership for city workers.\n\nThe overall tone and approach of the testimony, while critical of the \"City of Yes\" proposal, differs significantly from the reference talking points in terms of specific concerns and proposed solutions.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "testimony": {
+        "name": "Sharlene Jackson Mendez",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/sharlene-jackson-mendez-on-city-of-yes-housing",
+        "start_time_in_seconds": 35960.97,
+        "end_time_in_seconds": 36200.43,
+        "for_or_against": "Against",
+        "borough": "Bronx",
+        "neighborhood": "Van Nest",
+        "stated_affiliations": [
+            "Van Nest Neighorhood Alliance",
+            "Coalition of East Bronx Community Association"
+        ],
+        "key_points": [
+            "The City of Yes plan will bring 7500 new housing units to her community, which is too much development",
+            "The plan does not provide for additional infrastructure or services to support the new residents",
+            "The proposed housing will not be affordable for current community members",
+            "The plan removes local control from communities",
+            "The speaker resents implications that community concerns are rooted in racism or classism",
+            "There is no shortage of housing above $2,300/month rent",
+            "ADU units can have significant negative consequences on neighbors",
+            "The community is not against affordable housing, but concerned about how it is implemented"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "1. Let's analyze the testimony point by point and compare it with the reference talking points:\n\n2. Neighborhood character: The testimony mentions they are a \"low density area\" with mostly 1-3 family homes, which aligns with the reference point about low-density neighborhoods being targeted.\n\n3. Scale of development: The testimony states that their community is slated to receive 7,500 new units, which they consider \"not a little bit of development.\" This aligns with the reference point about enabling much denser development in low-density neighborhoods.\n\n4. Affordability concerns: The testimony mentions that the proposed housing will not be affordable to community members, which partially aligns with the reference points about favoring developers over existing residents.\n\n5. Loss of local control: The testimony explicitly mentions the removal of local control, aligning directly with the reference talking point on this issue.\n\n6. Infrastructure concerns: The testimony mentions lack of provisions for additional policing, firefighters, sanitation, or infrastructure upgrades, which aligns with the environmental and infrastructure concerns in the reference points.\n\n7. Questioning the housing crisis: The testimony mentions vacant apartments, which aligns with the reference point about misleading claims of housing shortage.\n\n8. Community input: The testimony mentions that developers won't need to come to the community board for certain projects, aligning with the loss of local control talking point.\n\n9. Affordability focus: The testimony emphasizes that the crisis is about affordable housing, not just any housing, which partially aligns with the reference points about misleading claims of housing shortage.\n\nGiven these points, the testimony shows significant alignment with several key reference talking points, particularly regarding neighborhood character, scale of development, loss of local control, and questioning the housing crisis narrative.\n",
+        "talking_point_evidence": [
+            {
+                "quote": "Between the Bronx Metro North expansion and the city of yes, my small community is slated to receive 7500 new units of housing which will entail more than 20,000 new residents with no provisions for additional policing, firefighters, sanitation, or upgrades in infrastructure.",
+                "analysis": "This quote directly supports the reference talking point about environmental and infrastructure concerns. It also aligns with the point about enabling much denser development in low-density neighborhoods.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "The city of, yes, housing opportunity plan will remove local control of communities from ordinary tax paying citizens and do not to alleviate the affordable housing crisis.",
+                "analysis": "This quote is nearly identical to the reference talking point about loss of local control over development. It directly mentions removing local control and questions the plan's ability to address the affordable housing crisis.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "If you allow more building as of right, those people don't have to come. To the community board to build, let's say, like, Baker Street, a 12 floor building on White Plains Road where even though they make it out to be this big commercial area, on White Plains Road there, we just have the largest building I think is 6 floors.",
+                "analysis": "This quote supports the reference talking point about loss of local control and removal of community board input on many projects. It also touches on the point about allowing much larger buildings as-of-right.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "The fact that more than 7000 nitrile apartments sit vacant undermines the city's assertion that it is urgently interested in providing affordable housing.",
+                "analysis": "This quote supports the reference talking point about misleading claims of housing shortage. It questions the urgency of providing more housing by pointing out existing vacant units.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony is very closely related to the reference talking points, often making the same claims and arguments. The speaker touches on several key points that are almost identical to the reference talking points, including concerns about neighborhood character, scale of development, loss of local control, and questioning the housing crisis narrative. The language and arguments used are very similar to those in the reference talking points, suggesting a high level of alignment between the testimony and the provided talking points. It is plausible that the person is using or is influenced by the reference talking points in their testimony.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}

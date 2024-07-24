@@ -1,0 +1,56 @@
+{
+    "testimony": {
+        "name": "Andrea Goldwyn",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/andrea-goldwyn-from-the-new-york-landmarks",
+        "start_time_in_seconds": 3401.3323,
+        "end_time_in_seconds": 3606.252,
+        "for_or_against": "Against",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "New York Landmarks Conservancy"
+        ],
+        "key_points": [
+            "Concerns about the rushed process and lack of meaningful public outreach",
+            "Opposition to removing ULURP requirements for many land use actions",
+            "Support for easing rules for converting commercial buildings to residential",
+            "Appreciation for new opportunities for landmarks to transfer unused development rights",
+            "Concern about potential impacts on older buildings and special districts",
+            "Worry about prioritizing new construction over green spaces and backyards",
+            "Skepticism about the proposal's ability to create affordable housing",
+            "Request for more time for residents to learn about the implications of the proposal"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Andrea Goldwyn from the New York Landmarks Conservancy, expresses significant concerns about the City of Yes for Housing Opportunity proposal.\n\n2. She mentions issues with the process, content, and projected outcomes, which aligns with some of the reference talking points.\n\n3. The speaker criticizes the rushed nature of the proposal and lack of meaningful public outreach, which corresponds to the reference point about questionable public engagement.\n\n4. She mentions the removal of ULURP requirements for many land use actions, which aligns with the reference point about loss of local control over development.\n\n5. The testimony touches on environmental concerns, mentioning embodied carbon and the importance of retrofitting existing buildings, which partially aligns with the environmental concerns in the reference points.\n\n6. The speaker expresses concerns about changes to special districts and the potential loss of green space, which relates to the reference point about environmental and infrastructure concerns.\n\n7. There's mention of the unclear outcomes of the proposal and how it might not solve the housing affordability crisis, which loosely relates to the reference point about claims of housing shortage being misleading.\n\n8. The testimony doesn't directly mention some key reference points like the claims about population decline, targeting of low-density neighborhoods, or specific developer benefits.\n\nGiven these observations, let's identify specific quotes that align with the reference talking points and analyze their closeness.",
+        "talking_point_evidence": [
+            {
+                "quote": "This would be the biggest change to New York's zoning resolution in decades, yet it has been rolled out in less time and with less meaningful public outreach.",
+                "analysis": "This quote directly addresses the concern about the public engagement process, which is one of the reference talking points. The speaker criticizes the speed and lack of meaningful outreach, which aligns closely with the reference point about limited outreach and complex proposals being difficult for the public to understand.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "If approved, many land use actions will no longer require Euler and the object to this change. Residents have made investments in their communities. They should not be deprived of certainty, predictability, and a say in how their neighborhoods evolve and grow.",
+                "analysis": "This quote relates to the reference talking point about loss of local control over development. While the language is different, the concern about removing community input on projects is essentially the same.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "There is little projection of what this proposal will do to older buildings designated or not. We are concerned about changes to special districts. These rules have been developed over the years and are especially calibrated for these communities. They shouldn't be eliminated.",
+                "analysis": "This quote somewhat relates to the reference talking point about dramatically changing neighborhood character. While it doesn't use the same language, it expresses concern about the impact on existing buildings and special districts, which supports the idea of preserving neighborhood character.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Another resource that New Yorkers value is their green space. In the seeming contradiction to others in the initiatives, this proposal prioritizes new construction over backyards and open campus space. Excuse me, open green spaces.",
+                "analysis": "This quote relates to the reference talking point about environmental and infrastructure concerns, specifically the loss of green space. While it doesn't mention increased flooding risk, it supports the general concern about environmental impact.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "If passed, this will dramatically change our streets and communities, and will give developers so many options for new larger buildings. It's hard to see how many will opt to create affordable units with UAP bonuses. 1000 more luxury condo units will not solve the housing affordability crisis.",
+                "analysis": "This quote loosely relates to the reference talking point about proposals favoring developers over existing residents. While it doesn't specifically mention parking requirements or as-of-right buildings, it does express concern about developers benefiting from the changes without necessarily addressing affordability issues.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows significant alignment with several of the reference talking points, particularly regarding the public engagement process, loss of local control over development, and environmental concerns. However, it doesn't cover all the points mentioned in the reference talking points, and some alignments are more supportive rather than identical.\n\nThe speaker's main concerns align with the reference talking points about the questionable public engagement process, loss of local control, and potential changes to neighborhood character. There's also alignment on environmental concerns, though the specifics differ slightly.\n\nHowever, the testimony doesn't directly address some key reference points such as claims about population decline, targeting of low-density neighborhoods, or specific developer benefits like removal of parking requirements. The overall tone and concerns are similar, but the testimony focuses more on preservation, environmental impact, and the process of the proposal rather than some of the more specific claims in the reference talking points.\n\nGiven these observations, while there is significant alignment on several key points, the testimony doesn't fully mirror all the reference talking points and provides some unique perspectives as well.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

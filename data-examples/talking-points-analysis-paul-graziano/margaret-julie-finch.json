@@ -1,0 +1,46 @@
+{
+    "testimony": {
+        "name": "Margaret Julie Finch",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/margaret-julie-finch-former-manhattan-community",
+        "start_time_in_seconds": 28258.174,
+        "end_time_in_seconds": 28340.398,
+        "for_or_against": "Against",
+        "borough": "Manhattan",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Manhattan Community Board 2"
+        ],
+        "key_points": [
+            "Opposed to many items in the program",
+            "Supports mandated or portable housing",
+            "Against allowing more density in historic districts",
+            "Against shifting decision making from neighborhoods to commissioners",
+            "Against giving city planning more discretionary powers without going through the current land use process",
+            "Against eliminating use districts that limit where casinos, nightclubs, and strip clubs can be located",
+            "Long-time resident of Manhattan (48 years in a rent-stabilized loft)",
+            "Does not own a car"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. Margaret Julie Finch expresses opposition to many items in the program.\n2. She mentions being for mandated or portable housing, which isn't directly related to the reference talking points.\n3. She opposes allowing more density in historic districts, which aligns with the talking point about changing neighborhood character and enabling denser development.\n4. She's against shifting decision-making from neighborhoods to commissioners and giving city planning more discretionary powers. This aligns closely with the talking point about loss of local control over development.\n5. She opposes eliminating youth districts to allow casinos, nightclubs, etc. anywhere. This somewhat relates to the point about allowing commercial uses in residential areas, though it's more specific.\n6. The testimony is brief and doesn't touch on many of the reference talking points, such as claims about housing shortage, favoring developers, or environmental concerns.\n\nOverall, while there are some alignments, the testimony doesn't cover many of the reference talking points and is quite brief.",
+        "talking_point_evidence": [
+            {
+                "quote": "I'm against allowing more density in historic districts",
+                "analysis": "This quote aligns with the reference talking point about changing neighborhood character and enabling denser development in low-density neighborhoods. While it specifically mentions historic districts, the concern about increased density is similar.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "I'm against shifting decision making from neighborhoods to commissioners and against giving city planning more discretionary powers to approve things without going through the current land use process.",
+                "analysis": "This quote closely aligns with the reference talking point about loss of local control over development. It mentions the same concerns about shifting power away from local communities to city planning authorities.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "I am against eliminating the youth districts so that casinos, nightclubs, strip clubs, etcetera, can be nearly anywhere.",
+                "analysis": "This quote somewhat relates to the talking point about allowing commercial uses in residential areas, though it's more specific about certain types of establishments. The concern about changing the character of neighborhoods is similar.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows some alignment with the reference talking points, but it's not a comprehensive match. Margaret Julie Finch's concerns about increased density, loss of local control, and changes to neighborhood character align with several of the reference talking points. However, her testimony is brief and doesn't cover many of the other points raised in the reference list, such as claims about housing shortage, favoring developers, or environmental concerns. The alignment is present but limited in scope.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

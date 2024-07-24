@@ -1,0 +1,54 @@
+{
+    "testimony": {
+        "name": "Laura Spalter",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/laura-spalter-co-chair-of-broadway-community",
+        "start_time_in_seconds": 8825.107,
+        "end_time_in_seconds": 8988.745,
+        "for_or_against": "Against",
+        "borough": "Bronx",
+        "neighborhood": "North Riverdale",
+        "stated_affiliations": [
+            "Broadway Community Alliance"
+        ],
+        "key_points": [
+            "City Planning failed to conduct a full environmental review of the City of Yes for Housing Opportunity",
+            "The projected number of housing units is too low to trigger significant adverse impact assessments",
+            "The proposal will likely lead to luxury and fair market development rather than affordable housing",
+            "The plan does not adequately address climate change concerns",
+            "Increased density and construction will worsen sewage and flooding issues",
+            "The changes will increase impervious surfaces and exacerbate the urban heat island effect"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step and compare it with the reference talking points:\n\n1. The testimony criticizes the lack of environmental impact analysis, which aligns with the reference talking point about environmental and infrastructure concerns.\n\n2. The speaker mentions that the zoning changes significantly affect every aspect of development in the city, which is similar to the reference point about dramatic changes to neighborhood character.\n\n3. The testimony argues that the proposal ignores its stated purpose of addressing housing shortage, which aligns with the reference point claiming that housing shortage claims are misleading.\n\n4. The speaker suggests that luxury and market-rate development will proceed \"as of right,\" which is similar to the reference point about proposals favoring developers over existing residents.\n\n5. The testimony mentions concerns about climate change, flooding, and infrastructure issues, which directly relates to the environmental and infrastructure concerns in the reference talking points.\n\n6. The speaker expresses worry about increasing density and changing neighborhood character, which aligns with the reference point about low-density neighborhoods being unfairly targeted.\n\nGiven these similarities, let's identify specific quotes that align with the reference talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "By failing to do its due diligence, to analyze environmental impacts of City of Yes for Housing Opportunity. City planning has failed, both the city and its citizens.",
+                "analysis": "This quote directly relates to the reference talking point about environmental and infrastructure concerns, specifically the lack of analysis of impacts. It uses similar language and expresses the same concern.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "These zoning changes significantly affect every aspect of development in the city, yet is absent a full scale environmental review because the DEIS low vols the number of housing units to less than 1 unit per acre over 15 years.",
+                "analysis": "This quote supports the reference talking point about dramatic changes to neighborhood character and the concern about environmental impacts. While not using identical language, it expresses a similar concern about the scale of changes and lack of proper review.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "The proposals ignore the stated purpose and need to address, quote, to address the housing shortage and high cost of housing.",
+                "analysis": "This quote supports the reference talking point about claims of housing shortage being misleading. While it doesn't provide the same level of detail as the reference point, it expresses skepticism about the proposal's ability to address housing issues.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Once zoning is deregulated, luxury and fair market development will proceed exponentially as of right We're currently prohibited.",
+                "analysis": "This quote supports the reference talking point about proposals favoring developers over existing residents. It expresses a similar concern about increased development rights for market-rate housing.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "New York City is already experiencing more severe rain events due to climate change. In my neighborhood, we already experienced raw sewage backups due to new construction and our antiquated infrastructure.",
+                "analysis": "This quote is very similar to the reference talking point about environmental and infrastructure concerns. It specifically mentions issues with sewers and flooding, which are explicitly mentioned in the reference points.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            }
+        ],
+        "analysis": "The testimony shows a high degree of alignment with the reference talking points. The speaker addresses many of the same concerns mentioned in the talking points, often using similar language and examples. The testimony focuses heavily on environmental and infrastructure concerns, changes to neighborhood character, and skepticism about the proposal's ability to address housing issues. These are all key themes in the reference talking points.\n\nWhile the testimony doesn't cover all points mentioned in the reference (such as loss of local control or the public engagement process), it does align closely with several major themes. The language and arguments used suggest that the speaker may be familiar with or influenced by similar talking points to those provided in the reference.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "testimony": {
+        "name": "John Mudd",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/john-mudd-president-of-midtown-south-community",
+        "start_time_in_seconds": 6556.3296,
+        "end_time_in_seconds": 6731.7383,
+        "for_or_against": "Against",
+        "borough": "Manhattan",
+        "neighborhood": "Midtown South",
+        "stated_affiliations": [
+            "Midtown South Community Council",
+            "Empire State Coalition",
+            "Right to Counsel NYC Coalition"
+        ],
+        "key_points": [
+            "The proposal will strip away equity opportunities for the public",
+            "The plan will feed more wealth to developers and the real estate industry",
+            "The plan is rushed and not well thought out",
+            "It will continue to increase disparity",
+            "The plan should focus on preventing and curing homelessness",
+            "Opposes social cuts, land giveaways, and selling of public assets",
+            "Concerns about the influence of the real estate industry on the city",
+            "The plan is connected to other controversial development projects in the city",
+            "Lack of oversight on housing and homelessness issues",
+            "Concerns about tenant displacement"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "To analyze the similarity between the testimony and the reference talking points, I'll go through the testimony and compare it to the key points in the reference:\n\n1. The testimony does not directly mention neighborhood character changes or specific zoning issues.\n2. There's no mention of population decline or existing zoning capacity.\n3. The testimony does criticize developers and the real estate industry, which aligns with the reference point about proposals favoring developers.\n4. There's no specific mention of low-density neighborhoods or single-family homes.\n5. The testimony doesn't directly address loss of local control, but it does mention \"stacking developer friendly people on the community boards,\" which could be related.\n6. Environmental and infrastructure concerns are not specifically addressed.\n7. The testimony does criticize the rushed nature of the process, which somewhat aligns with the questionable public engagement point.\n\nOverall, while there are some alignments, particularly regarding criticism of developers and rushed processes, many of the specific talking points are not directly addressed in the testimony.",
+        "talking_point_evidence": [
+            {
+                "quote": "Gonna feed more wealth up to the developers and the real estate industry. We know the hold that the real estate industry has on this city.",
+                "analysis": "This quote aligns with the reference talking point about proposals favoring developers over existing residents. While it doesn't mention specific policy details, it expresses the same sentiment that developers and the real estate industry are being prioritized.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "And and stacking developer friendly people on the community boards to help serve this notion is is just wrong.",
+                "analysis": "This quote loosely relates to the reference talking point about loss of local control over development. While it doesn't specifically mention removing community board input, it suggests that community boards are being influenced to favor developers, which could lead to a similar outcome.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            },
+            {
+                "quote": "it's extreme rush, and we don't and we're still parsing it out. And and we're trying to find some some good parts of this. But but when you rush something through, it's not for the benefit of public.",
+                "analysis": "This quote aligns with the reference talking point about questionable public engagement process. It echoes the sentiment that the process is rushed and difficult for the public to understand and engage with properly.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shares some common themes with the reference talking points, particularly in its criticism of developers and the real estate industry, as well as concerns about the rushed nature of the process. However, it lacks the specific details and arguments present in many of the reference talking points. The testimony focuses more on general concerns about housing, homelessness, and wealth disparity, rather than addressing specific zoning or neighborhood character issues. While there is some alignment in the overall sentiment of opposition to the proposed changes, the testimony does not closely mirror the language or specific arguments of the reference talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

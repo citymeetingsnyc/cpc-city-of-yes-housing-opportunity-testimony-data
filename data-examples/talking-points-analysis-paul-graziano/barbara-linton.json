@@ -1,0 +1,44 @@
+{
+    "testimony": {
+        "name": "Barbara Linton",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/barbara-linton-from-douglaston-civic-association",
+        "start_time_in_seconds": 27057.953,
+        "end_time_in_seconds": 27132.338,
+        "for_or_against": "Against",
+        "borough": "Queens",
+        "neighborhood": "Douglaston",
+        "stated_affiliations": [
+            "Douglaston Civic Association"
+        ],
+        "key_points": [
+            "The initiative does not adequately address the need for affordable housing",
+            "New rental units will be priced at market rates, not affordable rates",
+            "Lack of infrastructure to support additional density",
+            "Some homes in the area are not connected to the city sewer system",
+            "12 out of 14 community boards in Queens have voted against the initiative",
+            "Concerns about lack of community input"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "1. The testimony opposes the \"City of Yes for Housing Opportunity\" proposal, which aligns with the general stance in the reference talking points.\n2. The testimony mentions concerns about infrastructure, which is similar to one of the reference talking points.\n3. The testimony references community board opposition, which relates to the talking point about loss of local control.\n4. The testimony doesn't use identical language to the talking points, but there are some thematic similarities.\n5. Let's analyze specific quotes for evidence of alignment with the talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "We are 100% opposed to the city of yes for housing opportunity which we feel does not adequately address the need for affordable housing since new rental units will be priced at market rates by developers, not affordable rates.",
+                "analysis": "This quote expresses opposition to the proposal and suggests it favors developers, which is similar to the reference talking point about proposals favoring developers over existing residents. However, the specific reasoning (lack of affordable housing) is not identical to the talking points provided.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Also, we do not currently have the additional infrastructure infrastructure in our area to support the additional density. Dis zoning changes will affect. As an example, my own home is not connected to the city sewer system. Aviceptic tank. Same goes for this surrounding neighborhood.",
+                "analysis": "This quote directly relates to the reference talking point about environmental and infrastructure concerns. While it doesn't use the exact same examples, it does highlight infrastructure issues, particularly mentioning sewers, which is one of the examples in the talking points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "In Queens, 12 out of the 14 community boards have voted no on this initiative with community input.",
+                "analysis": "This quote relates to the reference talking point about loss of local control over development. It emphasizes community board opposition, which aligns with the idea that local input is important and being disregarded.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows some alignment with the reference talking points, but it doesn't use identical language or cover all the same points. The speaker opposes the \"City of Yes for Housing Opportunity\" proposal, which is in line with the overall stance of the talking points. The testimony touches on a few key themes from the talking points, including infrastructure concerns and community board opposition.\n\nHowever, the testimony is more focused on specific local issues (like septic tanks) and doesn't delve into many of the broader arguments presented in the talking points, such as claims about housing shortages, targeting of low-density neighborhoods, or the public engagement process. The language used is also quite different from the talking points, suggesting that while the speaker may share some concerns with the organization that created the talking points, they are not directly using them as a script.\n\nThe alignment is present but not strong enough to suggest that the testimony is directly based on or heavily influenced by these specific talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

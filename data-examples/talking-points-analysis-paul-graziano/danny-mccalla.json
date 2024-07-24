@@ -1,0 +1,47 @@
+{
+    "testimony": {
+        "name": "Danny McCalla",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/danny-mccalla-on-concerns-with-city-of-yes-for",
+        "start_time_in_seconds": 48406.68,
+        "end_time_in_seconds": 48587.816,
+        "for_or_against": "Against",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [],
+        "key_points": [
+            "Opposes the City of Yes initiative",
+            "Supports conversions from office space to housing, but finds it challenging in midtown due to high costs",
+            "Concerned about the demonization of family housing",
+            "Believes affordable housing prices are based on demand in popular neighborhoods",
+            "Criticizes the practice of landlords raising rents based on neighboring properties",
+            "Argues that developers will only develop for profit, not necessarily for affordability",
+            "Mentions that contextual zoning was created because developers abused zoning regulations",
+            "Criticizes the Board of Standards and Appeals for granting variances based on financial hardship precedents",
+            "Believes demonizing low-income neighborhoods won't solve housing issues",
+            "Expresses concern that once zoning changes are approved, the Department of Buildings interprets them differently",
+            "Suggests that the proposal needs more work or refinement"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Danny McCalla, is testifying in opposition to the \"City of Yes\" proposal.\n2. He mentions support for converting office space to housing but expresses concern about the cost in Midtown.\n3. He criticizes the \"demonization of family housing\" and suggests that affordability issues are more related to tax problems and demand in popular neighborhoods.\n4. The speaker mentions issues with contextual zoning and how developers have exploited zoning regulations in the past.\n5. He expresses concern about the interpretation and implementation of zoning changes by the Department of Buildings.\n6. The testimony doesn't directly align with most of the reference talking points, but there are some loose connections.\n\nNow, let's compare this to the reference talking points:\n\n1. There's no direct mention of changing neighborhood character or allowing commercial uses in residential areas.\n2. The speaker doesn't discuss claims of housing shortage or population decline.\n3. While the speaker mentions developers, he doesn't explicitly state that the proposals favor them over existing residents.\n4. There's no mention of low-density neighborhoods being targeted.\n5. The speaker doesn't discuss loss of local control over development.\n6. Environmental and infrastructure concerns are not mentioned.\n7. The public engagement process is not discussed.\n\nOverall, the testimony has some loose connections to the reference talking points but doesn't strongly align with them.",
+        "talking_point_evidence": [
+            {
+                "quote": "I would support the conversions to from office space to housing.",
+                "analysis": "This quote loosely relates to the talking point about changing neighborhood character, as it mentions changing the use of buildings. However, it actually supports the idea, contrary to the reference talking point.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            },
+            {
+                "quote": "I'm very concerned about the demonization of what is family housing.",
+                "analysis": "This quote might relate to the talking point about low-density neighborhoods being unfairly targeted, as 'family housing' could be interpreted as single-family homes. However, the connection is not strong, and the speaker doesn't explicitly mention zoning or low-density areas.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            },
+            {
+                "quote": "You know, realistically, developers are gonna develop because you created a more profit market.",
+                "analysis": "This quote loosely relates to the talking point about proposals favoring developers. The speaker acknowledges that developers will act based on profit motives, which aligns with the sentiment of the talking point, but doesn't directly criticize the proposal for favoring developers.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony by Danny McCalla shows some awareness of issues related to zoning, development, and housing affordability in New York City. However, it does not closely align with the provided reference talking points. The speaker's concerns and arguments are somewhat different from those outlined in the reference talking points.\n\nWhile the speaker mentions developers and their motivations, which loosely relates to one of the reference talking points, most of his testimony focuses on different aspects of the housing and zoning situation. He discusses issues like the conversion of office space to housing, affordability in popular neighborhoods, and past problems with zoning regulations and their interpretation.\n\nThe testimony does not strongly echo the main themes of the reference talking points, such as dramatic changes to neighborhood character, claims of housing shortage being misleading, loss of local control, or environmental concerns. The speaker's perspective seems more nuanced and less directly opposed to the \"City of Yes\" proposal compared to the stance implied by the reference talking points.\n\nGiven these observations, the testimony appears to have a low level of alignment with the reference talking points.",
+        "similarity": "NOT_ALIGNED"
+    }
+}

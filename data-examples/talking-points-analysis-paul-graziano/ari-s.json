@@ -1,0 +1,49 @@
+{
+    "testimony": {
+        "name": "Ari S",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/ari-s-structural-engineer-on-concerns-about-city",
+        "start_time_in_seconds": 52708.902,
+        "end_time_in_seconds": 52893.117,
+        "for_or_against": "Against",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [],
+        "key_points": [
+            "The proposal does not guarantee affordable housing",
+            "Neighborhoods with increased development have become less affordable",
+            "Neighborhoods with individual homeowners and 2-3 family homes are more affordable",
+            "Concerns about one-size-fits-all approach without considering neighborhood-specific needs",
+            "Lack of access to public transportation in some neighborhoods leads to parking issues",
+            "Concerns about reduction in green spaces, sunlight, and shared community spaces",
+            "Need for infrastructure and resource updates before introducing new housing",
+            "Suggestion to explore other means of addressing housing affordability, such as not increasing rent stabilization"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Ari S, is a structural engineer with experience in existing buildings and adaptive reuse in New York.\n\n2. They argue that the proposal doesn't guarantee affordable housing, which aligns with some of the reference talking points about favoring developers over existing residents.\n\n3. Ari mentions that neighborhoods with increased development (Williamsburg, Bedstuy, Long Island City) have become unaffordable, contradicting the idea that more development leads to affordability.\n\n4. They express concern about the \"one size fits all\" approach, which relates to the reference point about loss of local control and the need for neighborhood-specific considerations.\n\n5. Ari mentions issues with parking in their neighborhood, which aligns with the reference talking point about removing parking requirements to increase developer profits.\n\n6. The speaker expresses concern about the lack of infrastructure and resource improvements, including green spaces, which directly relates to the environmental and infrastructure concerns in the reference talking points.\n\n7. Ari mentions the environmental impact statement predicting a reduction in green spaces, sunlight, and shared community spaces, which again aligns with the environmental concerns in the reference talking points.\n\nWhile the testimony doesn't use identical language to the reference talking points, it supports several of the key arguments and concerns raised in them.",
+        "talking_point_evidence": [
+            {
+                "quote": "I don't see from my lived experience that changes like this have brought about affordable housing. In fact, I see the opposite where neighborhoods where a lot of development has been encouraged like Williamsburg, Bedstuy, Long Island City has actually become extremely unaffordable",
+                "analysis": "This quote supports the reference talking point that claims of housing shortage are misleading and that increased development doesn't necessarily lead to affordability. While it doesn't use the same language, it supports the idea that the proposals may not achieve their stated goals.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "I agree that on a neighborhood by neighborhood basis, these things have different levels of impacts and should be studied specifically 2 neighborhoods",
+                "analysis": "This quote supports the reference talking point about the loss of local control over development and the need for community-specific considerations. It aligns with the concern that a one-size-fits-all approach may not be appropriate.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "A lot of the buildings that have gone up have eliminated parking, and people in my neighborhood drive around for 1 hour trying to find parking and a parking space in some of these new buildings. Sells for $90,000.",
+                "analysis": "This quote directly supports the reference talking point about removing parking requirements to increase developer profits. It provides a specific example of how this change has negatively impacted residents.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "I also read that in the environmental impact statement that they anticipate a deduction to green spaces sunlight and shared community spaces.",
+                "analysis": "This quote is very closely related to the reference talking point about environmental concerns, specifically mentioning the loss of green space. It uses similar language and raises the same issue.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            }
+        ],
+        "analysis": "The testimony by Ari S shows significant alignment with several of the reference talking points, although it doesn't cover all of them and doesn't use identical language. The speaker raises concerns about affordability, the need for neighborhood-specific considerations, parking issues, and environmental impacts, all of which are present in the reference talking points. \n\nWhile the testimony doesn't explicitly mention some points like population decline or the specifics of zoning changes, it does support the overall narrative that the proposed changes may not achieve their stated goals and could have negative impacts on existing communities. The speaker's personal experiences and observations are used to support arguments that are very similar to those in the reference talking points.\n\nThe testimony doesn't appear to be directly reading from a script of talking points, but rather seems to be expressing personal views that happen to align closely with several of the key arguments in the reference talking points. This suggests that the speaker may have been influenced by similar information or arguments, even if not directly using the provided talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

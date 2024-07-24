@@ -1,0 +1,48 @@
+{
+    "testimony": {
+        "name": "David Holowka",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/david-holowka-architect-and-chelsea-resident-on",
+        "start_time_in_seconds": 18151.643,
+        "end_time_in_seconds": 18338.906,
+        "for_or_against": "Against",
+        "borough": "Manhattan",
+        "neighborhood": "Chelsea",
+        "stated_affiliations": [],
+        "key_points": [
+            "City of Yes will discourage development in areas with vacant and underbuilt sites",
+            "The initiative will encourage luxury housing development in already built-up areas",
+            "Boosting supply hasn't lowered housing costs in other cities like Vancouver",
+            "Areas in New York with the most new housing have seen housing costs rise, not fall",
+            "The plan may lead to a loss of existing affordable housing",
+            "Development rights transfers may incentivize tearing down affordable apartment buildings",
+            "New luxury buildings may include fewer units than the buildings they replace",
+            "The market seems incapable of producing anything but luxury units in cities with high real estate investment value",
+            "Suggests studying alternatives like Vienna's social housing and Westchester's affordability mandates",
+            "Criticizes the lack of consultation with zoning experts like George Gaines",
+            "Argues that City of Yes is a gift to real estate executives packaged as an affordable housing initiative",
+            "Believes the plan may increase housing costs rather than decrease them"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step in relation to the reference talking points:\n\n1. The testimony focuses on housing and zoning issues, which aligns with the general topic of the reference talking points.\n\n2. The speaker argues against the \"City of Yes\" proposal, similar to the overall negative stance in the reference talking points.\n\n3. The testimony mentions that existing zoning allows for significant new residential development, which aligns with the reference point about existing zoning accommodating more people.\n\n4. The speaker suggests that the proposal will favor developers and luxury housing, which is similar to the reference point about proposals favoring developers over existing residents.\n\n5. The testimony argues that increasing housing supply doesn't necessarily lower costs, which indirectly supports the reference point about claims of housing shortage being misleading.\n\n6. The speaker mentions the loss of affordable housing and community-led zoning, which relates to the reference point about loss of local control over development.\n\n7. The testimony doesn't specifically mention environmental or infrastructure concerns, which are present in the reference talking points.\n\n8. The speaker questions the consultation process, mentioning that a zoning expert was not consulted, which loosely relates to the reference point about questionable public engagement.\n\nWhile there are some alignments, the testimony doesn't use identical language or make all the same specific points as the reference talking points. It focuses more on the economics of housing and the potential negative effects of the proposal on affordability.",
+        "talking_point_evidence": [
+            {
+                "quote": "Existing zoning allows nearly 2,000,000,000 square feet of new rest residential development in New York City, much of it in such areas.",
+                "analysis": "This quote supports the reference talking point about existing zoning being able to accommodate more people. While it doesn't use the same language, it makes a similar argument that current zoning already allows for significant development.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "City of Yes would sacrifice hard one community led zoning for a perverse plan to solve our affordable housing crisis by building luxury apartments.",
+                "analysis": "This quote supports two reference talking points: the loss of local control over development and the idea that proposals favor developers over existing residents. It suggests that community-led zoning will be sacrificed and implies that the plan benefits luxury development rather than addressing affordable housing needs.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "The widely respected zoning expert George Gaines has said he was never consulted on a city of yes, despite offering his service. I can't imagine that real estate executives were kept out of the loop.",
+                "analysis": "This quote relates to the reference talking point about questionable public engagement. While it doesn't directly mention limited community outreach, it implies a lack of proper consultation and suggests favoritism towards real estate executives.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows some alignment with the reference talking points, particularly in its criticism of the \"City of Yes\" proposal and its potential impacts on housing affordability and community control. However, the testimony focuses more on the economics of housing and the potential for the proposal to exacerbate affordability issues rather than on specific zoning changes or environmental concerns.\n\nThe speaker uses different examples and arguments to support their position, such as comparing New York to Vancouver and discussing the relationship between housing supply and costs. While these arguments support the overall skepticism towards the proposal found in the reference talking points, they represent a different approach to critiquing the plan.\n\nThe testimony does touch on some key themes from the reference talking points, including the idea that existing zoning can accommodate growth, concerns about favoring developers over residents, and questions about the consultation process. However, it doesn't cover all the points mentioned in the reference talking points, such as changes to neighborhood character, environmental concerns, or specific zoning changes.\n\nOverall, while there is alignment in the general opposition to the proposal and some shared concerns, the testimony presents a more focused argument on housing economics and affordability rather than covering the broader range of issues mentioned in the reference talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

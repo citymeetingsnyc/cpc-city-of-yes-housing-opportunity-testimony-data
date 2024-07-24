@@ -1,0 +1,38 @@
+{
+    "testimony": {
+        "name": "Bob Martin [Fake]",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/christopher-leon-johnson-as-bob-martin-mcdonalds",
+        "start_time_in_seconds": 52936.574,
+        "end_time_in_seconds": 53116.023,
+        "for_or_against": "Against",
+        "borough": "Brooklyn",
+        "neighborhood": "Flatbush",
+        "stated_affiliations": [],
+        "key_points": [
+            "Cannot afford housing under City of Yes due to low income ($20,000/year)",
+            "City of Yes will not benefit poor people like him",
+            "New developments in his area are unaffordable despite having good credit",
+            "City of Yes will only benefit the wealthy",
+            "Works multiple jobs (McDonald's and construction) but still can't afford housing",
+            "Concerns about displacement of current residents",
+            "Criticizes organizations supporting the plan (Open Plans, Open New York, Tri-State, Regional Plan Association, Transportation Alternatives)"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "1. The testimony is from Bob Martin, a low-income worker in Flatbush, NYC.\n2. He expresses strong opposition to the \"City of Yes\" proposal.\n3. His main concerns are affordability and displacement of poor residents.\n4. He mentions specific organizations supporting the proposal.\n5. The testimony focuses on personal experiences and struggles with housing affordability.\n6. Now, let's compare this to the reference talking points:\n   - The testimony doesn't directly mention neighborhood character changes.\n   - There's no mention of commercial uses in residential areas or increased density.\n   - The testimony doesn't discuss population decline or existing zoning capacity.\n   - While the testimony implies the proposal favors wealthier individuals, it doesn't specifically mention developers.\n   - There's no mention of parking requirements or larger buildings.\n   - The testimony doesn't discuss low-density neighborhoods or single-family homes.\n   - There's no mention of local control or community board input.\n   - Environmental and infrastructure concerns are not addressed.\n   - The public engagement process is not discussed.\n7. The only slight overlap is the implication that the proposal may benefit wealthier individuals at the expense of poorer residents.",
+        "talking_point_evidence": [
+            {
+                "quote": "I cannot afford the city of yes. I made $20,000 a year. I was doing some research and these I see the rules said that yet to make 80% AMI to be able to live in the city of yes. I cannot afford that.",
+                "analysis": "This quote indirectly relates to the reference talking point about proposals favoring developers over existing residents. While the testimony doesn't mention developers specifically, it implies that the proposal benefits higher-income individuals and excludes low-income residents.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            },
+            {
+                "quote": "This will never benefit the par. This will only benefit the witch. The wealthy I am not wealthy majority of us in your city or not wealthy. We're par.",
+                "analysis": "This quote also loosely relates to the idea that the proposals favor certain groups over others, similar to the reference talking point about favoring developers over existing residents. However, the testimony focuses on wealth disparity rather than developers specifically.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            }
+        ],
+        "analysis": "The testimony provided by Bob Martin shows very little alignment with the reference talking points. The main focus of Bob's testimony is on personal experiences with poverty and housing affordability in New York City. He expresses strong opposition to the \"City of Yes\" proposal based on his inability to afford housing as a low-income worker.\n\nWhile there are a couple of tenuous links to the reference talking points, particularly the idea that the proposal may benefit wealthier individuals at the expense of poorer residents, the overall content and specific arguments made in the testimony are quite different from the reference talking points.\n\nThe reference talking points focus on issues such as neighborhood character changes, population decline, zoning capacity, developer interests, low-density neighborhoods, local control, environmental concerns, and the public engagement process. None of these specific issues are addressed in Bob Martin's testimony.\n\nInstead, Bob's testimony is a personal account of his struggles with housing affordability and his fears about displacement. He doesn't engage with the broader policy arguments or specific zoning changes mentioned in the reference talking points.\n\nGiven the significant differences in content and focus between the testimony and the reference talking points, it appears that Bob Martin's testimony is not closely aligned with or influenced by the provided talking points.",
+        "similarity": "NOT_ALIGNED"
+    }
+}

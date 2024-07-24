@@ -1,0 +1,52 @@
+{
+    "testimony": {
+        "name": "Warren Schreiber",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/warren-schreiber-president-of-queens-civic",
+        "start_time_in_seconds": 8652.478,
+        "end_time_in_seconds": 8799.282,
+        "for_or_against": "Against",
+        "borough": "Queens",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Queens Civic Congress"
+        ],
+        "key_points": [
+            "New York City is not one-size-fits-all",
+            "Queens Civic Congress members prefer quiet communities with 1 and 2 family housing",
+            "Community boards have worked since 2005 to rezone and protect communities from overdevelopment",
+            "City of Yes is seen as a gift to developers that will undo previous rezoning efforts",
+            "The proposal threatens the American dream and generational wealth",
+            "The plan has nothing to do with affordable housing for those on the lowest economic rungs",
+            "Concerns about parking mandates, especially in transit deserts like Northeast Queens",
+            "Queens bus network redesign will result in reduced service",
+            "Queens Civic Congress opposes City of Yes in its entirety"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze this testimony step by step:\n\n1. The speaker, Warren Schreiber, represents the Queens Civic Congress, which includes 75 civic groups in Queens.\n\n2. He emphasizes that New York City is diverse and \"not one size fits all,\" which aligns with the reference talking points about targeting low-density neighborhoods unfairly.\n\n3. Schreiber mentions community efforts to rezone and protect communities from over-development, which relates to the talking point about loss of local control over development.\n\n4. He refers to the City of Yes as a \"gift to developers,\" which strongly aligns with the talking point about proposals favoring developers over existing residents.\n\n5. The speaker mentions threats to the \"American dream and its associated generational wealth,\" which indirectly relates to the talking point about low-density neighborhoods being unfairly targeted.\n\n6. Schreiber criticizes the parking mandate removal, which directly aligns with the talking point about removing parking requirements to increase developer profits.\n\n7. He describes his area as a \"transit desert,\" which relates to the environmental and infrastructure concerns mentioned in the talking points.\n\nWhile the testimony doesn't cover all the reference talking points, it strongly aligns with several key points, particularly those related to favoring developers, loss of local control, and concerns about changes to neighborhood character.",
+        "talking_point_evidence": [
+            {
+                "quote": "City of Yes is a gift to developers that will undo those efforts.",
+                "analysis": "This quote directly aligns with the reference talking point about proposals favoring developers over existing residents. It uses similar language to portray the City of Yes as benefiting developers at the expense of community efforts.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "Beginning 2005, our community boards devoted hours to rezoning protecting communities from irresponsible over development.",
+                "analysis": "This quote supports the talking point about loss of local control over development. It highlights the community's past efforts to control development, implying that the City of Yes proposal threatens this local input.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "I have rebuses. One bus will take me to flushing. The other bus will take me to flushing, and I have a third bus that will also take me to flushing. That doesn't give me a lot of options, and we are now in a position with the Queen's bus network redesign which is going into effect soon will result in a reduction of that service.",
+                "analysis": "While not directly quoting a talking point, this statement supports the environmental and infrastructure concerns mentioned in the talking points. It highlights the lack of transit options and potential reduction in service, which relates to the concern about infrastructure impacts.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "New York City is not one size fits all. Cookie cutter solutions work in our great city. Members of the Queen Civic Congress prefer to reside in quiet 3 line communities with 1 and 2 family housing",
+                "analysis": "This quote supports the talking point about low-density neighborhoods being unfairly targeted. It emphasizes the diversity of New York City and the preference for low-density housing, which aligns with the argument that these areas shouldn't be targeted for increased density.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony by Warren Schreiber shows a significant alignment with several key reference talking points. While it doesn't cover all the points mentioned in the reference, it strongly echoes the sentiments about favoring developers, loss of local control, and concerns about changes to neighborhood character.\n\nThe speaker's language and arguments closely mirror those in the reference talking points, particularly when describing the City of Yes as a \"gift to developers\" and emphasizing the unique character of different neighborhoods in New York City. The testimony also touches on infrastructure concerns, specifically regarding public transportation, which aligns with the environmental and infrastructure concerns mentioned in the talking points.\n\nWhile the testimony doesn't explicitly mention some points like population decline or the specific percentage of land zoned for single-family homes, the overall tone and main arguments are very similar to those in the reference talking points. The speaker clearly opposes the City of Yes proposal for reasons that closely align with the provided talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

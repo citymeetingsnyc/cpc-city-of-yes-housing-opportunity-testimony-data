@@ -1,0 +1,46 @@
+{
+    "testimony": {
+        "name": "Catherine Murawski",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/catherine-murawski-vice-president-of-liberty-park",
+        "start_time_in_seconds": 52415.72,
+        "end_time_in_seconds": 52618.156,
+        "for_or_against": "Against",
+        "borough": "Queens",
+        "neighborhood": "Liberty Park",
+        "stated_affiliations": [
+            "Liberty Park Homeowners Association"
+        ],
+        "key_points": [
+            "Represents 500 homes and 700 families in Community Board 5",
+            "Existing 2-family houses are small with basements that are not suitable for apartments",
+            "Basement apartments would be dangerous due to flood risk and limited exits",
+            "Concerns about the electrical grid's capacity to handle increased demand",
+            "Opposes over-development",
+            "Sympathizes with people who need housing but believes the initiative is not good for many areas of Queens",
+            "Suggests focusing on existing housing solutions for those in need",
+            "Supports the initiative in certain areas of New York City, but not in Queens"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Catherine Murawski, represents the Liberty Park Homeowners Association, which includes 500 homes and 700 families.\n\n2. She mentions that their 2-family houses are very small, with basements that are not suitable for apartments due to safety concerns (flooding, fire hazards).\n\n3. She suggests that the commission should consult mechanical engineers due to concerns about wiring and potential energy grid issues.\n\n4. She expresses opposition to overdevelopment, which aligns with some of the reference talking points.\n\n5. She acknowledges the need for housing but suggests that existing housing could be utilized for those in need.\n\n6. She states that the proposal is not good for many areas in Queens, indicating a concern for neighborhood character.\n\nNow, let's compare these points to the reference talking points:\n\n- The testimony touches on concerns about neighborhood character and density, which aligns with the first talking point.\n- There's a mention of overdevelopment being a problem, which somewhat aligns with the idea of favoring developers over existing residents.\n- The speaker's concerns about safety and infrastructure (wiring, energy grid) relate to the environmental and infrastructure concerns in the talking points, although not exactly in the same way.\n- The testimony doesn't directly address many of the other talking points, such as population decline, parking requirements, or the public engagement process.\n\nGiven this analysis, the testimony shows some alignment with the reference talking points, but it's not a high level of alignment across all points.",
+        "talking_point_evidence": [
+            {
+                "quote": "Over development is a big problem. So that's why I I I oppose it",
+                "analysis": "This quote aligns with the talking point about proposals favoring developers over existing residents. The speaker is expressing opposition to overdevelopment, which is a concern raised in the reference talking points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "But in Queens, It's not good for us. It's not good for us in many areas of Queensland.",
+                "analysis": "This statement supports the talking point about low-density neighborhoods being unfairly targeted. The speaker is expressing that the proposal is not suitable for many areas in Queens, which aligns with the concern about certain neighborhoods being disproportionately affected.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "I really believe the commission should be getting be consulted by mechanical engineers because The wiring if a if and landlord landlord's very hard for them to not hire your rent because of of of the meter, water meter going up, and all the expenses going up, Con Edison would have to hire their grid of energy Otherwise, we we could have a major blackout in New York City next year.",
+                "analysis": "This quote somewhat relates to the environmental and infrastructure concerns mentioned in the talking points. While the specific concerns (wiring, energy grid) are different from those in the talking points (sewers, schools, flooding), they both address infrastructure issues related to increased development.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            }
+        ],
+        "analysis": "The testimony shows some alignment with the reference talking points, but it does not cover all the major points and lacks the same level of detail. The speaker expresses concerns about overdevelopment and its impact on Queens neighborhoods, which aligns with some of the talking points about neighborhood character and targeting low-density areas. However, the testimony doesn't directly address many of the specific issues raised in the talking points, such as population decline, parking requirements, or the public engagement process.\n\nThe speaker's concerns about safety and infrastructure, while related to the environmental and infrastructure talking points, focus on different specific issues (wiring and energy grid capacity rather than sewers, schools, and flooding).\n\nOverall, while there is some alignment, the testimony doesn't appear to be directly based on or closely following the reference talking points. It seems to be more of a personal perspective based on the speaker's experience and concerns for their specific community.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

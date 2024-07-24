@@ -1,0 +1,64 @@
+{
+    "testimony": {
+        "name": "Jasmine Camparitas",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/jasmine-camparitas-resident-of-hollis-hills-queens",
+        "start_time_in_seconds": 34194.74,
+        "end_time_in_seconds": 34379.938,
+        "for_or_against": "Against",
+        "borough": "Queens",
+        "neighborhood": "Hollis Hills",
+        "stated_affiliations": [],
+        "key_points": [
+            "The proposal will destroy and eliminate low-density communities",
+            "It will replace owner-occupied housing with market-rate rental units",
+            "It will increase density without sufficient infrastructure",
+            "It will end enforcement of illegal apartments",
+            "It will negatively impact property values without benefiting the community",
+            "The environmental impact statement incorrectly assessed socioeconomic conditions and neighborhood character",
+            "The proposal will cause long-term New Yorkers to leave, changing neighborhood character",
+            "Low-density communities have fewer public transportation options and fewer police officers",
+            "The proposal benefits developers and real estate investors at the expense of current residents",
+            "There's no shortage of space in New York, but a shortage of affordable housing",
+            "The city should focus on converting underutilized existing city space into affordable housing",
+            "35 out of 59 community boards oppose the proposal",
+            "ADUs are not acceptable for the Hollis Hills neighborhood"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step and compare it with the reference talking points:\n\n1. The testimony strongly opposes the \"City of Yes\" proposal, which aligns with the overall sentiment in the reference talking points.\n\n2. The speaker mentions \"wholesale destruction and elimination of our communities,\" which is similar to the reference point about dramatically changing neighborhood character.\n\n3. The testimony talks about replacing owner-occupied housing with market-rate rental units, which relates to the reference point about favoring developers over existing residents.\n\n4. The speaker mentions increased density without sufficient infrastructure, which aligns with the environmental and infrastructure concerns in the reference points.\n\n5. The testimony discusses the disproportionate effect on lower-density neighborhoods, which is very similar to the reference point about unfairly targeting low-density neighborhoods.\n\n6. The speaker mentions the environmental impact statement incorrectly identifying areas as not affected, which relates to the reference point about lack of analysis on impacts.\n\n7. The testimony talks about long-term New Yorkers leaving, changing the character of neighborhoods, which aligns with the reference point about changing neighborhood character.\n\n8. The speaker emphasizes the choice to live in lower-density areas for quality of life reasons, which is similar to the reference point about the value of low-density neighborhoods.\n\n9. The testimony mentions benefiting developers and real estate investors, which directly aligns with the reference point about proposals favoring developers.\n\n10. The speaker argues there's no shortage of space, only a shortage of affordable housing, which is similar to the reference point about claims of housing shortage being misleading.\n\n11. The testimony mentions 35 out of 59 community boards opposing the proposal, which relates to the reference point about questionable public engagement process.\n\nGiven these similarities, the testimony appears to be highly aligned with the reference talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "This proposal will cause the wholesale destruction and elimination of our communities across the city, particularly lower density communities like mine.",
+                "analysis": "This quote directly aligns with the reference talking point about dramatically changing neighborhood character, particularly in low-density areas.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "Implementation of the proposals will result in an unlawful taking of property by destroying the value of my property without a measurable benefit to the community, but with a measurable negative environmental impact.",
+                "analysis": "This quote supports the reference talking points about environmental concerns and favoring developers over existing residents, though it doesn't use identical language.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "There are minimal low density communities in New York, and those communities like mine have fewer reliable public transportation opportunities. We have fewer police officers on staff. In our precincts, we have longer commutes, and we pay more property tax.",
+                "analysis": "This quote is nearly identical to the reference talking point about low-density neighborhoods being unfairly targeted and paying disproportionately high property taxes.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "You are trading our communities and the quality of our lives for what will ultimately be the benefit of developers and real estate investors and the destruction of our environment.",
+                "analysis": "This quote directly aligns with the reference talking point about proposals favoring developers over existing residents and environmental concerns.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "There's no shortage of space in New York. There's a shortage of affordable housing, and this proposal does not address that in those areas where the shortage actually exists.",
+                "analysis": "This quote supports the reference talking point about claims of housing shortage being misleading, though it focuses more on affordability rather than population decline.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "35 out of 59 community boards have expressed opposition to the proposal that cannot and should not be ignored.",
+                "analysis": "This quote supports the reference talking point about questionable public engagement process, though it doesn't directly mention limited outreach or complexity of proposals.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony is very closely related to the reference talking points, often making the same claims and arguments. The speaker touches on many of the key points mentioned in the reference talking points, including:\n\n1. Dramatic changes to neighborhood character\n2. Unfair targeting of low-density neighborhoods\n3. Favoring developers over existing residents\n4. Environmental and infrastructure concerns\n5. Questionable public engagement process\n6. Challenging the claim of housing shortage\n\nThe language and arguments used in the testimony are strikingly similar to those in the reference talking points. While the testimony doesn't use identical phrasing throughout, the core messages and concerns are very much aligned. It is highly plausible that the person giving the testimony is familiar with or has been influenced by the reference talking points.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}

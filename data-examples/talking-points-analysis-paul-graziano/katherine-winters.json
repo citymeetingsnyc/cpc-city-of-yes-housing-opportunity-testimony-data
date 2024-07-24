@@ -1,0 +1,49 @@
+{
+    "testimony": {
+        "name": "Katherine Winters",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/katherine-winters-whitestone-resident-on",
+        "start_time_in_seconds": 22116.117,
+        "end_time_in_seconds": 22291.562,
+        "for_or_against": "Against",
+        "borough": "Queens",
+        "neighborhood": "Whitestone",
+        "stated_affiliations": [],
+        "key_points": [
+            "Opposes the plan on behalf of herself and her neighbors",
+            "Importance of preserving single-family zoning for quality of life and diversity of neighborhoods",
+            "Single-family zoning areas are fragile and once changed, are difficult to reclaim",
+            "Questions the proposed benefits of the plan",
+            "Suggests focusing on underutilized areas already zoned for multifamily housing",
+            "Proposal does not address environmental impacts, parking needs, transportation issues, and school capacity",
+            "Does not adequately address low-income housing, senior housing, and homelessness",
+            "Believes the plan primarily benefits builders rather than residents"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "To analyze the testimony against the reference talking points, I'll go through the main points made in the testimony and compare them to the provided talking points:\n\n1. The testimony opposes the plan and emphasizes the importance of diverse neighborhoods, including single-family areas.\n2. The speaker highlights the fragility of single-family zoning and its contribution to quality of life.\n3. The testimony questions the proposed benefits and suggests alternative solutions.\n4. Environmental impacts, parking, transportation, and school needs are mentioned as concerns.\n5. The speaker suggests the proposal doesn't address true low-income housing, senior housing, or homelessness.\n6. The testimony implies the plan mainly benefits builders.\n\nNow, let's compare these points to the reference talking points:\n\n1. The testimony aligns with the point about changing neighborhood character, especially in low-density areas.\n2. While not explicitly mentioning population decline, the testimony does question the need for the proposed changes.\n3. The testimony implies favor for developers, aligning with the reference point.\n4. The importance of low-density neighborhoods is emphasized, matching a reference point.\n5. Environmental and infrastructure concerns are mentioned, aligning with a reference point.\n6. The testimony doesn't directly address loss of local control or the public engagement process.\n\nOverall, there are several points of alignment, but the testimony doesn't use identical language or cover all the reference talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "There is diversity of neighborhoods in New York City and all great and livable cities must include and protect single family zoning with its trees, small gardens, and green spaces, which I understand is only 52 present New York City housing.",
+                "analysis": "This quote aligns with the reference talking point about low-density neighborhoods being unfairly targeted. While the percentage mentioned differs (52% vs 15% in the talking points), the sentiment of protecting single-family zoning is the same.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Additionally, the proposed benefits, I think, are questionable. Based on based on the mixed use, perhaps, of statistics. These problems could be addressed in far more effective ways.",
+                "analysis": "This quote supports the reference talking point about claims of housing shortage being misleading. While it doesn't directly mention population decline, it questions the benefits and suggests alternative solutions.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Also, the proposal does not address environmental impacts, does not provide critical needs for parking, rich and higher rooms, already constrained near buses and shops. Does not address adequate transportation, and my area expressed buses are few and far between. Does not address the need for schools with the right pupol teacher ratio.",
+                "analysis": "This quote closely aligns with the reference talking point about environmental and infrastructure concerns. It mentions several of the same issues, including impacts on transportation, schools, and parking.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "Sadly, the only clear benefit is to enrich builders.",
+                "analysis": "This quote supports the reference talking point about the proposals favoring developers over existing residents. While it doesn't provide specific examples like the talking points do, the sentiment is the same.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows significant alignment with several of the reference talking points, although it doesn't cover all of them and doesn't use identical language. The speaker opposes the plan, emphasizes the importance of single-family zoning, questions the benefits of the proposal, and raises concerns about environmental impacts and infrastructure. These points align closely with several of the reference talking points.\n\nHowever, the testimony doesn't mention some key points from the reference, such as the loss of local control over development, the public engagement process, or specific claims about population decline. The language used is also generally less specific and doesn't include the same level of detail or exact statistics as the reference talking points.\n\nDespite these differences, the overall message and many of the key points are very similar, indicating a strong alignment between the testimony and the reference talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}
