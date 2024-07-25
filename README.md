@@ -2,7 +2,7 @@
 
 [All testimonies are viewable here on citymeetings.nyc](https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing).
 
-This repo contains:
+This repo contains the following dataset:
 
 - The transcript of a 15-hour NYC City Planning Commission hearing on City of Yes for Housing Opportunity (YouTube: [Part 1](https://www.youtube.com/watch?v=70a3WS0l_GI), [Part 2](https://www.youtube.com/watch?v=2SMvuto6tEw))
 - 211 speakers identified at the meeting.
@@ -10,23 +10,49 @@ This repo contains:
   - Start and end times
   - The name of the person testifying
   - Various attributes extracted from each testimony using language models
-- Code that demonstrates how to extract which elements of the zoning proposal were discussed from every testimony using language models.
-- The output of this code for every testimony in `extracted-data`: https://github.com/citymeetingsnyc/cpc-city-of-yes-housing-opportunity-testimony-data/tree/main/extracted-data
+ 
+There's also code that demonstrates how to use LLMs to extract data from these testimonies:
+
+- `proposal_elements_analysis.py` extracts which of the 8 elements of the zoning proposal were discussed in a given testimony.
+- `talking_points_analysis.py` compares each testimony against a set of talking points to determine how aligned they are.
+
+Example output from these analyses is in `data-examples/`
 
 ## Running the code
 
 This project uses [poetry](https://python-poetry.org/) to manage dependencies.
 
-Run:
+First, run `poetry install` to create a virtual environment and install all the dependencies.
 
-```
-poetry install
-poetry run python analyze.py
-```
+### Extracting elements of the proposal from each testimony
+
+Run: `poetry run python analyze.py proposal-elements`
 
 This will generate directory `extracted-data` in your current directory and write to it.
 
-Each file will contain an analysis of one testimony's transcript, which looks like this: https://github.com/citymeetingsnyc/cpc-city-of-yes-housing-opportunity-testimony-data/blob/main/extracted-data/adam-brodheim.json.
+Each file will contain an analysis of one testimony's transcript.
+
+See `data-examples/proposal-elements-analysis` for output from this analysis.
+
+### Comparing talking points against each testimony
+
+Run: `poetry run python analyze.py talking-points-analysis [TALKING_POINTS_PATH] [--stance for/against]`
+
+You can find talking points in `talking-points/`.
+
+If you omit --stance, it will run the comparison against all testimonies. Otherwise it will run the comparison only against testimonies for/against.
+
+This will generate directory `extracted-data` in your current directory and write to it.
+
+Each file will contain the output of a comparison between one testimony and the talking points.
+
+See `data-examples/talking-points-analysis-*` for output from this analysis.
+
+### Generating a talking points analysis report
+
+The code above will generate a bunch of JSON files. The following command combines all of them into easier-to-read Markdown.
+
+Run: `poetry run python analyze.py talking-points-report [EXTRACTED_DATA_DIR] [TALKING_POINTS_PATH] > report.md`
 
 ## Reading the data
 
@@ -120,7 +146,7 @@ for testimony in testimonies:
 
 See `analyze.py` for a concrete example.
 
-## Contributiing
+## Contributing
 
 If you use this data to do research or write blog post/article let me know and I'll link to it in this README.
 
@@ -129,9 +155,11 @@ If you'd like to contribute to this code, open a PR.
 The kinds of contributions I'll accept are:
 
 - Changes that make it easier to access the data in some way (e.g. DuckDB SQL queries for folks who don't want to write Python).
-- Additional or better versions of analyses of this data using LLMs.
+- Additional analyses of this data using LLMs.
 
-Questions? Email me at [vikram@citymeetings.nyc](mailto:vikram@citymeetings.nyc).
+## License
+
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/citymeetingsnyc/cpc-city-of-yes-housing-opportunity-testimony-data">This dataset and code</a> by <span property="cc:attributionName">Vikram Oberoi (citymeetings.nyc)</span> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
 
 - Do whatever you want with it as long as it's not commercial.
 - Attribution is required.
