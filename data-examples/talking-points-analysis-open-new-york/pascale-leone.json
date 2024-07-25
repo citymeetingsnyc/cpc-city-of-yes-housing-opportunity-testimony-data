@@ -1,0 +1,46 @@
+{
+    "testimony": {
+        "name": "Pascale Leone",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/pascale-leone-executive-director-of-the-supportive",
+        "start_time_in_seconds": 31335.332,
+        "end_time_in_seconds": 31535.707,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Supportive Housing Network of New York"
+        ],
+        "key_points": [
+            "Supportive housing is effective in combating chronic homelessness and providing critical services",
+            "Supportive housing increases property values of neighboring buildings",
+            "The network supports the goals of City of Yes with some conditions",
+            "Concerned about the removal of off-site options for generating certificates or bonuses",
+            "Request for zoning text language to make existing air rights certificates permanent",
+            "Concerned about potential loss of value for existing certificates under proposed text",
+            "Request for zoning text to embrace supportive housing equally when filed as use group 2 or 3",
+            "Supportive of City of Yes goals but believes modest amendments are needed to protect existing units and ability to build more supportive housing"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Pascale Leone, represents the Supportive Housing Network of New York, which focuses on supportive housing for vulnerable populations.\n\n2. They express support for the overall goals of City of Yes, particularly mentioning the Universal Affordability Preference (UAP) that will provide more floor area ratio bonuses to build more supportive housing.\n\n3. The testimony touches on several key points that align with the reference talking points:\n   - Mentions the need for affordable and supportive housing due to record homelessness and the ongoing affordability crisis.\n   - Discusses how restrictive zoning has disproportionately impacted Black and brown communities, which aligns with the equity goals of the City of Yes proposal.\n   - Expresses strong support for the UAP, which is a key component of the reference talking points.\n\n4. However, the testimony also raises concerns about some aspects of the proposal:\n   - The potential loss of the off-site option that could generate certificates or bonuses under the current Voluntary Inclusionary Housing (VIH) program.\n   - The need for permanent ability to sell existing air rights, not just for a specific period.\n   - The potential loss of value for existing certificates under the new bonus ratios.\n   - The request for zoning text to specifically embrace supportive housing filed as use group 2 or 3.\n\n5. These concerns are not directly addressed in the reference talking points, indicating that while the testimony supports the overall goals, it has some specific requests that go beyond the provided talking points.\n\nGiven this analysis, we can now identify specific quotes that align with the reference talking points and determine the overall similarity.",
+        "talking_point_evidence": [
+            {
+                "quote": "The network enthusiastically supports the overarching goals of City of Yoss with some conditions as the need for affordable and supportive housing units have never been greater with record homelessness, as I mentioned, the ongoing affordability crisis, the rising rents that continue to outpace income.",
+                "analysis": "This quote aligns closely with the general sentiment expressed in the UAP talking points about the need for affordable housing. While it doesn't use identical language, it strongly supports the same argument.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "We are strongly in favor of the UAP that will provide more floor area ratio bonuses build more buildings and more supportive housing.",
+                "analysis": "This quote directly supports the UAP talking point, mentioning the floor area bonus for affordable housing. The language is very similar to the reference talking point.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "I want to be clear that restrictive zoning that is resulting in a system of de facto dough redlining as a vestige of slavery in Jim Crow. Black and brown in lower income New Yorkers where we see the most migration have been disproportionately impacted by these trends and addressing these historic and present day harms as mission critical.",
+                "analysis": "While this quote doesn't directly match any specific talking point, it supports the overall goal of the City of Yes proposal to address inequities in housing. It provides additional context on why zoning reform is necessary, which aligns with the spirit of the talking points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows a significant alignment with the reference talking points, particularly regarding the Universal Affordability Preference (UAP) and the overall goals of the City of Yes proposal. The speaker strongly supports the UAP and recognizes the critical need for affordable and supportive housing, which directly aligns with the provided talking points.\n\nHowever, the testimony also brings up specific concerns and requests that are not addressed in the reference talking points. These include issues related to the off-site option for generating certificates or bonuses, the permanence of existing air rights, and the need for specific zoning text considerations for supportive housing.\n\nWhile these concerns indicate that the testimony is not entirely identical to the reference talking points, they do not contradict the overall goals. Instead, they represent a more nuanced perspective from an organization specifically focused on supportive housing.\n\nThe testimony does not cover all aspects of the City of Yes proposal mentioned in the reference talking points, such as lifting parking minimums, transit-oriented development, or office-to-residential conversions. It focuses primarily on the aspects most relevant to supportive housing.\n\nGiven these factors, the testimony can be classified as supporting the talking points, but with a more specific focus and additional concerns not covered in the reference material.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

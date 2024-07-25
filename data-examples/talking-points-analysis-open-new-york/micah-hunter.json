@@ -1,0 +1,41 @@
+{
+    "testimony": {
+        "name": "Micah Hunter",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/micah-hunter-from-nhp-foundation-on-city-of-yes",
+        "start_time_in_seconds": 22837.336,
+        "end_time_in_seconds": 23017.105,
+        "for_or_against": "For",
+        "borough": "Queens",
+        "neighborhood": "Laurelton",
+        "stated_affiliations": [
+            "NHP Foundation",
+            "HPD Housing Preservation Development",
+            "Administration of Children's Services"
+        ],
+        "key_points": [
+            "Personal experience of having to leave Bed-Stuy due to rising costs",
+            "Housing crisis and need for more affordable housing",
+            "Discrepancy between household growth and new housing units in NYC",
+            "Positive impact of affordable housing on families",
+            "Changing demographics affecting housing needs (e.g., baby boomers, workforce housing)",
+            "City of Yes for Housing Opportunity proposal as a step to address housing issues"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze this testimony step by step:\n\n1. The speaker, Micah Hunter, is from NHP Foundation, a nonprofit organization focused on affordable housing.\n\n2. He shares personal experience of having to move due to rising housing costs, which aligns with the general theme of the housing crisis mentioned in the talking points.\n\n3. Hunter mentions a housing crisis, citing statistics about the discrepancy between new households and new housing units in New York City. This aligns with the overall message of the talking points about the need for more housing.\n\n4. He mentions specific demographics facing housing challenges, such as baby boomers and workforce housing, which isn't directly mentioned in the talking points but supports the general theme of housing needs.\n\n5. The speaker urges the Commission to vote in support of the \"City of Yes for Housing Opportunity\" proposal, which is the subject of the reference talking points.\n\n6. While the testimony doesn't go into specifics about the proposal's components (like UAP, parking minimums, TOD, etc.), it does express support for the overall initiative.\n\n7. The testimony focuses more on the general need for affordable housing and the speaker's personal and professional experiences rather than specific policy points.\n\nNow, let's identify any quotes that align with the reference talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "I'd say the city of yes are filed in opportunity proposals by those steps. To address these issues. We urge the Commission to vote in support of the proposal. We believe that this course acts will help build a city that meets the needs of all of its residents.",
+                "analysis": "This quote shows support for the City of Yes proposal, which is the subject of the reference talking points. While it doesn't mention specific aspects of the proposal, it aligns with the overall message of the talking points that these changes are necessary to address housing issues.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "New York City has added 275,000 households with only 600,000 units housing. This discrepancy is an acceptable, unsustainable highly intelligent need for city wide action.",
+                "analysis": "This quote highlights the housing crisis in New York City, which is a central theme in the reference talking points. While it doesn't directly reference a specific talking point, it supports the overall argument for the need for more housing, which is a key aspect of the City of Yes proposal.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony is generally supportive of the City of Yes for Housing Opportunity proposal, which aligns with the reference talking points. However, the testimony doesn't go into specifics about the proposal's components like Universal Affordability Preference, lifting parking minimums, Transit-Oriented Development, or other specific points mentioned in the reference talking points.\n\nInstead, the testimony focuses on the speaker's personal experiences, professional background in affordable housing, and the general need for addressing the housing crisis in New York City. While this aligns with the overall goal of the proposal and the talking points, it doesn't directly reference or closely mirror the specific arguments provided in the talking points.\n\nThe testimony does provide support for the proposal and urges the Commission to vote in favor of it, which is in line with the desired outcome of the talking points. However, the lack of specific policy details or arguments that closely match the provided talking points suggests that while the testimony is supportive, it's not directly derived from or closely aligned with the reference talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "testimony": {
+        "name": "Maulin Mehta",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/maulin-mehta-from-regional-plan-association-on",
+        "start_time_in_seconds": 15361.632,
+        "end_time_in_seconds": 15542.088,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Regional Plan Association"
+        ],
+        "key_points": [
+            "New York City is experiencing a significant housing crisis with low vacancy rates and high demand for affordable housing",
+            "Current zoning regulations limit housing construction in many neighborhoods",
+            "The proposal will facilitate the construction of more homes across all five boroughs",
+            "The initiative includes expansion of inclusionary zoning, office conversions, middle-density housing, transit-oriented development, accessory dwelling units, and elimination of parking minimums",
+            "The proposal is designed to equitably and reasonably expand housing stock in every neighborhood",
+            "Without action, housing costs are projected to rise by 25% by 2035, leading to more housing cost burdens",
+            "The current housing deficit of over half a million units could double in the next decade without intervention"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step and compare it with the reference talking points:\n\n1. The testimony is from Maulin Mehta, Director at Regional Plan Association, supporting the \"City of Yes for Housing Opportunity\" zoning reforms.\n\n2. The testimony highlights the housing crisis in New York City, mentioning low vacancy rates, rising rents, and cost-burdened renters and homeowners. This aligns with the general context of the reference talking points, which also emphasize the need for more housing.\n\n3. The testimony mentions several specific aspects of the proposal that align with the reference talking points:\n\n   a. Expansion of inclusionary zoning (similar to Universal Affordability Preference)\n   b. Office conversions (matches Office-to-Residential talking point)\n   c. Reintroduction of middle-density housing (aligns with Transit-Oriented Development)\n   d. Transit-oriented development (directly matches TOD talking point)\n   e. Enabling accessory dwelling units (matches ADUs talking point)\n   f. Promoting town centers (matches \"Town Center\" Zoning talking point)\n   g. Eliminating parking minimums (directly matches Lifting Parking Minimums talking point)\n\n4. The testimony doesn't specifically mention Shared Housing (SROs), but it does talk about addressing overcrowding and the need for more housing options.\n\n5. The language used in the testimony is not identical to the reference talking points, but the overall message and specific policy proposals are very closely aligned.\n\n6. The testimony provides additional context and data to support the need for these zoning reforms, which complements the information in the reference talking points.\n",
+        "talking_point_evidence": [
+            {
+                "quote": "The proposal includes significant expansion of occlusionary zoning",
+                "analysis": "This quote relates to the Universal Affordability Preference (UAP) talking point. While it doesn't use the exact term 'UAP', it refers to the same concept of expanding inclusionary zoning to create more affordable housing.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "enables office conversions",
+                "analysis": "This quote directly refers to the Office-to-Residential talking point. It's a brief mention but clearly indicates support for the same policy.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "reintroduces middle debt necessity, build by leveraging more transit oriented development",
+                "analysis": "This quote aligns closely with the Transit-Oriented Development (TOD) talking point. It mentions both middle-density housing and transit-oriented development, which are key components of the TOD proposal.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "enabling accessory dwelling units",
+                "analysis": "This quote directly matches the Accessory Dwelling Units (ADUs) talking point. It's a brief mention but clearly indicates support for the same policy.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "promoting town centers",
+                "analysis": "This quote aligns with the 'Town Center' Zoning talking point. While it doesn't go into detail, it indicates support for the same concept of creating mixed-use, vibrant commercial areas.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "eliminates parking minimums",
+                "analysis": "This quote directly matches the Lifting Parking Minimums talking point. It's a brief mention but clearly indicates support for the same policy.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            }
+        ],
+        "analysis": "The testimony by Maulin Mehta from the Regional Plan Association is very closely related to the reference talking points provided. The speaker covers almost all of the key proposals mentioned in the talking points, including inclusionary zoning (similar to UAP), office conversions, transit-oriented development, accessory dwelling units, town centers, and eliminating parking minimums. \n\nWhile the exact language differs from the reference talking points, the core ideas and policy proposals are nearly identical. The testimony provides additional context and data to support these proposals, which complements and reinforces the arguments made in the talking points.\n\nThe only major talking point not explicitly mentioned is Shared Housing (SROs), although the testimony does address the need for more housing options and addressing overcrowding, which aligns with the general intent of that proposal.\n\nThe level of alignment between the testimony and the reference talking points suggests that the speaker is likely aware of and possibly using these talking points as a basis for their testimony, adapting them to fit their organization's perspective and adding relevant data and context.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}

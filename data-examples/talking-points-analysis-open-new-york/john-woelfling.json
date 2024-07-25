@@ -1,0 +1,45 @@
+{
+    "testimony": {
+        "name": "John Woelfling",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/john-woelfling-principal-at-dattner-architects-on",
+        "start_time_in_seconds": 37283.766,
+        "end_time_in_seconds": 37468.31,
+        "for_or_against": "For",
+        "borough": "Brooklyn",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Dattner Architects",
+            "Member of Local Community Board"
+        ],
+        "key_points": [
+            "Current zoning resolution restricts housing production",
+            "The scale of the housing problem requires a big, complex solution",
+            "Personal experience of seeing a family living in a tent in Prospect Park",
+            "Encourages the commission to not exempt some communities from playing their part",
+            "Supports all portions of the City of Yes for Housing Opportunity proposal",
+            "Advocates for a democratic approach where everyone contributes to create a more stable housing supply"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step and compare it to the reference talking points:\n\n1. The speaker, John Woelfling, expresses support for the \"City of Yes for Housing Opportunity\" proposal.\n\n2. He mentions his experience as an architect working on mixed-use housing, affordable senior, and supportive housing projects. This aligns with the overall theme of the talking points, which focus on increasing housing opportunities and affordability.\n\n3. Woelfling mentions that current zoning resolutions restrict housing production, which is a sentiment echoed in several of the talking points.\n\n4. He argues against exempting some communities from playing their part, which aligns with the general approach of the talking points that suggest citywide changes.\n\n5. Specifically, he mentions not pulling out EDUs (likely referring to Accessory Dwelling Units), parking, and UAP (Universal Affordability Preference). These directly correspond to talking points on ADUs, Lifting Parking Minimums, and UAP.\n\n6. Woelfling shares a personal anecdote about seeing a family living in a tent in Prospect Park, emphasizing the urgent need for more housing options. This aligns with the overall message of the talking points about addressing the housing crisis.\n\n7. He argues for a \"more democratic approach\" and a \"more stable housing supply,\" which is in line with the general thrust of the talking points promoting various ways to increase housing availability.\n\nWhile the testimony doesn't go into the same level of detail as the reference talking points, it clearly supports the same general ideas and mentions several specific proposals by name.",
+        "talking_point_evidence": [
+            {
+                "quote": "I would encourage the commission to not exempt some communities from playing their part, not pull out EDUs, not pull out the parking, not pull out UAP, because that will undermine the credibility and I think the approach of having everybody contribute a little bit.",
+                "analysis": "This quote directly references three key elements from the talking points: ADUs (referred to as EDUs), parking minimums, and Universal Affordability Preference (UAP). The speaker is advocating for including these elements in the proposal, which aligns closely with the reference talking points.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "And in those years, I have seen up close and personal the way the current zoning resolution restricts housing production.",
+                "analysis": "This statement supports the general theme present in many of the talking points about how current zoning laws restrict housing production. While not identical to any specific talking point, it supports the overall argument for zoning changes.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "But it really drove home for me the cost that we all pay and that some families pay in particular",
+                "analysis": "This quote, in the context of the speaker's anecdote about seeing a family living in a tent, supports the general argument present in the talking points about the urgent need for more housing options. While not directly referencing a specific talking point, it reinforces the overall message.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows a strong alignment with the reference talking points. While it doesn't delve into the same level of detail as the talking points, it clearly supports the same overall goals and mentions several specific proposals by name.\n\nThe speaker, John Woelfling, explicitly endorses the \"City of Yes for Housing Opportunity\" proposal and argues against exempting any communities from the changes. This aligns with the comprehensive approach suggested in the talking points.\n\nWoelfling directly mentions three key elements from the talking points: ADUs (referred to as EDUs), parking minimums, and Universal Affordability Preference (UAP). His advocacy for including these elements in the proposal shows a high degree of alignment with the reference talking points.\n\nThe testimony also supports the general themes present in the talking points, such as the need to address restrictive zoning laws, increase housing production, and provide more housing options for families in need. The personal anecdote about seeing a family living in a tent reinforces the urgency of the housing crisis, which is an underlying theme in the talking points.\n\nWhile the testimony doesn't cover all the specific points mentioned in the reference document, the ones it does mention are closely aligned, and the overall message is very supportive of the proposed changes.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}

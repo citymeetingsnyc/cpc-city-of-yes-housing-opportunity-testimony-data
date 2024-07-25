@@ -1,0 +1,52 @@
+{
+    "testimony": {
+        "name": "Sara Penenberg",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/sara-penenberg-representing-32bj-service-employees",
+        "start_time_in_seconds": 43226.246,
+        "end_time_in_seconds": 43383.992,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "32BJ SEIU",
+            "FTU, local 32 BJ"
+        ],
+        "key_points": [
+            "32BJ SEIU supports the City of Yes for Housing Opportunity zoning text amendment",
+            "32BJ members struggle with skyrocketing rents and finding affordable housing in NYC",
+            "The city is not building enough housing to keep pace with population and job growth",
+            "Supports unlocking new affordable housing through universal affordability preference density bonus",
+            "Supports facilitating more office to residential conversions",
+            "Supports allowing modern density multifamily projects in more areas of the city, including transit-rich neighborhoods",
+            "Supports removing experience restrictions to new residential developments across the city",
+            "The scale and urgency of the housing crisis demand policy interventions like this proposal"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The testimony is from Sara Penenberg, representing 32BJ SEIU, a large union of property service workers.\n2. They express support for the \"City of Yes for Housing Opportunity\" zoning text amendment.\n3. The testimony mentions several key points that align with the reference talking points:\n   a. Support for unlocking new affordable housing through universal affordability preference density bonus\n   b. Support for facilitating office-to-residential conversions\n   c. Support for allowing modern density multifamily projects in more areas, including transit-rich neighborhoods\n   d. Support for removing experience restrictions on new residential developments\n4. The testimony acknowledges the housing crisis and the need for policy interventions.\n5. While the testimony doesn't go into specific details about each aspect of the proposal, it broadly aligns with many of the reference talking points.\n\nNow, let's compare this to the reference talking points:",
+        "talking_point_evidence": [
+            {
+                "quote": "32 BJ strongly supports the City of YEP's proposal to unlock new affordable housing through the universal affordability preference density bonnet",
+                "analysis": "This quote directly supports the Universal Affordability Preference (UAP) talking point. While it doesn't go into the same level of detail, it shows clear alignment with the concept.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "to reimagine underutilized commercial buildings by facilitating more office to residential conversions",
+                "analysis": "This quote directly supports the Office-to-Residential conversion talking point. It's a clear endorsement of the policy, though it doesn't provide the same level of detail as the reference talking points.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "to allowed modern density multifamily project in more areas of the city, including transit rich neighborhood",
+                "analysis": "This quote aligns with the Transit-Oriented Development (TOD) talking point. While it doesn't use the exact terminology, it supports the idea of allowing more density near transit.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "And to remove experience restrictions to new residential developments across the city.",
+                "analysis": "This quote doesn't directly correspond to any specific talking point, but it aligns with the overall theme of removing barriers to housing development.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            }
+        ],
+        "analysis": "The testimony from Sara Penenberg on behalf of 32BJ SEIU shows a significant alignment with the reference talking points, although it doesn't cover all aspects in detail. The testimony strongly supports key elements of the \"City of Yes for Housing Opportunity\" proposal, particularly focusing on creating more affordable housing, facilitating office-to-residential conversions, and allowing higher density developments in transit-rich areas.\n\nThe testimony directly addresses some of the main points from the reference talking points, such as the Universal Affordability Preference and office-to-residential conversions. It also touches on themes related to Transit-Oriented Development, although it doesn't use that specific term.\n\nWhile the testimony doesn't go into the same level of detail as the reference talking points, it clearly supports the overall goals and direction of the proposal. The union's perspective adds weight to the argument that these changes are necessary to address the housing crisis affecting working New Yorkers.\n\nThe testimony doesn't mention some specific aspects of the proposal, such as lifting parking minimums, ADUs, or shared housing. However, this doesn't necessarily indicate disagreement with these points; rather, it seems the testimony focused on broader support for the proposal as a whole.\n\nGiven the clear alignment on several key points and the overall supportive stance, this testimony can be classified as having a high alignment with the reference talking points.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}

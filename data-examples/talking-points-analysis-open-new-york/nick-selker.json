@@ -1,0 +1,44 @@
+{
+    "testimony": {
+        "name": "Nick Selker",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/nick-selker-on-support-for-city-of-yes-initiative",
+        "start_time_in_seconds": 30673.035,
+        "end_time_in_seconds": 30801.059,
+        "for_or_against": "For",
+        "borough": "Manhattan",
+        "neighborhood": "Upper West Side",
+        "stated_affiliations": [],
+        "key_points": [
+            "The city has a housing crisis with high rents and low vacancy rates",
+            "Current urban planning approach is not meeting housing needs",
+            "City of Yes provides a variety of affordable housing options",
+            "Increased housing supply affects and can lower rental prices",
+            "ADUs, SROs, UAP, and transit-oriented development are beneficial policies",
+            "Cities that encourage housing see rents fall, while restrictive zoning leads to rent increases",
+            "Current housing shortage hurts renters",
+            "The city needs more shelters for current and future residents"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "1. The testimony mentions several key points that align with the reference talking points:\n   - Acknowledges the housing crisis in NYC\n   - Supports the \"City of Yes\" proposal\n   - Mentions ADUs and SROs as positive policies\n   - Discusses the impact of housing supply on rent prices\n   - Mentions transit-oriented development\n2. The speaker explicitly supports the \"City of Yes\" proposal, which is the focus of the reference talking points.\n3. The testimony aligns with the general sentiment of the talking points, emphasizing the need for more affordable housing options.\n4. There are specific mentions of policies outlined in the talking points, such as ADUs, SROs, and transit-oriented development.\n5. The speaker uses similar arguments about the relationship between housing supply and rent prices, which is mentioned in several of the talking points.\n6. While the testimony doesn't go into as much detail as the talking points, it covers many of the same themes and supports the same overall goal.",
+        "talking_point_evidence": [
+            {
+                "quote": "ADUs, SROs, UAP and transit oriented development are all great policies. That will help many of our neighborhoods do their part in beating our shared goal for affordable housing.",
+                "analysis": "This quote directly mentions several policies outlined in the reference talking points, including ADUs, SROs, UAP, and transit-oriented development. The speaker expresses support for these policies, aligning closely with the talking points.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "Has been shown many times in many places that the supply of housing affects the price that we all pay. One paper, called new housing units in your nate backyard, Razer rents by ZOD Lee, found that even market rate housing in New York City pushed stand rents for those living nearby.",
+                "analysis": "This quote aligns with the talking points' emphasis on the relationship between housing supply and rent prices. While it doesn't use the exact same examples, it supports the same argument made in several of the talking points, particularly those related to lifting parking minimums and encouraging more housing development.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "We can look at examples from Austin to Auckland when cities encourage housing rents fall. And when cities have restrictive and owner or zoning, to block housing, we see ranch rise.",
+                "analysis": "This quote supports the general argument made in the talking points about the impact of zoning and housing policies on rent prices. While it doesn't use the same specific examples, it aligns with the overall message of the talking points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows a high level of alignment with the reference talking points. The speaker explicitly supports the \"City of Yes\" proposal and mentions several specific policies that are outlined in the talking points, such as ADUs, SROs, UAP, and transit-oriented development. The testimony also echoes the talking points' emphasis on the relationship between housing supply and rent prices, using similar arguments about how increasing housing supply can help reduce rents.\n\nWhile the testimony doesn't go into as much detail as the talking points on each specific policy, it covers many of the same themes and supports the same overall goal of increasing affordable housing options in New York City. The speaker's arguments about the benefits of these policies and their potential impact on the housing crisis closely mirror the sentiments expressed in the talking points.\n\nThe high level of alignment suggests that the speaker may be familiar with the arguments and policies promoted by the organization that created the talking points, or that they share similar views on how to address the housing crisis in New York City.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}

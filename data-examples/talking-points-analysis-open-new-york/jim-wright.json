@@ -1,0 +1,50 @@
+{
+    "testimony": {
+        "name": "Jim Wright",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/jim-wright-from-aia-new-york-chapter-on-transit",
+        "start_time_in_seconds": 7087.808,
+        "end_time_in_seconds": 7283.5537,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "AIA New York Chapter"
+        ],
+        "key_points": [
+            "Support for the expansion of transit zones citywide, allowing modest density increases in low and moderate density areas near transit stations",
+            "Endorsement of removing minimum off-street parking requirements for most new buildings",
+            "Transit-oriented development links land use with access to public transportation and job opportunities",
+            "Current parking requirements increase housing costs and suppress full utilization of existing zoning capacity",
+            "Eliminating parking mandates and increasing density near transit will create more affordable and sustainable neighborhoods",
+            "The overlap of transit zones with Town Center zones creates opportunities for mixed-use housing with transit access",
+            "These changes will accommodate city growth in coming decades"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Step 1: Analyze the testimony for key points related to the reference talking points.\nStep 2: Identify specific quotes that align with or support the reference talking points.\nStep 3: Evaluate the overall similarity between the testimony and the reference talking points.\nStep 4: Determine the level of alignment and provide an analysis.\n\nStep 1: Key points in the testimony:\n- Support for City of Yes for Housing Opportunity\n- Focus on transit-oriented development\n- Expansion of transit zones citywide\n- Removal of minimum parking requirements\n- Encouragement of higher density near transit stations\n- Criticism of current parking requirements increasing housing costs\n\nStep 2: Identifying relevant quotes and their alignment with talking points:\n\nQuote 1: \"The expansion of transit zone citywide to qualifying sites within a half a mile transit station is a perfect application of transit oriented development, which links land use with access to public transportation and more job opportunities.\"\nThis quote aligns closely with the Transit-Oriented Development (TOD) talking point.\n\nQuote 2: \"Current residential zoning and most low and moderate density districts requires a minimum of one parking space per unit. This can affect how site is developed for new housing and civil waves.\"\nThis quote supports the Lifting Parking Minimums talking point.\n\nQuote 3: \"These parking requirements increased the cost to build new housing and suppressed the full utilization of existing zoning capacity.\"\nThis quote also supports the Lifting Parking Minimums talking point.\n\nQuote 4: \"Unlocking the potential for higher density transitorian development coupled with the elimination of parking mandates will create the conditions for more affordable and sustainable neighborhoods to accommodate our city's growth in the coming decades.\"\nThis quote supports both the Transit-Oriented Development and Lifting Parking Minimums talking points.\n\nStep 3: Overall similarity evaluation:\nThe testimony strongly aligns with two main talking points: Transit-Oriented Development and Lifting Parking Minimums. The speaker's arguments and examples closely mirror those provided in the reference talking points, especially regarding the benefits of TOD and the drawbacks of parking requirements.\n\nStep 4: Level of alignment and analysis:\nThe testimony shows a high level of alignment with the reference talking points, particularly in the areas of Transit-Oriented Development and Lifting Parking Minimums. The speaker uses similar arguments and examples to support these points, indicating a strong connection between the testimony and the provided talking points. However, the testimony does not cover all the talking points provided in the reference list, focusing mainly on two key areas.",
+        "talking_point_evidence": [
+            {
+                "quote": "The expansion of transit zone citywide to qualifying sites within a half a mile transit station is a perfect application of transit oriented development, which links land use with access to public transportation and more job opportunities.",
+                "analysis": "This quote directly supports the Transit-Oriented Development talking point, using similar language and emphasizing the benefits of linking housing to transit access.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "Current residential zoning and most low and moderate density districts requires a minimum of one parking space per unit. This can affect how site is developed for new housing and civil waves.",
+                "analysis": "This quote aligns closely with the Lifting Parking Minimums talking point, highlighting the current requirements and their impact on housing development.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "These parking requirements increased the cost to build new housing and suppressed the full utilization of existing zoning capacity.",
+                "analysis": "This quote directly supports the Lifting Parking Minimums talking point, echoing the argument that parking requirements increase housing costs and limit development potential.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "Unlocking the potential for higher density transitorian development coupled with the elimination of parking mandates will create the conditions for more affordable and sustainable neighborhoods to accommodate our city's growth in the coming decades.",
+                "analysis": "This quote combines support for both Transit-Oriented Development and Lifting Parking Minimums talking points, emphasizing the benefits of these policies for creating affordable and sustainable neighborhoods.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows a high level of alignment with the reference talking points, particularly focusing on Transit-Oriented Development and Lifting Parking Minimums. The speaker's arguments and examples closely mirror those provided in the reference talking points, using similar language and emphasizing the same benefits and drawbacks. The testimony strongly supports the City of Yes for Housing Opportunity proposal, which is in line with the overall message of the reference talking points.\n\nHowever, it's important to note that the testimony does not cover all the talking points provided in the reference list. It primarily focuses on two key areas, while other topics such as Universal Affordability Preference, \"Town Center\" Zoning, Accessory Dwelling Units, Office-to-Residential conversions, and Shared Housing are not addressed.\n\nDespite this limited scope, the depth and specificity with which the speaker addresses Transit-Oriented Development and Lifting Parking Minimums suggest a very close alignment with these particular talking points. The testimony provides detailed arguments and examples that are nearly identical to those in the reference talking points, indicating a high likelihood that the speaker is drawing from similar sources or perspectives.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}

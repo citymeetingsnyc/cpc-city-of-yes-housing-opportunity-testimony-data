@@ -1,0 +1,49 @@
+{
+    "testimony": {
+        "name": "Joseph Rosenberg",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/joseph-rosenberg-from-the-catholic-community",
+        "start_time_in_seconds": 26285.377,
+        "end_time_in_seconds": 26476.316,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Catholic Community Relations Council",
+            "Archdiocese of New York",
+            "Diocese of Brooklyn"
+        ],
+        "key_points": [
+            "Supports City of Yes for Housing Opportunity",
+            "Focuses on removing zoning obstacles that prevent housing development",
+            "Unlocks use of properties owned by religious organizations",
+            "Removal of mandatory parking spaces in housing developments",
+            "20% additional affordable housing units in medium and high density districts",
+            "Expansion of landmark development rights transfer",
+            "Encourages residential conversion of office, commercial, and unused community facility buildings",
+            "Modifications needed for infill initiative, especially for houses of worship",
+            "Proposals are timely and critical for addressing housing crisis"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze this testimony step by step:\n\n1. The speaker, Joseph Rosenberg, represents Catholic organizations and strongly supports the City of Yes for Housing Opportunity.\n\n2. He mentions several key points that align with the reference talking points:\n\n   a) Removing parking mandates: This directly relates to the \"Lifting Parking Minimums\" talking point.\n   b) UAP (Universal Affordability Preference): He mentions this will benefit their housing programs.\n   c) Landmark building development rights transfer: This is not explicitly in the talking points but relates to creating more housing opportunities.\n   d) Office and commercial building conversion to residential: This aligns with the \"Office-to-Residential\" talking point.\n   e) Conversion of unused community facility buildings: This is similar in concept to the \"Office-to-Residential\" conversion idea.\n   f) Infill initiative for campuses: This is not explicitly in the talking points but relates to creating more housing opportunities.\n\n3. The testimony doesn't cover all the talking points (e.g., Transit-Oriented Development, Town Center Zoning, ADUs, Shared Housing), but it strongly aligns with several key points.\n\n4. The language used is not identical to the talking points, but the concepts and support for the initiatives are very similar.\n\nGiven this analysis, we can identify specific quotes that relate to the talking points and evaluate the overall alignment.",
+        "talking_point_evidence": [
+            {
+                "quote": "For too long, New York City has required Wall Street parking spaces to be incorporated into housing developments regardless their proximity to public transit. Removing this mandate is long overdue. It would allow space that was once reserved for motor vehicles to now be used to produce apartments for New Yorkers.",
+                "analysis": "This quote directly supports the 'Lifting Parking Minimums' talking point. While the language is not identical, the argument is the same: removing parking mandates will allow for more housing to be built.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "The UAP would also greatly benefit both Catholic Charities Housing Programs by providing a 20% additional affordable housing units in medium and high density districts where the underlying development is 100% affordable.",
+                "analysis": "This quote supports the 'Universal Affordability Preference (UAP)' talking point. While it doesn't go into as much detail as the reference talking point, it does highlight the benefit of additional affordable housing units.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "We are also strongly supportive of the zoning text amendment that encourages the residential conversion of office and commercial buildings.",
+                "analysis": "This quote directly supports the 'Office-to-Residential' talking point. While it doesn't provide as much detail, it expresses strong support for the same concept.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            }
+        ],
+        "analysis": "The testimony by Joseph Rosenberg shows a strong alignment with several key points from the reference talking points. While the language used is not identical, the concepts and support for the initiatives are very similar. The testimony focuses on removing parking mandates, supporting the Universal Affordability Preference (UAP), and encouraging office-to-residential conversions, which are all major points in the reference talking points.\n\nThe speaker also mentions additional aspects of the City of Yes proposal that are not explicitly covered in the reference talking points, such as landmark building development rights transfer and infill initiatives for campuses. This suggests that the speaker has a comprehensive understanding of the proposal and is not simply reciting prepared talking points.\n\nHowever, the testimony does not cover all aspects mentioned in the reference talking points, such as Transit-Oriented Development, Town Center Zoning, Accessory Dwelling Units, and Shared Housing. This could be due to time constraints or because these aspects are less relevant to the Catholic organizations the speaker represents.\n\nOverall, while the testimony doesn't cover every point in the reference talking points, it strongly aligns with several key points and demonstrates a clear support for the City of Yes for Housing Opportunity proposal.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

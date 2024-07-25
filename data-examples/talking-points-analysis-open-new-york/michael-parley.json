@@ -1,0 +1,34 @@
+{
+    "testimony": {
+        "name": "Michael Parley",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/michael-parley-president-of-development-consulting",
+        "start_time_in_seconds": 24647.998,
+        "end_time_in_seconds": 24827.988,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Development Consulting Services"
+        ],
+        "key_points": [
+            "Supports overall goals of housing opportunity",
+            "Protests the lack of expansion for off-site affordable housing option",
+            "Opposes mandating affordable housing in 12-15 FAR zones of Midtown and Lower Manhattan Special Districts",
+            "Argues that mandating affordable housing in high-value areas is economically unfeasible",
+            "Suggests making the residential FAR a flat 12 in Midtown and Lower Manhattan",
+            "Urges the commission to reconsider aspects of the housing opportunity proposal"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "To analyze how closely the testimony is related to the reference talking points, I'll go through the testimony and compare it to each relevant talking point:\n\n1. The testimony supports the overall goals of housing opportunity and affordable housing, which aligns with the general theme of the reference talking points.\n\n2. The speaker protests the limitation of off-site affordable housing options, which is not directly addressed in the reference talking points.\n\n3. The testimony criticizes the proposed change in the Midtown and Lower Manhattan Districts regarding the provision of affordable housing for FAR increases. This is not directly addressed in the reference talking points.\n\n4. The speaker suggests making the residential FAR a flat 12 in Midtown and Lower Manhattan, which is not mentioned in the reference talking points.\n\n5. The testimony doesn't mention parking minimums, transit-oriented development, town center zoning, ADUs, office-to-residential conversions, or shared housing, which are all key points in the reference talking points.\n\nOverall, while the testimony supports the general goal of increasing housing opportunities, it focuses on specific zoning issues that are not directly addressed in the reference talking points. The testimony also lacks mention of many key points from the reference talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "I support the overall goals of housing opportunity and applaud the effort to generate more affordable housing expand opportunities for office conversions, and advance numerous changes which can facilitate building in New York.",
+                "analysis": "This quote generally supports the goals of the City of Yes for Housing Opportunity proposal, which aligns with the overall theme of the reference talking points. However, it doesn't make any specific claims that match the talking points exactly.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony is only loosely related to the reference talking points. While the speaker expresses support for the overall goals of housing opportunity and affordable housing, which aligns with the general theme of the reference talking points, the majority of the testimony focuses on specific zoning issues in Midtown and Lower Manhattan that are not directly addressed in the provided talking points.\n\nThe testimony lacks mention of key points from the reference talking points such as Universal Affordability Preference, lifting parking minimums, transit-oriented development, town center zoning, ADUs, office-to-residential conversions, and shared housing. Instead, it focuses on critiquing specific proposed changes to zoning regulations in certain districts.\n\nThe only significant overlap between the testimony and the reference talking points is the general support for increasing housing opportunities and affordable housing. However, even this alignment is limited, as the speaker's specific recommendations and concerns are not reflected in the provided talking points.\n\nGiven these observations, the testimony cannot be classified as having high alignment or strongly supporting the reference talking points. While there is some general support for similar goals, the specific focus and recommendations of the testimony diverge significantly from the provided talking points.",
+        "similarity": "NOT_ALIGNED"
+    }
+}

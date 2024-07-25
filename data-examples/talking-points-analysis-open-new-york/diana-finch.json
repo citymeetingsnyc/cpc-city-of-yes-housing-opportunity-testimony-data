@@ -1,0 +1,38 @@
+{
+    "testimony": {
+        "name": "Diana Finch",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/diana-finch-from-bronx-park-eastpelham-parkway-on",
+        "start_time_in_seconds": 46894.06,
+        "end_time_in_seconds": 47054.797,
+        "for_or_against": "For",
+        "borough": "Bronx",
+        "neighborhood": "Bronx Park East/Pelham Parkway",
+        "stated_affiliations": [],
+        "key_points": [
+            "Supports City of Yes for Housing Opportunity",
+            "Believes opposition is based on exaggeration and fear mongering",
+            "Emphasizes that not all allowed new buildings will be built immediately or ever",
+            "Suggests including caps on the amount and pace of new building allowed by City of Yes",
+            "Shares personal experience of new apartment buildings in her neighborhood within current zoning regulations",
+            "Expresses concern about the impact of campus provisions on NYCHA developments",
+            "Highlights the importance of green spaces for quality of life in her neighborhood"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. Diana Finch expresses support for the \"City of Yes for Housing Opportunity\" proposal.\n2. She criticizes the opposition for exaggeration and fear-mongering.\n3. She mentions that the proposal is a text amendment, not a specific project, and that not all allowed new buildings will be built immediately or ever.\n4. She suggests including caps on the amount and pace of new building allowed by the proposal.\n5. She describes recent development in her neighborhood (R6 zoning) with new 6-7 story apartment buildings replacing 1-2 family houses or empty lots.\n6. She expresses concern about the impact of maximum capacity building on local communities.\n7. She mentions institutional campuses with underused green space but also emphasizes the importance of existing green spaces for residents' quality of life.\n\nNow, let's compare this to the reference talking points:\n\n1. The testimony doesn't directly mention Universal Affordability Preference (UAP) or affordable housing.\n2. There's no mention of lifting parking minimums.\n3. The testimony doesn't specifically address Transit-Oriented Development (TOD).\n4. There's no mention of \"Town Center\" zoning or mixed-use buildings.\n5. Accessory Dwelling Units (ADUs) are not discussed.\n6. Office-to-Residential conversions are not mentioned.\n7. Shared Housing (SROs) are not discussed.\n\nThe testimony does support the overall \"City of Yes for Housing Opportunity\" proposal, which aligns with the general sentiment of the reference talking points. However, it doesn't directly echo any specific points from the provided list. The testimony focuses more on the potential impact on local communities and suggests modifications to the proposal, such as including caps on new development.",
+        "talking_point_evidence": [
+            {
+                "quote": "On the city of yes for housing opportunity, I'm in favor.",
+                "analysis": "This quote shows general support for the proposal, which aligns with the overall sentiment of the reference talking points. However, it doesn't reference any specific talking point.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            },
+            {
+                "quote": "City of Yes is a text amendment. Not a developer specific project seeking Uler approval. Thus, not every possible new building that would be allowed by city of yes will be built, not in immediately, and in many cases, not ever, current property owners would retain control of whether to sell or whether to build themselves.",
+                "analysis": "This quote explains the nature of the proposal as a text amendment, which is not directly mentioned in the reference talking points. However, it indirectly supports the idea of creating more opportunities for housing development, which is a theme in several of the talking points.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            }
+        ],
+        "analysis": "The testimony shows support for the \"City of Yes for Housing Opportunity\" proposal, which aligns with the general sentiment of the reference talking points. However, the testimony doesn't directly address or closely echo any of the specific talking points provided. Instead, it focuses on the potential impact on local communities and suggests modifications to the proposal, such as including caps on new development.\n\nThe testimony doesn't mention key aspects of the reference talking points such as Universal Affordability Preference, lifting parking minimums, Transit-Oriented Development, \"Town Center\" zoning, Accessory Dwelling Units, Office-to-Residential conversions, or Shared Housing. \n\nWhile the testimony is generally supportive of increasing housing opportunities, it takes a more cautious approach, acknowledging potential concerns about the pace and scale of development. This differs from the more enthusiastic and specific endorsements found in the reference talking points.\n\nGiven these observations, the testimony cannot be classified as having high alignment or directly supporting the specific talking points provided. The alignment is more general and conceptual rather than specific.",
+        "similarity": "NOT_ALIGNED"
+    }
+}

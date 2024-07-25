@@ -1,0 +1,47 @@
+{
+    "testimony": {
+        "name": "Campbell Munn",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/campbell-munn-from-manhattan-community-board-3-on",
+        "start_time_in_seconds": 52000.832,
+        "end_time_in_seconds": 52151.73,
+        "for_or_against": "For",
+        "borough": "Manhattan",
+        "neighborhood": "East Village",
+        "stated_affiliations": [
+            "Manhattan Community Board 3",
+            "New York City Economic Operation"
+        ],
+        "key_points": [
+            "Support for City of Yes without conditions",
+            "High housing costs for New Yorkers",
+            "City of Yes as a generational proposal for critical zoning reforms",
+            "Need for equal distribution of new housing production across the city",
+            "Historically low vacancy rates forcing people to leave New York City",
+            "Support for more housing and affordable housing in every neighborhood",
+            "Concern about personal future in New York City due to housing costs",
+            "Support for universal affordability preference proposal"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Campbell Munn, is a resident of the East Village and a member of Community Board 3.\n2. He expresses support for the \"City of Yes\" proposal without conditions.\n3. He mentions paying too much for housing, which aligns with the overall theme of the talking points about addressing the housing crisis.\n4. He refers to the proposal as \"generational\" and mentions critical reforms within New York City's zoning code.\n5. The speaker mentions the need for new housing production to be equally distributed across the city.\n6. He expresses concern about New Yorkers being forced to leave the city due to the lowest vacancy rate in history.\n7. The testimony specifically mentions the \"universal affordability preference\" as a critical proposal with transformative effects.\n8. The speaker expresses personal concern about his future in New York City due to housing issues.\n\nNow, let's compare this to the reference talking points:\n\n1. The testimony strongly aligns with the Universal Affordability Preference (UAP) talking point. The speaker directly mentions this proposal and its potential transformative effects.\n2. While not explicitly mentioned, the speaker's emphasis on citywide housing production aligns with the Transit-Oriented Development (TOD) and \"Town Center\" Zoning talking points.\n3. The testimony doesn't specifically mention parking minimums, ADUs, office-to-residential conversions, or shared housing/SROs.\n4. The overall theme of the testimony strongly supports the need for more housing and affordable housing, which is consistent with the general message of the reference talking points.\n\nBased on this analysis, we can identify some specific quotes that align with the reference talking points and determine the overall similarity.",
+        "talking_point_evidence": [
+            {
+                "quote": "CityVS is a generational proposal that presents the opportunity to realize critical reforms within New York City's zoning code.",
+                "analysis": "This quote aligns with the overall message of the reference talking points, which present the City of Yes proposal as a significant reform to address housing issues. While it doesn't match any specific talking point verbatim, it supports the general argument for zoning changes.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "As will be borne out under critical proposals like the university affordable universal affordability preference, which has the opportunity to realize truly generational and transformative effects, specifically within community board 3.",
+                "analysis": "This quote directly references the Universal Affordability Preference (UAP) mentioned in the talking points. The speaker's description of it as 'generational and transformative' closely aligns with the talking points' emphasis on UAP as a 'great step forward' for more housing and affordable housing.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "The prospect of a truly city wide proposal, one that sees the burdens and may I make clear the benefits of new housing production equally distributed across the city in a way that has not been possible since the misguided adoption of the mid century urban rural era 1961 zoning code.",
+                "analysis": "While this quote doesn't directly match any single talking point, it supports the overall message of the Transit-Oriented Development (TOD) and 'Town Center' Zoning points. It emphasizes the need for citywide housing production and zoning reform, which aligns with the goals of these talking points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows a significant alignment with the reference talking points, particularly in its strong support for the City of Yes proposal and its emphasis on the need for more housing and affordable housing across the city. The speaker directly mentions the Universal Affordability Preference, which is one of the key talking points provided.\n\nWhile the testimony doesn't cover all the specific points mentioned in the reference (such as parking minimums, ADUs, or office-to-residential conversions), it strongly aligns with the overall message and goals of the talking points. The speaker's emphasis on citywide zoning reform and equal distribution of housing production indirectly supports many of the other talking points, even if they're not explicitly mentioned.\n\nThe language used by the speaker, describing the proposal as \"generational\" and emphasizing its transformative potential, closely mirrors the tone and messaging of the reference talking points. This suggests that the speaker may be familiar with or influenced by similar messaging strategies.\n\nHowever, it's worth noting that the testimony is more personal and emotionally charged than the reference talking points, as the speaker expresses personal concerns about their future in the city due to housing issues. This personal touch adds authenticity to the testimony while still aligning with the core messages of the talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

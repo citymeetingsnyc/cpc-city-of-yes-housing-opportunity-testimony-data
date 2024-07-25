@@ -1,0 +1,46 @@
+{
+    "testimony": {
+        "name": "Patrick Boyle",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/patrick-boyle-from-enterprise-community-partners",
+        "start_time_in_seconds": 18834.428,
+        "end_time_in_seconds": 19014.652,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Enterprise Community Partners"
+        ],
+        "key_points": [
+            "Support for the City of Yes proposal as a necessary component to address the housing crisis",
+            "Excitement about the universal affordability preference",
+            "Benefits for affordable housing developers, including nonprofit and MWBE Emerging Developers",
+            "Support for enabling conversion and adaptive reuse of buildings citywide",
+            "Potential benefits of combining the proposal with state-level tax incentives for office-to-residential conversions",
+            "Elimination of barriers to infill development, particularly beneficial for faith-based organizations",
+            "Support for transit-oriented development and town center zoning in lower density districts",
+            "Urging the city to develop term sheets and tax incentive programs for smaller sites to ensure affordable housing in lower density areas"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Patrick Boyle, represents Enterprise Community Partners, an affordable housing organization.\n2. He expresses support for the City of Yes proposal, acknowledging the housing crisis and the need for increased housing supply.\n3. He specifically mentions and supports the universal affordability preference (UAP), which aligns with the reference talking points.\n4. The speaker discusses citywide proposals for conversion and adaptive reuse, which relates to the office-to-residential conversion points in the reference.\n5. He mentions eliminating barriers to infill development, particularly for faith-based organizations, which isn't directly addressed in the reference talking points but supports the overall goal of increasing housing supply.\n6. The testimony touches on transit-oriented development and town centers zoning for lower density districts, which aligns with the reference talking points on TOD and \"Town Center\" Zoning.\n7. The speaker emphasizes the need for affordability in these new developments, which is a recurring theme in the reference talking points.\n\nOverall, the testimony shows strong alignment with several key points from the reference talking points, particularly regarding UAP, office-to-residential conversions, TOD, and \"Town Center\" Zoning.",
+        "talking_point_evidence": [
+            {
+                "quote": "You know, in particular, we're excited about the universal affordability preference.",
+                "analysis": "This quote directly references the Universal Affordability Preference (UAP) mentioned in the reference talking points. The speaker's excitement aligns with the positive stance in the talking points.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "With respect to some of the citywide proposals, enabling conversion and adaptive reuse from for a broader set of building city wide, There's really a benefit, particularly if that compare with what was passed at the city level in terms of office to residential conversions.",
+                "analysis": "This quote relates to the Office-to-Residential conversion point in the reference talking points. While not using identical language, it supports the same idea of allowing office-to-residential conversions across the city.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "You know, for lower density districts on the whole, the transit oriented development and town centers owning. It's a way to bring housing to those districts.",
+                "analysis": "This quote directly mentions both Transit-Oriented Development (TOD) and Town Center zoning, which are key points in the reference talking points. The speaker supports these ideas as ways to increase housing in lower density areas.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            }
+        ],
+        "analysis": "The testimony shows a high level of alignment with the reference talking points. The speaker, representing an affordable housing organization, expresses strong support for the City of Yes proposal and specifically mentions several key elements that are directly addressed in the talking points. These include the Universal Affordability Preference (UAP), office-to-residential conversions, Transit-Oriented Development (TOD), and \"Town Center\" zoning.\n\nThe speaker's emphasis on affordability throughout the testimony aligns with the overall theme of the reference talking points. While the testimony doesn't cover all points mentioned in the reference (such as parking minimums, ADUs, or shared housing), the points it does address are closely aligned with the reference talking points.\n\nThe language used by the speaker, while not identical to the reference talking points, conveys similar ideas and support for the same policies. This suggests that the speaker may be familiar with or influenced by the same or similar talking points, even if not directly quoting from them.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}

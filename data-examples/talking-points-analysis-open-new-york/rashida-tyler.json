@@ -1,0 +1,48 @@
+{
+    "testimony": {
+        "name": "Rashida Tyler",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/rashida-tyler-from-the-new-york-city-council-of",
+        "start_time_in_seconds": 30811.22,
+        "end_time_in_seconds": 31004.117,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "New York City Council of Churches",
+            "Interfaith Affordable Housing Collaborative"
+        ],
+        "key_points": [
+            "Generally supportive of the City of Yes proposal",
+            "Believes changes should be made to allow more time for community boards and residents to comment",
+            "Supports policies that create more affordable housing",
+            "Current zoning often prevents houses of worship from building enough units to make projects feasible",
+            "City of Yes has potential to increase housing in communities that need it most",
+            "Zoning is only one part of the equation in addressing the housing crisis",
+            "Concerns about whether the policy will achieve its goals of creating more affordable housing",
+            "Highlights the multifaceted nature of the housing crisis, including lack of affordability and political will",
+            "Expresses skepticism about assumptions that building more housing will lower costs and lead to equitable development across the city"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Rashida Tyler, represents the New York City Council of Churches and is generally supportive of the City of Yes proposal.\n\n2. She mentions that the proposal could create more affordable housing, which aligns with the overall theme of the reference talking points.\n\n3. Tyler suggests modifications to allow more time for community boards and residents to comment, which isn't directly addressed in the reference points.\n\n4. She discusses the challenges faith-based organizations face in developing affordable housing due to current zoning restrictions, which relates to the Universal Affordability Preference (UAP) point.\n\n5. Tyler mentions that 40 units is generally the number where projects become feasible, which indirectly supports the Transit-Oriented Development (TOD) point about small apartment buildings.\n\n6. She acknowledges that zoning is only one part of the equation in addressing the housing crisis, which shows a more nuanced view than the reference points.\n\n7. Tyler expresses some skepticism about whether increasing housing supply will necessarily lower costs or lead to development in wealthier areas, which diverges from some of the assumptions in the reference points.\n\n8. While supportive of affordable housing development, she is unsure if this policy will achieve its goals, showing a more cautious stance than the reference points.\n\nOverall, while there is some alignment with the reference talking points, particularly regarding the need for affordable housing and zoning changes, the testimony presents a more nuanced and slightly skeptical view of the proposal's potential impacts.",
+        "talking_point_evidence": [
+            {
+                "quote": "We have found that 40 units is generally the number where projects can fill out. All too often, we find that current zoning prevents houses of worship from building the number of units which would make it a project feasible. The city of yes, would enable these congregations to move forward with building for their communities.",
+                "analysis": "This quote supports the idea of allowing more housing units, which is related to the Universal Affordability Preference (UAP) and Transit-Oriented Development (TOD) talking points. However, it's specifically focused on faith-based organizations rather than general development.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "The city of Yes, has the potential to increase housing in the community that needs it most. And I say potential because creating the conditions right for affordable housing development are necessary and zoning is only one part of that equation.",
+                "analysis": "This quote acknowledges the potential of the City of Yes proposal to increase housing, which aligns with the general theme of the reference talking points. However, it also expresses a more cautious view by noting that zoning is only one part of the solution.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "I would like to believe that if we build more housing, costs would be lower. I would like to believe that if we open up all areas of the city for development, the developers would choose to develop in those areas that are more wealthy and have traditionally refused building housing instead of gravitating toward historically lower income areas that have less resources to fend off development.",
+                "analysis": "This quote expresses skepticism about some of the assumptions underlying the reference talking points, particularly the idea that increasing housing supply will necessarily lower costs or lead to more equitable development across the city.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            }
+        ],
+        "analysis": "The testimony shows some alignment with the reference talking points, particularly in recognizing the need for affordable housing and acknowledging that zoning changes could potentially increase housing supply. However, the speaker presents a more nuanced and cautious perspective on the City of Yes proposal.\n\nWhile the testimony supports the general idea of creating more affordable housing, it doesn't directly address many of the specific points mentioned in the reference talking points, such as parking minimums, Transit-Oriented Development, or office-to-residential conversions. The speaker focuses more on the challenges faced by faith-based organizations in developing affordable housing and expresses some skepticism about whether the proposed changes will achieve their intended goals.\n\nThe testimony does not show high alignment with the reference talking points, as it doesn't use similar language or make the same specific arguments. However, it does support some of the underlying principles, such as the need for zoning changes to facilitate affordable housing development. The speaker's more cautious approach and acknowledgment of potential drawbacks or limitations of the proposal set it apart from the more enthusiastic tone of the reference talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

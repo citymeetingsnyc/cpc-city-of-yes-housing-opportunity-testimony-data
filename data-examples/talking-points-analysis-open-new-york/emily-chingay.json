@@ -1,0 +1,46 @@
+{
+    "testimony": {
+        "name": "Emily Chingay",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/emily-chingay-on-eliminating-parking-mandates-and",
+        "start_time_in_seconds": 28907.44,
+        "end_time_in_seconds": 28993.05,
+        "for_or_against": "For",
+        "borough": "Queens",
+        "neighborhood": "Astoria",
+        "stated_affiliations": [],
+        "key_points": [
+            "Support for City of Yes housing proposals",
+            "Concern about being priced out of the neighborhood",
+            "Support for eliminating parking mandates citywide",
+            "Need for zoning changes to address competitive housing market",
+            "Making parking optional, not eliminating it completely"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "1. The testimony focuses mainly on supporting the City of Yes housing proposal and eliminating parking mandates.\n2. The speaker, Emily Chingay, expresses concern about being priced out of her neighborhood, which aligns with the overall goal of the City of Yes proposal to create more affordable housing.\n3. She specifically mentions support for eliminating parking mandates citywide, which directly relates to one of the reference talking points.\n4. The testimony doesn't go into detail about other aspects of the proposal such as Universal Affordability Preference, Transit-Oriented Development, or other specific zoning changes.\n5. Let's analyze the relevant quotes and their relation to the reference talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "So I really wanted to express my support for the city as housing proposal.",
+                "analysis": "This quote shows general support for the City of Yes housing proposal, which encompasses many of the talking points provided. However, it doesn't refer to any specific point, so the connection is tenuous.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            },
+            {
+                "quote": "And, of course, I'd like to support eliminating parking mandate city wide.",
+                "analysis": "This quote directly supports the 'Lifting Parking Minimums' talking point. The speaker explicitly endorses eliminating parking mandates, which is identical to the reference talking point.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "Lower Manhattan currently doesn't have these mandates, but as our city continues to grow, We need to get rid of these outdated policies that create and and create more affordable housing in all neighborhoods.",
+                "analysis": "This quote supports the argument for lifting parking minimums and relates to creating more affordable housing. It aligns closely with the talking points about parking mandates being outdated and unnecessary, and how removing them can lead to more housing.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "And also wanted to highlight that by eliminating parking mandates, it's just making parking these requirements. I mean, It's just making parking optional. So developers will most definitely continue to build create parking. It's just making it optional.",
+                "analysis": "This quote directly addresses a point made in the reference talking points about parking mandates. It echoes the idea that the proposal will not restrict the creation of parking spaces, but simply won't require them, which is almost identical to the reference point.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            }
+        ],
+        "analysis": "The testimony shows a moderate level of alignment with the reference talking points, particularly focusing on the elimination of parking mandates. The speaker, Emily Chingay, expresses clear support for the City of Yes housing proposal and specifically endorses the removal of parking mandates citywide. Her arguments closely mirror some of the key points provided in the reference talking points about parking minimums.\n\nHowever, the testimony does not cover the breadth of topics mentioned in the reference talking points. It doesn't discuss other aspects like Universal Affordability Preference, Transit-Oriented Development, \"Town Center\" Zoning, Accessory Dwelling Units, Office-to-Residential conversions, or Shared Housing. The focus is primarily on the parking mandate issue and a general support for the housing proposal to address affordability concerns.\n\nWhile the alignment on the parking mandate issue is strong, the overall testimony doesn't demonstrate a comprehensive use of the provided talking points. It seems more like a personal perspective that happens to align with some of the key arguments rather than a coordinated use of the full set of talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

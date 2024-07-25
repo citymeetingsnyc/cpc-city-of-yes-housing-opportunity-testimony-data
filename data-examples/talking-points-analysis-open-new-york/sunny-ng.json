@@ -1,0 +1,48 @@
+{
+    "testimony": {
+        "name": "Sunny Ng",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/sunny-ng-north-brooklyn-resident-on-removing",
+        "start_time_in_seconds": 53647.086,
+        "end_time_in_seconds": 53752.555,
+        "for_or_against": "For",
+        "borough": "Brooklyn",
+        "neighborhood": "North Brooklyn",
+        "stated_affiliations": [],
+        "key_points": [
+            "Support for the City of Yes for Housing Opportunity initiative",
+            "Need for both affordable and market-rate housing",
+            "Strong support for lifting parking minimums",
+            "Parking requirements are unnecessary in transit-rich neighborhoods",
+            "Removing parking minimums allows market to determine actual parking needs",
+            "Reducing car dependency helps fight climate change",
+            "Current parking requirements are outdated and should be changed"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "1. The testimony focuses heavily on the need for more housing and specifically mentions the \"City of Yes for Housing Opportunity\" initiative.\n2. The speaker expresses strong support for lifting parking minimums, which aligns closely with one of the reference talking points.\n3. The testimony doesn't mention other specific aspects of the proposal like Universal Affordability Preference, Transit-Oriented Development, \"Town Center\" Zoning, Accessory Dwelling Units, Office-to-Residential conversions, or Shared Housing.\n4. The speaker's arguments about parking minimums are very similar to those in the reference talking points, including mentions of public transit, costs passed on to renters, and climate change.\n5. While the testimony doesn't cover all aspects of the reference talking points, it strongly aligns with the overall goal of increasing housing supply and specifically with the parking minimum point.",
+        "talking_point_evidence": [
+            {
+                "quote": "For a city with the best world class public transit in the whole country. It's ridiculous that we have any provisions to require parking in the first place.",
+                "analysis": "This quote directly supports the talking point about lifting parking minimums. It uses similar reasoning, highlighting the strength of NYC's public transit system as a justification for removing parking requirements.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "Parking is not free, and it is a form of subsidy provided to those to less than half of all households in this city that drive. That cost is passed on to renters and owners who may not need the space.",
+                "analysis": "This quote closely mirrors the reference talking point about the cost of parking being passed on to renters and owners. It makes the same argument using similar language.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "Not to mention that there's location and reducing carb dependency is our city's best strategy to reduce our carbon footprint and to fight climate change.",
+                "analysis": "This quote supports the reference talking point about car dependency and parking construction contributing to the climate crisis. While it doesn't provide the same level of detail, it makes the same core argument.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Removing parking minimums doesn't mean the city doesn't allow parking spaces to be built, as much as I wish that was true. It just allows the market to figure out how much parking is actually needed.",
+                "analysis": "This quote aligns with the reference talking point that the proposal will not restrict the creation of parking spaces, but simply won't require them. It emphasizes market-based decision-making for parking.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony is closely related to the reference talking points, particularly in its strong support for lifting parking minimums. The speaker's arguments about parking requirements are very similar to those provided in the reference talking points, often making the same claims and using similar reasoning. \n\nHowever, the testimony focuses almost exclusively on the parking minimum aspect of the \"City of Yes for Housing Opportunity\" initiative and does not address other elements mentioned in the reference talking points, such as Universal Affordability Preference, Transit-Oriented Development, \"Town Center\" Zoning, Accessory Dwelling Units, Office-to-Residential conversions, or Shared Housing.\n\nWhile the alignment on the parking minimum issue is very high, the overall testimony doesn't cover the full breadth of the reference talking points. Nevertheless, it strongly supports the general goal of increasing housing supply, which is a central theme in the reference talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

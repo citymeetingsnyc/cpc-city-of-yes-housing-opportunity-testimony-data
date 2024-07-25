@@ -1,0 +1,45 @@
+{
+    "testimony": {
+        "name": "Alia Soomro",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/alia-soomro-from-the-new-york-league-of",
+        "start_time_in_seconds": 14953.174,
+        "end_time_in_seconds": 15139.688,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "New York League of Conservation Voters"
+        ],
+        "key_points": [
+            "Support for City of Yes for Housing Opportunity",
+            "Addressing both climate crisis and housing shortage",
+            "Removing parking mandates to encourage alternative transportation and free up land for housing",
+            "Support for transit-oriented development, town center zoning, accessory dwelling units, and residential conversions",
+            "Proposal will not significantly change neighborhood character or overburden city infrastructure",
+            "Proposal does not allow new development on Parkland",
+            "Urging approval of zoning text amendment without weakening provisions"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "First, let's analyze the testimony and compare it to the reference talking points:\n\n1. The testimony strongly supports the \"City of Yes for Housing Opportunity\" proposal, which aligns with the overall message of the reference talking points.\n\n2. The testimony specifically mentions and supports removing parking mandates, which directly corresponds to the \"Lifting Parking Minimums\" talking point.\n\n3. Transit-oriented development is mentioned and supported in the testimony, aligning with the \"Transit-Oriented Development\" talking point.\n\n4. The testimony mentions support for town center zoning, which corresponds to the \"Town Center Zoning\" talking point.\n\n5. Accessory dwelling units (ADUs) are mentioned and supported in the testimony, aligning with the \"Accessory Dwelling Units\" talking point.\n\n6. The testimony mentions support for residential conversions, which could be related to the \"Office-to-Residential\" talking point, although it's not explicitly about office conversions.\n\n7. The testimony doesn't mention Universal Affordability Preference or Shared Housing/SROs, which are present in the reference talking points.\n\n8. The testimony provides additional environmental arguments for the zoning changes, which are not extensively covered in the reference talking points.\n\nGiven these observations, the testimony appears to be highly aligned with the reference talking points, covering most of the main points and using similar arguments, particularly for parking mandates and transit-oriented development.",
+        "talking_point_evidence": [
+            {
+                "quote": "Parking mandates raise the cost of housing, inhibits more units from being built, and incentivizes the use of private automobiles. Eliminating these mandates not only encourages alternative modes of transportation, but also frees up valuable land for affordable housing.",
+                "analysis": "This quote makes an identical argument to the reference talking point on lifting parking minimums. It mentions the increased cost of housing, reduction in housing units, and encouragement of car use, which are all key points in the reference talking points.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "This citywide zoning text amendment would update the ZR to address city's housing shortage by encouraging a modest amount of housing in every neighborhood, especially near mass transit.",
+                "analysis": "This quote supports the reference talking point on Transit-Oriented Development. While it doesn't go into as much detail, it aligns with the idea of encouraging housing near transit stations.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "While NYCVs fully supports the entirety of the zoning proposal, we strongly support the following components, removing parking mandates, transitory oriented development, town center zoning, accessory dwelling units, and residential conversions.",
+                "analysis": "This quote directly mentions several key components that are identical to the reference talking points, including parking mandates, transit-oriented development, town center zoning, and ADUs.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            }
+        ],
+        "analysis": "The testimony is very closely related to the reference talking points, often making the exact same claims and arguments. The language used is similar in many cases, particularly when discussing parking mandates and transit-oriented development. The testimony covers most of the main points from the reference talking points, including parking mandates, transit-oriented development, town center zoning, and accessory dwelling units. \n\nWhile the testimony doesn't cover every single point from the reference talking points (such as Universal Affordability Preference or Shared Housing/SROs), it does align closely with the overall message and supports the same zoning changes. The testimony also adds some environmental arguments that are not extensively covered in the reference talking points, but these additions are consistent with the overall pro-zoning change stance.\n\nGiven the high degree of similarity in both content and language, it is plausible that the person giving the testimony is using the reference talking points or a similar set of talking points in their testimony.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}

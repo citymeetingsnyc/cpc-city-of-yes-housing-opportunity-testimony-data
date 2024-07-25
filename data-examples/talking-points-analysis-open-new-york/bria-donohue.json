@@ -1,0 +1,50 @@
+{
+    "testimony": {
+        "name": "Bria Donohue",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/bria-donohue-from-american-institute-of-architects",
+        "start_time_in_seconds": 4100.27,
+        "end_time_in_seconds": 4223.8296,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "American Institute of Architects"
+        ],
+        "key_points": [
+            "AIA New York strongly supports the proposed citywide zoning tax amendment, City of Yes for Housing Opportunity",
+            "The proposal eliminates antiquated barriers that restrict development and burden the housing market",
+            "The proposal will create missing middle housing, which is critical for addressing the city's housing needs",
+            "The changes are necessary to address the ongoing housing crisis in NYC",
+            "The proposal will help reach Mayor Adams' goal of creating 500,000 housing units over the next decade",
+            "The proposal addresses the current housing supply deficit and potential future shortages",
+            "The zoning changes are a step in the right direction for creating more affordable housing options"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Bria Donohue, represents the American Institute of Architects, New York.\n2. She explicitly states strong support for the \"City of Yes for Housing Opportunity\" proposal.\n3. She mentions specific aspects of the proposal: transit-oriented development, universal affordability preference, and office-residential conversions.\n4. The speaker emphasizes the need for changes to tackle NYC's housing crisis.\n5. She mentions the creation of \"missing middle housing\" which aligns with the proposal's goals.\n6. The testimony highlights the need for supply, mentioning a 540,000 unit deficit.\n7. The speaker encourages voting in favor of the proposal.\n\nNow, let's compare this to the reference talking points:\n\n1. The testimony directly mentions and supports Universal Affordability Preference (UAP).\n2. Transit-Oriented Development (TOD) is explicitly mentioned and supported.\n3. Office-to-Residential conversions are mentioned, aligning with the reference talking points.\n4. The emphasis on supply and the housing crisis aligns with the general theme of the talking points.\n5. While not explicitly mentioned, the support for \"missing middle housing\" aligns with the spirit of several talking points, including TOD and Town Center Zoning.\n\nThe testimony doesn't mention parking minimums, ADUs, or shared housing, but it strongly aligns with several key points from the reference talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "A in New York strongly supports the proposed citywide zoning tax amendment, city of yes for housing opportunity. Specifically, the transit oriented development, universal affordability preference and office residential conversions proposals.",
+                "analysis": "This quote directly mentions and supports three key aspects of the reference talking points: Transit-Oriented Development, Universal Affordability Preference, and Office-to-Residential conversions. The language used is very similar to the talking points, showing a high level of alignment.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "The city death proposal is a historic effort to tackle NYC's housing crisis, and we applaud the Department of City Planning for all their hard work and dedicated community outreach.",
+                "analysis": "While this quote doesn't use the exact language from the talking points, it strongly supports the overall message that the proposal is a significant step in addressing the housing crisis. This aligns with the general theme present in all the talking points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "This proposal will have widespread effects on New York City's housing market namely creating missing metal housing. We need housing of all types to address the city's need and missing metal housing in particular is critical.",
+                "analysis": "The concept of 'missing middle housing' is not explicitly mentioned in the talking points, but it aligns with the goals of Transit-Oriented Development and Town Center Zoning. The emphasis on diverse housing types supports the overall message of the talking points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Right now, the name of the game is supply. In a recent study, RPA estimated the New York region has 540,000 unit deficit that could almost double in 2035 if housing production trends are not remedied.",
+                "analysis": "This quote emphasizes the need for increased housing supply, which is a recurring theme in the reference talking points. While it doesn't use the exact language from any specific talking point, it strongly supports the overall message of the need for more housing.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony is very closely related to the reference talking points. The speaker explicitly mentions and supports three key aspects of the proposal: Transit-Oriented Development, Universal Affordability Preference, and Office-to-Residential conversions. These are directly aligned with the reference talking points.\n\nThe overall message of the testimony strongly supports the need for increasing housing supply and addressing the housing crisis, which is a central theme in the reference talking points. The speaker's emphasis on \"missing middle housing\" aligns with the goals of several talking points, even if not explicitly mentioned in the reference document.\n\nWhile the testimony doesn't cover all aspects of the reference talking points (such as parking minimums, ADUs, or shared housing), the points it does address are very closely aligned. The language used and the arguments made suggest that the speaker is likely familiar with and possibly using the reference talking points as a basis for their testimony.\n\nGiven the direct mentions of specific proposal elements and the strong overall alignment with the key messages of the reference talking points, it is plausible that the person is using these talking points in their testimony, even if not verbatim.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}

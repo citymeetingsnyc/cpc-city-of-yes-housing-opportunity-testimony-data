@@ -1,0 +1,49 @@
+{
+    "testimony": {
+        "name": "Will Kitcher",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/will-kitcher-on-personal-experiences-with-diverse",
+        "start_time_in_seconds": 15547.074,
+        "end_time_in_seconds": 15742.27,
+        "for_or_against": "For",
+        "borough": "Brooklyn",
+        "neighborhood": "Sheepshead Bay",
+        "stated_affiliations": [],
+        "key_points": [
+            "Support for missing middle housing",
+            "Personal experience living in various types of housing in Brooklyn",
+            "Support for repealing parking mandates",
+            "Need for affordable housing options for young people moving out",
+            "Belief that lifting parking mandates will allow more housing to be built",
+            "Observation that some parking lots in Sheepshead Bay are underutilized",
+            "Assertion that developers will still provide parking where needed",
+            "Support for additional housing near subway stations"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step and compare it with the reference talking points:\n\n1. The testimony is primarily focused on the speaker's personal experiences with housing in New York City.\n2. The speaker mentions living in various types of housing, including multifamily homes, converted single-family homes, and apartments with roommates.\n3. The speaker emphasizes the importance of \"missing middle housing\" and advocates for zoning changes to allow for more diverse housing options.\n4. The testimony specifically mentions support for repealing parking mandates, which aligns with one of the reference talking points.\n5. The speaker discusses the need for smaller, more affordable housing options for people moving out of their parents' homes or unable to afford high rents.\n6. While the testimony doesn't use the exact language from the reference talking points, it does support some of the same ideas, particularly regarding lifting parking minimums and creating more housing options.\n\nNow, let's identify specific quotes that relate to the reference talking points:",
+        "talking_point_evidence": [
+            {
+                "quote": "Additionally, I want to come out in support of repealing the parking mandates because I believe that will allow more housing again to be built.",
+                "analysis": "This quote directly supports the 'Lifting Parking Minimums' talking point. The speaker's reasoning aligns with the reference point that removing parking mandates will allow for more housing to be built.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "And I'm down in Schibsted Bay. We have a lot of parking lots and a lot of public parking. And some of it sits empty for most of the day. And with that being said, it can be more productive use",
+                "analysis": "This quote supports the 'Lifting Parking Minimums' talking point by providing a personal observation that aligns with the reference point about the inefficiency of mandatory parking spaces.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "And I wanna make sure that we have the missing middle housing going forward and we get rid of parking minimum so that these opportunities are available towards people",
+                "analysis": "This quote combines support for 'missing middle housing' (which is related to the 'Transit-Oriented Development' talking point) and removing parking minimums. While not using the exact language, it supports the general idea of creating more diverse housing options.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "You're moving out of your parents' house. You want to get out. Like, you need a small place to stay. If you want some roommates, you can't quite afford to buy your own apartment. The rents are skyrocketing. You want to stay in the neighborhood, but those opportunities are becoming less and less for people.",
+                "analysis": "This quote, while not directly referencing a specific talking point, supports the general idea of creating more affordable and diverse housing options. It relates loosely to the 'Shared Housing' and 'Transit-Oriented Development' talking points by emphasizing the need for smaller, more affordable housing options.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            }
+        ],
+        "analysis": "The testimony shows some alignment with the reference talking points, particularly in supporting the removal of parking mandates and advocating for more diverse housing options. The speaker's personal experiences and observations are used to support these ideas, although they don't use the exact language or cover all the points mentioned in the reference talking points.\n\nThe testimony most strongly aligns with the 'Lifting Parking Minimums' talking point, providing direct support and personal observations that match the reference points. There is also some support for ideas related to 'Transit-Oriented Development' and 'Shared Housing', although these are not explicitly named or discussed in detail.\n\nWhile the testimony doesn't cover all the talking points provided (such as Universal Affordability Preference, Office-to-Residential conversions, or Accessory Dwelling Units), it does support the general theme of creating more housing options and removing barriers to housing development.\n\nThe personal narrative style of the testimony makes it less directly aligned with the reference talking points, but the underlying ideas and support for zoning changes to increase housing options are present.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

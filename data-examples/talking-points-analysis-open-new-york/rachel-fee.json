@@ -1,0 +1,53 @@
+{
+    "testimony": {
+        "name": "Rachel Fee",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/rachel-fee-from-new-york-housing-conference-on",
+        "start_time_in_seconds": 12328.459,
+        "end_time_in_seconds": 12509.818,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "New York Housing Conference",
+            "Yes to Housing Coalition"
+        ],
+        "key_points": [
+            "Strong support for City of Yes for Housing Opportunity",
+            "Need for zoning reforms to address New York City's affordable housing shortage",
+            "Inequitable housing development across city districts",
+            "Low vacancy rate (1.4%) and high rent burden for residents",
+            "Housing shortage driving people to neighboring states",
+            "Limited mobility for current residents due to housing crisis",
+            "Ineffective tools to fight homelessness due to tight housing market",
+            "Long stays in emergency shelters for families with children",
+            "Need for more housing to create a more affordable, fair, and inclusive city"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. Rachel Fee expresses strong support for the \"City of Yes for Housing Opportunity\" proposal.\n2. She mentions that the proposal aims to add residential zoning capacity in every NYC neighborhood.\n3. Fee highlights the current housing crisis, citing low vacancy rates (1.4%) and high rent burden.\n4. She emphasizes the need for more housing to address affordability issues and homelessness.\n5. The testimony focuses on the overall need for more housing and zoning reforms but doesn't go into specific details about the proposal's components.\n\nNow, let's compare this to the reference talking points:\n\n1. The testimony aligns with the overall goal of increasing housing supply and affordability, which is a theme across all the talking points.\n2. While the testimony doesn't mention specific elements like UAP, parking minimums, or TOD, it does support the general idea of zoning reforms to increase housing capacity.\n3. The testimony's emphasis on the need for every neighborhood to contribute to housing production aligns with the spirit of the TOD and \"Town Center\" zoning points.\n4. The mention of homelessness and the difficulty in using housing vouchers supports the general need for more affordable housing options, which aligns with the UAP and SRO talking points.\n\nOverall, while the testimony doesn't use the exact language or specific policy details from the talking points, it strongly supports the general principles and goals behind the \"City of Yes\" proposal.",
+        "talking_point_evidence": [
+            {
+                "quote": "Housing opportunity zoning reforms make changes add residential zoning capacity in every New York City neighborhood.",
+                "analysis": "This quote supports the general idea of zoning reforms to increase housing capacity, which is a theme across multiple talking points, including TOD and 'Town Center' zoning. However, it doesn't match any specific talking point exactly.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "For too long, many New York City neighborhoods have opted out of adding housing. Perpetuating exclusionary housing policies, making housing development inequitable, and driving up housing costs.",
+                "analysis": "This quote aligns with the spirit of the TOD talking point, which aims to allow small apartment buildings in low-density areas near transit. It supports the idea of addressing exclusionary zoning, though it doesn't mention the specific TOD policy.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "With the vacancy rate of only 1.4%, the lowest in 56 years, and half of New York City residents being rent burdened. It is clear that our existing housing policies are unsustainable.",
+                "analysis": "This quote supports the overall need for more housing and zoning reforms, which is the underlying principle of all the talking points. However, it doesn't match any specific talking point exactly.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "There were 630 1000 applications for the nitrile waitlist. We know that half of the voucher holders that get a voucher are never successful in using it because of the tight housing market.",
+                "analysis": "This quote supports the need for more affordable housing options, which aligns with the UAP and SRO talking points. However, it doesn't mention these specific policies.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony is generally supportive of the \"City of Yes for Housing Opportunity\" proposal and aligns with the overall goals of increasing housing supply and affordability. While it doesn't use the exact language or specific policy details from the reference talking points, it strongly supports the general principles behind the proposal.\n\nThe testimony focuses on the urgent need for zoning reforms to address the housing crisis, emphasizing the importance of adding residential capacity in every neighborhood. This aligns with the spirit of several talking points, particularly Transit-Oriented Development (TOD) and \"Town Center\" zoning, which aim to increase housing options in various areas of the city.\n\nThe speaker's emphasis on addressing homelessness and the difficulties faced by voucher holders indirectly supports the need for more affordable housing options, which is related to the Universal Affordability Preference (UAP) and Shared Housing (SRO) talking points.\n\nHowever, the testimony does not delve into specific policy details such as parking minimums, office-to-residential conversions, or Accessory Dwelling Units (ADUs). Instead, it provides a broader argument for the necessity of the zoning reforms to address the housing crisis.\n\nWhile the testimony doesn't use identical language to the talking points, it presents arguments that support and align with the overall goals of the \"City of Yes\" proposal. The speaker's position as the Executive Director of a housing policy organization lends credibility to the testimony and suggests that the alignment with the talking points may be based on shared goals rather than direct influence.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

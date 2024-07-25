@@ -1,0 +1,47 @@
+{
+    "testimony": {
+        "name": "Rachel Simpson",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/rachel-simpson-architect-and-brooklyn-cb6-resident",
+        "start_time_in_seconds": 39115.77,
+        "end_time_in_seconds": 39315.703,
+        "for_or_against": "For",
+        "borough": "Brooklyn",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [],
+        "key_points": [
+            "Support for City of Yes for Housing Opportunity",
+            "Acute housing crisis with rising rents and low vacancy rates",
+            "Not enough housing, especially affordable housing, being built",
+            "Zoning changes are necessary but not sufficient to solve the crisis",
+            "Proposal offers various tools to increase housing",
+            "Minor zoning changes can have significant cumulative impact",
+            "Support for UAP (Unified Affordable Proposal) benefiting nonprofit housing developers",
+            "Encouragement for deeper affordability and stronger guardrails",
+            "Importance of eliminating parking mandates to encourage more housing",
+            "Parking is expensive and values should prioritize people over cars",
+            "Urges approval of the proposal in its strongest form"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "1. The testimony discusses several aspects of the \"City of Yes for Housing Opportunity\" proposal, which aligns with many of the reference talking points.\n2. The speaker, Rachel Simpson, mentions the housing crisis and the need for more affordable housing, which is a general theme in the reference talking points.\n3. She specifically mentions and supports the Universal Affordability Preference (UAP) proposal, which is one of the key points in the reference talking points.\n4. The testimony strongly advocates for eliminating parking mandates, which directly aligns with the \"Lifting Parking Minimums\" section in the reference talking points.\n5. The speaker discusses minor zoning changes that would make it easier to build, which isn't specifically mentioned in the talking points but supports the overall goal of increasing housing supply.\n6. The testimony doesn't explicitly mention Transit-Oriented Development, Town Center Zoning, ADUs, Office-to-Residential conversions, or Shared Housing, which are all mentioned in the reference talking points.\n7. Overall, while the testimony doesn't cover all the points in the reference talking points, it strongly aligns with two major aspects (UAP and parking) and the general theme of increasing housing supply and affordability.",
+        "talking_point_evidence": [
+            {
+                "quote": "I do champion the UAP proposal, which I think will mostly on its own standalone as a zoning thing will mostly benefit the nonprofit housing developers that we work with who are already working really hard to keep their neighborhoods affordable. And when they do develop, they do 100% affordable development. That will really benefit them.",
+                "analysis": "This quote directly supports the Universal Affordability Preference (UAP) talking point. The speaker explicitly champions the UAP proposal and mentions its benefits for nonprofit housing developers, which aligns with the reference talking point about UAP benefiting both mixed-income and 100% affordable buildings.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "And lastly, eliminating the parking mandate is incredibly important for encouraging more housing. This aspect should not be watered down. As Mark Ginsburg noted earlier, parking is incredibly expensive from between 75,000 to upwards of a 150,000 for sub grade structured parking. That's comparable to the per unit subsidy or more that HPD currently has on their alert term sheets. They say we build what we value, and I would hope that we value our neighbors more than our cars. People should always come before parking.",
+                "analysis": "This quote strongly supports the 'Lifting Parking Minimums' talking point. The speaker advocates for eliminating parking mandates, citing the high cost of parking construction, which closely mirrors the reference talking points about the expense of building parking and how it affects housing development.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "The proposal does include a series of minor, very rational, but very impactful changes like small relief on setbacks or alignments, on yards, on building height along wide streets, simplified dormer calculations, and streamlined floor area deductions, all of these things add up incrementally tiny over each zoning lot, but they make it easier to build the available SAR on a site especially very difficult sites without even increasing SAR.",
+                "analysis": "While this quote doesn't directly match any specific talking point, it supports the overall goal of making it easier to build housing through zoning changes. This aligns with the general theme of the reference talking points, which advocate for various zoning changes to increase housing supply.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows a high level of alignment with the reference talking points, particularly in two key areas: the Universal Affordability Preference (UAP) and lifting parking minimums. The speaker, Rachel Simpson, explicitly supports these proposals and provides arguments that closely mirror those in the reference talking points.\n\nOn the UAP, Simpson champions the proposal and highlights its benefits for nonprofit housing developers, which aligns with the talking points' emphasis on how UAP will benefit both mixed-income and 100% affordable buildings.\n\nRegarding parking minimums, Simpson's testimony is nearly identical to the reference talking points. She advocates strongly for eliminating parking mandates, citing the high costs of parking construction (mentioning figures very similar to those in the talking points) and arguing that this change is crucial for encouraging more housing development.\n\nWhile the testimony doesn't cover all aspects of the reference talking points (such as Transit-Oriented Development, Town Center Zoning, ADUs, Office-to-Residential conversions, or Shared Housing), it does touch on additional zoning changes that support the overall goal of increasing housing supply. This shows a general alignment with the broader themes of the talking points, even if not all specific proposals are mentioned.\n\nThe language and arguments used, particularly regarding parking minimums, are so similar to the reference talking points that it's plausible the speaker was familiar with or influenced by these points. However, as an architect in affordable housing, she may also have independently arrived at similar conclusions based on her professional experience.\n\nOverall, while the testimony doesn't cover the full breadth of the reference talking points, the strong alignment on key issues and the overall supportive stance towards zoning changes to increase housing supply indicate a high level of alignment with the reference talking points.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}

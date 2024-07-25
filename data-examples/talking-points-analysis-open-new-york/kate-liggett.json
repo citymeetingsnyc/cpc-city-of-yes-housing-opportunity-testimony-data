@@ -1,0 +1,47 @@
+{
+    "testimony": {
+        "name": "Kate Liggett",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/kate-liggett-program-director-of-housing-rights",
+        "start_time_in_seconds": 4652.0234,
+        "end_time_in_seconds": 4816.989,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Housing Rights Initiative"
+        ],
+        "key_points": [
+            "The organization has generated nearly 100 class action and fair housing lawsuits against large real estate companies",
+            "They have recovered millions of dollars in rent refunds and reductions for rent-stabilized families",
+            "Expanding housing supply is crucial to address New York City's housing affordability crisis",
+            "The City of Yes plan promotes construction of additional, denser housing in more places",
+            "The plan includes provisions to ensure geographically equitable development",
+            "Previous policies favored development in lower-cost outer borough areas, while this plan aims to build affordable units in high-opportunity, transit-rich neighborhoods",
+            "Expanding housing supply will help combat source of income discrimination",
+            "A more abundant housing market will enable voucher holders to compete more fairly",
+            "The plan will help build a more equitable and affordable city for all New Yorkers"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step and compare it to the reference talking points:\n\n1. The testimony is from Kate Liggett, Program Director of Housing Rights Initiative.\n2. She mentions their organization's work in fighting fraudulent real estate practices and promoting fair housing.\n3. She acknowledges the importance of expanding housing supply to address affordability issues.\n4. The testimony supports changing zoning laws to promote denser housing construction.\n5. She specifically mentions and supports the \"City of Yes for Housing Opportunity\" plan.\n6. The testimony emphasizes the need for geographically equitable development, which aligns with the Transit-Oriented Development (TOD) talking point.\n7. She mentions the importance of building affordable units in high-opportunity, transit-rich neighborhoods, which also aligns with TOD.\n8. The testimony touches on fair housing implications and fighting source of income discrimination, which isn't directly mentioned in the talking points but supports the overall goal of increasing housing supply.\n9. The speaker urges the committee to ratify the City of Yes plan, showing strong support for the proposal.\n\nWhile the testimony doesn't go into specific details about each element of the City of Yes plan (like UAP, parking minimums, etc.), it does align closely with the overall goals and some specific points mentioned in the reference talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "The cost of housing here in New York is out of control, and part because the pace of new construction rides far behind of other comparable cities. This problem can start to be addressed by changing the zoning laws in order to better promote the construction of additional denser housing in more places.",
+                "analysis": "This quote directly supports the overall theme of the reference talking points, which is to increase housing supply through zoning changes. It aligns closely with the general argument presented in multiple talking points, including UAP, TOD, and Town Center Zoning.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "HR is especially pleased to see that the city of yes for housing opportunity plan also includes a number of provisions to ensure that development will be geographically equitable. Previous policies have unfortunately had an unequal impact across different neighborhoods. Favoring development mostly in lower cost areas in the outer boroughs. Whereas very few new affordable units have been built in high opportunity transit rich neighborhoods closer to the city center.",
+                "analysis": "This quote closely aligns with the Transit-Oriented Development (TOD) talking point, which emphasizes building small apartment buildings near transit in low-density areas. It supports the idea of creating more equitable development across different neighborhoods.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Implementing the city of yes, will further fair housing in this city by better ensuring that all neighborhoods contribute their fair share to the affordable housing supply.",
+                "analysis": "This quote supports the overall goal of the City of Yes plan and aligns with the Universal Affordability Preference (UAP) talking point, which aims to increase affordable housing across the city.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony from Kate Liggett of the Housing Rights Initiative shows a significant level of support for the City of Yes for Housing Opportunity plan. While the testimony doesn't delve into specific details of each element of the plan (such as UAP, parking minimums, or ADUs), it strongly aligns with the overall goals and some key points mentioned in the reference talking points.\n\nThe speaker emphasizes the need for zoning changes to promote denser housing construction, which is a central theme across multiple talking points. She specifically supports the City of Yes plan and its provisions for geographically equitable development, which aligns closely with the Transit-Oriented Development (TOD) talking point.\n\nThe testimony also touches on the importance of fair housing and building affordable units in high-opportunity, transit-rich neighborhoods, which supports the UAP and TOD talking points. While the speaker doesn't use the exact language from the talking points, her arguments and focus areas are very much in line with the plan's objectives.\n\nIt's worth noting that the testimony doesn't cover some specific elements mentioned in the talking points, such as parking minimums, office-to-residential conversions, or shared housing. However, the overall message and key points strongly support the City of Yes plan and its goals.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

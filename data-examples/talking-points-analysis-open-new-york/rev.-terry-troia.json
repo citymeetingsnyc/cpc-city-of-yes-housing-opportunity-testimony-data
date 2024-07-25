@@ -1,0 +1,46 @@
+{
+    "testimony": {
+        "name": "Rev. Terry Troia",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/rev-terry-troia-minister-of-the-reformed-church-of",
+        "start_time_in_seconds": 33555.63,
+        "end_time_in_seconds": 33739.348,
+        "for_or_against": "For",
+        "borough": "Staten Island",
+        "neighborhood": "Huguenot Park",
+        "stated_affiliations": [
+            "The Reformed Church of Huguenot Park"
+        ],
+        "key_points": [
+            "Homelessness has grown significantly on Staten Island over the past 40 years",
+            "Affordable housing crisis in Staten Island, affecting low-wage workers, families, disabled people, and seniors",
+            "Many families are living in overcrowded conditions or makeshift housing",
+            "Illegal basement apartments are common and often unsafe",
+            "Rent prices are extremely high, even for single rooms",
+            "Construction workers who build houses on Staten Island often can't afford housing themselves",
+            "Homelessness in New York City is at its highest level ever",
+            "Staten Island is experiencing a 'tale of two cities' with stark inequality in housing"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "To analyze the testimony's relation to the reference talking points, let's break it down step by step:\n\n1. The testimony focuses heavily on the affordable housing crisis in Staten Island, which aligns with the overall theme of the \"City of Yes for Housing Opportunity\" proposal.\n\n2. Rev. Troia speaks about the growth of homelessness and the lack of affordable housing, which relates to several points in the reference talking points, particularly the Universal Affordability Preference (UAP) and Shared Housing (SROs) sections.\n\n3. The testimony mentions families living in overcrowded conditions, illegal basements, and other substandard housing situations. This aligns with the need for more affordable housing options, as discussed in the UAP and Shared Housing sections.\n\n4. Rev. Troia doesn't specifically mention any of the proposed zoning changes or policies from the reference talking points. However, her testimony strongly supports the need for such changes to address the housing crisis.\n\n5. The testimony provides concrete examples of the housing crisis in Staten Island, which could be seen as supporting evidence for why the proposed changes are necessary.\n\n6. While the testimony doesn't use the same language as the reference talking points, it does emphasize the same core issue: the urgent need for more affordable housing options in New York City.\n\nBased on this analysis, we can conclude that while the testimony doesn't directly reference the specific policy proposals, it strongly supports the overall goal of increasing affordable housing options, which is a key aspect of the \"City of Yes for Housing Opportunity\" proposal.",
+        "talking_point_evidence": [
+            {
+                "quote": "We need affordable housing for very poor low wage working families for disabled people, for our senior citizens, for our parents and our grandparents, for our adult children, so many Staten Islanders are on the verge of homelessness.",
+                "analysis": "This quote aligns with the overall goal of the Universal Affordability Preference (UAP) and Shared Housing (SROs) proposals, which aim to increase affordable housing options for various groups. While it doesn't use the same language, it supports the same objectives.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Thousands of people live in illegal basement apartments on Staten Island. They there are unscrupulous landlords that rent pieces of basements, $25 a week for a bed.",
+                "analysis": "This quote relates to the need for more affordable housing options, which is addressed in the Shared Housing (SROs) proposal. It illustrates the dire situations people face due to lack of affordable housing, supporting the argument for legalizing and regulating shared housing options.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "There are families, hundreds of families, 2, 3, 4, 5 families living in 3 bedroom apartments, one family in each bedroom, and family renting the living room.",
+                "analysis": "This quote highlights the overcrowding issue, which indirectly supports the need for various proposals in the reference talking points, such as UAP, Transit-Oriented Development, and Shared Housing. It illustrates the urgent need for more affordable housing options.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony by Rev. Terry Troia is related to the reference talking points, but it does not directly mention or advocate for the specific policy proposals outlined in the talking points. Instead, the testimony provides a stark, on-the-ground perspective of the housing crisis in Staten Island, which serves as strong supporting evidence for why such policy changes are necessary.\n\nThe testimony focuses on the urgent need for affordable housing, the growth of homelessness, and the substandard living conditions many people face due to the lack of affordable options. This aligns with the overall goals of the \"City of Yes for Housing Opportunity\" proposal, particularly the Universal Affordability Preference (UAP) and Shared Housing (SROs) aspects.\n\nWhile Rev. Troia doesn't use the same language or mention specific policies from the reference talking points, her testimony strongly reinforces the need for action to address the housing crisis. The concrete examples and personal observations she provides could be seen as compelling evidence for why the proposed zoning changes and new housing policies are necessary.\n\nIn summary, the testimony supports the overall objectives of the reference talking points without directly advocating for the specific proposals. It provides a ground-level perspective that complements and reinforces the need for the policy changes outlined in the talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

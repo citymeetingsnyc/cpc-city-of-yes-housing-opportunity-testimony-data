@@ -1,0 +1,56 @@
+{
+    "testimony": {
+        "name": "Bryan Kelly",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/bryan-kelly-president-of-development-at-gotham",
+        "start_time_in_seconds": 38907.527,
+        "end_time_in_seconds": 39036.184,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Gotham Organization"
+        ],
+        "key_points": [
+            "Support for the City of Yes legislation",
+            "Belief in supply-side economics to address housing crisis",
+            "Need for increased housing production in New York City",
+            "UAP (Unified as of Right) will generate more units and permanent affordability",
+            "City of Yes will help repurpose obsolete office buildings",
+            "Mandated parking adds unnecessary costs to housing development",
+            "Importance of small-scale developments in addition to mega projects",
+            "Support for mixed-income housing to retain the 'missing middle' in the city"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Bryan Kelly, is from Gotham Organization and has experience in affordable housing development.\n2. He strongly supports the legislation, calling it \"fantastic\".\n3. He mentions several key points that align with the reference talking points:\n   a. Focus on housing production and supply-side economics\n   b. Universal Affordability Preference (UAP)\n   c. Office-to-residential conversions\n   d. Lifting parking minimums\n   e. Town centers and mixed-income housing\n4. His arguments closely mirror those in the reference talking points, especially regarding UAP, parking, and the need for more housing supply.\n5. The language used is not identical to the talking points, but the core ideas and arguments are very similar.\n6. He doesn't mention some aspects of the talking points, such as ADUs or shared housing.\n\nGiven this analysis, the testimony appears to have a high alignment with the reference talking points, although it doesn't cover all aspects mentioned in the talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "UAP, whether for all affordable housing or for mixed income housing is going to generate more units and more permanent affordability.",
+                "analysis": "This quote directly supports the UAP talking point, mentioning both mixed-income and 100% affordable housing, as well as permanent affordability. It's nearly identical to the reference talking point.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "The city of yes will help generate obsolete office buildings.",
+                "analysis": "This quote supports the office-to-residential conversion talking point, although it's not as detailed as the reference. It shows alignment with the idea of repurposing office buildings.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Although parking is required in many neighborhoods, it is also a marketability question and decision. To mandate parking in areas that may need may not need it. Just only adds more cost anywhere from 50 to 75,000 per unit because of the inclusion of parking, making the construction of affordable housing cheaper, they're more efficient, and more obtainable.",
+                "analysis": "This quote strongly supports the lifting parking minimums talking point. It mentions the high cost of parking and how it affects affordability, which is very similar to the reference talking point.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "Town centers, we cannot get our way of out of a housing crisis with only the construction of mega projects. Unit by unit, we get ourselves out of a housing crisis.",
+                "analysis": "This quote supports the 'Town Center' zoning talking point, emphasizing the importance of smaller-scale development in addressing the housing crisis. While not as detailed as the reference, it aligns with the core idea.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "With that said, I know there's a lot more details relating to the legislation. But perfect is the enemy of God or a city of creativity, a city of production, and an inclusive city where mixed income housing is the way we're gonna keep our missing middle in our city and not for moving out.",
+                "analysis": "This quote supports the overall theme of the talking points, emphasizing the need for mixed-income housing and addressing the 'missing middle'. It aligns with the general spirit of the legislation as presented in the talking points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony is very closely related to the reference talking points, often making the same claims and arguments. While the exact language is not identical, the speaker covers many of the key points mentioned in the reference talking points, particularly regarding UAP, parking minimums, office-to-residential conversions, and the overall need for increased housing supply. The testimony strongly supports the legislation and uses similar reasoning to justify its importance. It is highly plausible that the person is using the reference talking points as a basis for their testimony, even if not directly quoting them.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}

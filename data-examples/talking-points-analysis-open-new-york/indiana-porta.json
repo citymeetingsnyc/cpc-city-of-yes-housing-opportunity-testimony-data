@@ -1,0 +1,38 @@
+{
+    "testimony": {
+        "name": "Indiana Porta",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/indiana-porta-from-manhattan-community-board-9-on",
+        "start_time_in_seconds": 50524.246,
+        "end_time_in_seconds": 50721.4,
+        "for_or_against": "For",
+        "borough": "Manhattan",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Manhattan Community Board 9"
+        ],
+        "key_points": [
+            "Requests for public availability of written and oral testimony",
+            "Clarification on the universal affordability preference proposal, specifically the fixed percentage of affordable housing",
+            "Suggestion to set a base minimum of affordable units (20%)",
+            "Question about recently rezoned areas and how the new initiative would affect them",
+            "Support for accessibility features as a wheelchair user"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Indiana Porta, is a board member of Manhattan Community Board 9 speaking in personal capacity.\n\n2. Most of the testimony is focused on procedural questions about the hearing itself and requests for clarification, rather than directly addressing the proposals.\n\n3. The main substantive point raised is about the Universal Affordability Preference (UAP) proposal:\n   - The speaker seeks clarification on whether the 20% affordable housing requirement is fixed or variable.\n   - They encourage setting a base minimum of affordable units, suggesting 20% seems fair.\n\n4. There's a brief mention of accessibility features, as the speaker is a wheelchair user.\n\n5. The testimony doesn't directly address other aspects of the \"City of Yes for Housing Opportunity\" proposal such as parking minimums, transit-oriented development, town center zoning, ADUs, office-to-residential conversions, or shared housing.\n\nComparing this to the reference talking points:\n\n1. There's some alignment with the UAP talking points, particularly the interest in ensuring a fixed percentage of affordable housing.\n\n2. The speaker's interest in accessibility, while not directly addressed in the talking points, aligns with the general goal of creating more housing options for diverse needs.\n\n3. Most of the reference talking points are not addressed in this testimony.\n\nGiven this analysis, while there is some alignment on the UAP point, the overall testimony is not closely aligned with the full set of reference talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "Specifically for the universal affordability preference proposal, I am hearing different things. Right? It sounds like in the materials that were provided by DCP that the 20% additional housing that would be required to be affordable. It's kind of so good as, like, a given. Yes. 20% of the housing will be affordable.",
+                "analysis": "This quote shows that the speaker is aware of and interested in the Universal Affordability Preference proposal, particularly the 20% affordable housing requirement. This aligns with the reference talking point about UAP, but the speaker is seeking clarification rather than explicitly supporting it.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "And I would encourage the commission and if not, the council members when they vote on this to set a base minimum of deformable units. Right? I think 20% seems fair. So to remove that discretion if it exists",
+                "analysis": "Here, the speaker is advocating for a fixed minimum percentage of affordable units, which aligns with the spirit of the UAP talking point about creating more affordable housing. However, the speaker is suggesting this as a modification to the proposal, rather than directly endorsing the proposal as presented.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows some awareness and interest in the Universal Affordability Preference (UAP) proposal, particularly regarding the percentage of affordable housing required. The speaker seeks clarification on this point and advocates for a fixed minimum percentage, which aligns with the general goal of creating more affordable housing as mentioned in the reference talking points.\n\nHowever, the majority of the testimony focuses on procedural questions about the hearing itself and requests for clarification, rather than addressing the specific proposals outlined in the reference talking points. The speaker does not mention or discuss other key aspects of the \"City of Yes for Housing Opportunity\" proposal such as lifting parking minimums, transit-oriented development, town center zoning, accessory dwelling units, office-to-residential conversions, or shared housing.\n\nWhile there is some alignment on the topic of affordable housing, the testimony does not closely mirror the language or comprehensive set of arguments presented in the reference talking points. The speaker's approach is more inquiring and suggestive rather than strongly advocating for the proposals.\n\nGiven these observations, the testimony can be classified as SUPPORTS_TALKING_POINTS. It shows some support for the affordable housing aspect of the proposal, but does not strongly align with or comprehensively address the full set of reference talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

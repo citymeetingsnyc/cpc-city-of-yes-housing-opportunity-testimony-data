@@ -1,0 +1,50 @@
+{
+    "testimony": {
+        "name": "Dorothy Windham",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/dorothy-windham-from-open-new-york-on-support-for",
+        "start_time_in_seconds": 6833.4097,
+        "end_time_in_seconds": 6905.2896,
+        "for_or_against": "For",
+        "borough": "Manhattan",
+        "neighborhood": "Upper West Side",
+        "stated_affiliations": [
+            "Open New York"
+        ],
+        "key_points": [
+            "Concern about rising cost of housing for young people",
+            "Support for City of Yes plan to allow New York to grow",
+            "Excitement about creation of permanent affordable housing through UIP proposal",
+            "Support for re-legalization of new NRSROs",
+            "Belief that growth is necessary for New York's future",
+            "Concern about consequences of not building new housing (higher prices, struggling businesses, families squeezed or moving away)",
+            "Hope that City of Yes will make living in New York more affordable"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Dorothy Windham, is a member of Open New York, a pro-housing organization.\n2. She expresses concern about rising housing costs and her ability to stay in New York City.\n3. She explicitly states support for the \"City of Yes\" plan.\n4. She mentions two specific aspects of the plan:\n   a. The creation of permanent affordable housing through the UIP (Universal Affordability Preference) proposal.\n   b. The re-legalization of new NRSROs (likely referring to SROs - Single Room Occupancy).\n5. She emphasizes the need for New York to grow and build new housing.\n6. She mentions concerns about rising prices, struggling neighborhood businesses, and families being forced to live in undersized apartments or move away.\n\nNow, let's compare this to the reference talking points:\n\n1. The testimony aligns closely with the UAP talking point, mentioning permanent affordable housing.\n2. The mention of NRSROs (SROs) aligns with the \"Shared Housing\" talking point.\n3. The general pro-growth stance aligns with the overall message of the talking points.\n4. The concerns about rising prices and struggling businesses align with several talking points, including \"Town Center\" zoning.\n5. However, the testimony doesn't specifically mention other key points like lifting parking minimums, transit-oriented development, or office-to-residential conversions.\n\nGiven this analysis, the testimony shows significant alignment with the reference talking points, but doesn't cover all of them.",
+        "talking_point_evidence": [
+            {
+                "quote": "I'm particularly excited about the creation of permanent affordable housing through the UIP proposal",
+                "analysis": "This quote directly references the Universal Affordability Preference (UAP) talking point, using similar language about permanent affordable housing.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "as well as the re legalization of new NRSROs",
+                "analysis": "This quote likely refers to the Shared Housing (SRO) talking point, although it uses a different acronym. The concept of re-legalizing this type of housing is the same.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "New York needs to grow. It is time to build new housing after decades of stagnation, and the problem will only get worse if we wait any longer.",
+                "analysis": "This sentiment aligns with the overall message of the talking points, which advocate for more housing and growth. While not identical to any specific point, it supports the general pro-housing stance.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Prices will get higher, neighborhood businesses will struggle, and families will either squeeze into undersized apartments or move away.",
+                "analysis": "This quote touches on concerns addressed in several talking points, particularly the 'Town Center' zoning point which mentions supporting small businesses and creating walkable communities. It also aligns with the general housing crisis concerns mentioned throughout the talking points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows a strong alignment with the reference talking points, particularly in its support for the \"City of Yes\" plan and its specific mentions of permanent affordable housing (UAP) and shared housing (SROs). The speaker's overall pro-growth stance and concerns about rising housing costs and neighborhood vitality also align with the general themes of the talking points.\n\nHowever, the testimony doesn't cover all aspects of the talking points. It doesn't mention specific points like lifting parking minimums, transit-oriented development, or office-to-residential conversions. Despite this, the core message and key elements of the testimony are very closely related to the reference talking points.\n\nThe language used, while not identical, often conveys the same ideas and concerns as the talking points. The speaker's affiliation with a pro-housing organization (Open New York) further suggests that they may be familiar with and influenced by these or similar talking points.\n\nGiven the strong alignment on key issues and the overall pro-housing message, it is plausible that the speaker is using ideas from the reference talking points in their testimony, even if not quoting them directly.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "testimony": {
+        "name": "Samuel Deutsch",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/samuel-deutsch-on-transit-oriented-development-and",
+        "start_time_in_seconds": 47398.254,
+        "end_time_in_seconds": 47560.3,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [],
+        "key_points": [
+            "New York City should look to other cities for inspiration in housing policy",
+            "Vancouver allows 20-story apartment buildings near transit stations to reduce carbon emissions",
+            "New York's proposal for 3-5 story buildings near transit should be a 'no-brainer'",
+            "Austin, Texas has built significantly more housing per capita than New York, resulting in decreasing rents",
+            "Loosening zoning restrictions in Austin has allowed supply to meet demand",
+            "The City of Yes proposal is supported but could potentially go further",
+            "Building more housing near transit promotes sustainable, low-carbon, car-free lifestyles",
+            "The proposal will lead to more climate-friendly housing in New York"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze this testimony step by step:\n\n1. The speaker, Samuel Deutsch, is strongly in favor of the \"City of Yes\" proposal.\n2. He compares NYC's housing policy to two other cities: Vancouver and Austin.\n3. For Vancouver:\n   - He emphasizes the importance of building housing near transit to reduce carbon emissions.\n   - He mentions that Vancouver allows 20-story buildings near transit stations.\n   - He suggests that NYC's proposal for 3-5 story buildings should be a \"no-brainer\" and potentially could go further.\n4. For Austin:\n   - He points out that Austin has been building much more housing per capita than NYC.\n   - He mentions that rents are decreasing in Austin due to increased supply.\n   - He attributes this to loosened zoning restrictions.\n5. The speaker supports the \"City of Yes\" proposal but suggests it could go even further in the long term.\n6. He emphasizes the importance of building climate-friendly housing in NYC.\n\nNow, let's compare this to the reference talking points:\n\n1. The testimony strongly aligns with the \"Transit-Oriented Development\" (TOD) talking point. The speaker's emphasis on building near transit to reduce carbon emissions and his support for allowing more housing near transit stations directly relates to this point.\n\n2. The testimony supports the \"Lifting Parking Minimums\" talking point, although indirectly. The speaker's focus on reducing car dependency and building near transit aligns with the goals of this policy.\n\n3. The testimony doesn't directly mention Universal Affordability Preference, ADUs, Office-to-Residential conversions, or Shared Housing.\n\n4. The speaker's comments about Austin's success in increasing housing supply and reducing rents align with the general goals of the \"City of Yes\" proposal, even though they don't map directly to a specific talking point.\n\n5. The testimony doesn't explicitly mention \"Town Center\" zoning, but the speaker's support for denser development near transit could be seen as indirectly supporting this concept.\n\nOverall, while the testimony doesn't use the exact language from the talking points, it strongly supports the general principles behind the \"City of Yes\" proposal, particularly in relation to transit-oriented development and increasing housing supply.",
+        "talking_point_evidence": [
+            {
+                "quote": "So I wanna focus on 2 comparison cities that I think we should look to for inspiration. The first is Vancouver. There, climate change is a really important issue as it is here. And day as a result, proves to the extensive transferring into development policies because getting housing built near where trans exists. So people don't need to drive as much or don't even need to own cars is one of the most effective policies to reduce carbon emissions on the whole electricity level.",
+                "analysis": "This quote strongly supports the Transit-Oriented Development (TOD) talking point. While it doesn't use the exact language from the talking points, it emphasizes the importance of building housing near transit to reduce car dependency and carbon emissions, which is a key argument for TOD.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "So I think the fact that we're just looking at, you know, 3 to 5 stories here in New York, that should really be a no brainer. And if anything, I would think for the long term, there should be more pressure to, like, even bigger than that and help more people live sustainable, low carbon, car free lifestyles by building more housing near transit.",
+                "analysis": "This quote directly supports the Transit-Oriented Development talking point. It suggests that allowing 3-5 story buildings near transit (which is part of the TOD proposal) is obvious and should potentially go further. This aligns closely with the TOD talking point's emphasis on building small apartment buildings near transit.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "The second parallel I think is Austin, Texas. They've been building about ten times as much housing per capita as New York has. And rents are plummeting. I have friends there who are getting rent decreases, which is kind of unheard of here in New York. Precisely because supply, they've loosened their zoning restrictions, they've allowed more housing to be built.",
+                "analysis": "While this quote doesn't directly match any specific talking point, it supports the overall goal of the 'City of Yes' proposal to increase housing supply and reduce rents. It aligns with the general arguments made in favor of loosening zoning restrictions across various talking points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows strong support for the \"City of Yes for Housing Opportunity\" proposal, particularly in relation to transit-oriented development and increasing housing supply. While the speaker doesn't use the exact language from the reference talking points, their arguments align closely with several key points, especially those related to Transit-Oriented Development (TOD) and the general goals of increasing housing supply and affordability.\n\nThe testimony strongly emphasizes the importance of building housing near transit to reduce carbon emissions and car dependency, which directly supports the TOD talking point. The speaker's comparison to Vancouver's policy of allowing taller buildings near transit stations, and their suggestion that New York's proposal for 3-5 story buildings is a \"no-brainer\" that could potentially go further, closely aligns with the TOD arguments.\n\nAdditionally, the testimony's reference to Austin's success in increasing housing supply and reducing rents by loosening zoning restrictions supports the overall goals of the \"City of Yes\" proposal, even if it doesn't map directly to a specific talking point.\n\nWhile the testimony doesn't explicitly mention some of the other talking points (such as Universal Affordability Preference, ADUs, or Office-to-Residential conversions), its general support for increased housing supply and more flexible zoning aligns with the spirit of these proposals.\n\nThe speaker's emphasis on climate-friendly housing and sustainable, car-free lifestyles also indirectly supports the \"Lifting Parking Minimums\" talking point, even though it's not explicitly mentioned.\n\nOverall, while the testimony doesn't use the exact language from the talking points, it strongly supports the general principles behind the \"City of Yes\" proposal, particularly in relation to transit-oriented development and increasing housing supply.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

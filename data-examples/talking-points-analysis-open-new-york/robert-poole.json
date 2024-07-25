@@ -1,0 +1,51 @@
+{
+    "testimony": {
+        "name": "Robert Poole",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/robert-poole-from-bronx-pro-group-on-city-of-yes",
+        "start_time_in_seconds": 41381.93,
+        "end_time_in_seconds": 41567.453,
+        "for_or_against": "For",
+        "borough": "Manhattan",
+        "neighborhood": "Harlem",
+        "stated_affiliations": [
+            "Bronx Pro Group"
+        ],
+        "key_points": [
+            "Bronx Pro Group supports the City of Yes zoning reform legislation",
+            "There is a dire need for more affordable housing options in NYC",
+            "Their Melrose North project received 67,000 applicants for just 67 lottery units",
+            "Every district should help address the housing affordability crisis",
+            "New York is stronger when people of all economic circumstances can live here",
+            "Personal experience of living in various housing situations in NYC",
+            "City of Yes is a step in the right direction to alleviate the housing crunch",
+            "The legislation will help ensure young families and newcomers can make it in the city"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Robert Poole, represents Bronx Pro Group, an affordable housing developer.\n2. He expresses strong support for the City of Yes zoning reform legislation.\n3. He emphasizes the dire need for affordable housing, citing 67,000 applicants for just 67 lottery units in one of their projects.\n4. He mentions the need for every district to address the housing affordability crisis, not just certain areas.\n5. He shares his personal experience of living in various types of housing in NYC, including what he calls a \"modern day SRO\" with multiple roommates.\n6. He expresses concern about raising a family in the city and the need for more housing choices.\n7. He concludes by urging support for the legislation to alleviate the housing crunch and provide more options for people moving to or living in the city.\n\nNow, let's compare this to the reference talking points:\n\n1. The testimony strongly aligns with the overall message of the need for more affordable housing options, which is a central theme in the reference talking points.\n2. While the speaker doesn't explicitly mention Universal Affordability Preference (UAP), his focus on affordable housing development aligns with this point.\n3. The testimony doesn't directly mention lifting parking minimums, Transit-Oriented Development, or \"Town Center\" zoning.\n4. The speaker's personal experience of living in a \"modern day SRO\" with multiple roommates relates to the \"Shared Housing\" talking point, though he doesn't explicitly advocate for legalizing SROs.\n5. The testimony doesn't mention office-to-residential conversions or Accessory Dwelling Units (ADUs).\n\nOverall, while the testimony doesn't use the exact language or cover all the specific points in the reference talking points, it strongly supports the general idea of zoning reform to increase affordable housing options, which is a central theme in the talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "Bronxboro supports the city of Yes Don't even reform legislation.",
+                "analysis": "This quote directly supports the overall message of the reference talking points, which advocate for the City of Yes zoning reform. While it doesn't mention any specific aspect of the reform, it shows general alignment with the goals of the legislation.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "There's a dire need for more affordable housing options in our city. For our Melrose North project, we are about to finish leasing, we received over 67,000 applicants or just 67 lottery units. That's one thousand people for every one available unit.",
+                "analysis": "This quote strongly supports the need for more affordable housing, which is a central theme in the reference talking points, particularly in the UAP section. While it doesn't use the exact language from the talking points, it provides compelling evidence for the same argument.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "And even one of those years I lived in what you would call a modern day SRO, where at one point I had 10 roommates. It worked out. It was a good choice.",
+                "analysis": "This quote relates to the 'Shared Housing' talking point, which discusses bringing back SROs. While the speaker doesn't explicitly advocate for legalizing SROs, his positive personal experience with this type of housing supports the argument made in the talking points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "City of yes, a step in the right direction to alleviate the housing crunch and ensure young families or people just move into the city can make it here.",
+                "analysis": "This quote aligns with the overall message of the reference talking points, emphasizing the need for more housing options and supporting the City of Yes initiative. It doesn't mention specific aspects of the reform but supports the general goal.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony is generally supportive of the City of Yes zoning reform legislation and emphasizes the need for more affordable housing options in New York City. While it doesn't cover all the specific points mentioned in the reference talking points, it strongly aligns with the overall message and goals of the proposed reforms.\n\nThe speaker, representing an affordable housing developer, provides compelling evidence for the need for more affordable housing, which is a central theme in the reference talking points. He also shares personal experiences that relate to some of the issues addressed in the talking points, particularly regarding shared housing or SROs.\n\nHowever, the testimony doesn't explicitly mention or discuss many of the specific zoning changes proposed in the talking points, such as Universal Affordability Preference, lifting parking minimums, Transit-Oriented Development, \"Town Center\" zoning, office-to-residential conversions, or Accessory Dwelling Units.\n\nDespite not covering all the specific points, the testimony's strong support for zoning reform to increase affordable housing options and its alignment with the overall goals of the City of Yes initiative suggest that it SUPPORTS_TALKING_POINTS.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

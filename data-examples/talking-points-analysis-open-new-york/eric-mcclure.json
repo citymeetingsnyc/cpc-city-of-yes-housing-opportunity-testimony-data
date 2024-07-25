@@ -1,0 +1,50 @@
+{
+    "testimony": {
+        "name": "Eric McClure",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/eric-mcclure-of-streetspac-on-eliminating-parking",
+        "start_time_in_seconds": 41864.176,
+        "end_time_in_seconds": 41999.9,
+        "for_or_against": "For",
+        "borough": "Brooklyn",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "StreetsPAC",
+            "Brooklyn Community Board 6"
+        ],
+        "key_points": [
+            "Strong support for eliminating parking requirements",
+            "Support for expansion of transit-oriented development",
+            "Endorsement of town center zoning initiative",
+            "Increasing density around transit to combat climate change and promote housing creation",
+            "Reducing reliance on cars and making streets safer",
+            "Improving public transit"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Eric McClure, represents StreetsPAC and is also the chair of Brooklyn Community Board 6.\n2. He broadly supports the City of Yes proposal.\n3. He specifically focuses on aspects related to reducing car reliance, improving street safety, and enhancing public transit.\n4. The testimony strongly supports eliminating parking requirements, which aligns closely with the reference talking points on \"Lifting Parking Minimums.\"\n5. The speaker emphasizes that ending parking mandates is not banning parking, which is also mentioned in the reference talking points.\n6. The testimony strongly supports the expansion of transit-oriented development, which aligns with the reference talking points on \"Transit-Oriented Development.\"\n7. The speaker mentions increasing density around transit, which is a key point in the TOD talking points.\n8. The testimony also supports the town center zoning initiative, which aligns with the \"Town Center Zoning\" talking points.\n9. The speaker emphasizes the benefits of these changes for combating climate change and reducing car ownership, which are themes present in the reference talking points.\n\nBased on this analysis, the testimony shows a high alignment with several key reference talking points, particularly those related to parking minimums and transit-oriented development.",
+        "talking_point_evidence": [
+            {
+                "quote": "First, we strongly support the initiative to eliminate parking requirements. These onerous mandates have impeded the creation of housing across large expanses of the city for decades adding tremendous cost to new housing development and in many cases compelling developers to build fewer units and zoning allows in order to avoid triggering expensive parking requirements.",
+                "analysis": "This quote directly supports the reference talking point on 'Lifting Parking Minimums'. It mirrors the arguments about parking requirements being expensive and impeding housing development.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "Ending parking mandates is not banned parking, far from it. Developers will build parking where there's demand for it, but zoning won't force its inclusion where it isn't warranted.",
+                "analysis": "This quote closely aligns with the reference talking point that states 'This proposal will not restrict the creation of parking spaces, it simply will not require the construction of parking.'",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "We also strongly support the expansion of transit oriented development including growing the footprint of transit zones across the city as well as the town center zoning initiative.",
+                "analysis": "This quote directly supports both the 'Transit-Oriented Development' and 'Town Center Zoning' talking points, showing alignment with multiple aspects of the reference talking points.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "Increasing density around transit, whether that be subway and commuter rail stations, select service routes or the future path of the inner borough express and walkable and vikable neighborhoods is a crucial policy for combating climate change as well as burning housing creation and will make it much easier for New Yorkers to avoid the tremendous financial burden of car ownership should they so choose.",
+                "analysis": "This quote supports the ideas presented in both the 'Transit-Oriented Development' and 'Lifting Parking Minimums' talking points, emphasizing benefits like combating climate change and reducing car ownership.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows a high alignment with the reference talking points, particularly in relation to eliminating parking requirements and supporting transit-oriented development. The speaker makes very similar arguments to those presented in the reference talking points, often using comparable language and emphasizing the same benefits. The testimony focuses on a subset of the overall talking points, but where it does address them, it shows strong alignment.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}

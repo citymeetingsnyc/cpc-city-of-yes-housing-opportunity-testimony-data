@@ -1,0 +1,53 @@
+{
+    "testimony": {
+        "name": "Rosa Chang",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/rosa-chang-member-of-manhattan-community-board-1",
+        "start_time_in_seconds": 23042.209,
+        "end_time_in_seconds": 23234.988,
+        "for_or_against": "For",
+        "borough": "Manhattan",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Manhattan Community Board 1"
+        ],
+        "key_points": [
+            "Support for City of Yes with conditions",
+            "Need for infrastructure improvements to keep up with increased density",
+            "Suggestion for a ZIP code set aside for civic infrastructural needs",
+            "Reduction of 10-year sunset provision for offsetting affordable housing to 5 years",
+            "Mandating essential building infrastructure for garbage collection, storage, and package rooms",
+            "100% permanently affordable housing for large campus infill projects",
+            "Continued requirement for community board and community engagement",
+            "Support for eliminating or reducing the 680 square foot dwelling unit factor",
+            "Need for more emphasis on creating truly affordable housing",
+            "Addressing quality of life concerns and increasing need for physical infrastructure and hospital beds"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Rosa Chang, expresses support for the City of Yes proposal with certain conditions.\n2. She mentions the need for building homes for various groups of New Yorkers, which aligns with the general sentiment of the reference talking points.\n3. Rosa emphasizes the need for infrastructure improvements to keep up with increased density, which is not directly addressed in the reference talking points.\n4. She suggests a 5-year sunset provision for offsetting affordable housing, which relates to the Universal Affordability Preference (UAP) talking point, but with a different approach.\n5. Rosa supports eliminating or reducing the 680 square foot dwelling unit factor, which aligns with the Shared Housing (SRO) talking point.\n6. She mentions living in smaller units (250-550 sq ft) for many years, further supporting the Shared Housing concept.\n7. Rosa expresses concern about the proposal not doing enough to create truly affordable housing, which partially aligns with the UAP talking point.\n8. There is no mention of parking minimums, transit-oriented development, town center zoning, ADUs, or office-to-residential conversions in Rosa's testimony.\n\nOverall, while Rosa supports the City of Yes proposal, her testimony focuses more on infrastructure needs and affordable housing concerns than on the specific talking points provided in the reference.",
+        "talking_point_evidence": [
+            {
+                "quote": "I'm in support of the city of yes with conditions.",
+                "analysis": "This quote shows general support for the City of Yes proposal, but with some reservations. It doesn't directly align with any specific talking point, but indicates openness to the overall initiative.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            },
+            {
+                "quote": "We need to build homes for existing and new New Yorkers for renters and for owners for our children, adults, and seniors for everybody.",
+                "analysis": "This quote aligns with the general sentiment of the reference talking points, which aim to increase housing options for various groups. However, it doesn't match any specific talking point exactly.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "I am in support of eliminating or reducing the 680 square foot dwelling unit factor. I have personally lived in units that are 250 square feet and 550 square feet for over 15 years in New York with my partner. It can be done.",
+                "analysis": "This quote strongly supports the Shared Housing (SRO) talking point, which advocates for allowing smaller living spaces and shared facilities. The speaker's personal experience adds weight to this support.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "I do not find that it does enough to require the creation of truly affordable housing specifically,",
+                "analysis": "This quote relates to the Universal Affordability Preference (UAP) talking point, but expresses concern that the proposal doesn't go far enough in creating affordable housing. It shows partial alignment with the UAP goal but suggests that more should be done.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            }
+        ],
+        "analysis": "The testimony shows partial alignment with some of the reference talking points, particularly in relation to the need for more housing options and support for smaller living spaces. However, the speaker focuses more on infrastructure concerns and affordable housing issues that are not fully addressed in the reference talking points. While there is some overlap in goals, the specific approaches and emphasis differ between the testimony and the provided talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "testimony": {
+        "name": "Eustacia Smith",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/eustacia-smith-from-west-side-federation-for",
+        "start_time_in_seconds": 35558.86,
+        "end_time_in_seconds": 35743.066,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "West Side Federation for Senior and Supportive Housing"
+        ],
+        "key_points": [
+            "Support for City of Yes for Housing Opportunity zoning changes",
+            "Need for affordable senior housing in New York City",
+            "Disproportionate impact of housing crisis on older New Yorkers",
+            "Support for universal affordability preference",
+            "Support for changing outdated zoning regulations",
+            "Support for development of small shared housing",
+            "Need for additional incentives for senior housing development",
+            "Call for city to set annual production and preservation goals for affordable senior housing",
+            "Recommendation for at least 1000 new units of deeply affordable senior housing with fully funded services per year",
+            "Importance of protecting and prioritizing production of deeply affordable senior housing with services"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Eustacia Smith, represents the West Side Federation for Senior and Supportive Housing (WSFSSH).\n2. She strongly supports the zoning changes outlined in City of Yes for Housing.\n3. The testimony focuses heavily on the need for affordable senior housing.\n4. She mentions several aspects of the City of Yes proposal:\n   a. Universal affordability preference\n   b. Changing outdated zoning regulations\n   c. Development of small shared housing\n5. The speaker aligns with many of the reference talking points, but with a specific focus on senior housing.\n6. There are clear parallels between the testimony and the reference talking points, particularly regarding:\n   a. Universal Affordability Preference (UAP)\n   b. Shared Housing (SROs)\n   c. The general need for more affordable housing\n7. However, the testimony doesn't directly mention or support other aspects of the reference talking points such as lifting parking minimums, transit-oriented development, or office-to-residential conversions.\n8. The speaker also emphasizes the need for additional incentives specifically for senior housing, which is not mentioned in the reference talking points.\n\nGiven this analysis, the testimony shows significant alignment with some of the reference talking points, but it has a narrower focus on senior housing and doesn't cover all aspects of the talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "New York City must take all possible measures to increase the supply of affordable housing which fish strongly supports the zoning changes outlined in City of Yes for Housing.",
+                "analysis": "This quote directly supports the overall goal of the City of Yes for Housing proposal, which is mentioned in multiple reference talking points. It shows a general alignment with the proposal's objectives.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "We support universal affordability preference because it won't mean additional affordable and port of housing would be built by giving developments of density bonus.",
+                "analysis": "This quote directly relates to the Universal Affordability Preference (UAP) talking point. It supports the idea of providing extra floor area for permanent affordable housing, which is a key aspect of the UAP.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "We support the aspects of City of Yes that would allow for the development of small shared housing, which could significantly increase housing apply, but our experience running that kind of housing has shown that it must be paired with adequately funded on-site services.",
+                "analysis": "This quote relates to the Shared Housing (SRO) talking point. It supports the idea of allowing shared housing, which aligns with the reference talking point. However, it adds the condition of needing on-site services, which is not mentioned in the reference points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows significant alignment with some of the reference talking points, particularly those related to Universal Affordability Preference and Shared Housing. The speaker strongly supports the City of Yes for Housing proposal, which is the overarching theme of the reference talking points.\n\nHowever, the testimony has a much narrower focus on senior affordable housing, which is not specifically addressed in the reference talking points. The speaker doesn't mention or support several key aspects of the talking points, such as lifting parking minimums, transit-oriented development, or office-to-residential conversions.\n\nWhile the testimony supports the general goal of increasing affordable housing supply, it also emphasizes the need for additional incentives specifically for senior housing, which goes beyond the scope of the reference talking points.\n\nGiven these observations, the testimony can be classified as SUPPORTS_TALKING_POINTS. It aligns with and supports some key aspects of the reference talking points, but it doesn't cover the full range of points and has a more specific focus on senior housing.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

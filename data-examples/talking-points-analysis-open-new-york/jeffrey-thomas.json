@@ -1,0 +1,48 @@
+{
+    "testimony": {
+        "name": "Jeffrey Thomas",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/jeffrey-thomas-on-universal-affordability",
+        "start_time_in_seconds": 2820.122,
+        "end_time_in_seconds": 2942.9092,
+        "for_or_against": "For",
+        "borough": "Brooklyn",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [],
+        "key_points": [
+            "Supports the City of Yes for Housing Opportunity proposal in general",
+            "Specifically favors the Universal Affordability Preference (UAP)",
+            "UAP makes buildings more profitable while increasing affordable housing",
+            "Supports removing parking minimums",
+            "Removing parking minimums can encourage alternative transportation methods",
+            "Removing parking minimums can lower construction costs and increase affordability",
+            "Fewer parking spaces can lead to less congestion and fewer cars on the roads"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "1. The testimony mentions support for the \"City of Yes for Housing Opportunity\" proposal, which aligns with the overall theme of the reference talking points.\n\n2. The speaker specifically focuses on two main aspects: Universal Affordability Preference (UAP) and removing parking minimums. These are both key points in the reference talking points.\n\n3. On UAP:\n   - The speaker supports it, calling it a \"great common sense proposal\"\n   - They mention it makes buildings more profitable while increasing affordable housing, which aligns with the reference points about making developments easier to finance and increasing affordable housing.\n\n4. On removing parking minimums:\n   - The speaker strongly supports this, which directly aligns with the reference talking points.\n   - They mention it will lead to lower construction costs and more affordability, which is a key point in the reference talking points.\n   - The speaker discusses how it will lead to fewer cars on the road and less congestion, which aligns with the reference points about reducing car dependency and greenhouse gas emissions.\n\n5. The testimony doesn't mention other aspects of the proposal such as Transit-Oriented Development, \"Town Center\" Zoning, ADUs, Office-to-Residential conversions, or Shared Housing.\n\n6. The language used by the speaker is not identical to the reference talking points, but the main ideas and arguments are very similar, especially for the two topics they focus on.\n",
+        "talking_point_evidence": [
+            {
+                "quote": "I'd like to speak specifically in favor of the universal affordability preference. I think every time we look at new housing as well, why is it more affordable? Why aren't they building more affordable housing? We all support more affordable housing. How do we actually make that happen? How do we make the buildings? Actually get built.",
+                "analysis": "This quote supports the UAP talking point. While it doesn't use the exact language from the reference points, it emphasizes the need for more affordable housing and questions how to make it happen, which aligns with the goals of UAP.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "UAP makes the buildings more profitable because say it's not saying, you know, take some of your existing housing, make make make these units affordable. So you can build even more units that are affordable. It's it's a it's a win win.",
+                "analysis": "This quote closely aligns with the UAP talking point about making developments more efficient and easier to finance. It also emphasizes the increase in affordable housing, which is a key point in the reference talking points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "I'd also like to speak quickly in favor for moving parking minimums. I know speak people have spoken in favor of that. I'd just like to say personally, because people say, you know, while this won't get people out of their cars, it'll just put more pressure on parking.",
+                "analysis": "This quote directly supports the talking point about lifting parking minimums. It addresses a common concern and aligns with the reference points about reducing car dependency.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "In New York City, especially when especially when you're building new buildings, if you say here's a building with no parking, people who move in will commute with some way other than a private vehicle. That all, as people said, lower cost construction, get us more affordability, hopefully use a space.",
+                "analysis": "This quote strongly supports the talking points about lifting parking minimums. It mentions lower construction costs and increased affordability, which are key points in the reference talking points. It also touches on the idea of reducing car usage, which aligns with the climate-related points in the reference.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony is closely related to the reference talking points, particularly on the topics of Universal Affordability Preference (UAP) and removing parking minimums. The speaker's arguments and rationale align well with those provided in the reference talking points, although the exact language differs. The testimony supports the same claims and arguments as the talking points for these two aspects of the proposal, showing a high level of alignment in content if not in specific wording. However, the testimony does not cover other aspects of the proposal mentioned in the reference talking points, which prevents it from being classified as having the highest level of alignment.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

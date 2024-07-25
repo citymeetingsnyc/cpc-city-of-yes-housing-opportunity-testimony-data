@@ -1,0 +1,48 @@
+{
+    "testimony": {
+        "name": "Monil Javeri",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/monil-javeri-on-support-for-city-of-yes-and-its",
+        "start_time_in_seconds": 33972.758,
+        "end_time_in_seconds": 34161.46,
+        "for_or_against": "For",
+        "borough": "Queens",
+        "neighborhood": "Woodside",
+        "stated_affiliations": [],
+        "key_points": [
+            "Supports City of Yes proposal, especially for families",
+            "ADUs will allow for caring for aging parents while maintaining some separation",
+            "Reducing parking requirements promotes walkability and community connections",
+            "Increased housing supply can help reduce homelessness",
+            "Affordable housing allows young people to stay in their communities",
+            "Building more housing makes it easier to build and maintain communities",
+            "Personal experience of improved quality of life after moving from car-dependent Long Island to walkable Woodside"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "1. The testimony is from Monil Javeri, a renter in Woodside, Queens, who strongly supports the City of Yes proposal.\n2. Let's analyze the testimony in relation to the reference talking points:\n\na. ADUs (Accessory Dwelling Units):\n- Javeri mentions wanting to take care of his aging parents while having some separation, which aligns with the ADU talking point about \"granny flats\" for aging relatives.\n- This is a direct reference to one of the key benefits of ADUs mentioned in the talking points.\n\nb. Parking Minimums:\n- Javeri talks about the benefits of walkability in Woodside, mentioning weight loss and knowing neighbors better.\n- This aligns with the talking points about reducing car dependency and creating more walkable communities.\n\nc. Transit-Oriented Development (TOD):\n- While not explicitly mentioned, Javeri's positive comments about walkability and being able to walk to the train station support the TOD concept.\n\nd. Homelessness:\n- Javeri mentions that building more housing, even market-rate, can lower homelessness rates, citing Austin as an example.\n- This indirectly supports the overall goal of the City of Yes proposal to increase housing supply.\n\ne. Community Building:\n- Javeri emphasizes the importance of staying close to family and friends, which aligns with the general theme of creating stronger, more vibrant communities present in several talking points.\n\n3. The testimony does not directly mention or align with:\n- Universal Affordability Preference (UAP)\n- \"Town Center\" Zoning\n- Office-to-Residential conversions\n- Shared Housing (SROs)\n\n4. Overall, the testimony shows strong support for the City of Yes proposal and aligns with several key talking points, particularly around ADUs, reduced parking requirements, and the benefits of walkable, transit-oriented communities.",
+        "talking_point_evidence": [
+            {
+                "quote": "Having ADUs will let me Take care of my take care of my elderly parents at the same time that I can At the same time, I can raise kids when I have them.",
+                "analysis": "This quote directly aligns with the ADU talking point about allowing families to live closer together and providing 'granny flats' for aging relatives. The speaker is expressing the exact benefit mentioned in the reference talking points.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "Having lived in Long Island where I had to where I had to get my mom to drive me everywhere until I was sixteen, severely limited my independence growing up And and now I live in Woodside where I can walk to get groceries, and I can walk to the train station, I can walk and I can I can walk to work even has allowed me to I've lost weight because I I'm able to do that?",
+                "analysis": "This quote supports the talking points about lifting parking minimums and encouraging transit-oriented development. While not using the exact language, it emphasizes the benefits of walkable communities and reduced car dependency, which are key arguments in the reference talking points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "As you saw in Austin, the more housing you have, if you build enough housing, you can even market rate housing, you can lure the rate of homelessness.",
+                "analysis": "This quote supports the overall goal of increasing housing supply to address homelessness. While not directly referencing a specific talking point, it aligns with the general theme of the City of Yes proposal to increase housing availability.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Staying close to family and friends that you grow up with is what builds a community. And that's why I think CDBS is so important. Because it makes building community much, much easier.",
+                "analysis": "This quote supports the general theme of community building present in several talking points, particularly those related to TOD and 'Town Center' zoning. While not using the exact language from the talking points, it emphasizes the importance of creating strong, vibrant communities.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows a strong alignment with several key talking points from the City of Yes proposal, particularly in relation to ADUs, reduced parking requirements, and the benefits of walkable, transit-oriented communities. The speaker, Monil Javeri, provides personal anecdotes and arguments that directly support these aspects of the proposal.\n\nThe most significant alignment is with the ADU talking point, where Javeri's desire to care for his aging parents while maintaining some separation perfectly illustrates the benefits of ADUs mentioned in the reference talking points.\n\nJaveri's comments on walkability and the benefits of living in a less car-dependent area strongly support the arguments for lifting parking minimums and encouraging transit-oriented development. While he doesn't use the exact terminology from the talking points, his personal experiences effectively communicate the advantages of these proposed changes.\n\nThe testimony also touches on the broader goals of the City of Yes proposal, such as increasing housing supply to address homelessness and building stronger communities. These points, while not always directly referencing specific talking points, align with the overall vision of the proposal.\n\nHowever, it's worth noting that the testimony does not cover all aspects of the City of Yes proposal. There's no mention of the Universal Affordability Preference, \"Town Center\" zoning, office-to-residential conversions, or shared housing (SROs). Despite this, the strong alignment with several key talking points and the overall enthusiasm for the proposal indicate a high level of support for the City of Yes initiative.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}

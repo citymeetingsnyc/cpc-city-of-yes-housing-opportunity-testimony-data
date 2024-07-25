@@ -1,0 +1,51 @@
+{
+    "testimony": {
+        "name": "Neil Miller",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/neil-miller-from-manhattan-community-board-5-on",
+        "start_time_in_seconds": 25693.559,
+        "end_time_in_seconds": 25849.277,
+        "for_or_against": "For",
+        "borough": "Manhattan",
+        "neighborhood": "Midtown",
+        "stated_affiliations": [
+            "Manhattan Community Board 5"
+        ],
+        "key_points": [
+            "Support for the City of Yes for Housing Opportunity proposal",
+            "Endorsement of UAP (Unified Affordability Percentage) to create homes at various income levels",
+            "Support for office conversion provisions",
+            "Approval of town center and EDU proposals to add homes across the city",
+            "Belief that the proposal will improve congestion in the city",
+            "Support for legalizing additional building types, such as buildings with courtyards",
+            "Personal connection: grandparents and great-grandparents found affordable housing in NYC",
+            "Experience as a former New York City public school English teacher"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Neil Miller, strongly supports the City of Yes for Housing Opportunity proposal.\n2. He mentions his grandparents finding affordable housing in NYC, relating it to the current housing crisis.\n3. He specifically supports the UAP (Universal Affordability Preference) provision, mentioning the 260% AMI affordability level.\n4. He supports office conversions, mentioning the state budget incentives and affordability requirements.\n5. He mentions support for town center and EDU proposals to add homes across the city.\n6. He briefly touches on congestion reduction and public transit use.\n7. He supports changes to allow more building types, specifically mentioning courtyards.\n\nNow, let's compare these points to the reference talking points:\n\n1. UAP: The testimony directly supports this, mentioning specifics like the 260% AMI level.\n2. Parking Minimums: Not explicitly mentioned in the testimony.\n3. Transit-Oriented Development: While not explicitly mentioned, the speaker supports adding homes across the city and mentions congestion reduction through public transit use.\n4. Town Center Zoning: Directly mentioned and supported in the testimony.\n5. ADUs: Not mentioned in the testimony.\n6. Office-to-Residential: Directly supported in the testimony, with mention of state budget incentives.\n7. Shared Housing (SROs): Not mentioned in the testimony.\n\nThe testimony aligns closely with several key talking points, particularly UAP, Town Center Zoning, and Office-to-Residential conversions. While not all points are covered, the ones mentioned are strongly supported and use similar language to the reference talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "I specifically support a couple of provisions, UAP, to create homes at a range of income levels averaging 260 percent of AMI, which is affordable to a starting teacher.",
+                "analysis": "This quote directly references the UAP (Universal Affordability Preference) talking point, mentioning the specific 260% AMI level, which is identical to the reference talking point's emphasis on creating affordable housing at various income levels.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "I'm also supportive of the provisions for office conversions with incentives in the state budget. Many of these conversions will have a quarter of their units being affordable to a range of New Yorkers.",
+                "analysis": "This quote closely aligns with the Office-to-Residential talking point, mentioning state budget incentives and affordability requirements, which are key aspects of the reference talking point.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "The town center and EDU proposals are important too to add homes all around the city including in neighborhoods like Whitestone and Jamaica where my parents grew up and not just in neighborhoods. That are already building.",
+                "analysis": "This quote supports the Town Center Zoning talking point, emphasizing the importance of adding homes across various neighborhoods, which aligns with the reference talking point's goal of creating vibrant, mixed-use communities.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "As a resident of Midtown, it will also approve congestion during the city. In the middle of the city if more people are able to take trains into the downtown core instead of needing to drive.",
+                "analysis": "While not directly referencing a specific talking point, this quote supports the general idea of Transit-Oriented Development by emphasizing the benefits of public transit use and reducing congestion, which aligns with the reference talking points' emphasis on sustainable and walkable communities.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony is closely related to the reference talking points, often making the same claims and arguments, particularly regarding UAP, office conversions, and town center proposals. The speaker uses similar language and concepts, suggesting a high level of alignment with the reference talking points. While not all talking points are covered, the ones mentioned are strongly supported and presented in a way that closely mirrors the provided reference material. The testimony appears to be well-informed by the talking points, even if it doesn't cover all of them.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}

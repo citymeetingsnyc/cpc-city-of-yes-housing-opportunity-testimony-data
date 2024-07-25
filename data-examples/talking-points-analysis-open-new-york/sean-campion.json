@@ -1,0 +1,47 @@
+{
+    "testimony": {
+        "name": "Sean Campion",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/sean-campion-from-citizens-budget-commission-on",
+        "start_time_in_seconds": 18619.094,
+        "end_time_in_seconds": 18805.365,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Citizens Budget Commission"
+        ],
+        "key_points": [
+            "City of Yes takes the right approach to New York City's housing crisis by proposing to build more housing everywhere of all types for everyone",
+            "Housing production in NYC has failed to keep pace with demand due to policy actions intended to slow new construction",
+            "Housing scarcity degrades New Yorkers' quality of life and is bad for the city's economy and fiscal health",
+            "Negative out-migration caused by housing affordability and availability crises cost the city over $300 million in tax revenue in 2022",
+            "Allowing growth could potentially boost city tax receipts by over $2 billion a year",
+            "In CBC's 2023 resident survey, housing ranked among the top issues facing New Yorkers, with fewer than 1 in 10 feeling that government is addressing their housing needs well",
+            "Building more housing will improve affordability, quality of life, strengthen the city's economy and competitiveness",
+            "The final zoning text needs to result in a meaningful increase in development capacity citywide to improve affordability and quality of life",
+            "The housing crisis is a citywide problem that demands a citywide response"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Sean Campion, supports the \"City of Yes\" proposal.\n2. He emphasizes the need to build more housing everywhere, of all types, for everyone.\n3. He mentions that housing production has failed to keep pace with demand due to restrictive policies.\n4. He highlights the negative fiscal and economic impacts of under-production of housing.\n5. He discusses the dissatisfaction of New Yorkers with the current housing situation.\n6. He advocates for building more housing of every type in every neighborhood.\n7. He warns against scaling back the scope of the proposal or exempting certain neighborhoods.\n8. He emphasizes that the housing crisis is a citywide problem that demands a citywide response.\n\nNow, let's compare this to the reference talking points:\n\n1. The testimony aligns with the overall theme of the talking points, which is to increase housing production across the city.\n2. The testimony doesn't specifically mention the Universal Affordability Preference, but it does support building more affordable housing.\n3. The testimony doesn't directly address lifting parking minimums or Transit-Oriented Development.\n4. The testimony's emphasis on building in every neighborhood aligns with the \"Town Center\" zoning concept.\n5. The testimony doesn't specifically mention ADUs, office-to-residential conversions, or shared housing.\n6. The testimony's focus on citywide solutions and warning against exempting neighborhoods aligns with the overall spirit of the talking points.\n\nWhile the testimony doesn't explicitly use the same language as the talking points, it strongly supports the general principle of increasing housing production across the city, which is a core theme of the talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "City of Yes takes the right approach to New York City's housing crisis, build more housing everywhere of all types for everyone.",
+                "analysis": "This quote aligns closely with the overall theme of the reference talking points, which advocate for increased housing production across the city. While it doesn't use identical language to any specific talking point, it captures the essence of the 'City of Yes' proposal.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "The housing crisis is a citywide problem that demands a citywide response.",
+                "analysis": "This quote supports the general approach of the talking points, which advocate for changes across the entire city. It particularly aligns with the spirit of the Transit-Oriented Development and 'Town Center' zoning points, which aim to increase housing in various parts of the city.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Inevitably, some stakeholders like officials are going to try to scale back the scope of cities, yes, exempt certain neighborhoods and changes or oppose it entirely. The city plan information and the city council must hold the line against such opposition to needed progress.",
+                "analysis": "This quote supports the overall approach of the talking points, which advocate for citywide changes. It aligns with the spirit of all the points that suggest changes across the city, such as lifting parking minimums, Transit-Oriented Development, and 'Town Center' zoning.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony is generally supportive of the \"City of Yes\" proposal and aligns with the overall theme of the reference talking points, which is to increase housing production across New York City. The speaker emphasizes the need for more housing of all types in every neighborhood, which is consistent with the broad goals outlined in the talking points.\n\nHowever, the testimony does not specifically mention or directly address many of the particular policy proposals outlined in the talking points, such as the Universal Affordability Preference, lifting parking minimums, Transit-Oriented Development, ADUs, office-to-residential conversions, or shared housing. Instead, it focuses on the general need for increased housing production and the negative consequences of the current housing shortage.\n\nThe testimony does strongly support the idea of citywide action and warns against exempting certain neighborhoods, which aligns with the spirit of the talking points. It also emphasizes the economic and fiscal benefits of increasing housing production, which, while not directly mentioned in the talking points, supports the overall goal of increasing housing supply.\n\nWhile the testimony doesn't use the same specific language or examples as the talking points, it does support the same general approach and goals. Therefore, it can be classified as supporting the talking points, even though it doesn't make the exact same claims or use very similar language.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

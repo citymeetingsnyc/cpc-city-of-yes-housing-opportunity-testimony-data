@@ -1,0 +1,43 @@
+{
+    "testimony": {
+        "name": "Theresa Kaplan",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/theresa-kaplan-architect-and-prospect-heights",
+        "start_time_in_seconds": 42322.816,
+        "end_time_in_seconds": 42460.6,
+        "for_or_against": "For",
+        "borough": "Brooklyn",
+        "neighborhood": "Prospect Heights",
+        "stated_affiliations": [],
+        "key_points": [
+            "Support for City of Yes to increase housing affordability and availability",
+            "Personal struggle with rising rental prices in the neighborhood",
+            "Contrast between high investment in brownstone renovations and limited housing stock increase due to outdated zoning policies",
+            "Enthusiasm for transit-oriented development proposal",
+            "Benefits of allowing people to remain in their neighborhoods as housing needs change",
+            "Creating housing that fits residents rather than selecting residents who fit the housing",
+            "Fostering stable communities through diverse housing options"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Theresa Kaplan, is a Brooklyn-based architect and resident of Prospect Heights.\n2. She supports the City of Yes for Housing Opportunity initiative.\n3. Her main points are:\n   a. Current rental prices make it difficult to stay in her neighborhood.\n   b. She sees a severe lack of housing across the city.\n   c. She's particularly excited about the transit-oriented development proposal.\n   d. She believes the initiative will create opportunities for New Yorkers to live where they want.\n   e. She supports small apartment buildings scaled for low-density neighborhoods.\n   f. She emphasizes the importance of allowing people to remain in their neighborhoods as their housing needs change.\n\n4. Comparing to the reference talking points:\n   a. The testimony aligns closely with the Transit-Oriented Development (TOD) talking point.\n   b. There's some alignment with the \"Town Center\" Zoning concept, though not explicitly mentioned.\n   c. The testimony doesn't directly mention other specific points like Universal Affordability Preference, Lifting Parking Minimums, ADUs, Office-to-Residential conversions, or Shared Housing.\n\n5. The closest alignment is with the TOD talking point, as the speaker specifically mentions and supports this aspect of the initiative.",
+        "talking_point_evidence": [
+            {
+                "quote": "I'm particularly excited about the transit oriented development proposal. Which will make it feasible for New Yorkers to stay within their communities as their housing needs change.",
+                "analysis": "This quote directly references and supports the Transit-Oriented Development (TOD) talking point. The speaker's excitement about TOD aligns with the reference talking point's emphasis on creating sustainable and walkable communities near transit.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "Transit oriented development, in particular small apartment buildings scaled for low density neighborhoods, allows people to remain in their neighborhoods even as their housing needs change.",
+                "analysis": "This quote further elaborates on the speaker's support for TOD, specifically mentioning small apartment buildings in low-density areas, which is a key point in the reference talking points for TOD.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "City of Yes is a real proposal to address this severe lack of housing across the city.",
+                "analysis": "While this quote doesn't directly reference a specific talking point, it supports the overall goal of the City of Yes initiative to address the housing crisis, which is a theme present in multiple talking points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows a strong alignment with the reference talking points, particularly in regard to Transit-Oriented Development (TOD). The speaker, Theresa Kaplan, explicitly expresses excitement about the TOD proposal and elaborates on its benefits, which closely mirror the points made in the reference talking points.\n\nWhile the testimony doesn't cover all aspects of the City of Yes for Housing Opportunity initiative mentioned in the reference talking points, it strongly supports the overall goal of increasing housing availability and affordability in New York City. The speaker's personal experience as a renter and her professional perspective as an architect lend credibility to her support for the initiative.\n\nThe testimony doesn't directly mention other specific aspects of the initiative such as Universal Affordability Preference, Lifting Parking Minimums, or Shared Housing. However, the speaker's general support for the initiative and her emphasis on addressing the \"severe lack of housing across the city\" suggest that she would likely be in favor of these other components as well.\n\nOverall, while the testimony focuses primarily on TOD and general housing availability, its strong alignment with these key aspects of the initiative and its overall supportive tone indicate a significant level of agreement with the reference talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

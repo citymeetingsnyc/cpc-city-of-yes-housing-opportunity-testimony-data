@@ -1,0 +1,44 @@
+{
+    "testimony": {
+        "name": "Daniel Fischer",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/daniel-fischer-resident-of-williamsburg-on-support",
+        "start_time_in_seconds": 50386.152,
+        "end_time_in_seconds": 50467.09,
+        "for_or_against": "For",
+        "borough": "Brooklyn",
+        "neighborhood": "Williamsburg",
+        "stated_affiliations": [],
+        "key_points": [
+            "Support for the City of Yes for Housing Opportunity proposal",
+            "Personal experience as a renter in NYC for 8 years",
+            "Concern about friends leaving the city due to housing costs",
+            "Worry about personal ability to stay in the city long-term and start a family",
+            "Contrast between homeowners' housing security and renters' struggles",
+            "Climate change concerns and the lower greenhouse gas footprint of New Yorkers",
+            "Support for transit-oriented development",
+            "Support for removal of parking minimums to reduce unit costs and shift away from car dependency"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Daniel Fischer, is a renter in Williamsburg, Brooklyn.\n2. He expresses concern about rising housing costs and the difficulty of staying in the city long-term.\n3. He mentions friends who have had to leave the city due to housing costs.\n4. He contrasts his situation with homeowners who have housing security.\n5. He expresses support for the \"City of Yes\" housing proposal.\n6. He mentions climate change and emphasizes that New Yorkers have a lower greenhouse gas footprint than the national average.\n7. He supports transit-oriented development.\n8. He specifically mentions the removal of parking minimums as being needed to reduce unit costs and shift away from car dependency.\n\nNow, let's compare these points to the reference talking points:\n\n1. The testimony aligns closely with the \"Lifting Parking Minimums\" talking point, mentioning reduced costs and shift away from cars.\n2. The speaker's support for transit-oriented development aligns with the \"Transit-Oriented Development\" talking point.\n3. The mention of climate change and lower greenhouse gas emissions for New Yorkers aligns with environmental points in both \"Lifting Parking Minimums\" and \"Transit-Oriented Development\" talking points.\n4. The speaker's concern about housing costs and friends leaving the city due to affordability issues indirectly supports the need for more housing options, which is a theme across multiple talking points.\n5. The testimony doesn't specifically mention other talking points like Universal Affordability Preference, \"Town Center\" Zoning, Accessory Dwelling Units, Office-to-Residential conversions, or Shared Housing.\n\nOverall, the testimony shows strong alignment with some of the reference talking points, particularly those related to parking minimums and transit-oriented development. The speaker's general support for the \"City of Yes\" proposal and concern about housing affordability also broadly aligns with the goals of the talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "Transit oriented development is a no brainer approach to leveraging our amazing transit system and removal of parking minimums is sorely needed in order to reduce unit costs and help shift mode share away from cars.",
+                "analysis": "This quote directly addresses two key talking points: Transit-Oriented Development and Lifting Parking Minimums. It uses similar language and reasoning to the reference talking points, mentioning cost reduction and shift away from cars.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "I'm particularly concerned about climate change impacts facing our sorry. Facing our coastal city New Yorkers have one third the greenhouse gas footprint of the national average, and more housing means more New Yorkers means less greenhouse gas emissions.",
+                "analysis": "This quote aligns with the environmental benefits mentioned in the Lifting Parking Minimums and Transit-Oriented Development talking points. While it doesn't use identical language, it supports the same argument about reduced emissions.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "I speak not only on behalf of myself, but for multiple friends who have had to leave the city due to our housing costs. And personally, I'm concerned over my ability to stay in the city long term and start a family here despite my desire to never leave.",
+                "analysis": "While this quote doesn't directly reference a specific talking point, it supports the overall theme of the need for more affordable housing options, which is a key driver behind many of the proposed changes in the talking points.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            }
+        ],
+        "analysis": "The testimony shows a strong alignment with several key aspects of the reference talking points, particularly those related to parking minimums and transit-oriented development. The speaker, Daniel Fischer, explicitly supports the removal of parking minimums and transit-oriented development, using language and arguments very similar to those in the reference talking points.\n\nFischer's testimony also touches on themes of housing affordability and environmental concerns, which are central to many of the talking points. His mention of friends leaving the city due to housing costs and his own concerns about long-term affordability align with the overall goals of the proposed changes, even if he doesn't specifically mention all the individual proposals.\n\nThe speaker's emphasis on climate change and the lower greenhouse gas footprint of New Yorkers supports the environmental arguments made in several of the talking points, particularly those related to reducing car dependency.\n\nWhile the testimony doesn't cover all the specific proposals mentioned in the talking points (such as Universal Affordability Preference, \"Town Center\" Zoning, ADUs, Office-to-Residential conversions, or Shared Housing), the overall sentiment and the specific points mentioned show a high level of alignment with the goals and reasoning behind the \"City of Yes\" proposal.\n\nGiven the strong alignment on key points and the overall supportive stance towards the proposal, this testimony can be classified as having a high alignment with the reference talking points.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}

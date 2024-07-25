@@ -1,0 +1,35 @@
+{
+    "testimony": {
+        "name": "Gabriel DeRurdy",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/gabriel-derurdy-on-supporting-the-city-of-yes-for",
+        "start_time_in_seconds": 9148.045,
+        "end_time_in_seconds": 9245.8,
+        "for_or_against": "For",
+        "borough": "Manhattan",
+        "neighborhood": "Hell's Kitchen",
+        "stated_affiliations": [],
+        "key_points": [
+            "Personal experience with difficult rental market in NYC",
+            "Support for the universal affordability preference",
+            "Belief that the proposal will incrementally add housing without radically changing neighborhood scale",
+            "Affordability requirement benefits those most burdened by the housing crisis"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Gabriel DeRurdy, is in favor of the \"City of Yes for Housing Opportunity\" proposal.\n\n2. He mentions his personal experience with the difficult housing market in NYC, including low vacancy rates and high costs.\n\n3. The speaker specifically mentions and supports the \"universal affordability preference\" section of the proposal.\n\n4. He states that this section would add 20% more housing on top of buildings without radically changing neighborhood scale.\n\n5. The speaker emphasizes the 100% affordability requirement, which he believes benefits those most affected by the housing crisis.\n\nNow, let's compare this to the reference talking points:\n\n1. The testimony aligns closely with the \"Universal Affordability Preference (UAP)\" section of the talking points.\n\n2. Both the testimony and the talking points mention that UAP allows for extra floor area for affordable housing.\n\n3. The testimony's mention of \"100 percent affordability requirement\" aligns with the talking point that \"The only buildings that won't have access to this extra floor area are 100% market rate.\"\n\n4. The speaker's comment about not radically changing neighborhood scale is similar to the talking point that mentions \"A little bit denser buildings - and not necessarily even taller buildings - is well worth it to get this new housing.\"\n\n5. The testimony does not mention other aspects of the \"City of Yes\" proposal, such as lifting parking minimums, transit-oriented development, or office-to-residential conversions.\n\nGiven this analysis, we can conclude that the testimony shows high alignment with the UAP section of the talking points, but does not address other aspects of the proposal mentioned in the reference talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "One section I'd like to speak in favor of is the universal affordability preference. I think it's a good tool for our neighborhood and for the city since it incrementally adds that extra 20 percent of housing on top of the buildings.",
+                "analysis": "This quote directly references the Universal Affordability Preference (UAP) and aligns closely with the talking points. It mentions the extra floor area for affordable housing, which is a key aspect of the UAP as described in the talking points.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "This doesn't radically change the scale of our neighborhoods in my view and it has the 100 percent affordability requirement, which means it benefits the people most burdened by this crisis first.",
+                "analysis": "This quote supports the UAP talking points by emphasizing that the changes won't drastically alter neighborhood character and mentioning the 100% affordability requirement. While not using identical language, it closely aligns with the spirit of the talking points about UAP.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony is closely related to the reference talking points, particularly in regard to the Universal Affordability Preference (UAP) section. The speaker directly mentions and supports this aspect of the \"City of Yes for Housing Opportunity\" proposal, using language and arguments that are very similar to those provided in the reference talking points.\n\nThe testimony makes the same claims about UAP allowing for extra floor area for affordable housing and emphasizes the 100% affordability requirement, which aligns closely with the talking points. The speaker's mention of not radically changing neighborhood scale is also in line with the talking points' emphasis on \"a little bit denser buildings.\"\n\nHowever, it's important to note that the testimony focuses solely on the UAP aspect of the proposal and does not address other elements mentioned in the reference talking points, such as lifting parking minimums, transit-oriented development, or office-to-residential conversions. This narrow focus limits the overall alignment with the full set of talking points provided.\n\nDespite this limitation, the high degree of similarity in language and arguments regarding the UAP section suggests that it is plausible the speaker is using the reference talking points, at least for this specific aspect of the proposal.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "testimony": {
+        "name": "Howard Slatkin",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/howard-slatkin-executive-director-of-citizen",
+        "start_time_in_seconds": 13968.477,
+        "end_time_in_seconds": 14154.87,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Citizen Housing and Planning Council"
+        ],
+        "key_points": [
+            "The proposed zoning text amendments are an important step forward for NYC zoning",
+            "Current zoning regulations have created a persistent housing shortage",
+            "Zoning for scarcity creates unintended consequences that hurt everyone, especially those with the least",
+            "Current regulations often produce absurd results, such as losing housing units in some neighborhoods",
+            "The proposal will help reverse zoning for scarcity and better align with housing needs of New Yorkers",
+            "Zoning changes must be accompanied by sustained public investment and other regulatory changes",
+            "Suggests modifications to the proposal, including a permanent off-site option for UAP program and vesting certain existing development rights"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "1. The testimony is from Howard Slatkin, Executive Director of Citizen Housing and Planning Council.\n2. He supports the proposed zoning text amendments.\n3. The testimony focuses on the need to reverse \"zoning for scarcity\" and increase housing capacity.\n4. Several points in the testimony align with or support the reference talking points:\n   a. Mentions the need for more housing options, including smaller units.\n   b. Discusses the importance of allowing housing conversion (e.g., combining units).\n   c. Highlights the need for sustained public investment in affordable housing.\n   d. Mentions the Universal Affordability Preference (UAP) program.\n5. While the testimony doesn't directly use the same language as the reference talking points, it supports many of the same ideas and goals.\n6. The testimony doesn't go into specific details about parking minimums, transit-oriented development, or office-to-residential conversions.\n7. Overall, the testimony aligns with the general theme of increasing housing opportunities and addressing the housing crisis, which is consistent with the reference talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "The simple summary of this long complex proposal is that it will help reverse zoning for scarcity so that regulations better align with the housing needs of New Yorkers.",
+                "analysis": "This quote supports the overall theme of the reference talking points, which aim to increase housing opportunities and address the housing crisis. While it doesn't use identical language, it aligns with the goals of various talking points such as UAP, lifting parking minimums, and transit-oriented development.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Single adults who can't find small apartments and together to occupy housing that could otherwise house families.",
+                "analysis": "This quote supports the idea of creating more housing options, including smaller units, which is similar to the points made in the 'Shared Housing' talking point. Although it doesn't explicitly mention SROs, it highlights the need for diverse housing options.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "This includes providing a permanent off-site option everywhere that the UAP program applies.",
+                "analysis": "This quote directly mentions the Universal Affordability Preference (UAP) program, which is one of the reference talking points. While it doesn't provide the same level of detail as the reference point, it shows that the testimony addresses this specific program.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony by Howard Slatkin is related to the reference talking points, but it doesn't make the exact same claims or use very similar language. Instead, it supports many of the same ideas and goals that are presented in the talking points.\n\nThe testimony focuses on the broader concept of reversing \"zoning for scarcity\" and increasing housing capacity in New York City. While it doesn't go into specific details about many of the programs mentioned in the reference talking points (such as lifting parking minimums or transit-oriented development), it does touch on some key themes that align with the overall objectives of the proposed zoning changes.\n\nThe testimony supports the idea of creating more housing options, including allowing for the conversion of units and addressing the needs of different household types. This aligns with several of the reference talking points, such as Accessory Dwelling Units (ADUs) and Shared Housing (SROs), although these specific terms are not used in the testimony.\n\nThere is a direct mention of the Universal Affordability Preference (UAP) program, which is one of the reference talking points. However, the testimony doesn't provide the same level of detail or arguments in favor of the program as the reference talking point does.\n\nOverall, while the testimony doesn't closely mirror the language or specific points of the reference talking points, it does support many of the same goals and ideas, particularly in terms of increasing housing opportunities and addressing the housing crisis in New York City.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

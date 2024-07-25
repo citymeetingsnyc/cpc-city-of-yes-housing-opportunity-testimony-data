@@ -1,0 +1,54 @@
+{
+    "testimony": {
+        "name": "Carol Rosenthal",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/carol-rosenthal-from-fried-frank-law-firm-on",
+        "start_time_in_seconds": 31929.379,
+        "end_time_in_seconds": 32085.049,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Fried Frank Law Firm",
+            "REBNY Zoning and Design Committee"
+        ],
+        "key_points": [
+            "Support for residential conversion regulations in the City of Yes text",
+            "The proposed text eliminates most zoning issues for commercial to residential conversions",
+            "The text broadens the geographical area for special conversion rules",
+            "Allows buildings up to 1990 to use the conversion rules",
+            "Allows existing building floor area and bulk for conversions",
+            "Allows conversions to supportive housing and dormitories",
+            "Eliminates or reduces the dwelling unit factor",
+            "New tax benefit (AHHC) aligns with conversion rules, requiring 25% affordable units",
+            "Suggests clarification on elimination of required parking for conversions",
+            "Supports the opportunity to convert underutilized space to needed housing"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "1. The testimony focuses primarily on the residential conversion regulations in the proposed \"City of Yes\" text.\n2. This aligns closely with the \"Office-to-Residential\" talking point from the reference list.\n3. The testimony mentions eliminating zoning issues for conversions, which is a key point in the reference talking points.\n4. Both the testimony and the reference talking points discuss the potential for creating affordable housing through conversions.\n5. The testimony mentions a new tax benefit (AHHC) that aligns with the conversion rules, which is similar to the state tax exemption mentioned in the reference talking points.\n6. The testimony asks for clarification on parking requirements for conversions, which relates to the \"Lifting Parking Minimums\" talking point.\n7. While the testimony doesn't cover all the talking points provided, it strongly aligns with the office-to-residential conversion points and touches on parking issues.",
+        "talking_point_evidence": [
+            {
+                "quote": "The proposed text would eliminate most of those zoning issues. And will be eminently useful for increasing the production of much needed housing in the city.",
+                "analysis": "This quote directly supports the office-to-residential conversion talking point, highlighting how the proposed changes will facilitate the creation of more housing by eliminating zoning barriers.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "Importantly, the tax broadens the geographical area that can use the special conversion rules, allows buildings up to 1990 to use it, allows existing building floor area and bulk for conversions, allows conversions to supportive housing and dormitories and eliminates or reduces the dwelling unit factor.",
+                "analysis": "This quote closely aligns with the office-to-residential conversion talking point, specifically addressing the expansion of eligibility for conversions and the types of housing that can be created.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "The new tax benefit, affordable housing from commercial conversions or AHHC, aligns with the conversion rules it requires 25 percent of rental units to have a weighted average of 80 percent AMI.",
+                "analysis": "This quote supports the reference talking point about the State passing a new tax exemption to encourage office-to-residential conversions with affordability incentives.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "The revenue committee asks that the new tax clarify the elimination of required parking for conversions, especially in buildings where there had been existing accessory commercial park parking.",
+                "analysis": "While not directly about lifting parking minimums for new construction, this quote relates to the broader issue of reducing parking requirements, which is a key point in the reference talking points.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            }
+        ],
+        "analysis": "The testimony is closely related to the reference talking points, particularly in regard to office-to-residential conversions. The speaker, Carol Rosenthal, focuses heavily on the benefits of the proposed text for facilitating conversions, which aligns very closely with the \"Office-to-Residential\" talking point provided. \n\nThe testimony covers several key aspects mentioned in the reference talking points, such as expanding the geographical area for conversions, allowing conversions for buildings up to 1990, and the potential for creating affordable housing through these conversions. The mention of a new tax benefit (AHHC) that aligns with the conversion rules is similar to the state tax exemption mentioned in the reference talking points.\n\nWhile the testimony doesn't cover all the talking points provided (such as Universal Affordability Preference, Transit-Oriented Development, or Accessory Dwelling Units), it strongly aligns with the office-to-residential conversion points. Additionally, the testimony touches on parking issues, which relates to the \"Lifting Parking Minimums\" talking point, although it's not a primary focus of the testimony.\n\nThe language used in the testimony is not identical to the reference talking points, but the core arguments and benefits of the proposed changes are very similar. This suggests that while the speaker may not be directly using the provided talking points, they are advocating for the same policy changes and highlighting similar benefits.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

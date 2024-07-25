@@ -1,0 +1,39 @@
+{
+    "testimony": {
+        "name": "Braden Crooks",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/braden-crooks-from-designing-the-we-on-historical",
+        "start_time_in_seconds": 22636.307,
+        "end_time_in_seconds": 22823.123,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Designing the We",
+            "Undesign the Red Line"
+        ],
+        "key_points": [
+            "Historical context of structurally racist policies like redlining",
+            "Continuation of exclusionary practices through zoning regulations after the 1968 Fair Housing Act",
+            "Current community processes often benefit wealthier residents and perpetuate exclusion",
+            "Necessity of increasing affordable housing",
+            "Obligation to permanently further fair housing"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step in relation to the reference talking points:\n\n1. The testimony focuses heavily on the historical context of discriminatory housing policies, particularly redlining and exclusionary zoning. This is not directly mentioned in the reference talking points, but it provides context for the need for housing reforms.\n\n2. The speaker supports the \"City of Yes\" proposal, which aligns with the overall stance of the reference talking points.\n\n3. The testimony emphasizes the need to undo past discriminatory policies and heal from their damage. This indirectly supports the various proposals in the reference talking points, as they aim to increase housing accessibility and affordability.\n\n4. The speaker mentions the explosion of certain zoning regulations after the 1968 Fair Housing Act, including single-family home zoning and downzoning restrictions. This relates to the \"Transit-Oriented Development\" and \"Town Center Zoning\" points in the reference talking points, which aim to allow more diverse housing types in previously restricted areas.\n\n5. The testimony highlights how current community processes often benefit wealthier residents who can block initiatives, while other neighborhoods face the burden of more housing and supportive housing. This aligns with the general theme of the reference talking points, which advocate for more equitable housing distribution.\n\n6. The speaker urges the planning counsel to consider these historical issues and emphasizes the necessity of increasing affordable housing. This directly relates to the \"Universal Affordability Preference (UAP)\" point in the reference talking points.\n\n7. The testimony doesn't specifically mention parking minimums, ADUs, office-to-residential conversions, or shared housing, which are key points in the reference talking points.\n\nWhile the testimony doesn't explicitly use the same language or mention specific policies from the reference talking points, it strongly supports the overall goal of increasing affordable housing and addressing historical inequities in housing policy. The testimony provides a broader historical context for why these changes are necessary, which complements the more specific policy proposals in the reference talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "I'm here in support of City of Yes.",
+                "analysis": "This quote directly supports the overall stance of the reference talking points, which all fall under the 'City of Yes' proposal. However, it doesn't mention any specific talking points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "I am urging this planning counsel to consider these things that I think there's a lot more that can be built in, there's a lot more that needs to be done, especially when it concerns both in increasing affordable housing, which is an absolute necessity.",
+                "analysis": "This quote aligns closely with the Universal Affordability Preference (UAP) talking point, which emphasizes the importance of creating more affordable housing. While it doesn't mention the specific policy, it supports the same goal.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony is generally supportive of the \"City of Yes\" proposal and emphasizes the need for increasing affordable housing, which aligns with the overall goals of the reference talking points. However, the testimony focuses more on the historical context of discriminatory housing policies and the need to address these issues, rather than discussing specific policy proposals mentioned in the talking points.\n\nThe speaker provides a strong rationale for why housing reform is necessary, which complements the more detailed policy proposals in the reference talking points. While the testimony doesn't directly mention or discuss most of the specific policies (such as lifting parking minimums, transit-oriented development, or accessory dwelling units), it does emphasize the importance of increasing affordable housing and addressing exclusionary practices, which are themes present in the reference talking points.\n\nThe testimony supports the general direction of the \"City of Yes\" proposal but doesn't closely mirror the language or specific policy points of the reference talking points. It provides a broader historical and social justice context for the need for housing reform, which can be seen as supporting the overall goals of the talking points without directly referencing them.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

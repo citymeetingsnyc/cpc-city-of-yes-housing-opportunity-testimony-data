@@ -1,0 +1,51 @@
+{
+    "testimony": {
+        "name": "Jackson Chabot",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/jackson-chabot-from-open-plans-on-lifting-parking",
+        "start_time_in_seconds": 17036.695,
+        "end_time_in_seconds": 17220.666,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Open Plans"
+        ],
+        "key_points": [
+            "Lifting parking mandates is necessary for improved livability",
+            "Parking mandates contribute to climate change and unsafe streets",
+            "Requiring parking encourages car ownership and perpetuates a cycle of demand for more parking",
+            "Lifting mandates encourages use of public and active transportation",
+            "Surface parking lots create dead zones in neighborhoods",
+            "Prioritizing people over parking can create more public space and a more livable city",
+            "Developers have stated they will still build parking even when not required",
+            "Lifting parking requirements is necessary for future housing needs"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Jackson Chabot, focuses primarily on lifting parking requirements, which aligns with one of the main talking points provided.\n\n2. He argues that parking mandates are outdated and don't meet current needs, which directly supports the reference talking point about parking minimums being \"outdated, expensive, and unnecessary.\"\n\n3. Chabot mentions that cars contribute to climate change, which aligns with the talking point about car-dependency contributing to the climate crisis.\n\n4. He discusses how parking requirements create a cycle of demand for more parking and driving, which indirectly supports the talking point about parking construction encouraging car ownership and adding to traffic and congestion.\n\n5. The speaker emphasizes the negative impact of parking lots on neighborhood vibrancy, which isn't directly mentioned in the talking points but supports the overall argument against parking minimums.\n\n6. Chabot mentions the interconnection between parking and public transportation, which aligns with the talking points about encouraging transit use and creating sustainable communities.\n\n7. He provides additional context about developers still building parking even when not required, which supports the talking point that the proposal \"will not restrict the creation of parking spaces.\"\n\n8. The speaker doesn't directly address other aspects of the \"City of Yes for Housing Opportunity\" proposal, such as Universal Affordability Preference, Transit-Oriented Development, or other elements mentioned in the reference talking points.\n\nGiven this analysis, the testimony shows a high alignment with the reference talking points, particularly those related to lifting parking minimums.",
+        "talking_point_evidence": [
+            {
+                "quote": "Parking mandates are an archaic part of our zoning code and do not meet the current moment.",
+                "analysis": "This quote directly aligns with the reference talking point that NYC's current parking mandates are outdated. It uses similar language to convey the same idea.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "Cars contribute to the climate change crisis They create unsafe streets, and overall, they make our city less livable.",
+                "analysis": "This quote supports the reference talking point about car-dependency contributing to the climate crisis. While it doesn't use the exact same language, it conveys the same idea and adds additional context about safety and livability.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "By requiring parking to be built in new developments, we're encouraging residents to build or sorry to buy and own vehicles.",
+                "analysis": "This quote aligns closely with the reference talking point that states 'For too long we've required construction of garages that encourage tenants to have cars and add to traffic and congestion.' It makes the same argument using slightly different wording.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "Developers are explicitly saying they will build parking even when it is not required.",
+                "analysis": "This quote supports the reference talking point that states 'This proposal will not restrict the creation of parking spaces, it simply will not require the construction of parking. There will still be cases where parking will be built based on the needs of the community.' It provides evidence for this claim.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony is very closely related to the reference talking points, particularly those concerning the lifting of parking minimums. The speaker, Jackson Chabot, makes several arguments that are either identical to or strongly support the provided talking points. He emphasizes the outdated nature of parking mandates, their contribution to climate change, and how they encourage car ownership and usage. These points directly align with the reference talking points.\n\nMoreover, Chabot provides additional context and examples that reinforce the arguments made in the talking points, such as mentioning developers who plan to build parking even when not required. This supports the talking point that the proposal will not restrict parking creation where needed.\n\nWhile the testimony focuses primarily on parking issues and doesn't address other aspects of the \"City of Yes for Housing Opportunity\" proposal (such as Universal Affordability Preference or Transit-Oriented Development), the alignment on the parking issue is very strong.\n\nGiven the high degree of similarity in arguments and language used, it is plausible that the speaker is using the reference talking points in their testimony, at least for the sections related to parking minimums.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}

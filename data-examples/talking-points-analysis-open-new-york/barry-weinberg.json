@@ -1,0 +1,45 @@
+{
+    "testimony": {
+        "name": "Barry Weinberg",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/barry-weinberg-from-manhattan-community-board-9-on",
+        "start_time_in_seconds": 44944.355,
+        "end_time_in_seconds": 45143.215,
+        "for_or_against": "For",
+        "borough": "Manhattan",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Manhattan Community Board 9"
+        ],
+        "key_points": [
+            "Community Board 9 voted in favor of City of Yes for Housing Opportunity with certain conditions",
+            "Believes certain provisions do not go far enough, particularly 23-211",
+            "Recommends increasing FAR in R1-R3 zoning districts to 1.0 and R2X and R4 districts to 1.25",
+            "Suggests increasing ADU maximum square footage from 800 to 1200 square feet",
+            "Appreciates DCP staff's work and outreach efforts",
+            "Concerned about UAP (27-111) not requiring affordable housing units to be made available to the general public",
+            "Urges inclusion of provision in zoning text to ensure UAP affordable housing units are available to the public, not just institutional affiliates"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Barry Weinberg, is from Manhattan Community Board 9 and is giving feedback on the City of Yes for Housing Opportunity proposal.\n\n2. They mention voting in favor of the proposal with certain conditions, which suggests some alignment with the reference talking points.\n\n3. They specifically mention section 23-211, proposing to increase FAR in certain zoning districts. This isn't directly mentioned in the reference talking points, but it aligns with the general idea of increasing housing density.\n\n4. The speaker proposes increasing the maximum square footage for ADUs from 800 to 1200 square feet. This relates to the ADU talking point, although the specific numbers aren't mentioned in the reference.\n\n5. The testimony expresses appreciation for the DCP staff's work and mentions that some of their proposals from March 2023 were included in the package. This suggests ongoing engagement and some alignment with the city's plans.\n\n6. The main focus of the testimony is on UAP (Universal Affordability Preference), which is one of the key points in the reference talking points.\n\n7. The speaker expresses concern about the lack of explicit requirement in the zoning text for affordable housing units to be made available to the general public. This shows they are supportive of the UAP concept but want stronger guarantees.\n\n8. The testimony doesn't mention other key points from the reference talking points such as parking minimums, transit-oriented development, \"town center\" zoning, office-to-residential conversions, or shared housing/SROs.\n\nOverall, while there is some alignment with the reference talking points, particularly regarding UAP and ADUs, the testimony focuses on specific concerns and suggestions that are not directly addressed in the provided talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "We voted in favor of the city of yes for housing opportunity with certain conditions.",
+                "analysis": "This quote shows general support for the proposal, which aligns with the overall sentiment of the reference talking points, although it's not identical to any specific point.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "We also believe that the ADU maximum square footage should be bumped from 800 square feet to 1200 square feet to allow for the potential for 2 bedroom ADUs.",
+                "analysis": "This quote relates to the ADU talking point in the reference, although it proposes a specific change not mentioned in the reference. It supports the general idea of expanding ADU options.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "We are extremely concerned that UAP as written does not include in the zoning text a requirement that Affordable housing units created with the bonus square footage be made available to the general public.",
+                "analysis": "This quote directly addresses the UAP talking point from the reference. While it expresses a concern not mentioned in the reference, it shows engagement with the UAP concept and a desire to strengthen its impact on affordable housing.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows some alignment with the reference talking points, particularly in its support for the City of Yes for Housing Opportunity proposal and its focus on Universal Affordability Preference (UAP) and Accessory Dwelling Units (ADUs). However, the testimony is more focused on specific concerns and suggestions for improvements rather than promoting the benefits outlined in the reference talking points.\n\nThe speaker supports the overall proposal but wants to see certain modifications, such as increased FAR in some zoning districts and larger ADUs. This aligns with the general spirit of the reference talking points about increasing housing density and options, but the specific suggestions are not mentioned in the reference.\n\nThe most significant overlap is in the discussion of UAP. While the reference talking points present UAP as a positive development for creating affordable housing, the testimony expresses concern about the lack of explicit guarantees for public access to these affordable units. This shows engagement with the concept but a desire for stronger implementation.\n\nIt's notable that the testimony doesn't mention many of the key points from the reference talking points, such as lifting parking minimums, transit-oriented development, \"town center\" zoning, office-to-residential conversions, or shared housing/SROs. This suggests that while there is some alignment, the testimony is not closely following the provided talking points.\n\nGiven these observations, the testimony can be classified as supporting some of the same goals as the reference talking points, but it is not closely aligned with the specific language or all the points made in the reference.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

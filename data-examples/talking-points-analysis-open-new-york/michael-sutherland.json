@@ -1,0 +1,45 @@
+{
+    "testimony": {
+        "name": "Michael Sutherland",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/michael-sutherland-from-open-plans-on-lifting",
+        "start_time_in_seconds": 2001.6682,
+        "end_time_in_seconds": 2156.429,
+        "for_or_against": "For",
+        "borough": "Brooklyn",
+        "neighborhood": "Deep Southern Brooklyn",
+        "stated_affiliations": [
+            "Open Plans"
+        ],
+        "key_points": [
+            "Lifting parking mandates will not ban parking, but allow it to be built where appropriate",
+            "Many cities across the US have already lifted parking mandates, including less transit-oriented cities",
+            "Buffalo's experience shows that lifting parking mandates works, with 47% of major developments including fewer parking spaces than previously required",
+            "In New York City, more parking than required has been built in areas with high car dependency",
+            "Parking mandates have driven up the cost of building and lowered the number of housing units built in areas with less car dependency",
+            "Lifting mandates will allow for more housing creation in areas where parking is unnecessary",
+            "Urges the inclusion of parking mandate reform in the City of Yes for Housing Opportunity initiative"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The testimony is given by Michael Sutherland, a policy analyst at Open Plans.\n2. He focuses specifically on parking mandate reform, which is one of the key points in the reference talking points.\n3. Sutherland argues for lifting parking mandates, which aligns closely with the \"Lifting Parking Minimums\" section of the reference talking points.\n4. He mentions that lifting parking mandates will not ban parking, but allow it to be built where appropriate. This directly mirrors a point in the reference talking points.\n5. Sutherland cites examples of other cities that have lifted parking mandates, including less transit-oriented cities like Austin, Birmingham, and Lexington. This aligns with the reference point that \"Cities across the country with much weaker public transit systems have already removed parking mandates.\"\n6. He discusses the case study of Buffalo, which lifted parking mandates in 2017, showing that parking is still built where it makes sense. This supports the reference point that \"This proposal will not restrict the creation of parking spaces, it simply will not require the construction of parking.\"\n7. Sutherland mentions that lifting mandates can lower the cost of building and increase the number of housing units, which aligns with several points in the reference talking points about reducing costs and increasing housing supply.\n8. He emphasizes that lifting mandates will allow more housing to be built in areas where parking is unnecessary, which supports the overall goal of increasing housing supply mentioned in the reference points.\n\nThe testimony is very closely aligned with the reference talking points on parking mandate reform. While it doesn't cover all the points mentioned in the reference document, it makes several identical arguments and uses similar reasoning.",
+        "talking_point_evidence": [
+            {
+                "quote": "Lifting parking mandates will not ban parking from being created. It simply allows parking to be built where it's appropriate, and evidence from other cities that are significantly less robust transit networks and ours shows that parking is still built where it's demanded.",
+                "analysis": "This quote directly mirrors the point in the reference talking points that states 'This proposal will not restrict the creation of parking spaces, it simply will not require the construction of parking. There will still be cases where parking will be built based on the needs of the community.' The language and argument are nearly identical.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "Parking mandates have been listed across the country in places you might expect like Seattle and San Francisco, but also in less likely places. Austin, Texas, Birmingham, Alabama, and Lexington, Kentucky.",
+                "analysis": "This quote supports the reference talking point that states 'Cities across the country with much weaker public transit systems have already removed parking mandates - NYC needs to catch up.' While the specific cities mentioned are different, the argument is the same.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "However, parking mandates have also shown the cost of building or parking mandates have also driven the cost of building parking mandates has lowered the amount of units built in developments in areas where there's less car dependency.",
+                "analysis": "This quote supports several points in the reference talking points about the cost of parking and its impact on housing supply. While not using the exact same language, it conveys the same idea that parking mandates increase costs and reduce the number of housing units that can be built.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony given by Michael Sutherland is very closely related to the reference talking points, particularly those concerning the lifting of parking mandates. The speaker makes several identical claims and arguments found in the reference talking points, often using similar language and reasoning. \n\nThe testimony focuses exclusively on the parking mandate reform aspect of the \"City of Yes for Housing Opportunity\" proposal, which is one of the key points in the reference talking points. The speaker's arguments align closely with those provided in the reference document, including the idea that lifting mandates won't ban parking but allow it to be built where appropriate, citing examples of other cities that have implemented similar reforms, and discussing the potential benefits in terms of increased housing supply and reduced costs.\n\nWhile the testimony doesn't cover all the points mentioned in the reference document about parking mandates (such as specific cost figures or the environmental impact), it does make several identical arguments and uses very similar reasoning. The language and structure of some arguments are remarkably similar to those in the reference talking points, suggesting a high degree of alignment.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}

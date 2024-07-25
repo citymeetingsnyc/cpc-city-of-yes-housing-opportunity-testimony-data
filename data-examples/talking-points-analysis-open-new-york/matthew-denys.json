@@ -1,0 +1,52 @@
+{
+    "testimony": {
+        "name": "Matthew Denys",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/matthew-denys-from-open-new-york-on-comprehensive",
+        "start_time_in_seconds": 48818.4,
+        "end_time_in_seconds": 48975.258,
+        "for_or_against": "For",
+        "borough": "Brooklyn",
+        "neighborhood": "Flatbush",
+        "stated_affiliations": [
+            "Open New York"
+        ],
+        "key_points": [
+            "The city is in a deep housing crisis with high prices getting worse",
+            "The proposal is a step in the right direction, though not enough to fix the entire housing shortage",
+            "The proposal will allow more housing to be built, including affordable housing",
+            "Town Center zoning will support small businesses",
+            "Lifting parking mandates will help reduce car subsidies and traffic",
+            "The transit-oriented development element is limited but a good start",
+            "Current zoning restrictions prevent building apartment buildings similar to existing historic ones in Flatbush",
+            "More ambitious building near transit is needed to meet housing demands",
+            "The proposal should be approved to address the urgency of the housing crisis"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Matthew Denys, is from Open New York and supports the City of Yes for Housing Opportunity proposal.\n\n2. He mentions several key points that align with the reference talking points:\n   a. Universal Affordability Preference (UAP)\n   b. Lifting parking mandates\n   c. Transit-oriented development (TOD)\n   d. Town Center zoning (indirectly mentioned)\n\n3. On UAP, he mentions \"much needed affordable housing via the universal affordability preference,\" which aligns with the reference talking points.\n\n4. On lifting parking mandates, he strongly supports this, mentioning how current minimums subsidize cars and increase traffic. This closely aligns with the reference talking points.\n\n5. On TOD, he discusses how the proposal seems limited but is a step in the right direction. He mentions that in his neighborhood, historic apartment buildings wouldn't be allowed under the current proposal, suggesting a desire for even more density near transit.\n\n6. He indirectly mentions Town Center zoning by saying it \"will support small businesses that provide so much to our neighborhoods.\"\n\n7. The speaker doesn't mention ADUs, office-to-residential conversions, or shared housing/SROs.\n\nOverall, the testimony aligns closely with several key points from the reference talking points, especially on parking mandates and the general need for more housing. The speaker seems to want even more aggressive measures in some areas, like TOD.",
+        "talking_point_evidence": [
+            {
+                "quote": "And all of the elements of this proposal are clear in 3 months till the zoning code and will allow and will allow a bit more housing to be built, including much needed affordable housing via the universal affordability preference.",
+                "analysis": "This quote directly mentions the Universal Affordability Preference (UAP) and its role in creating affordable housing, which is a key point in the reference talking points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Lifting parking mandates will also help. Right? Because the way that it currently works with the minimums that we have that subsidizes cars and increases traffic, which we don't know we have way too much of already in a city where less than half of households even have a car.",
+                "analysis": "This quote strongly aligns with the reference talking points on lifting parking minimums, mentioning how current minimums subsidize cars and increase traffic, which are key arguments in the talking points.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "And moving on to transit oriented development. The element in this proposal seems very limited to me, both in terms of it doesn't apply to many lots in the areas that are near transit, and the size of the buildings is pretty small.",
+                "analysis": "While this quote discusses transit-oriented development, which is a key point in the reference talking points, the speaker actually criticizes the proposal for not going far enough. This shows alignment with the general idea but a desire for more aggressive measures.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Beyond simply adding homes, the proposal has other positive impacts, such as the way that Town Center is zoning, will support small businesses that provide so much to our neighborhoods.",
+                "analysis": "This quote briefly mentions Town Center zoning and its support for small businesses, which aligns with the reference talking points on this topic, though it doesn't go into as much detail.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony is closely related to the reference talking points, often making similar claims and arguments, particularly regarding lifting parking mandates and the need for more housing, including affordable housing. The speaker supports the City of Yes for Housing Opportunity proposal and discusses several key elements that align with the reference talking points, such as Universal Affordability Preference, lifting parking mandates, transit-oriented development, and Town Center zoning.\n\nHowever, the testimony doesn't cover all the points mentioned in the reference talking points (e.g., ADUs, office-to-residential conversions, shared housing/SROs), and in some cases, like transit-oriented development, the speaker suggests that the proposal doesn't go far enough. This indicates that while there is strong alignment, it's not a perfect match to the reference talking points.\n\nThe language used is not identical to the reference talking points, suggesting that the speaker is not directly reading from them but rather expressing similar ideas in their own words. This lends authenticity to the testimony while still aligning closely with the organization's key messages.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

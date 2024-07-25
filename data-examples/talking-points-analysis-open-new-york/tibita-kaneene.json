@@ -1,0 +1,63 @@
+{
+    "testimony": {
+        "name": "Tibita Kaneene",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/tibita-kaneene-from-manhattan-community-board-7-on",
+        "start_time_in_seconds": 27158.594,
+        "end_time_in_seconds": 27339.496,
+        "for_or_against": "For",
+        "borough": "Manhattan",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Manhattan Community Board 7"
+        ],
+        "key_points": [
+            "Strong support for City of Yes with some caveats and suggestions",
+            "Concerns about potential reduction in affordable units due to replacing voluntary inclusionary housing with UAP",
+            "Suggestion for 20% FAR credits for off-site preservation of affordable housing",
+            "Opposition to eliminating public hearings and review by elected officials",
+            "General approval of eliminating obstacles to quality housing developments in non-contextual zoning districts, but with community input",
+            "Support for conversion of nonresidential buildings to residences, with suggested 35-year age requirement",
+            "Approval of creating R11 and R12 district designations, subject to ULURP and mandatory 30% affordable housing",
+            "Disapproval of miscellaneous amendments without additional information",
+            "Disapproval of certain proposals for low-density districts",
+            "Overall support for City of Yes as it addresses the district's top need of affordable housing"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Tibita Kaneene, represents Manhattan Community Board 7 and expresses strong support for City of Yes, with some caveats.\n\n2. They mention UAP (Universal Affordability Preference) and express concern about it potentially resulting in fewer affordable units in their district.\n\n3. They support allowing FAR credits for off-site preservation of affordable housing.\n\n4. They emphasize the importance of public hearings and community input.\n\n5. They generally approve of the elimination of obstacles to quality housing developments in non-contextual zoning districts.\n\n6. They support the conversion of nonresidential buildings to residences, with a suggestion for buildings at least 35 years old.\n\n7. They approve of the creation of R11 and R12 district designations with conditions.\n\n8. They express disapproval of some proposals for low-density districts.\n\n9. They conclude by emphasizing their support for creating more affordable housing.\n\nNow, let's compare this to the reference talking points:\n\n1. The testimony touches on UAP, which is a key point in the reference talking points. However, the speaker expresses some reservations, while the talking points are overwhelmingly positive about UAP.\n\n2. The testimony doesn't mention parking minimums, transit-oriented development, or \"town center\" zoning, which are significant points in the reference talking points.\n\n3. The testimony briefly mentions conversion of nonresidential buildings to residences, which aligns with the office-to-residential conversion point in the reference talking points.\n\n4. The testimony doesn't discuss ADUs, shared housing, or SROs, which are covered in the reference talking points.\n\n5. Both the testimony and the reference talking points emphasize the importance of creating more affordable housing.\n\nGiven this analysis, while there is some alignment on certain points (particularly affordable housing and building conversions), the testimony doesn't cover many of the key points in the reference talking points and expresses some reservations about UAP. The overall alignment is moderate.",
+        "talking_point_evidence": [
+            {
+                "quote": "We strongly support City of Yes. But with a few caveats and suggestions that I'll go over now.",
+                "analysis": "This quote shows general support for the City of Yes proposal, which aligns with the overall positive tone of the reference talking points. However, the mention of 'caveats and suggestions' indicates that the support is not as unequivocal as the reference talking points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "We think the replacing voluntary inclusion of housing with UAP may result in fewer affordable units in our 10 and special purpose districts.",
+                "analysis": "This quote directly addresses the UAP (Universal Affordability Preference) mentioned in the reference talking points. However, it expresses concern about its potential negative impact, which contrasts with the wholly positive presentation in the talking points.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            },
+            {
+                "quote": "We generally approve, but we think that nothing should proceed without community input.",
+                "analysis": "This quote, while showing general approval for some aspects of the proposal, emphasizes the importance of community input. This is not directly addressed in the reference talking points, which focus more on the benefits of the proposals.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            },
+            {
+                "quote": "For number 3, which is elimination of obstacles to quality housing developments and non contextual zoning districts.",
+                "analysis": "This quote aligns with the general theme of the reference talking points about making it easier to build housing, although it doesn't specifically match any of the detailed points provided.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "And then finally, the proposals for low density districts We disapproved for the elimination of the requirement of the building to be situated north coast in 30 feet from the landline.",
+                "analysis": "This quote expresses disapproval for changes in low-density districts, which doesn't align with the reference talking points that generally support increased density and flexibility in zoning.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            },
+            {
+                "quote": "I'd just like to end by saying that for years, our number one district need has been the patient affordable housing. So overall, we're very pleased with City of Yes. I think that it does goes a long way towards creating more affordable housing for our district and for the whole city.",
+                "analysis": "This quote strongly aligns with the reference talking points' emphasis on the need for affordable housing and the potential of City of Yes to address this need.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            }
+        ],
+        "analysis": "The testimony shows a mixed level of alignment with the reference talking points. While there is strong agreement on the overall goal of creating more affordable housing and general support for the City of Yes proposal, the testimony diverges from the reference talking points in several ways:\n\n1. It expresses reservations about the Universal Affordability Preference (UAP), while the talking points are wholly positive about it.\n2. It emphasizes the importance of community input and public hearings, which is not a focus of the reference talking points.\n3. The testimony doesn't mention several key points from the reference talking points, such as parking minimums, transit-oriented development, ADUs, and shared housing.\n4. It expresses disapproval for some changes in low-density districts, which doesn't align with the talking points' support for increased density and flexibility.\n\nHowever, there are also areas of alignment:\n1. General support for the City of Yes proposal.\n2. Approval of converting non-residential buildings to residences.\n3. Strong emphasis on the need for affordable housing.\n\nGiven these factors, the testimony supports some of the same goals as the reference talking points but diverges on specific implementation details and doesn't cover many of the key points. The alignment is moderate, showing support for the overall direction but with significant differences in specific areas.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

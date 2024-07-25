@@ -1,0 +1,45 @@
+{
+    "testimony": {
+        "name": "Sachi Takahashi-Rial",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/sachi-takahashi-rial-board-member-of-open-new-york",
+        "start_time_in_seconds": 41157.12,
+        "end_time_in_seconds": 41328.14,
+        "for_or_against": "For",
+        "borough": "Manhattan",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Open New York",
+            "Manhattan Community Board 5"
+        ],
+        "key_points": [
+            "New York City is issuing fewer housing units per capita than other large cities, including San Francisco",
+            "Support for the entire City of Yes for Housing Opportunity policy package",
+            "Particular support for the universal affordability preference",
+            "Support for allowing office to residential conversion, especially beneficial for Midtown",
+            "Support for more flexible transfer of air rights for landmarks",
+            "The policy changes will make New York City more accessible and inclusive"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Sachi Takahashi-Rial, introduces herself as a board member of Open New York and Manhattan Community Board 5, speaking in her individual capacity.\n\n2. She mentions living in San Francisco, which was known for its high housing costs, and compares it to New York City.\n\n3. She states that New York City's housing is expensive not just because of its amenities, but because of insufficient housing production. This aligns with the general premise of the reference talking points about the need for more housing.\n\n4. The speaker explicitly supports the entire \"City of Yes for Housing Opportunity\" policy package, which is the focus of the reference talking points.\n\n5. She specifically mentions support for the Universal Affordability Preference (UAP), which directly corresponds to one of the main talking points provided.\n\n6. The speaker emphasizes office-to-residential conversion, which is another key point in the reference talking points.\n\n7. She mentions the policy for landmarks to transfer air rights more flexibly, which isn't directly addressed in the provided talking points but aligns with the general theme of increasing housing opportunities.\n\n8. The speaker's overall message about making New York City accessible and inclusive aligns with the general tone and goals expressed in the talking points.\n\nGiven these observations, there seems to be a high alignment between the testimony and the reference talking points, particularly on UAP and office-to-residential conversion.",
+        "talking_point_evidence": [
+            {
+                "quote": "I support the entire policy package in the city of yes for housing opportunity. And in particular, the universal affordability preference since it creates permanent affordable housing and works hand in hand with state tax breaks to bring more housing and especially more affordable housing to our community.",
+                "analysis": "This quote directly supports the Universal Affordability Preference (UAP) talking point. The speaker uses similar language about creating permanent affordable housing and bringing more housing to the community. The mention of working with state tax breaks also aligns with the talking point about making developments easier to finance.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "I also especially support allowing office to residential conversion. I spend most of my time in Midtown, which is an area that would really benefit from having this option. Again, this policy works hand in hand with the state's program to pay for affordable housing in office to residential conversion.",
+                "analysis": "This quote directly supports the Office-to-Residential conversion talking point. The speaker mentions the state program to pay for affordable housing in these conversions, which is identical to a point made in the reference talking points.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "In fact, in the last decade, New York City issued fewer housing units per capita than nearly every other large city including 40% fewer units than San Francisco.",
+                "analysis": "While this quote doesn't directly correspond to a specific talking point, it supports the overall premise of the need for more housing production in New York City, which is a theme throughout the reference talking points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows a very close relationship to the reference talking points. The speaker explicitly supports the \"City of Yes for Housing Opportunity\" policy package and specifically mentions two key elements that are identical to the reference talking points: the Universal Affordability Preference (UAP) and office-to-residential conversion. The language used and the arguments made are very similar to those in the talking points, particularly regarding the creation of permanent affordable housing and the alignment with state programs. The speaker's overall message about the need for more housing production and making New York City more accessible aligns closely with the themes in the talking points. While the testimony doesn't cover all the points mentioned in the reference document, the ones it does address are presented in a nearly identical manner.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}

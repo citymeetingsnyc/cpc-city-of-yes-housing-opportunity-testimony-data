@@ -1,0 +1,44 @@
+{
+    "testimony": {
+        "name": "Pedro Rodriguez",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/pedro-rodriguez-from-queens-community-board-6-on",
+        "start_time_in_seconds": 20551.828,
+        "end_time_in_seconds": 20744.824,
+        "for_or_against": "For",
+        "borough": "Queens",
+        "neighborhood": "Forest Hills",
+        "stated_affiliations": [
+            "Queens Community Board 6"
+        ],
+        "key_points": [
+            "Support for City of Yes to address the housing crisis",
+            "Neighborhood character is defined by people, not buildings",
+            "Need for a regional solution to housing problems, not piecemeal approaches",
+            "Removal of parking minimums to allow for more diverse and affordable housing options",
+            "Concern for future generations' ability to afford housing in New York City",
+            "Opposition to misinformation about the proposal"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Pedro Rodriguez, is speaking in support of the City of Yes proposal.\n2. He mentions personal experiences related to the housing crisis, including family and friends leaving the city.\n3. He addresses the argument about neighborhood character, saying it's about people, not buildings.\n4. He argues for a regional solution rather than a neighborhood-by-neighborhood approach.\n5. He specifically mentions removing parking minimums, which aligns with one of the reference talking points.\n6. He discusses how removing parking minimums can lead to smaller, more affordable housing developments.\n7. He expresses concern for future generations' ability to find housing in the city.\n\nNow, let's compare this to the reference talking points:\n\n1. The testimony strongly aligns with the \"Lifting Parking Minimums\" talking point.\n2. There are elements that support the general idea of increasing housing supply and affordability, which is present in multiple talking points.\n3. The testimony doesn't specifically mention other elements like Universal Affordability Preference, Transit-Oriented Development, or Accessory Dwelling Units.\n4. The speaker's emphasis on regional solutions and concern for future generations aligns with the overall spirit of the City of Yes proposal.\n\nGiven this analysis, the testimony shows a high alignment with the reference talking points, particularly on the issue of parking minimums. While it doesn't cover all the specific points, it strongly supports the general direction and goals of the City of Yes proposal.",
+        "talking_point_evidence": [
+            {
+                "quote": "We need to remove parking minimums. They make low height, high density housing that we are actually quite used to here in New York City. Impossible to build nowadays.",
+                "analysis": "This quote directly addresses the issue of parking minimums, which is a key point in the reference talking points. The speaker argues for their removal, aligning closely with the 'Lifting Parking Minimums' talking point.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "By eliminating parking minimums, then we can not only not only help the environment by encouraging other modes of transportation, but we also allowed the kind of small scale, small lot apartment developments that are cheaper to create. So they're their shipper for their renters, but they also blend better into the low density neighborhoods, which they're trying to move into.",
+                "analysis": "This quote elaborates on the benefits of removing parking minimums, mentioning environmental benefits and the potential for more affordable housing. This aligns closely with several points in the 'Lifting Parking Minimums' section of the reference talking points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Now some say that this proposal is gonna damage the character of the neighborhood, quote a quote, but a neighborhood character a neighborhood character is his people, not the trees and the buildings.",
+                "analysis": "While this quote doesn't directly reference a specific talking point, it addresses a common concern about neighborhood character. This aligns with the general spirit of the City of Yes proposal, which aims to increase housing supply and affordability.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony is very closely related to the reference talking points, particularly in its strong support for removing parking minimums. The speaker makes many of the same arguments found in the reference talking points, such as how parking minimums make it difficult to build affordable housing and how their removal could lead to more environmentally friendly development. While the testimony doesn't cover all the specific points mentioned in the reference document, it strongly supports the overall goals of the City of Yes proposal, emphasizing the need for more affordable housing and regional solutions to the housing crisis. The language and arguments used suggest that the speaker is well-informed about the issues and may be drawing from similar sources or perspectives as the reference talking points.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}

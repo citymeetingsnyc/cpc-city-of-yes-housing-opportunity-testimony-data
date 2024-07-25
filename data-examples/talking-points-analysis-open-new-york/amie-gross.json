@@ -1,0 +1,44 @@
+{
+    "testimony": {
+        "name": "Amie Gross",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/amie-gross-president-of-amie-gross-architects-on",
+        "start_time_in_seconds": 32429.93,
+        "end_time_in_seconds": 32695.068,
+        "for_or_against": "For",
+        "borough": "Queens",
+        "neighborhood": "Glen Oaks",
+        "stated_affiliations": [
+            "Amie Gross Architects"
+        ],
+        "key_points": [
+            "The cost to construct affordable housing has increased drastically",
+            "Building larger buildings (more units) reduces the cost per unit",
+            "New safety regulations increase construction costs",
+            "Economy of scale is crucial for affordable housing development",
+            "Non-profit developers need to build more units to make projects financially viable",
+            "Increasing building size in the same zoning lot can lead to more affordable rents"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Amie Gross, is an architect specializing in affordable and supportive housing.\n2. She emphasizes the need for affordable housing and the increasing costs of construction.\n3. The main point she makes is that building larger buildings (more units) can help reduce the cost per unit, making housing more affordable.\n4. She mentions that changing the scale of buildings is part of the solution, which aligns with the City of Yes proposal.\n5. Gross discusses how certain regulations, while necessary, increase costs, and these costs can be better absorbed by larger projects.\n6. She argues that building larger buildings in the same zoning lot can lead to economies of scale, resulting in lower rents.\n\nNow, let's compare this to the reference talking points:\n\n1. The testimony aligns closely with the Universal Affordability Preference (UAP) talking point, which mentions allowing extra floor area for affordable housing.\n2. The speaker's emphasis on the need for more affordable housing and the benefits of larger buildings aligns with the UAP's point about denser buildings being worth it for new affordable housing.\n3. While the testimony doesn't directly mention parking minimums, transit-oriented development, or other specific points, it does support the general idea of allowing larger and denser buildings to create more affordable housing.\n4. The testimony doesn't contradict any of the reference talking points and generally supports the idea of zoning changes to facilitate more affordable housing construction.",
+        "talking_point_evidence": [
+            {
+                "quote": "To us, a big part of the solution is to change the scale and that's what the city of yes will allow.",
+                "analysis": "This quote directly references the City of Yes proposal and aligns with the UAP talking point about allowing extra floor area for affordable housing. It supports the idea of changing zoning to allow for larger buildings.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "For example, to construct an apartment building of 50 units cost a lot more per unit than constructing a building of 75 units.",
+                "analysis": "This quote supports the UAP talking point about denser buildings being worth it to get new affordable housing. It explains the economic rationale behind allowing larger buildings.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "So the simple math is you construct a larger building, you spend less per unit, you charge less rent.",
+                "analysis": "This quote directly supports the idea behind the UAP, explaining how larger buildings can lead to more affordable housing. It aligns closely with the talking point about denser buildings being beneficial for affordability.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            }
+        ],
+        "analysis": "The testimony is closely related to the reference talking points, particularly the Universal Affordability Preference (UAP). While it doesn't cover all the points mentioned in the reference talking points, it strongly supports the core idea of allowing larger, denser buildings to create more affordable housing. The speaker, an architect specializing in affordable housing, provides professional insight into how zoning changes allowing for larger buildings can lead to more cost-effective and affordable housing construction. This aligns well with the UAP's emphasis on extra floor area for affordable housing and the benefits of slightly denser buildings. The testimony doesn't contradict any of the reference talking points and provides additional economic reasoning to support the proposed changes.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

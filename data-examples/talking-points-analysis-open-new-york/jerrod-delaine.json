@@ -1,0 +1,59 @@
+{
+    "testimony": {
+        "name": "Jerrod Delaine",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/jerrod-delaine-ceo-of-delaine-companies-and",
+        "start_time_in_seconds": 25884.207,
+        "end_time_in_seconds": 26075.86,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Delaine Companies",
+            "Pratt",
+            "NYU"
+        ],
+        "key_points": [
+            "The current housing situation is not good and not improving",
+            "Creating more housing supply will help address the housing crisis",
+            "Public-private engagement strategy is needed to solve housing issues",
+            "Universal affordability preference program is a good step to incentivize investors and developers",
+            "Ending parking mandates will help incentivize housing creation",
+            "Allowing ADUs will provide homeowners with additional revenue opportunities",
+            "Faith-based organizations can contribute to improving communities through housing and economic development",
+            "More affordable housing is needed, both rental and ownership",
+            "Urgent solutions are required to address the current housing crisis"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step and compare it with the reference talking points:\n\n1. The speaker, Jerrod Delaine, acknowledges the current housing crisis and the need for urgent solutions.\n2. He mentions several key points that align with the reference talking points:\n   a. Creating more housing supply\n   b. The Universal Affordability Preference program\n   c. Ending parking mandates\n   d. Allowing ADUs (Accessory Dwelling Units)\n   e. Involving faith-based organizations in housing development\n3. Let's look at the specific alignments:\n   a. Universal Affordability Preference: The speaker mentions this as \"a good step in the right direction\" to incentivize investors and developers.\n   b. Lifting Parking Minimums: The testimony supports this, stating it will help incentivize housing creation instead of parking.\n   c. ADUs: The speaker supports this, mentioning it will allow homeowners to provide more space and additional revenue legally.\n   d. The speaker emphasizes the need for both rental and affordable homeownership options.\n4. The testimony doesn't explicitly mention Transit-Oriented Development, \"Town Center\" Zoning, Office-to-Residential conversions, or Shared Housing (SROs).\n5. However, the overall tone and message of the testimony strongly support the general direction of the \"City of Yes for Housing Opportunity\" proposal.\n\nBased on this analysis, the testimony shows a high alignment with the reference talking points, even though it doesn't cover all the specific points mentioned in the reference document.",
+        "talking_point_evidence": [
+            {
+                "quote": "I think the universal affordability preference program is a good step in the right direction as a way to incentivize you know, investors and developers to build and create more housing in the city.",
+                "analysis": "This quote directly mentions and supports the Universal Affordability Preference program, which is one of the key talking points in the reference document.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "Ending the parking mandates, another solution that will help incentivize the creation of warehousing instead of creating more parking. You know, it's it doesn't say you're not allowed to build parking on products where parking is feasible. It makes the most sense. Developers can do that, but it doesn't have to be a roadblock to stop a project because it can't build enough parking on-site.",
+                "analysis": "This quote closely aligns with the talking point about lifting parking minimums. It emphasizes the benefits of removing mandatory parking requirements while still allowing developers to build parking where it makes sense.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Allowing ADUs will allow some homeowners to New York City to provide more space in their property for additional revenue legally. So this gives them a path into just the right way and then a safe way.",
+                "analysis": "This quote directly supports the talking point about Accessory Dwelling Units (ADUs). It highlights the benefits for homeowners, which aligns with the reference talking points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Faith based organizations wanna be a part of improving these communities, City of YESQ helps create a path to do so both in creating housing as well as economic development of communities.",
+                "analysis": "While this quote doesn't directly match any specific talking point, it supports the overall goal of the City of Yes proposal to create more housing opportunities and improve communities.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            },
+            {
+                "quote": "We need more affordable housing, both rental housing, as well as affordable home ownership. We should work together to do so, both with public initiatives as well as private participation.",
+                "analysis": "This quote aligns with the overall theme of the talking points, emphasizing the need for more affordable housing options and collaboration between public and private sectors.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony is very closely related to the reference talking points, often making the same claims and arguments. While it doesn't cover all the specific points mentioned in the reference document, the language and arguments used are very similar, and it is plausible that the person is using the reference talking points in their testimony. The speaker, Jerrod Delaine, explicitly mentions and supports key elements of the \"City of Yes for Housing Opportunity\" proposal, including the Universal Affordability Preference program, ending parking mandates, and allowing ADUs. The overall message of the testimony strongly aligns with the goals and rationale presented in the reference talking points, emphasizing the urgent need for more housing, both affordable rentals and homeownership opportunities, and the importance of public-private collaboration in addressing the housing crisis.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "testimony": {
+        "name": "Christie Peale",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/christie-peale-from-the-center-for-new-york-city",
+        "start_time_in_seconds": 31613.75,
+        "end_time_in_seconds": 31797.129,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Center for New York City Neighborhoods",
+            "MHD"
+        ],
+        "key_points": [
+            "Support for City of YES Housing proposal with conditions",
+            "Potential to increase affordable homeownership opportunities, especially for coops and condos",
+            "Opportunity to leverage new capital funds with zoning changes to increase affordable homeownership supply",
+            "Need to address racial disparities in homeownership rates",
+            "Support for creation of ADUs (Accessory Dwelling Units) for homeowners",
+            "Importance of dedicated funding for outreach, technical assistance, and construction financing for ADUs",
+            "Focus on reducing gentrification pressures and helping families stay in their communities",
+            "Need to fight against predatory pressures like defect speculation"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Christie Peale, represents the Center for New York City Neighborhoods, which focuses on affordable homeownership.\n\n2. They support the City of YES Housing proposal with conditions.\n\n3. The testimony mentions new homeowner opportunities, specifically coops and condos, to expand access to generational wealth building.\n\n4. They highlight the racial disparity in homeownership rates among New Yorkers.\n\n5. The speaker mentions the potential for creating Accessory Dwelling Units (ADUs) for homeowners.\n\n6. They emphasize the need for dedicated funding for outreach, technical assistance, and construction financing for ADUs.\n\n7. The testimony mentions the Blackcomb ownership project to ensure Black and Brown families build generational wealth.\n\n8. They stress the importance of increasing affordable homeownership to reduce pressures on gentrifying areas.\n\nComparing this to the reference talking points:\n\n- The testimony aligns closely with the ADU talking point, mentioning the potential benefits for homeowners and the need for support.\n- The focus on affordable homeownership and racial disparities relates to the overall theme of affordability in the reference points, though it's not explicitly mentioned in the same way.\n- The testimony doesn't directly address other specific points like Universal Affordability Preference, lifting parking minimums, Transit-Oriented Development, \"Town Center\" zoning, office-to-residential conversions, or shared housing.\n\nGiven this analysis, the testimony shows some alignment with the reference talking points, particularly on ADUs and general affordability concerns, but it's not a high alignment across all points.",
+        "talking_point_evidence": [
+            {
+                "quote": "There's the potential to align with the center's efforts and many others to ensure New Yorkers have equitable access to newly developed affordable homeownership, specifically coops and condos, to expand access to generational wealth building opportunities especially for New Yorkers who have been shut out of homeownership.",
+                "analysis": "This quote supports the general theme of affordability present in the reference talking points, although it focuses specifically on homeownership rather than rental housing. It aligns with the overall goals of creating more affordable housing opportunities.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Their 1,400,000, 1 to 4 family homes in the city, and many of these families could benefit from the opportunity to create ADUs. However, we really must emphasize that without a dedicated funding for outreach technical assistance and construction financing, If we allow for ADUs without those pieces, we're just going to increase the racial disparities across communities.",
+                "analysis": "This quote directly addresses the Accessory Dwelling Units (ADUs) talking point. It supports the idea of allowing ADUs but emphasizes the need for additional support to ensure equitable implementation. This aligns closely with the reference talking point on ADUs.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows some alignment with the reference talking points, particularly in relation to Accessory Dwelling Units (ADUs) and general affordability concerns. However, it doesn't cover many of the specific points mentioned in the reference talking points, such as Universal Affordability Preference, lifting parking minimums, Transit-Oriented Development, \"Town Center\" zoning, office-to-residential conversions, or shared housing.\n\nThe testimony focuses heavily on affordable homeownership and addressing racial disparities in homeownership, which aligns with the overall theme of affordability present in the reference talking points. However, the specific approaches and solutions mentioned in the testimony differ from those in the reference points.\n\nThe strongest alignment is with the ADU talking point, as the testimony directly addresses the potential benefits and challenges of implementing ADUs. The speaker supports the idea but emphasizes the need for additional support and funding to ensure equitable implementation.\n\nWhile the testimony supports the City of YES Housing proposal with conditions, it doesn't delve into many of the specific zoning changes mentioned in the reference talking points. Instead, it focuses on the potential impact on homeownership opportunities and the need for measures to protect existing homeowners and communities.\n\nGiven these observations, the testimony can be classified as supporting the talking points to some extent, but it doesn't show high alignment across all points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

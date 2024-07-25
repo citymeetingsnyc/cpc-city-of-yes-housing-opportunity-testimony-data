@@ -1,0 +1,48 @@
+{
+    "testimony": {
+        "name": "Marlee Busching",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/marlee-busching-from-hudson-companies-on-city-of",
+        "start_time_in_seconds": 23527.596,
+        "end_time_in_seconds": 23652.475,
+        "for_or_against": "For",
+        "borough": "Brooklyn",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Hudson Companies"
+        ],
+        "key_points": [
+            "City of Yes for Housing Opportunity can address New York City's housing and affordability crisis",
+            "Removing parking minimum requirements would allow consideration of more sites for development",
+            "Universal affordability preference will allow developers to increase density and address housing shortage",
+            "ADUs and town centers zoning could enhance low-density neighborhoods",
+            "City of Yes can lead to a more diverse and inclusive city"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "1. The testimony is from Marlee Busching, Managing Director of Development at Hudson Companies.\n2. The testimony focuses on two main aspects of the City of Yes proposal: removing parking minimum requirements and the universal affordability preference.\n3. These aspects align closely with the reference talking points on \"Lifting Parking Minimums\" and \"Universal Affordability Preference (UAP)\".\n4. The speaker also briefly mentions ADUs and town centers zoning, which relate to other talking points.\n5. Let's analyze the specific points made in the testimony and compare them to the reference talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "The provision to remove parking minimum requirements would allow us to consider sites for development that we must currently rule out.",
+                "analysis": "This quote directly supports the talking point about lifting parking minimums. It demonstrates how current parking requirements are limiting housing development, which is a key argument in the reference talking points.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "We are currently underwriting various sites for workforce housing that pencil in a city of yes scenario, but do not without. That means we might pass on the opportunity to build 100 of units of housing due to the onerous parking requirements the zoning resolution currently mandates.",
+                "analysis": "This quote further elaborates on the impact of parking requirements, providing a specific example of how it affects housing development. This aligns closely with the talking points about parking minimums making some developments infeasible.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Additionally, the universal affordability preference will allow for developers like Hudson to increase the density of a given site do more to address the housing shortage. Requiring rents to be affordable to households earning no more than 60% AMI will go a long way in reducing the number of rent burden holds in New York City.",
+                "analysis": "This quote directly addresses the Universal Affordability Preference (UAP) talking point. It supports the idea that UAP will lead to more affordable housing and higher density, which aligns with the reference talking points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "That would be one of the few places throughout the city where ADUs and town centers zoning could be applied. These zoning changes will be accretive to my neighborhood and not detract from the character, but rather enhance it.",
+                "analysis": "This quote briefly mentions ADUs and town centers zoning, which are topics covered in the reference talking points. While not elaborating on them in detail, it supports the positive view of these changes presented in the talking points.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            }
+        ],
+        "analysis": "The testimony shows a high level of alignment with the reference talking points, particularly on the topics of lifting parking minimums and the Universal Affordability Preference (UAP). The speaker, Marlee Busching from Hudson Companies, uses arguments that are very similar to those provided in the talking points, especially when discussing the impact of parking requirements on housing development and the benefits of the UAP for increasing affordable housing.\n\nThe testimony provides specific examples and real-world implications of the proposed changes, which strongly support the arguments made in the reference talking points. For instance, the speaker mentions how current parking requirements are causing them to pass on opportunities to build housing, which directly aligns with the talking points about parking mandates making some developments infeasible.\n\nWhile the testimony doesn't cover all aspects of the talking points (such as Transit-Oriented Development, Office-to-Residential conversions, or Shared Housing), it does briefly touch on ADUs and town centers zoning, showing familiarity with other aspects of the City of Yes proposal.\n\nThe language used by the speaker, while not identical to the talking points, conveys very similar ideas and arguments. This suggests that the speaker may be well-informed about the talking points or is drawing from similar sources of information.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "testimony": {
+        "name": "Alexander McCoy",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/alexander-mccoy-marine-corps-veteran-on-city-of",
+        "start_time_in_seconds": 44547.625,
+        "end_time_in_seconds": 44736.562,
+        "for_or_against": "For",
+        "borough": "Manhattan",
+        "neighborhood": "Upper Manhattan",
+        "stated_affiliations": [
+            "Marine Corps",
+            "Open New York"
+        ],
+        "key_points": [
+            "Support for City of Yes initiative, especially for its benefits to veterans",
+            "Current housing prices and rent are unaffordable for many veterans, even with generous benefits",
+            "Exclusionary zoning forces veterans to live in substandard conditions or have long commutes",
+            "New York City has a lower percentage of veterans per capita due to housing issues",
+            "Some community members exploit veterans as props against building new homes",
+            "City of Yes program should be implemented in full to address these issues"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Alexander McCoy, is a disabled veteran and member of Open New York.\n2. He expresses enthusiastic support for \"City of Yes\" in its entirety.\n3. He focuses on how the current zoning system and housing shortage affects veterans.\n4. He provides an example of a 100% disabled veteran's family income and their struggle to afford housing in NYC.\n5. He mentions that veterans attending colleges using GI bill benefits can only afford about $1700 in rent.\n6. He argues that exclusionary zoning forces veterans to live in substandard conditions with long commutes.\n7. He supports the measures of the City of Yes program in full.\n\nNow, let's compare this to the reference talking points:\n\n1. The testimony doesn't directly mention Universal Affordability Preference (UAP), but it aligns with the goal of creating more affordable housing.\n2. Lifting Parking Minimums isn't explicitly mentioned, but the overall support for City of Yes implies support for this measure.\n3. Transit-Oriented Development (TOD) is indirectly supported by mentioning the need for veterans to have shorter commutes.\n4. \"Town Center\" Zoning isn't directly addressed.\n5. Accessory Dwelling Units (ADUs) aren't specifically mentioned.\n6. Office-to-Residential conversions aren't discussed.\n7. Shared Housing (SROs) isn't explicitly mentioned, but the testimony's focus on affordability aligns with this concept.\n\nThe testimony mostly focuses on the need for affordable housing for veterans, which aligns with the overall goals of the City of Yes program, even if it doesn't explicitly mention many of the specific proposals.",
+        "talking_point_evidence": [
+            {
+                "quote": "I'd like to express my enthusiasm stick support for city of yes in its entirety",
+                "analysis": "This quote directly expresses support for the entire City of Yes program, which includes all the reference talking points. While it doesn't go into specifics, it shows a high level of alignment with the overall goals of the program.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "The exclusionary restrictive zoning of much of New York City forces veterans to live in substandard conditions and have lengthy lengthy commutes.",
+                "analysis": "This quote aligns with the goals of Transit-Oriented Development (TOD) and the overall aim of the City of Yes program to reduce exclusionary zoning. It supports the idea of creating more housing opportunities near transit to reduce commute times.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "That means that that family and that veteran can only afford a monthly rent. Or mortgage expense of $2950 a month in order to not be considered rent burden. And that's too low to afford to live in many areas of our city and also means that home ownership is unrealistic and unthinkable at current housing prices.",
+                "analysis": "While this quote doesn't directly reference a specific talking point, it strongly supports the overall goal of the City of Yes program to create more affordable housing options. It aligns with the intent behind measures like UAP, TOD, and Shared Housing.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows a strong support for the City of Yes program, particularly in its goals to address housing affordability and accessibility. While the speaker doesn't explicitly mention many of the specific proposals outlined in the reference talking points, his overall message aligns well with the program's objectives.\n\nThe testimony focuses primarily on the challenges faced by veterans in finding affordable housing in New York City, which is a specific angle not directly addressed in the reference talking points. However, this perspective reinforces the need for the various measures proposed in the City of Yes program.\n\nThe speaker's emphasis on the negative impacts of exclusionary zoning and the need for more affordable housing options in different areas of the city aligns well with several of the program's proposals, such as Transit-Oriented Development, Universal Affordability Preference, and the concept of Shared Housing.\n\nWhile the testimony doesn't go into the technical details of the proposals, it provides a strong emotional and practical argument for why such changes are necessary, using the experiences of veterans as a compelling example.\n\nOverall, the testimony supports the City of Yes program and its goals, even if it doesn't explicitly reference each individual proposal.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

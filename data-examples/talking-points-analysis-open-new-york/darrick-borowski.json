@@ -1,0 +1,45 @@
+{
+    "testimony": {
+        "name": "Darrick Borowski",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/darrick-borowski-architect-and-member-of-the",
+        "start_time_in_seconds": 9264.07,
+        "end_time_in_seconds": 9427.902,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "AIA"
+        ],
+        "key_points": [
+            "Current zoning code from 1961 has contributed to the housing crisis",
+            "Changing codes is necessary to create affordable housing for all incomes",
+            "Supports proposals in the plan such as bonuses for affordability, housing over retail, legalizing shared living, small apartments, ADUs, and eliminating parking requirements",
+            "Housing affordability is crucial for maintaining New York City's vitality and cultural diversity",
+            "Many New Yorkers, including young professionals and creatives, are struggling to afford housing",
+            "Acknowledges concerns about increased density but believes prioritizing housing creation is necessary",
+            "Urges commissioners to vote yes for City of Yes for Housing Opportunity"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Step 1: Review the testimony transcript and identify key points.\nStep 2: Compare these key points with the reference talking points.\nStep 3: Identify specific quotes that align with or support the reference talking points.\nStep 4: Analyze the overall alignment between the testimony and the talking points.\n\nStep 1: Key points from the testimony:\n- Support for City of Yes for Housing Opportunity\n- Current zoning code (from 1961) has contributed to the housing crisis\n- Need to change codes to create affordable housing for all incomes\n- Support for proposals like bonuses for affordability, housing over retail, legalizing shared living, small apartments, ADUs, and eliminating parking requirements\n- Concern about rising housing costs forcing people to leave the city\n- Acknowledgment of worries about higher density impacting quality of life\n- Emphasis on the need to prioritize creating housing\n\nStep 2 & 3: Comparing with reference talking points and identifying quotes:\n\n1. The testimony strongly supports the \"City of Yes for Housing Opportunity\" plan, which aligns with the overall message of the reference talking points.\n\n2. Elimination of parking requirements:\nQuote: \"and eliminating parking requirements, and that's why I'm here in support of the city of yes for housing opportunity.\"\nThis directly aligns with the \"Lifting Parking Minimums\" talking point.\n\n3. Support for ADUs:\nQuote: \"In this draft, I see proposals that enable many of the possibilities my colleagues students and IFCS tools to help us get get us out of this current crisis, including bonuses for affordability, housing over retail in town centers, legalizing shared living, small apartments, ADUs,\"\nThis supports the \"Accessory Dwelling Units (ADUs)\" talking point.\n\n4. Town Center Zoning:\nThe same quote above mentions \"housing over retail in town centers,\" which aligns with the \"Town Center Zoning\" talking point.\n\n5. Shared Housing (SROs):\nThe quote above also mentions \"legalizing shared living,\" which supports the \"Shared Housing\" talking point.\n\n6. Transit-Oriented Development:\nWhile not explicitly mentioned, the overall support for increased density and housing opportunities aligns with the spirit of the TOD talking point.\n\nStep 4: Overall alignment analysis\nThe testimony shows a high level of alignment with the reference talking points. The speaker explicitly supports many of the key elements mentioned in the talking points, such as eliminating parking requirements, allowing ADUs, promoting town center zoning, and legalizing shared living. While not all talking points are directly addressed, the overall message of supporting increased housing opportunities and changing zoning codes to address the housing crisis is consistent with the reference talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "and eliminating parking requirements, and that's why I'm here in support of the city of yes for housing opportunity.",
+                "analysis": "This quote directly supports the 'Lifting Parking Minimums' talking point. The speaker explicitly mentions eliminating parking requirements as a reason for supporting the City of Yes plan.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "In this draft, I see proposals that enable many of the possibilities my colleagues students and IFCS tools to help us get get us out of this current crisis, including bonuses for affordability, housing over retail in town centers, legalizing shared living, small apartments, ADUs,",
+                "analysis": "This quote supports multiple talking points, including ADUs, Town Center Zoning, and Shared Housing. The speaker lists these elements as positive aspects of the proposal that can help address the housing crisis.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "If we wanna create a city where people of all incomes can afford to live, we must change the codes.",
+                "analysis": "While not directly referencing a specific talking point, this quote aligns with the overall message of the reference talking points, emphasizing the need for code changes to address affordability issues.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows a high level of alignment with the reference talking points. The speaker, Darrick Borowski, explicitly supports many key elements mentioned in the talking points, such as eliminating parking requirements, allowing ADUs, promoting town center zoning, and legalizing shared living. While not all talking points are directly addressed, the overall message of supporting increased housing opportunities and changing zoning codes to address the housing crisis is consistent with the reference talking points.\n\nThe testimony provides strong support for the City of Yes for Housing Opportunity plan, which encompasses many of the individual talking points. The speaker's background as an architect and member of the housing committee lends credibility to his support for these zoning changes.\n\nWhile the testimony doesn't go into as much detail on each point as the reference talking points do, it does touch on several key aspects and expresses enthusiasm for the proposed changes. The speaker's personal experiences and observations about the housing crisis in New York City further reinforce the need for the proposed changes.\n\nIt's worth noting that the testimony also acknowledges potential concerns about increased density, showing an understanding of the challenges while still advocating for the necessary changes. This balanced approach aligns with the overall tone of the reference talking points, which aim to address potential objections while emphasizing the benefits of the proposed changes.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}

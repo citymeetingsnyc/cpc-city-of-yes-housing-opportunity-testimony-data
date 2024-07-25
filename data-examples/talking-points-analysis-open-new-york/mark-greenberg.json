@@ -1,0 +1,48 @@
+{
+    "testimony": {
+        "name": "Mark Greenberg",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/mark-greenberg-from-interfaith-assembly-on",
+        "start_time_in_seconds": 42672.05,
+        "end_time_in_seconds": 42858.438,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Interfaith Assembly on Homelessness And Housing",
+            "Interfaith Affordable Housing Collaborative",
+            "Cathedral Church St. John the Divine"
+        ],
+        "key_points": [
+            "Supports the City of Yes for Housing Opportunity initiative as a bold and innovative plan",
+            "Emphasizes the need for affordable housing to address homelessness crisis",
+            "Highlights the increase in homeless population from under 10,000 to over 100,000 (including migrants)",
+            "Stresses the importance of safe, decent, affordable housing in rebuilding lives",
+            "Argues that inaction is not an option given the current housing crisis",
+            "Calls for New York's zoning rules to enable faith communities to contribute to housing solutions",
+            "Acknowledges fear of change but emphasizes that the status quo is more frightening for those struggling with housing",
+            "Urges bold action to address the affordability and homelessness crisis"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Mark Greenberg, represents faith-based organizations working on homelessness and affordable housing.\n2. He emphasizes the growing homelessness crisis in NYC, with numbers rising from 10,000 to over 100,000.\n3. Greenberg supports the City Planning's \"bold and innovative plan\" to address housing issues.\n4. He stresses the importance of enabling faith communities to contribute to solving the housing crisis through zoning changes.\n5. The speaker acknowledges that change can be frightening but argues that the status quo is more frightening for those struggling with housing.\n6. He emphasizes the need for housing at many income levels, particularly for the lowest-income New Yorkers.\n7. Greenberg uses religious references to call for action in addressing the housing crisis.\n\nNow, let's compare this to the reference talking points:\n\n1. The testimony doesn't directly mention specific proposals like UAP, parking minimums, or TOD.\n2. However, the overall message aligns with the general theme of the talking points - the need for bold action to address the housing crisis.\n3. The speaker's emphasis on housing for many income levels, especially low-income residents, aligns with the UAP talking point about creating more affordable housing.\n4. The testimony doesn't go into specific policy details, but it strongly supports the overall goal of increasing housing opportunities, which is the core of the \"City of Yes for Housing Opportunity\" proposal.\n5. The religious framing of the testimony adds a moral imperative to act, which isn't present in the talking points but supports their overall goals.\n\nGiven this analysis, while the testimony doesn't use the same language or specific policy proposals as the talking points, it strongly supports their overall aims and the need for significant change in housing policy.",
+        "talking_point_evidence": [
+            {
+                "quote": "New York City should do no less. New York's faith community stands ready to do our part, but we need New York zoning rules to enable us to do so.",
+                "analysis": "This quote supports the general theme of the talking points about changing zoning rules to enable more housing development. While it doesn't mention a specific policy, it aligns with the overall goal of the 'City of Yes for Housing Opportunity' proposal.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "City of yes, for for housing opportunities and enabling housing for many income levels, will mean that more of the lowest income New Yorkers will have greater opportunity to rebuild their lives and give back to our great city.",
+                "analysis": "This quote directly references the 'City of Yes' proposal and emphasizes housing for various income levels, particularly low-income residents. This aligns closely with the UAP talking point about creating more affordable housing.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "US New Yorkers must seize this moment to act and act boldly",
+                "analysis": "While not using the same language, this sentiment echoes the overall tone of the talking points, which emphasize the need for significant changes to address the housing crisis.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony is generally supportive of the 'City of Yes for Housing Opportunity' proposal and aligns with the overall goals presented in the reference talking points. While the speaker doesn't delve into specific policy details or use the same language as the talking points, there is a clear emphasis on the need for bold action to address the housing crisis, particularly for low-income residents.\n\nThe testimony frames the issue from a faith-based perspective, adding a moral imperative to act that isn't present in the talking points but supports their overall aims. The speaker's call for zoning changes to enable faith communities to contribute to solving the housing crisis aligns with the general thrust of the talking points, even if specific policies aren't mentioned.\n\nThe testimony's emphasis on housing for many income levels, particularly for the lowest-income New Yorkers, resonates with the UAP talking point about creating more affordable housing. However, the testimony doesn't go into the level of detail found in the talking points about specific policies like lifting parking minimums, transit-oriented development, or office-to-residential conversions.\n\nOverall, while the testimony doesn't make the exact same claims as the talking points, it strongly supports their general direction and the need for significant change in housing policy. The alignment is clear, even if the specific language and policy details differ.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

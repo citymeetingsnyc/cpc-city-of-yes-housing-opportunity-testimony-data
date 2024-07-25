@@ -1,0 +1,45 @@
+{
+    "testimony": {
+        "name": "Alex Armlovich",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/alex-armlovich-housing-policy-manager-at-niskanen",
+        "start_time_in_seconds": 44760.3,
+        "end_time_in_seconds": 44935.383,
+        "for_or_against": "For",
+        "borough": "Queens",
+        "neighborhood": "Jackson Heights",
+        "stated_affiliations": [
+            "Niskanen Center",
+            "Jackson Heights Historic District"
+        ],
+        "key_points": [
+            "Endorses every component of the City of Yes initiative",
+            "Concerned that the transit-oriented component allowing 3-5 story buildings near mass transit may not be enough",
+            "Argues that 3 stories near transit is too small for New York City, comparing it unfavorably to Washington DC's height limits",
+            "Believes the proposal will meet 20% of Mayor Adams' housing goal, but visible changes to neighborhoods will be minimal",
+            "Calls for bigger Transit-Oriented Development (TOD) to reach 500,000 units and restore MTA ridership to 2019 levels",
+            "Supports the initiative but warns it may not be sufficient for New York City's needs as a global megacity"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Alex Armlovich, is from the Niskanen Center and endorses every component of the \"City of Yes\" proposal.\n\n2. He specifically mentions the transit-oriented development (TOD) component, which aligns with one of the reference talking points.\n\n3. However, he argues that the proposed 3-5 story buildings near mass transit are not enough for New York City, suggesting it should be higher. This differs slightly from the reference talking points, which support the TOD proposal as is.\n\n4. He mentions that the proposal will meet 20% of Mayor Adams' housing goal, which indirectly supports the overall aim of the \"City of Yes\" proposal to increase housing supply.\n\n5. The speaker doesn't directly mention other specific components of the \"City of Yes\" proposal that are in the reference talking points, such as Universal Affordability Preference, lifting parking minimums, \"Town Center\" zoning, ADUs, office-to-residential conversions, or shared housing.\n\n6. However, his general support for the proposal and emphasis on increasing housing supply aligns with the overall thrust of the reference talking points.\n\nGiven this analysis, the testimony partially aligns with the reference talking points, particularly on the need for transit-oriented development and increased housing supply, but diverges on the specifics of building height near transit.",
+        "talking_point_evidence": [
+            {
+                "quote": "I'm here to endorse every component of the city of yes.",
+                "analysis": "This quote shows general support for the entire 'City of Yes' proposal, which aligns with the overall message of the reference talking points. However, it doesn't mention any specific components.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "It's allowing just 3 to 5 story buildings near mass transit, and I'm concerned that it may not be enough.",
+                "analysis": "This quote directly relates to the Transit-Oriented Development (TOD) talking point. However, while the speaker supports TOD, he argues for taller buildings than what the proposal suggests, which slightly diverges from the reference talking point.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "City of Yes is essential, but it is a sensitive community development bill, not a radical envy bill. It will meet 20% of mayor Adams housing goal as we've heard today.",
+                "analysis": "This quote supports the overall aim of the 'City of Yes' proposal to increase housing supply, which aligns with the general theme of the reference talking points. However, it doesn't match exactly with any specific talking point.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows support for the \"City of Yes\" proposal and specifically addresses the Transit-Oriented Development (TOD) component. While the speaker endorses the overall proposal, he argues for taller buildings near transit than what is currently proposed. This shows a general alignment with the reference talking points, especially regarding the need for increased housing supply and TOD.\n\nHowever, the testimony doesn't directly address many of the specific components mentioned in the reference talking points, such as Universal Affordability Preference, lifting parking minimums, \"Town Center\" zoning, ADUs, office-to-residential conversions, or shared housing. The speaker's focus is primarily on the TOD aspect and the overall goal of increasing housing supply.\n\nThe testimony supports the general direction of the \"City of Yes\" proposal but suggests that it could go further in terms of building height near transit. This indicates that while there is alignment with the core ideas, the speaker believes the proposal could be more ambitious in some aspects.\n\nGiven these observations, the testimony can be classified as supporting the talking points, but not showing high alignment due to the limited coverage of specific components and the push for more ambitious TOD guidelines.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

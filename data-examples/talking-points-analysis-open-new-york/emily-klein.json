@@ -1,0 +1,62 @@
+{
+    "testimony": {
+        "name": "Emily Klein",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/emily-klein-from-community-preservation",
+        "start_time_in_seconds": 23247.469,
+        "end_time_in_seconds": 23431.703,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Community Preservation Corporation"
+        ],
+        "key_points": [
+            "New York is experiencing a housing crisis with low vacancy rates and high rent burdens",
+            "Outdated zoning regulations and exclusionary practices have led to insufficient housing development",
+            "City of Yes for Housing Opportunity provides a citywide roadmap to build more housing in every neighborhood",
+            "The proposal updates zoning codes to meet current housing needs and promote equitable neighborhoods",
+            "Specific proposals include reintroducing Town Center zoning, allowing apartment buildings near transit, permitting accessory dwelling units",
+            "Introduction of Universal Affordability Preference to increase affordable housing",
+            "Removal of parking mandates, allowing conversion of non-residential buildings to housing, and permitting smaller shared housing",
+            "The proposals are designed to match existing neighborhood character while addressing outdated regulations",
+            "Urges the commission to approve City of Yes for Housing Opportunity as currently written"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Emily Klein from Community Preservation Corporation, strongly supports the City of Yes for Housing Opportunity proposal.\n\n2. She mentions several key points that align with the reference talking points:\n   - The housing crisis in New York City\n   - The need for more housing in every neighborhood\n   - Updating zoning codes to unlock development\n   - Reintroducing Town Centre zoning\n   - Allowing 3 to 5 story apartment buildings near transit (Transit-Oriented Development)\n   - Permitting accessory dwelling units (ADUs)\n   - Introducing Universal Affordability Preference (UAP)\n   - Removing parking mandates\n   - Allowing conversions of non-residential buildings to housing\n\n3. The testimony closely aligns with many of the reference talking points, often using similar language and arguments.\n\n4. Let's identify specific instances of alignment:\n\n   a) Universal Affordability Preference (UAP):\n      The speaker mentions this by name and supports its affordability levels.\n\n   b) Lifting Parking Minimums:\n      The testimony mentions removing \"costly parking mandates,\" which directly aligns with this talking point.\n\n   c) Transit-Oriented Development (TOD):\n      The speaker mentions allowing \"3 to 5 story apartment buildings with a half mile of subway and rail stations,\" which is very similar to the TOD talking point.\n\n   d) \"Town Center\" Zoning:\n      The testimony explicitly mentions reintroducing \"Towne Centre zoning to allow Ground Floor Commercial with 2 to 4 stories of housing above.\"\n\n   e) Accessory Dwelling Units (ADUs):\n      The speaker mentions permitting ADUs to \"give homeowners the flexibility to adopt their homes to meet their families needs.\"\n\n   f) Office-to-Residential:\n      The testimony mentions allowing \"for the conversions of non residential buildings to housing.\"\n\n5. The overall tone and argument of the testimony strongly aligns with the reference talking points, advocating for comprehensive zoning changes to address the housing crisis.",
+        "talking_point_evidence": [
+            {
+                "quote": "City of Yes would introduce universal affordability preference, which will allow buildings to add at least 20% more housing if those additional homes are permanently affordable at 60% of area median income. We strongly support UAP and its affordability levels, which would specifically serve lower income New Yorkers.",
+                "analysis": "This quote directly mentions and supports the Universal Affordability Preference (UAP) talking point. It uses very similar language and arguments, emphasizing permanent affordability and serving lower-income New Yorkers.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "City of Yes includes city wide proposals to remove costly parking mandates",
+                "analysis": "This quote directly aligns with the 'Lifting Parking Minimums' talking point. While it doesn't go into as much detail as the reference, it uses the same core argument about removing parking requirements.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "For low density neighborhoods, CVS would reintroduce Towne Centre zoning to allow Ground Floor Commercial with 2 to 4 stories of housing above.",
+                "analysis": "This quote closely matches the 'Town Center Zoning' talking point. It uses similar language and describes the same concept of mixed-use buildings with commercial ground floors and housing above.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "It would allow 3 to 5 story apartment buildings with a half mile of subway and rail stations",
+                "analysis": "This quote supports the 'Transit-Oriented Development' talking point. While it doesn't use the exact term 'TOD', it describes the same concept of allowing small apartment buildings near transit stations.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "would permit accessory dwelling units give homeowners the flexibility to adopt their homes to meet their families needs.",
+                "analysis": "This quote directly mentions and supports the 'Accessory Dwelling Units' talking point. While it doesn't go into as much detail, it uses the same core argument about flexibility for homeowners.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "allow for the conversions of non residential buildings to housing",
+                "analysis": "This quote aligns with the 'Office-to-Residential' talking point. While it's more general and doesn't specify office buildings, it supports the same concept of converting non-residential buildings to housing.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony is very closely related to the reference talking points, often making the same claims and arguments. The speaker, Emily Klein from Community Preservation Corporation, explicitly supports the City of Yes for Housing Opportunity proposal and covers almost all of the main points mentioned in the reference talking points.\n\nThe testimony uses similar language and arguments for several key points, including Universal Affordability Preference (UAP), lifting parking minimums, Transit-Oriented Development (TOD), \"Town Center\" zoning, Accessory Dwelling Units (ADUs), and office-to-residential conversions. In some cases, the testimony uses nearly identical language to the reference talking points.\n\nWhile the testimony doesn't go into as much detail on each point as the reference talking points do, it presents a comprehensive overview that aligns very closely with the provided talking points. The overall message and rationale for supporting the zoning changes are consistent with the reference material.\n\nIt's highly plausible that the speaker is using the reference talking points or very similar materials in their testimony, given the close alignment in both content and language.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}

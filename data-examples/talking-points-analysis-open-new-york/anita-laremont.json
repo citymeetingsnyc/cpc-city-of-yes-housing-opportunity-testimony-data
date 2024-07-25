@@ -1,0 +1,45 @@
+{
+    "testimony": {
+        "name": "Anita Laremont",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/anita-laremont-partner-at-fried-frank-law-firm-on",
+        "start_time_in_seconds": 20170.943,
+        "end_time_in_seconds": 20354.996,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Fried Frank Law Firm",
+            "REBNY"
+        ],
+        "key_points": [
+            "Support for the City of Yes for Housing Opportunity proposal",
+            "Proposal facilitates housing development to address critical housing supply needs",
+            "Concern about the elimination of the voluntary inclusionary housing and inclusionary housing certificate program",
+            "Suggestion for a 15-year vesting period for existing certificates and an additional 10 years for their sale and use",
+            "Concern that transitioning to UAP in R10 districts may effectively result in down zoning",
+            "Urges careful consideration of rules to ensure they further housing development rather than diminish it"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Anita Laremont, expresses support for the \"City of Yes for Housing Opportunity\" proposal.\n\n2. She mentions several key points that align with the reference talking points:\n   - Need for more housing supply\n   - Allowing greater density where appropriate\n   - Expanding office to residential conversion opportunities\n   - Eliminating costly parking requirements\n   - Providing affordable housing through universal affordability preference\n\n3. The speaker specifically discusses the Universal Affordability Preference (UAP) program, which is mentioned in the reference talking points.\n\n4. She expresses concern about the elimination of the current voluntary inclusionary housing and inclusionary housing certificate program, suggesting a transition period.\n\n5. The speaker mentions that transitioning to UAP in R10 districts might effectively be a down-zoning, which is not directly addressed in the reference talking points.\n\n6. While the testimony aligns with several key points from the reference talking points, it also includes additional concerns and suggestions not present in the provided talking points.\n\nGiven this analysis, let's identify specific quotes that align with the reference talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "This proposal embodies approaches to facilitate the development of housing, which remains really an existential issue for our city. We are in a critical need of significantly more housing supply.",
+                "analysis": "This quote directly supports the overall goal of the 'City of Yes for Housing Opportunity' proposal, which is to increase housing supply. It aligns with the general sentiment expressed in multiple talking points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "And this proposal moves boldly forward in allowing for growth through establishing new zoning districts that will permit greater density where appropriate, expanding opportunities for office to residential conversion, eliminating costly parking requirements and providing for affordable housing in many additional neighborhoods through universal affordability preference among other changes.",
+                "analysis": "This quote directly mentions several key points from the reference talking points, including increasing density, office-to-residential conversion, eliminating parking requirements, and universal affordability preference. The language is not identical, but the points are very closely aligned.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "Today, certificates exist in the marketplace, and projects that will generate certificates are planned or are underway. I believe that it's important to provide a significant 15 year vesting period certificates to continue to be generated and an additional 10 years for those certificates to be sold in use.",
+                "analysis": "While this quote discusses the inclusionary housing certificate program, which is not directly mentioned in the reference talking points, it relates to the broader topic of affordable housing development. However, the specific concern about transitioning away from this program is not addressed in the talking points.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            }
+        ],
+        "analysis": "The testimony shows a significant alignment with the reference talking points, particularly in supporting the overall goals of the \"City of Yes for Housing Opportunity\" proposal. The speaker, Anita Laremont, explicitly mentions and supports several key elements of the proposal that are also highlighted in the reference talking points, such as increasing housing supply, allowing greater density, expanding office-to-residential conversions, eliminating parking requirements, and implementing the Universal Affordability Preference (UAP) program.\n\nHowever, the testimony also includes concerns and suggestions that are not present in the reference talking points, particularly regarding the transition away from the current voluntary inclusionary housing and inclusionary housing certificate program. This indicates that while the speaker is generally supportive of the proposal, she has some reservations about specific implementation details.\n\nThe level of similarity between the testimony and the reference talking points is high in terms of overall support for the proposal and its main objectives. However, the testimony provides a more nuanced perspective, including potential challenges and suggestions for implementation that are not covered in the reference talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

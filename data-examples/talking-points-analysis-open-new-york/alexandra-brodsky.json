@@ -1,0 +1,46 @@
+{
+    "testimony": {
+        "name": "Alexandra Brodsky",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/alexandra-brodsky-on-city-of-yes-for-housing",
+        "start_time_in_seconds": 48182.965,
+        "end_time_in_seconds": 48252.36,
+        "for_or_against": "For",
+        "borough": "Brooklyn",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [],
+        "key_points": [
+            "The root of NYC's housing crisis is a housing shortage",
+            "City of Yes for Housing Opportunity is an elegant solution to add more housing in every neighborhood",
+            "The plan can create a lot of new housing without drastic changes to any one community",
+            "Failing to act will lead to more gentrification, displacement, segregation, and longer commutes",
+            "Urges the commission to vote yes on City of Yes and support the strongest possible version"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "1. The testimony is brief but touches on several key points that align with the reference talking points.\n2. The speaker explicitly supports the \"City of Yes for Housing Opportunity\" proposal.\n3. They mention the root cause of the housing crisis as a housing shortage, which aligns with the overall theme of the reference talking points.\n4. The testimony emphasizes the need for more housing and making it easier to build, which is a common thread across all the reference talking points.\n5. While the testimony doesn't go into specific details about the various aspects of the proposal (like UAP, parking minimums, TOD, etc.), it does express support for the general concept of adding more housing in every neighborhood.\n6. The speaker mentions potential consequences of inaction, such as gentrification, displacement, and segregation, which indirectly relates to the benefits described in the reference talking points.\n7. The testimony doesn't use the exact language or specific examples from the reference talking points, but the overall message aligns with the pro-housing stance.",
+        "talking_point_evidence": [
+            {
+                "quote": "I think the sort of straightforward problem is that at the root of our city's housing crisis is a has sing a shortage and to solve it, we need a lot of new housing.",
+                "analysis": "This quote directly addresses the core issue that the reference talking points are trying to solve. It aligns with the general theme of all the talking points, which is to increase housing supply.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "And CBBS is an elegant solution by adding a little more housing in every neighborhood We can get a lot of new housing without drastic changes to any one community.",
+                "analysis": "This quote supports the overall strategy of the City of Yes proposal, which aims to add housing across different neighborhoods. It particularly aligns with the Transit-Oriented Development and Town Center Zoning points, which propose adding small-scale housing in various areas.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "To solve our housing shot housing shortage, we need to make it easier to build housing.",
+                "analysis": "This statement directly supports the overall goal of the City of Yes proposal, which aims to make it easier to build housing through various means such as lifting parking minimums, allowing ADUs, and facilitating office-to-residential conversions.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "More gentrification, more displacement, more segregation, longer commutes from further away, a Manhattan that looks more and more like a gated community.",
+                "analysis": "While not directly quoting the reference talking points, this statement outlines potential negative consequences that the City of Yes proposal aims to address. It indirectly supports the arguments for Transit-Oriented Development and Town Center Zoning, which aim to create more diverse, accessible communities.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            }
+        ],
+        "analysis": "The testimony shows a moderate level of alignment with the reference talking points. While it doesn't go into specific details about the various aspects of the City of Yes proposal, it strongly supports the overall goal of increasing housing supply and making it easier to build housing in New York City.\n\nThe speaker's main arguments align with the general themes present in the reference talking points, such as addressing the housing shortage, adding housing across different neighborhoods, and preventing negative consequences like gentrification and displacement.\n\nHowever, the testimony lacks specific references to individual components of the proposal (such as UAP, parking minimums, TOD, etc.) that are detailed in the reference talking points. The language used is more general and doesn't mirror the specific examples or data points provided in the talking points.\n\nDespite this, the overall message and intent of the testimony clearly support the City of Yes proposal, which is the primary focus of the reference talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

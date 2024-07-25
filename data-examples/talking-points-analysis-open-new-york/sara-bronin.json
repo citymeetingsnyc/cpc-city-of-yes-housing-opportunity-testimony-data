@@ -1,0 +1,45 @@
+{
+    "testimony": {
+        "name": "Sara Bronin",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/sara-bronin-chair-of-the-advisory-council-on",
+        "start_time_in_seconds": 7642.7695,
+        "end_time_in_seconds": 7805.732,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Advisory Council on Historic Preservation"
+        ],
+        "key_points": [
+            "The proposal aligns with ACHP's federal historic preservation policy",
+            "Support for legalizing conversion of nonresidential structures for residential uses",
+            "Support for legalization of accessory dwelling units to increase density in historic neighborhoods",
+            "Elimination of parking minimums is a positive step",
+            "Changes to rules concerning transfer of development rights from landmark buildings can provide financial support for rehabilitation",
+            "Changes to how historic campuses are treated could help utilize excess land for new density without demolition",
+            "The proposal leverages the city's historic built environment to support housing"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. Sara Bronin speaks as the chair of the Advisory Council on Historic Preservation (ACHP), which adopted a policy statement on housing and historic preservation.\n\n2. The ACHP's policy aims to promote historic preservation to boost housing supply, meet sustainability goals, and utilize community assets effectively.\n\n3. Bronin mentions that the ACHP has reviewed the proposed changes to New York's zoning resolution and finds several aspects aligned with their federal historic preservation policy:\n\n   a. Legalizing the conversion of non-residential structures for residential uses\n   b. Legalizing accessory dwelling units (ADUs)\n   c. Eliminating parking minimums\n   d. Changes to rules concerning the transfer of development rights from landmark buildings\n   e. Changes to how historic campuses are treated\n\n4. Let's compare these points with the reference talking points:\n\n   a. Office-to-Residential conversion aligns with the first point Bronin mentions.\n   b. ADUs are directly mentioned in both the testimony and the reference talking points.\n   c. Lifting Parking Minimums is explicitly mentioned in both.\n   d. The transfer of development rights and treatment of historic campuses are not directly mentioned in the reference talking points.\n\n5. The testimony focuses more on the historic preservation aspect, while the reference talking points cover a broader range of topics related to housing and zoning changes.\n\n6. There is significant overlap in the support for ADUs and eliminating parking minimums, with similar reasoning provided in both the testimony and the reference talking points.\n\n7. The testimony does not mention some key aspects of the reference talking points, such as Universal Affordability Preference, Transit-Oriented Development, \"Town Center\" Zoning, or Shared Housing.\n\nGiven this analysis, we can conclude that there is a moderate level of alignment between the testimony and the reference talking points, with some key areas of overlap but also some significant differences in focus and scope.",
+        "talking_point_evidence": [
+            {
+                "quote": "2nd, the legalization of accessory dwelling units can increase density in historic neighborhoods without demolition while providing much needed housing.",
+                "analysis": "This quote directly supports the reference talking point on Accessory Dwelling Units (ADUs). Both the testimony and the talking points emphasize the benefit of adding housing without significant changes to existing structures.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "3rd, the elimination of parking minimums. It's a positive step for the city. We talk about that too in the housing policy statement.",
+                "analysis": "This quote aligns closely with the reference talking point on Lifting Parking Minimums. Both the testimony and the talking points view this as a positive change, though the testimony doesn't go into the detailed reasoning provided in the talking points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "First, ACHP policy supports stoning changes to legalize the conversion of nonresidential structures for residential uses As you've seen in the financial district, this can have tremendous impact in ensuring our historic resources continue to serve our community.",
+                "analysis": "This quote relates to the Office-to-Residential conversion talking point. While the testimony focuses on the historic preservation aspect, it supports the same concept of converting non-residential structures to residential use.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony by Sara Bronin, representing the Advisory Council on Historic Preservation, shows a moderate level of alignment with the provided reference talking points. While there are some clear areas of overlap, particularly regarding Accessory Dwelling Units (ADUs) and the elimination of parking minimums, the testimony has a distinct focus on historic preservation that is not prominent in the reference talking points.\n\nThe testimony supports several key aspects of the \"City of Yes for Housing Opportunity\" proposal, including office-to-residential conversions, ADUs, and the elimination of parking minimums. These align with some of the reference talking points, showing a shared interest in increasing housing supply and making better use of existing structures.\n\nHowever, the testimony does not mention several important aspects of the reference talking points, such as Universal Affordability Preference, Transit-Oriented Development, \"Town Center\" Zoning, or Shared Housing. This suggests that while there is some alignment, the testimony is not comprehensively covering all the points that the reference talking points emphasize.\n\nThe testimony also brings up additional points related to historic preservation, such as the transfer of development rights from landmark buildings and the treatment of historic campuses, which are not mentioned in the reference talking points.\n\nGiven these observations, we can conclude that while there is some significant overlap, particularly in the areas of ADUs and parking minimums, the testimony is not fully aligned with all aspects of the reference talking points and has its own distinct focus on historic preservation.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

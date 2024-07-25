@@ -1,0 +1,46 @@
+{
+    "testimony": {
+        "name": "Marjorie Velazquez",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/marjorie-velazquez-vice-president-of-technyc-on",
+        "start_time_in_seconds": 10798.22,
+        "end_time_in_seconds": 10944.785,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Tech:NYC",
+            "Former NYC City Council Member"
+        ],
+        "key_points": [
+            "The housing crisis is making it difficult for the tech sector to attract and retain talent",
+            "Increasing housing supply, particularly affordable housing, will create a more inclusive city",
+            "City of Yes will make NYC more accessible to essential workers like teachers, nurses, firefighters, and sanitation workers",
+            "The proposal will foster innovation and economic growth by ensuring talented individuals can afford to live in NYC",
+            "Mixed-income housing creates more diverse and vibrant communities",
+            "The proposal is not one-size-fits-all and incorporates community input and context-sensitive planning",
+            "The status quo is not an option, and City of Yes is a bold step towards making NYC more affordable and accessible"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "1. The testimony discusses the housing crisis in NYC and its impact on various sectors, including tech.\n2. It mentions the need for increased housing supply, particularly affordable housing.\n3. The speaker supports the City of Yes proposal as a solution to the housing crisis.\n4. The testimony touches on themes of affordability, economic growth, and community diversity.\n5. Let's compare these points with the reference talking points:\n   - The testimony doesn't directly mention specific aspects of the City of Yes proposal like UAP, parking minimums, or TOD.\n   - However, it aligns with the overall goal of increasing housing supply and affordability.\n   - The speaker emphasizes the importance of affordable housing for various professions, which is in line with the UAP talking point.\n   - The testimony mentions the need for \"community input and context-sensitive planning,\" which relates to the careful approach described in the TOD talking point.\n   - The speaker doesn't discuss specific zoning changes or technical details found in the reference talking points.\n6. While the testimony supports the City of Yes proposal, it doesn't use the exact language or specific points from the reference talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "The city of YET's proposal offers a much needed solution by increasing the supply of housing, particularly next income housing, we can create a more inclusive city that benefits everyone.",
+                "analysis": "This quote supports the general idea of increasing housing supply and affordability, which is a theme present in many of the reference talking points. However, it doesn't use the specific language or details from any particular talking point.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "More housing options, including those debts, like, needed as affordable, will drive down overall housing costs, making us to be more accessible to teachers, nurses, firefighters, sanitation workers, and the countless others who keep New York City running",
+                "analysis": "This quote aligns with the Universal Affordability Preference (UAP) talking point, which emphasizes the importance of affordable housing. While it doesn't use the exact terminology, it supports the same general idea.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "I appreciate the community input and the contact sensitive planning that have gone to this process. Immunity and contact sensitive plan are essential. We can create new housing opportunity while preserving the unique character of our neighborhoods.",
+                "analysis": "This quote somewhat relates to the Transit-Oriented Development (TOD) talking point, which mentions that there's nothing out of context about small apartment buildings in NYC neighborhoods. The speaker's emphasis on preserving neighborhood character while creating new housing opportunities aligns with this idea, though not explicitly.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            }
+        ],
+        "analysis": "The testimony shows support for the City of Yes proposal and emphasizes the need for increased housing supply and affordability in NYC. While it aligns with the overall goals mentioned in the reference talking points, it doesn't use specific terminology or detailed arguments from those points. The speaker focuses more on the general benefits of the proposal, such as economic growth, talent retention, and community diversity, rather than discussing specific zoning changes or technical aspects of the plan.\n\nThe testimony does touch on some themes present in the reference talking points, particularly around affordability and the need for context-sensitive planning. However, it lacks the specific examples and detailed arguments provided in the reference talking points.\n\nOverall, while the testimony supports the same general direction as the reference talking points, it doesn't appear to be directly based on or closely following the provided talking points. The language and focus are different, suggesting that the speaker may have developed their arguments independently or based on other sources of information about the City of Yes proposal.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}
