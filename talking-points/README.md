@@ -1,3 +1,5 @@
+# Talking Points
+
 This directory contains talking points from:
 
 - Open Plans (supportive of the proposal)
