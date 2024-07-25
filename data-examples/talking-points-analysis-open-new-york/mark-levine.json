@@ -1,0 +1,52 @@
+{
+    "testimony": {
+        "name": "Mark Levine",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/manhattan-borough-president-mark-levine-on-city-of",
+        "start_time_in_seconds": 4265.615,
+        "end_time_in_seconds": 4604.8213,
+        "for_or_against": "For",
+        "borough": "Manhattan",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "New York City Government",
+            "Manhattan Borough President"
+        ],
+        "key_points": [
+            "The city is experiencing a severe housing shortage and high rents",
+            "Current zoning code from 1961 is an obstacle to building needed housing",
+            "City of Yes for Housing Opportunity would help alleviate the housing shortage",
+            "Universal Affordable Preference (UAP) would increase affordable housing stock",
+            "The proposal would reduce roadblocks for converting vacant offices to residential units",
+            "Changes would allow for development on large residential campuses, including those owned by faith-based organizations",
+            "Manhattan Borough Board approved 15 key recommendations in the proposal",
+            "The proposal could potentially catalyze the production of 100,000 new units"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Mark Levine, is the Manhattan Borough President, indicating a significant role in city governance.\n\n2. He strongly supports the \"City of Yes for Housing Opportunity\" proposal, which aligns with the overall message of the reference talking points.\n\n3. Levine mentions several key issues that directly relate to the reference talking points:\n   - Severe housing shortage and high rents\n   - Difficulty in converting office buildings to residences\n   - Prioritization of parking over apartments\n   - Lack of housing near transit hubs\n   - Prevention of apartments above stores in commercial districts\n   - Insufficient focus on affordable housing\n\n4. He specifically mentions and supports Universal Affordable Preference (UAP), which is a key point in the reference talking points.\n\n5. Levine discusses office-to-residential conversions, aligning with the reference talking points on this issue.\n\n6. He mentions reducing barriers for housing development on large residential campuses, which relates to the general theme of increasing housing supply.\n\n7. The testimony doesn't directly mention all points from the reference talking points (e.g., ADUs, SROs), but the overall message strongly aligns with the goal of increasing housing supply and affordability.\n\nGiven these observations, the testimony appears to have a high alignment with the reference talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "CBS for housing opportunity would help alleviate New York's severe housing shortage. By adding a little bit of housing in every neighborhood of the 5 boroughs.",
+                "analysis": "This quote directly supports the overall message of the reference talking points, which emphasize the need for more housing across the city. It aligns with the general theme present in multiple talking points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "The proposal for universal affordable pre affordability preference promises to significantly increase our affordable housing stock throughout Manhattan with a relatively low income target of 60% AMI.",
+                "analysis": "This quote directly references the Universal Affordability Preference (UAP) mentioned in the talking points. It highlights the potential for increasing affordable housing stock, which is a key aspect of the UAP talking point.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "City of Yes for housing opportunity would also reduce roadblocks for the conversion of vacant and underutilized offices into residential and unlock unlock a projected 6000 units over the next 16 years.",
+                "analysis": "This quote closely aligns with the office-to-residential conversion talking point. It mentions the same benefits of creating more housing through office conversions.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "Our current zoning code makes it hard to convert vacant office buildings to residences. It prioritizes construction of parking over apartments.",
+                "analysis": "This quote touches on two points from the reference talking points: office-to-residential conversions and the issue of parking minimums. While not using identical language, it supports the same arguments presented in the talking points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony by Manhattan Borough President Mark Levine is very closely related to the reference talking points. Levine's speech covers several key aspects mentioned in the talking points, including the Universal Affordability Preference (UAP), office-to-residential conversions, and the general need for increased housing supply and affordability across New York City.\n\nThe testimony makes identical claims to the reference talking points in some areas, particularly regarding UAP and office conversions. While not all points from the reference talking points are directly addressed (such as ADUs and SROs), the overall message and arguments presented by Levine strongly align with the goals and reasoning outlined in the talking points.\n\nLevine's position as a high-ranking city official adds weight to his testimony, and his support for the \"City of Yes for Housing Opportunity\" proposal closely mirrors the advocacy suggested in the reference talking points. The language and arguments used are similar enough to suggest that Levine may be familiar with or influenced by the same ideas presented in the reference talking points.\n\nGiven the strong alignment in key areas and the overall supportive stance towards increasing housing supply and affordability, it is plausible that Levine is using ideas similar to the reference talking points in his testimony.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}

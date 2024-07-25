@@ -1,0 +1,49 @@
+{
+    "testimony": {
+        "name": "Stan Liao",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/stan-liao-on-strong-support-for-city-of-yes-for",
+        "start_time_in_seconds": 52641.445,
+        "end_time_in_seconds": 52683.88,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [],
+        "key_points": [
+            "Strongly supports the City of Yes with no amendments",
+            "Long-time New York resident",
+            "Rent is extremely expensive in the city",
+            "Friends are moving away due to high costs",
+            "City is in an immense housing crisis",
+            "Urgently need to build more housing of all kinds",
+            "Supports CDBS plan",
+            "Looks forward to more affordable housing being built"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "To analyze how closely the testimony is related to the reference talking points, I'll go through the testimony and compare it to the main points in the reference document:\n\n1. The testifier, Stan Liao, strongly supports the \"City of Yes\" proposal without amendments.\n2. He mentions being a long-time New Yorker and loving the city.\n3. He points out that rent is extremely expensive in NYC.\n4. He notes that many of his friends have moved away due to high costs.\n5. He emphasizes that there is an \"immense housing crisis\" and an urgent need to build more housing of all kinds.\n6. He supports the CDBS plan (which might be a typo for YIMBY or another housing-related plan).\n7. He looks forward to more affordable housing being built in the city.\n\nComparing these points to the reference talking points:\n\n- The testimony aligns with the general theme of supporting more housing development and addressing the housing crisis, which is present throughout the reference talking points.\n- The mention of expensive rent and friends moving away due to costs supports the need for more affordable housing, which is addressed in the Universal Affordability Preference (UAP) section of the talking points.\n- The urgent need to build more housing \"of all kinds\" aligns with various sections of the talking points, including UAP, Transit-Oriented Development, and \"Town Center\" Zoning.\n- The support for more affordable housing being built aligns directly with the UAP section and is a theme throughout the talking points.\n\nHowever, the testimony does not specifically mention or elaborate on any of the detailed points from the reference talking points, such as parking minimums, transit-oriented development, or office-to-residential conversions. The testimony is more general in nature, focusing on the overall need for more housing and affordability.",
+        "talking_point_evidence": [
+            {
+                "quote": "I strongly support the city of yes with no amendments.",
+                "analysis": "This quote shows general support for the City of Yes proposal, which is the overarching theme of the reference talking points. However, it doesn't refer to any specific aspect of the proposal.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Rent is just extremely expensive here. A lot of my friends who would like to stay are moved to other places.",
+                "analysis": "This quote aligns with the general theme of the housing crisis and the need for more affordable housing, which is addressed in various sections of the talking points, particularly the Universal Affordability Preference (UAP) section.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "And, yeah, you know, like, I fully support Anadorse, the CDBS plan.",
+                "analysis": "This quote mentions support for a plan, but it's unclear what CDBS refers to. It might be a typo or a local plan not mentioned in the reference talking points. Without more context, it's difficult to determine how closely this relates to the reference talking points.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            },
+            {
+                "quote": "And I look forward to more affordable housing being built in this great city.",
+                "analysis": "This quote directly supports the creation of more affordable housing, which is a key theme in the reference talking points, particularly in the UAP section.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows support for the City of Yes proposal and emphasizes the need for more housing, particularly affordable housing, in New York City. While these themes align with the overall goals expressed in the reference talking points, the testimony lacks specific details or arguments that directly mirror the talking points.\n\nThe testifier expresses general support for increased housing development and affordability, which are central themes in the reference talking points. However, he doesn't mention any specific policies or proposals outlined in the talking points, such as the Universal Affordability Preference, lifting parking minimums, or transit-oriented development.\n\nThe testimony seems to come from personal experience and observation rather than from a detailed understanding of the specific policies proposed in the City of Yes plan. While it supports the overall direction of the plan, it doesn't demonstrate a high level of alignment with the specific arguments and points provided in the reference document.\n\nGiven these observations, the testimony can be classified as supporting the talking points in a general sense, but not showing high alignment with the specific details and arguments provided.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

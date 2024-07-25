@@ -1,0 +1,50 @@
+{
+    "testimony": {
+        "name": "Vishnu Reddy",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/vishnu-reddy-resident-of-sunnyside-queens-on",
+        "start_time_in_seconds": 42876.953,
+        "end_time_in_seconds": 42988.223,
+        "for_or_against": "For",
+        "borough": "Queens",
+        "neighborhood": "Sunnyside",
+        "stated_affiliations": [],
+        "key_points": [
+            "Support for City of Yes for Housing Opportunity",
+            "Skyrocketing rents in Sunnyside and across the city",
+            "Dire housing shortage affecting the city and region",
+            "Housing costs harming all but the wealthiest New Yorkers",
+            "Desire for New York to remain a welcoming city for vulnerable populations",
+            "City of Yes is a good start but more action is needed",
+            "Need for continued encouragement of home creation",
+            "Call for help from Albany to fund affordable housing and involve suburbs in housing creation",
+            "Appreciation for city planning staff and organizers working on housing issues"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Vishnu Reddy, expresses strong support for the \"City of Yes for Housing Opportunity\" proposal.\n\n2. They mention a housing shortage and increasing housing costs in their neighborhood and the city, which aligns with the general premise of the reference talking points.\n\n3. The speaker emphasizes the need for affordable housing and welcoming diverse groups of people, which relates to the Universal Affordability Preference (UAP) talking point.\n\n4. They mention that the proposal is \"a great step in the right direction,\" which echoes the positive sentiment in the reference talking points.\n\n5. The testimony doesn't specifically mention parking minimums, transit-oriented development, town center zoning, ADUs, office-to-residential conversions, or shared housing. However, the overall message of support for more housing aligns with these concepts.\n\n6. The speaker calls for continued action beyond this proposal, including encouraging more home creation and seeking help from Albany for affordable housing funding. This shows a broader understanding of the housing crisis, which is in line with the reference talking points' comprehensive approach.\n\n7. While the testimony doesn't use the exact language or specific examples from the reference talking points, it strongly supports the overall goal of increasing housing availability and affordability in New York City.\n\nBased on this analysis, we can conclude that the testimony supports the main ideas of the reference talking points, even though it doesn't explicitly mention many of the specific proposals.",
+        "talking_point_evidence": [
+            {
+                "quote": "I'm here to express my unequivocal support for the city, APS, for housing opportunity.",
+                "analysis": "This quote directly expresses support for the City of Yes for Housing Opportunity proposal, which is the overarching theme of the reference talking points. While it doesn't mention a specific talking point, it shows alignment with the general goal of the proposal.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "In my neighborhood of Sunnyside asking your hands to skyrocketed over the last few years, and the story has repeated itself all over the city this particular city and our region is facing a dire housing shortage of decades in the making.",
+                "analysis": "This quote aligns with the general premise of the reference talking points, which is that there is a housing shortage and affordability crisis in New York City. While it doesn't reference a specific talking point, it supports the rationale behind the various proposals.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "I want to live in a city that welcomes people seeking abortion in the post Roe era. I want to live in a city where queer folks can come to find safety and community. I wanna live in a city that gives hope to integrate seeking opportunity in a better life. We cannot have that city if only the wealthy can afford to live here.",
+                "analysis": "This quote indirectly supports the Universal Affordability Preference (UAP) talking point by emphasizing the need for affordable housing to maintain New York's reputation as a welcoming city for diverse groups. While it doesn't mention UAP directly, it aligns with the goal of creating more affordable housing options.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "City of yes is just a start. This proposal is a great step in the right direction, but it's not nearly enough to fill the gaps cause decades of underbuilding.",
+                "analysis": "This quote echoes the sentiment found in several of the reference talking points that describe their respective proposals as 'a great step forward.' It supports the overall message that the City of Yes proposal is positive but acknowledges that more action is needed.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows a strong alignment with the overall goals and sentiments expressed in the reference talking points, particularly in terms of addressing the housing shortage and affordability crisis in New York City. The speaker enthusiastically supports the City of Yes for Housing Opportunity proposal, which is the foundation of the reference talking points.\n\nWhile the testimony doesn't explicitly mention or discuss specific elements of the proposal such as parking minimums, transit-oriented development, or accessory dwelling units, it does emphasize the need for more affordable housing and welcoming diverse groups to the city. This aligns closely with the Universal Affordability Preference (UAP) talking point, even though it's not mentioned by name.\n\nThe speaker's call for continued action beyond this proposal, including encouraging more home creation and seeking help from Albany, demonstrates a broader understanding of the housing crisis that is consistent with the comprehensive approach outlined in the reference talking points.\n\nAlthough the testimony doesn't use the exact language or specific examples from the reference talking points, it strongly supports their main ideas and overall objective of increasing housing availability and affordability in New York City. The speaker's personal anecdotes and emphasis on the city's role as a safe harbor for vulnerable populations add a human element that reinforces the importance of the proposed changes.\n\nGiven these observations, the testimony can be classified as supporting the talking points, even though it doesn't directly reference many of the specific proposals outlined in the reference document.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

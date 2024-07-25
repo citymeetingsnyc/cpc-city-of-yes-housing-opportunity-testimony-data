@@ -1,0 +1,45 @@
+{
+    "testimony": {
+        "name": "Ryder Kessler",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/ryder-kessler-manhattan-community-board-2-member",
+        "start_time_in_seconds": 53480.887,
+        "end_time_in_seconds": 53627.74,
+        "for_or_against": "For",
+        "borough": "Manhattan",
+        "neighborhood": "West Village",
+        "stated_affiliations": [
+            "Manhattan Community Board 2"
+        ],
+        "key_points": [
+            "The current housing crisis is due to not creating enough homes to keep up with population and job growth",
+            "The city is stuck in a 60+ year old zoning regime that needs to change",
+            "There is a crisis of housing affordability, not just affordable housing",
+            "New York needs to add housing of all types across the city",
+            "The City of Yes for Housing Opportunity is necessary but not sufficient to address the crisis",
+            "Dense, walkable neighborhoods are important for fighting climate change",
+            "Making the city affordable, equitable, and sustainable is crucial for maintaining New York's vitality"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "1. The testimony focuses on the need for more housing in New York City, emphasizing the current housing crisis and affordability issues.\n2. The speaker supports the City of Yes for Housing Opportunity proposal, urging its approval in the strongest possible form.\n3. The testimony touches on several themes that align with the reference talking points, including:\n   - The need for more housing of all types across the city\n   - The importance of addressing the affordability crisis\n   - The benefits of dense, walkable neighborhoods for sustainability\n   - The need to preserve New York's vitality and opportunity\n4. While the testimony doesn't explicitly mention specific elements of the proposal (like UAP, parking minimums, or TOD), it aligns with the overall goals and rationale behind these initiatives.\n5. Let's analyze specific quotes that relate to the reference talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "We are stuck in a sixty plus year old zoning regime And that status quo is what is leading to the crisis.",
+                "analysis": "This quote aligns with the overall message of the reference talking points, which aim to update and improve zoning laws. It supports the need for changes like the Universal Affordability Preference, Transit-Oriented Development, and other proposed zoning updates.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "We know that we need to build affordable housing, income restricted housing, but we are not just facing a crisis of affordable housing, but a crisis of housing affordability. And to address that crisis, we must add housing of all types all across the city.",
+                "analysis": "This quote closely aligns with the overall message of the reference talking points, particularly the emphasis on creating both affordable housing and addressing general housing affordability. It supports points made about Universal Affordability Preference and the need for various housing types.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "So I urge approval of CDS for housing opportunity in its strongest possible form to address the affordability crisis, but also to promote the dense walkable neighborhoods that are our superpower in fighting climate change, which is also an existential threat to the city over the long term.",
+                "analysis": "This quote supports multiple talking points, including the emphasis on affordability and the benefits of dense, walkable neighborhoods. It particularly aligns with the Transit-Oriented Development and Town Center Zoning points, which promote these types of communities.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows a strong alignment with the overall goals and rationale behind the City of Yes for Housing Opportunity proposal, as outlined in the reference talking points. While the speaker doesn't explicitly mention specific elements of the proposal (such as UAP, parking minimums, or TOD), their arguments strongly support the need for zoning changes to address the housing crisis and promote affordability.\n\nThe testimony emphasizes the importance of creating more housing of all types across the city, which aligns with the various initiatives proposed in the talking points. The speaker's focus on dense, walkable neighborhoods and their benefits for sustainability directly supports the Transit-Oriented Development and Town Center Zoning concepts.\n\nAlthough the testimony doesn't use the exact language or specific policy details from the talking points, it presents a compelling case for the same underlying principles and goals. The speaker's personal story and emphasis on preserving New York's vitality and opportunity further reinforce the importance of the proposed changes.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

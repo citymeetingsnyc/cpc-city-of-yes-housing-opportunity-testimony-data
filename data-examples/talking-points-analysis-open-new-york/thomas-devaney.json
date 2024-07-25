@@ -1,0 +1,47 @@
+{
+    "testimony": {
+        "name": "Thomas Devaney",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/thomas-devaney-from-municipal-art-society-on-city",
+        "start_time_in_seconds": 29221.184,
+        "end_time_in_seconds": 29412.713,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Municipal Art Society"
+        ],
+        "key_points": [
+            "City of Yes for Housing Opportunity is a good start to address the housing crisis",
+            "The plan aims to unlock the 'missing middle' in housing typologies",
+            "Supports equitable distribution of housing density across the city",
+            "Supports transit-oriented development, accessory dwelling units, and universal affordability preference",
+            "Supports office-to-residential conversions and elimination of parking requirements",
+            "Projections for new housing units are modest (109,000 by 2039)",
+            "Zoning is just one tool; a comprehensive approach is needed",
+            "The city must ensure social and physical infrastructure meets neighborhood needs with increased density",
+            "MAS will provide further comments on campus infill, community engagement, and heat island impacts"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "1. The testimony mentions several key points that align with the reference talking points:\n   - Support for City of Yes and its approach to new housing production\n   - Mention of \"missing middle\" housing typologies\n   - Support for transit-oriented development\n   - Support for accessory dwelling units\n   - Support for universal affordability preference\n   - Support for office to residential conversions\n   - Support for elimination of parking requirements\n2. The testimony also adds some points not directly mentioned in the talking points:\n   - Concern about the modest projections for new housing units\n   - Need for a comprehensive approach beyond just zoning changes\n   - Importance of ensuring social and physical infrastructure meets neighborhood needs\n3. The language used in the testimony is not identical to the talking points, but it covers many of the same concepts and ideas.\n4. The overall tone of the testimony is supportive of the City of Yes initiative, which aligns with the general stance of the talking points.\n\nLet's analyze specific instances where the testimony aligns with the talking points:",
+        "talking_point_evidence": [
+            {
+                "quote": "CWS offers a host of incremental citywide zoning changes are arguably the most significant in 50 years designed to add a little more housing in every neighborhood.",
+                "analysis": "This quote supports the overall concept of City of Yes, which is mentioned in several talking points. It aligns with the idea of making citywide changes to increase housing production.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "It's been encouraged to see tile centers zoning, transit oriented development, provisions for excess accessory dwelling units, universal affordability preference, including the proposal.",
+                "analysis": "This quote directly mentions several key elements from the talking points, including transit-oriented development, accessory dwelling units, and universal affordability preference. The language is not identical, but the concepts are the same.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "We also support incentives for office to residential conversions and the elimination of parking requirements and expanding transfer of landlord development rights.",
+                "analysis": "This quote directly mentions support for office to residential conversions and elimination of parking requirements, which are both key talking points. The language is very similar to the talking points.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            }
+        ],
+        "analysis": "The testimony shows a high level of alignment with the reference talking points. While the exact language is not identical, the speaker covers many of the same concepts and expresses support for key elements of the City of Yes initiative. The testimony touches on transit-oriented development, accessory dwelling units, universal affordability preference, office to residential conversions, and elimination of parking requirements - all of which are prominent in the reference talking points.\n\nThe speaker's overall stance is supportive of the initiative, which aligns with the general tone of the talking points. However, the testimony also includes some additional concerns and suggestions not present in the talking points, such as the need for a more comprehensive approach and ensuring adequate infrastructure.\n\nDespite these additions, the core message and support for the key elements of City of Yes remain consistent with the reference talking points. The testimony appears to be independently formulated but closely aligned with the organization's stance.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}

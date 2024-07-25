@@ -1,0 +1,56 @@
+{
+    "testimony": {
+        "name": "Bobbi Barnett",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/bobbi-barnett-from-manhattan-community-board-4-on",
+        "start_time_in_seconds": 49272.64,
+        "end_time_in_seconds": 49462.14,
+        "for_or_against": "For",
+        "borough": "Manhattan",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Manhattan Community Board 4"
+        ],
+        "key_points": [
+            "Encourages approval of City of Yes for Housing Opportunity",
+            "Supports reduction and elimination of dwelling unit factor",
+            "Supports universal affordability preference (UAP)",
+            "Believes benefits of additional affordable units outweigh concerns about increased building height",
+            "Appreciates DCP's engagement with community boards",
+            "Argues for quicker review process to address housing shortage",
+            "Urges CPC not to exempt any neighborhoods from housing obligations",
+            "Emphasizes the interconnected nature of New York City's housing market"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "1. The testimony discusses several key points that align with the reference talking points:\n   - Universal Affordability Preference (UAP)\n   - Shared housing (SROs)\n   - The need for more housing and different types of housing\n   - The importance of updating zoning codes\n   - The benefits of additional affordable units\n\n2. Let's analyze the alignment for each major point:\n\n   a. UAP:\n      - The testimony strongly supports UAP, mentioning it by name and highlighting its benefits.\n      - This aligns closely with the reference talking points on UAP.\n\n   b. Shared Housing:\n      - The testimony mentions the benefits of shared housing for young people and those exiting shelters.\n      - This aligns with the reference talking points on Shared Housing/SROs.\n\n   c. Need for more housing:\n      - The testimony emphasizes the dire housing shortage and the need to create more housing.\n      - This aligns with the overall theme of the reference talking points.\n\n   d. Updating zoning codes:\n      - The testimony mentions the failure to update zoning codes in 60 years.\n      - This aligns with the general theme of the reference talking points about outdated regulations.\n\n   e. Benefits of additional affordable units:\n      - The testimony supports allowing additional height for more affordable units.\n      - This aligns with the reference talking points on UAP and the general theme of prioritizing affordable housing.\n\n3. The testimony does not directly mention some specific points from the reference talking points, such as:\n   - Lifting parking minimums\n   - Transit-Oriented Development\n   - \"Town Center\" Zoning\n   - Office-to-Residential conversions\n\n4. However, the overall message and tone of the testimony strongly support the goals and reasoning behind the \"City of Yes for Housing Opportunity\" proposal, which is the core of the reference talking points.\n\n5. The testimony also uses similar language and arguments as the reference talking points, particularly when discussing the benefits of UAP and shared housing.\n\nBased on this analysis, the testimony shows a high level of alignment with the reference talking points, even though it doesn't cover all the specific proposals mentioned in the talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "I am here to encourage the city planning commission to vote to approve the city of yes for housing opportunity, a tax amendment in full.",
+                "analysis": "This quote directly supports the overall goal of the 'City of Yes for Housing Opportunity' proposal, which is the core of the reference talking points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "There is a lot to like about the many proposals in the city of and I am particularly excited to see the reduction and elimination of the dwelling unit factor and universal affordability preference in creating more housing and more of the types of housing that our city needs.",
+                "analysis": "This quote directly mentions and supports the Universal Affordability Preference (UAP) proposal, which is one of the key points in the reference talking points.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "Creating shared housing can enable young people to afford to live without roommates and free up family sized apartments. In our neighborhoods. Shared housing models can also help more of those exiting shelter to move into permanent supportive housing.",
+                "analysis": "This quote closely aligns with the reference talking points on Shared Housing (SROs), highlighting similar benefits for young people and those exiting shelters.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "UAP would create new permanently rent stabilized units for those who are increasingly priced out of communities like mine.",
+                "analysis": "This quote supports the UAP proposal and mentions the creation of permanently affordable housing, which is a key point in the reference talking points for UAP.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "While I have heard concerns about allowing developers additional height as a part of UAP, I believe that the benefits of additional affordable units are well worth the modest additional height that these buildings may bring.",
+                "analysis": "This quote aligns with the reference talking points on UAP, specifically addressing the trade-off between additional height and more affordable units, which is mentioned in the talking points.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            }
+        ],
+        "analysis": "The testimony shows a high level of alignment with the reference talking points. The speaker, Bobbi Barnett, explicitly supports the \"City of Yes for Housing Opportunity\" proposal and emphasizes many of the same key points and arguments found in the reference talking points.\n\nThe testimony focuses primarily on the Universal Affordability Preference (UAP) and Shared Housing proposals, which are two of the main points in the reference talking points. The speaker uses similar language and arguments to support these proposals, highlighting the benefits of creating more affordable housing and addressing the needs of various groups, including young people and those exiting shelters.\n\nWhile the testimony does not cover all the specific proposals mentioned in the reference talking points (such as lifting parking minimums, transit-oriented development, and office-to-residential conversions), it strongly supports the overall goals and reasoning behind the \"City of Yes for Housing Opportunity\" initiative. The speaker emphasizes the need for more housing, the importance of updating zoning codes, and the benefits of creating additional affordable units \u2013 all of which align with the core messages of the reference talking points.\n\nThe language used in the testimony, particularly when discussing UAP and shared housing, is very similar to that found in the reference talking points. This suggests that the speaker may be familiar with or influenced by the same arguments and information presented in the talking points.\n\nGiven the strong alignment in key areas and the overall supportive tone towards the proposal, it is plausible that the speaker is using the reference talking points or similar materials in their testimony. While they may not be reading directly from a script, the ideas and arguments presented closely mirror those found in the reference talking points.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}

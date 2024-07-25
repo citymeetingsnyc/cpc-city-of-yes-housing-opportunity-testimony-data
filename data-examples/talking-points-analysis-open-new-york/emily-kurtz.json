@@ -1,0 +1,45 @@
+{
+    "testimony": {
+        "name": "Emily Kurtz",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/emily-kurtz-from-riseboro-community-partnership-on",
+        "start_time_in_seconds": 25298.748,
+        "end_time_in_seconds": 25453.596,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "RiseBoro Community Partnership"
+        ],
+        "key_points": [
+            "Support for the City of Yes for Housing Opportunity zoning text amendment",
+            "The pressing need for affordable housing across all neighborhoods in New York City",
+            "The current 1.4% vacancy rate across the city, indicating demand far exceeds supply",
+            "The density bonus for affordable housing as a critical tool for addressing the housing crisis",
+            "The amendment encourages the creation of mixed-income communities, fostering diversity and economic integration",
+            "The amendment allows updating outdated zoning rules to build more housing of every type and affordable housing in every neighborhood",
+            "The importance of creating a fairer, more inclusive city with affordable housing options for all New Yorkers"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "The testimony provided by Emily Kurtz from RiseBoro Community Partnership supports the City of Yes for Housing Opportunity zoning text amendment. Let's analyze how it relates to the reference talking points:\n\n1. The testimony strongly emphasizes the need for affordable housing in New York City, which aligns with the overall theme of the reference talking points.\n\n2. Emily Kurtz mentions a \"density bonus for affordable housing\" included in the text amendment. This directly relates to the Universal Affordability Preference (UAP) talking point, which discusses extra floor area for permanent affordable housing.\n\n3. The testimony highlights the creation of mixed-income communities, which is also mentioned in the UAP talking point.\n\n4. While the testimony doesn't specifically mention other aspects like lifting parking minimums, transit-oriented development, or office-to-residential conversions, it does express support for the entire amendment, which includes these elements.\n\n5. The testimony emphasizes the need for affordable housing in all neighborhoods, which aligns with the overall goal of the City of Yes for Housing Opportunity amendment.\n\nGiven these observations, let's identify specific quotes that relate to the reference talking points and analyze their closeness.",
+        "talking_point_evidence": [
+            {
+                "quote": "The density bonus for affordable housing included in this text amendment is a critical tool for addressing the housing crisis.",
+                "analysis": "This quote directly references the density bonus for affordable housing, which is very similar to the Universal Affordability Preference (UAP) mentioned in the reference talking points. Both the testimony and the talking points highlight this as a crucial tool for creating more affordable housing.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "It encourages the creation of mixed income communities, fostering diversity and economic integration.",
+                "analysis": "This quote supports the idea of mixed-income communities, which is also mentioned in the UAP talking point. While the language is not identical, the concept and its benefits are very similar.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "This and other updates allows us to update our outdated zoning rules to build more housing of every type and to build affordable housing in every neighborhood.",
+                "analysis": "This quote supports the overall goal of the City of Yes for Housing Opportunity amendment, which aims to update zoning rules to allow for more housing, including affordable housing, in all neighborhoods. While not identical to any specific talking point, it aligns with the general theme of the reference talking points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony provided by Emily Kurtz on behalf of RiseBoro Community Partnership shows a strong alignment with the reference talking points, particularly in relation to the Universal Affordability Preference (UAP) and the overall goal of creating more affordable housing across New York City.\n\nThe testimony directly mentions the density bonus for affordable housing, which is a key component of the UAP talking point. It also emphasizes the creation of mixed-income communities and the need to update zoning rules to allow for more housing of all types in every neighborhood. These points closely align with the reference talking points.\n\nWhile the testimony doesn't specifically address all aspects of the City of Yes for Housing Opportunity amendment (such as lifting parking minimums or office-to-residential conversions), it does express strong support for the amendment as a whole. This suggests that the speaker is likely in favor of these other components as well, even if they are not explicitly mentioned.\n\nThe level of similarity between the testimony and the reference talking points is high, particularly in relation to the core concepts of increasing affordable housing and updating zoning rules to achieve this goal. The language used in the testimony, while not identical to the talking points, conveys very similar ideas and arguments.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}

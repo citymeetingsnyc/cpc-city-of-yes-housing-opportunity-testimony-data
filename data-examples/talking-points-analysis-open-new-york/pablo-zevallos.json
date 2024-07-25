@@ -1,0 +1,56 @@
+{
+    "testimony": {
+        "name": "Pablo Zevallos",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/pablo-zevallos-tenants-rights-attorney-and",
+        "start_time_in_seconds": 43029.527,
+        "end_time_in_seconds": 43197.223,
+        "for_or_against": "For",
+        "borough": "Manhattan",
+        "neighborhood": "Upper West Side",
+        "stated_affiliations": [],
+        "key_points": [
+            "New York City is experiencing a severe housing shortage, particularly for affordable housing",
+            "The shortage disproportionately affects low-income households and contributes to segregation",
+            "City of Yes for Housing Opportunity will facilitate increased construction of affordable housing",
+            "The policy will combat exclusionary zoning practices",
+            "Legalizing EDUs (Efficient Dwelling Units) offers various benefits, including intergenerational wealth and aging in place",
+            "Lifting restrictions on SROs (Single Room Occupancy) would help provide permanent housing opportunities",
+            "Transit-oriented development and town center zoning would add needed 'missing middle' housing",
+            "Ending required parking mandates would remove barriers to housing goals",
+            "The amendments would make affordable housing more widely available across communities",
+            "Passing these amendments would set a precedent for future city governments to address the housing crisis"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Pablo Zevallos, is testifying in support of the \"City of Yes for Housing Opportunity\" proposal.\n\n2. He mentions several key points that align with the reference talking points:\n   - Housing shortage in New York City\n   - Need for affordable housing\n   - Concentration of development in majority black and Latino communities\n   - Support for Universal Affordability Preference (UAP)\n   - Support for legalizing EDUs (similar to ADUs)\n   - Support for lifting restrictions on SROs\n   - Mention of transit-oriented development\n   - Support for ending required parking mandates\n\n3. The testimony doesn't use the exact language from the reference talking points, but it covers many of the same concepts and arguments.\n\n4. The speaker adds some additional context and statistics to support the need for these changes, which aren't in the reference talking points but align with their overall message.\n\n5. The testimony doesn't cover all the points in the reference document, such as office-to-residential conversions or specific details about town center zoning.\n\nGiven these observations, the testimony appears to have a high level of alignment with the reference talking points, though it's not an exact match in language or comprehensive coverage of all points.",
+        "talking_point_evidence": [
+            {
+                "quote": "Enacting UAP with income averaging and making the deep affordability, NIH option independently available to DCP would offer lower income households greater housing opportunities, particularly in well resourced neighborhoods throughout the city.",
+                "analysis": "This quote directly supports the Universal Affordability Preference (UAP) talking point. While it doesn't use the exact language from the reference, it makes the same argument about creating more affordable housing opportunities.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Legalizing EDUs offers possibilities from facilitating intergenerational wealth to permitting older adults to agent place to creating new rental opportunities where none might otherwise exist to safely legalizing existing basement apartments.",
+                "analysis": "This quote aligns closely with the Accessory Dwelling Units (ADUs) talking point. It mentions similar benefits such as creating rental opportunities and allowing older adults to age in place.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Lifting restrictions on building SROs would help provide permanent housing opportunities, particularly for supportive housing.",
+                "analysis": "This quote directly supports the Shared Housing (SROs) talking point. While it doesn't go into as much detail as the reference, it makes the same argument about SROs providing housing opportunities.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "New measures like transit oriented development and town center zoning would add badly needed missing middle housing.",
+                "analysis": "This quote mentions both transit-oriented development and town center zoning, which are key points in the reference talking points. However, it doesn't provide as much detail as the reference.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "And ending required parking mandates would remove spatial and cost barriers to these goals.",
+                "analysis": "This quote directly supports the Lifting Parking Minimums talking point. While it doesn't provide as much detail as the reference, it makes the same argument about parking mandates being a barrier to housing development.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony is very closely related to the reference talking points, often making the same claims and arguments. While the language is not identical, and the testimony doesn't cover all points in the reference document, it is clear that the speaker is addressing many of the same issues and proposing similar solutions. The testimony supports the \"City of Yes for Housing Opportunity\" proposal and touches on several key points such as Universal Affordability Preference, ADUs (referred to as EDUs), SROs, transit-oriented development, and lifting parking mandates. The speaker adds some additional context and statistics to strengthen the arguments, which aligns with the overall message of the reference talking points. Given this analysis, it is plausible that the person is using the reference talking points as a basis for their testimony, even if not directly quoting from them.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}

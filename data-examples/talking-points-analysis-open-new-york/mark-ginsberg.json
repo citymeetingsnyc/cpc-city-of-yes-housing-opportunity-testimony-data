@@ -1,0 +1,55 @@
+{
+    "testimony": {
+        "name": "Mark Ginsberg",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/mark-ginsberg-president-of-citizens-housing",
+        "start_time_in_seconds": 17832.256,
+        "end_time_in_seconds": 18018.695,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Citizens Housing Planning Council",
+            "Curtis + Ginsberg Architects"
+        ],
+        "key_points": [
+            "Strong support for the proposed citywide text amendment",
+            "The changes would be the biggest and most important set of zoning reform since 1961",
+            "Essential step to address New York City's affordable housing crisis",
+            "Expansion of Ayers to UAP creates wider range of affordable housing options",
+            "Prioritizes housing needs over vehicle storage",
+            "Reducing parking requirements can lower housing costs",
+            "Importance of allowing more housing in every neighborhood",
+            "Need for simplicity in regulations to avoid delays and limitations",
+            "Maintaining flexibility for future unanticipated changes",
+            "Ensuring existing projects can be completed without disruption",
+            "Urges approval of the proposed amendment with only necessary changes"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Mark Ginsberg, strongly supports the proposed citywide text amendment.\n2. He mentions that these changes would be the most important set of zoning reforms since 1961.\n3. He specifically highlights two important changes:\n   a. The expansion from Ayers to UAP (Universal Affordability Preference)\n   b. Changes to parking requirements\n4. He discusses how the UAP creates more affordable housing options without up-zoning.\n5. Regarding parking, he mentions how the proposal prioritizes housing over vehicle storage and how parking requirements can significantly increase housing costs.\n6. He urges the commission to keep certain principles in mind, including allowing more housing in every neighborhood and keeping regulations simple.\n7. The speaker emphasizes the need for flexibility in regulations to adapt to future changes.\n8. He urges the commission to approve the proposed text amendment with minimal changes.\n\nNow, let's compare this to the reference talking points:\n\n1. The testimony aligns closely with the UAP talking points, mentioning the expansion of affordable housing options.\n2. The parking discussion in the testimony strongly mirrors the reference talking points about lifting parking minimums.\n3. The speaker doesn't explicitly mention Transit-Oriented Development, Town Center Zoning, ADUs, Office-to-Residential conversions, or Shared Housing.\n4. However, his general support for the amendments and emphasis on increasing housing options aligns with the overall goals mentioned in the reference talking points.\n\nGiven this analysis, we can identify specific quotes that align with the reference talking points and determine the overall similarity.",
+        "talking_point_evidence": [
+            {
+                "quote": "The steps from Ayers to UAP is a common sense expansion of an existing program. It isn't an up zoning but rather creates a wider range of affordable housing options for different populations, including housing for seniors and multi generational housing.",
+                "analysis": "This quote directly relates to the UAP talking point. It mentions the expansion of the program and the creation of more affordable housing options, which aligns with the reference talking point about UAP being a great step forward in bringing more housing, especially affordable housing.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "The proposal puts our society's need for housing ahead of its needs for vehicle storage. The cost of a structured parking space can add as much as $100,000 to the cost of an apartment.",
+                "analysis": "This quote closely aligns with the talking points about lifting parking minimums. It emphasizes prioritizing housing over parking and mentions the high cost of parking spaces, which is very similar to the reference talking point about the expense of building parking.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "Under the proposal, we can design buildings with an amount of parking that makes sense based on the building's program that rather than making a build program workaround zoning.",
+                "analysis": "This quote supports the talking point about lifting parking minimums. It aligns with the idea of right-sizing parking for each development, which is mentioned in the reference talking points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "In addition for allowing a bit more housing in every neighborhood, it is important that we not lose any of the new housing that today's regulations allow.",
+                "analysis": "While not identical to any specific talking point, this quote supports the general theme of increasing housing options across the city, which is present in several of the reference talking points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows a strong alignment with the reference talking points, particularly in relation to the Universal Affordability Preference (UAP) and lifting parking minimums. The speaker, Mark Ginsberg, presents arguments that are very similar to those in the reference talking points, often making the same claims and using similar reasoning.\n\nThe testimony focuses mainly on two aspects of the proposed changes: UAP and parking requirements. For these topics, the alignment is very high, with the speaker using almost identical arguments to those provided in the reference talking points. This suggests that the speaker may be directly referencing or influenced by these talking points.\n\nWhile the testimony doesn't explicitly cover all the points mentioned in the reference document (such as Transit-Oriented Development, Town Center Zoning, ADUs, Office-to-Residential conversions, or Shared Housing), the overall support for the amendments and the emphasis on increasing housing options aligns with the general goals mentioned in the reference talking points.\n\nThe language used by the speaker, while not identical to the reference talking points, conveys the same ideas and arguments, particularly when discussing the benefits of the UAP program and the drawbacks of current parking requirements. This suggests a high level of alignment between the testimony and the reference talking points, even if not all points are covered.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}

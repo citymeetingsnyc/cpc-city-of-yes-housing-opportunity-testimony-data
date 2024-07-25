@@ -1,0 +1,49 @@
+{
+    "testimony": {
+        "name": "Adam Brodheim",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/adam-brodheim-housing-researcher-and-community",
+        "start_time_in_seconds": 6953.9033,
+        "end_time_in_seconds": 7070.8687,
+        "for_or_against": "For",
+        "borough": "Manhattan",
+        "neighborhood": "Upper West Side",
+        "stated_affiliations": [],
+        "key_points": [
+            "Support for easing the transfer of development rights for landmark buildings",
+            "Importance of preserving historic buildings while allowing for new housing",
+            "Potential benefits for religious and cultural institutions",
+            "Support for office-to-residential conversions",
+            "Support for ending parking minimums",
+            "Support for legalizing ADUs",
+            "Support for making changes to zoning on campuses",
+            "Allowing density in historic districts without changing their character"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Adam Brodheim, is a housing researcher and community board member.\n2. He expresses gratitude for the DCP staff's work and mentions unprecedented attendance at the meeting.\n3. He focuses on the proposal to ease the transfer of development rights for landmark buildings.\n4. He mentions specific examples of successful transfers in the Upper West Side.\n5. He briefly mentions other proposals he supports: office-to-residential conversions, ending parking minimums, legalizing ADUs, and making changes to zoning on campuses.\n6. He emphasizes that these proposals allow for new density in historic districts without changing their important aspects.\n\nNow, let's compare this to the reference talking points:\n\n1. The testimony doesn't directly mention the Universal Affordability Preference (UAP).\n2. The speaker explicitly supports lifting parking minimums, which aligns with the reference talking points.\n3. There's no specific mention of Transit-Oriented Development (TOD).\n4. The \"Town Center\" zoning isn't directly addressed.\n5. The speaker mentions legalizing ADUs, which aligns with the reference talking points.\n6. Office-to-residential conversions are briefly mentioned, aligning with the talking points.\n7. Shared Housing (SROs) are not mentioned in the testimony.\n\nThe testimony aligns most closely with the talking points on lifting parking minimums, ADUs, and office-to-residential conversions. While it doesn't cover all the reference talking points, it does support several key aspects of the \"City of Yes for Housing Opportunity\" proposal.",
+        "talking_point_evidence": [
+            {
+                "quote": "easing the transfer of development rights for landmark buildings.",
+                "analysis": "This quote introduces a concept not directly mentioned in the reference talking points. While it relates to preserving historic buildings while allowing for new development, it doesn't directly align with any specific talking point.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            },
+            {
+                "quote": "any parking minimums",
+                "analysis": "This quote directly supports the talking point on lifting parking minimums. Although brief, it clearly indicates the speaker's support for this aspect of the proposal.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "Legalizing ADUs",
+                "analysis": "This quote directly supports the talking point on Accessory Dwelling Units (ADUs). The speaker explicitly mentions legalizing ADUs as part of the proposals he supports.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "office presidential conversions",
+                "analysis": "This quote, likely meant to be 'office-to-residential conversions', directly supports the talking point on Office-to-Residential conversions. The speaker mentions this as one of the proposals he supports.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            }
+        ],
+        "analysis": "The testimony shows a moderate level of alignment with the reference talking points. While it doesn't cover all the points mentioned in the reference document, it does explicitly support several key aspects of the \"City of Yes for Housing Opportunity\" proposal. \n\nThe speaker, Adam Brodheim, focuses primarily on the transfer of development rights for landmark buildings, which is not directly mentioned in the reference talking points. However, he does explicitly support lifting parking minimums, legalizing ADUs, and office-to-residential conversions, all of which are key points in the reference document.\n\nThe testimony doesn't mention some major talking points like the Universal Affordability Preference (UAP), Transit-Oriented Development (TOD), \"Town Center\" zoning, or Shared Housing (SROs). However, the overall sentiment of the testimony aligns with the goals of the proposal, emphasizing the need for new housing and density while preserving the character of historic districts.\n\nWhile the alignment is not extremely high due to the omission of several key talking points, the testimony does support multiple important aspects of the proposal and shares the overall vision for increased housing opportunities in New York City.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

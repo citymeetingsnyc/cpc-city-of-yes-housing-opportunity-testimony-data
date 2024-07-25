@@ -1,0 +1,59 @@
+{
+    "testimony": {
+        "name": "Basha Gerhards",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/basha-gerhards-senior-vice-president-of-planning",
+        "start_time_in_seconds": 15168.902,
+        "end_time_in_seconds": 15328.182,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Real Estate Board of New York"
+        ],
+        "key_points": [
+            "Support for the City of Yes for Housing Opportunity initiative",
+            "Approval of transit-oriented development, accessory dwelling units, and parking changes",
+            "Support for new R11 and R12 districts to unlock housing opportunities",
+            "Support for expanded radius of potential receiving sites for landmark development rights",
+            "Importance of Article 1 Chapter 5 changes to facilitate office-to-residential conversions",
+            "Concern about elimination of existing voluntary inclusionary housing and inclusionary housing certificate program",
+            "Opposition to reduction in maximum preventive density for market-rate housing in Lower Manhattan and Midtown districts",
+            "Need for carefully crafted vesting and transition provisions to protect existing housing pipeline",
+            "Recommendation for refinement of bulk rules to accommodate additional density",
+            "Urge to treat conversions, new construction, and enlargements equally in determining parking",
+            "Recognition of the proposal as a significant change to zoning text"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Basha Gerhards from the Real Estate Board of New York, expresses support for the \"City of Yes for Housing Opportunity\" proposal.\n\n2. They specifically mention support for:\n   - Transit-oriented development\n   - Accessory dwelling units\n   - Parking changes\n   - Creation of new R11 and R12 districts\n   - Expanded radius for landmark development rights\n   - Office to residential conversions\n   - Universal affordability preference\n\n3. These points align closely with several of the reference talking points:\n   - Transit-Oriented Development\n   - Lifting Parking Minimums\n   - Accessory Dwelling Units (ADUs)\n   - Office-to-Residential conversions\n   - Universal Affordability Preference (UAP)\n\n4. The speaker's support for these initiatives is consistent with the arguments presented in the reference talking points.\n\n5. However, the speaker expresses concerns about:\n   - Elimination of existing voluntary inclusionary housing and inclusionary housing certificate program\n   - Reduction in maximum preventive density for market-rate housing in certain districts\n\n6. These concerns are not directly addressed in the reference talking points, indicating some deviation from the provided talking points.\n\n7. The speaker also emphasizes the need for careful implementation and refinement of the proposal, which is not explicitly mentioned in the reference talking points.\n\nGiven this analysis, the testimony shows a high degree of alignment with the reference talking points, but also includes some additional concerns and recommendations not present in the provided talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "Remi supports the goals of the tax and commends the department for aligning the city zoning with best practices around transit oriented development, accessory dwelling units, and parking.",
+                "analysis": "This quote directly references three key points from the reference talking points: Transit-Oriented Development, Accessory Dwelling Units, and Lifting Parking Minimums. The speaker expresses support for these initiatives, aligning closely with the provided talking points.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "These regulatory changes in combination with the new tax tool will lead to the creation of thousands of affordable homes for New York City residents.",
+                "analysis": "This quote supports the general theme of increasing affordable housing, which is present in several of the reference talking points, particularly the Universal Affordability Preference (UAP). While not using identical language, it supports the overall goal of increasing affordable housing options.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "The universal affordability preference has the potential to be well utilized in many neighborhoods deliver apartments.",
+                "analysis": "This quote directly mentions the Universal Affordability Preference, which is one of the key talking points provided. The speaker's positive stance on this aligns with the reference talking point.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "The reduction in parking mandates is an important change, and we urge the commission to treat equally conversions, new construction, and enlargements into terminating the amount of parking permitted.",
+                "analysis": "This quote directly addresses the Lifting Parking Minimums talking point. The speaker's support for this change aligns closely with the arguments presented in the reference talking points.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "Among the most important components of this proposal are the proposed expansion of provisions of Article 1 chapter 5 and other related regulatory changes. These are aligned with the recommendations of the Office Adaptive Reuse Task force and will help facilitate more office to residential conversions.",
+                "analysis": "This quote supports the Office-to-Residential conversion talking point. While not using identical language, it expresses support for facilitating office-to-residential conversions, which aligns with the reference talking point.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows a high degree of alignment with the reference talking points. The speaker, representing the Real Estate Board of New York, expresses support for many of the key initiatives outlined in the talking points, including transit-oriented development, accessory dwelling units, parking requirement changes, office-to-residential conversions, and the Universal Affordability Preference.\n\nThe language used in the testimony often closely mirrors the concepts presented in the reference talking points, indicating a strong familiarity with these arguments. The speaker's support for these initiatives is consistent with the arguments presented in the reference talking points, suggesting that they may be drawing from similar sources or perspectives.\n\nHowever, the testimony also includes some concerns and recommendations not present in the provided talking points, such as the potential negative impacts of eliminating existing inclusionary housing programs and the need for careful implementation. This suggests that while the speaker is largely aligned with the provided talking points, they are also bringing their own additional perspectives and concerns to the discussion.\n\nOverall, the testimony demonstrates a high level of alignment with the reference talking points, while also providing some additional nuance and industry-specific concerns.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}

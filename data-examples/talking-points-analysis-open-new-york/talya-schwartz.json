@@ -1,0 +1,56 @@
+{
+    "testimony": {
+        "name": "Talya Schwartz",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/talya-schwartz-from-open-plans-on-removing-parking",
+        "start_time_in_seconds": 2585.3564,
+        "end_time_in_seconds": 2780.4536,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Open Plans"
+        ],
+        "key_points": [
+            "Support for removal of unnecessary parking mandates",
+            "Parking mandates increase housing costs significantly",
+            "For every 1.2 parking spaces constructed, one unit of housing is lost",
+            "Parking mandates can increase rent by an estimated 17%",
+            "Low-income households bear the brunt of additional costs from parking mandates despite owning fewer cars",
+            "Removal of parking mandates will help businesses grow and remove obstacles to the economy",
+            "In affordable developments, requiring parking spots raises total development costs by 12.5% to 25%",
+            "The cost to subsidize parking is more expensive for people in smaller and more affordable housing"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The testimony primarily focuses on the removal of parking mandates, which aligns closely with the \"Lifting Parking Minimums\" section of the reference talking points.\n\n2. The speaker provides specific data and examples about the cost of parking construction and its impact on housing development, which directly supports the reference talking points.\n\n3. The testimony mentions that parking mandates make building houses more expensive, which is a key point in the reference talking points.\n\n4. The speaker provides detailed calculations showing how parking spaces can result in fewer housing units being built, which aligns with the reference talking points' emphasis on parking mandates reducing housing supply.\n\n5. The testimony discusses how parking mandates increase rent, especially for affordable housing, which is also mentioned in the reference talking points.\n\n6. The speaker highlights that low-income households, who are less likely to own cars, bear the brunt of these additional costs, which is not explicitly mentioned in the reference talking points but supports the overall argument.\n\n7. The testimony does not directly address other aspects of the \"City of Yes for Housing Opportunity\" proposal, such as Universal Affordability Preference, Transit-Oriented Development, or other points mentioned in the reference talking points.\n\nOverall, the testimony shows a very high alignment with the \"Lifting Parking Minimums\" section of the reference talking points, providing more detailed examples and calculations to support the same arguments.",
+        "talking_point_evidence": [
+            {
+                "quote": "I'm testifying in support of the city of US and especially focused on the removal of the unnecessary and onerous parking mandates, which cost residents and business owners too much money.",
+                "analysis": "This quote directly supports the main argument of the 'Lifting Parking Minimums' talking point, emphasizing the unnecessary cost of parking mandates.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "By using the average square footage of a studio apartment about 500 square feet and average cost per square foot, we can estimate an average 500 Square Foot Apartment costs $187,500 to construct. Research estimates that sub grade parking structures required due to the land constraints in New York City can cost up to $150,000 per space.",
+                "analysis": "This quote provides specific data that supports the reference talking point about the high cost of building parking spaces. The $150,000 per space mentioned in the testimony exactly matches the upper limit mentioned in the talking points.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "For every 1.2 parking spaces constructed today, one unit of housing is lost.",
+                "analysis": "This quote directly supports the talking point that parking mandates reduce housing supply, providing a specific ratio of parking spaces to lost housing units.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Research has shown that parking mandates have the potential to also increase rent by an estimated 17%. In affordable developments requiring one parking spot per unit of housing, raises total development costs by 12.5%, and 2 parking spots raises costs by about 25%.",
+                "analysis": "This quote provides specific data on how parking mandates increase housing costs, which aligns with the talking point about parking costs being passed on to renters and owners.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Even worse, despite the fact that low income households own cars at a lower rate than their high income counterparts, they bear the brunt of these additional costs.",
+                "analysis": "While not explicitly mentioned in the reference talking points, this quote supports the overall argument against parking mandates by highlighting their disproportionate impact on low-income households.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows a very high alignment with the reference talking points, particularly in the \"Lifting Parking Minimums\" section. The speaker, Talya Schwartz from Open Plans, provides detailed information and specific examples that directly support the arguments made in the reference talking points about the negative impacts of parking mandates on housing development and affordability.\n\nThe testimony focuses almost exclusively on the issues related to parking mandates, which is one of the key components of the \"City of Yes for Housing Opportunity\" proposal. The speaker's arguments are nearly identical to those presented in the reference talking points, including:\n\n1. The high cost of building parking spaces (up to $150,000 per space)\n2. The impact of parking mandates on housing supply (trading parking for apartments)\n3. The increase in development costs and rent due to parking requirements\n4. The disproportionate impact on affordable housing and low-income households\n\nWhile the testimony doesn't cover other aspects of the proposal mentioned in the reference talking points (such as Universal Affordability Preference or Transit-Oriented Development), it provides more detailed calculations and specific examples to support the arguments against parking mandates.\n\nThe speaker's use of data and specific examples suggests a deep understanding of the issue and aligns closely with the reference talking points' approach to advocating for the removal of parking minimums. This level of detail and alignment indicates that the testimony may have been influenced by or developed in coordination with the organization providing the reference talking points.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}

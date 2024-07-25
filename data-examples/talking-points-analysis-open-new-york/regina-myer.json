@@ -1,0 +1,45 @@
+{
+    "testimony": {
+        "name": "Regina Myer",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/regina-myer-president-of-downtown-brooklyn",
+        "start_time_in_seconds": 31110.543,
+        "end_time_in_seconds": 31315.754,
+        "for_or_against": "For",
+        "borough": "Brooklyn",
+        "neighborhood": "Downtown Brooklyn",
+        "stated_affiliations": [
+            "Downtown Brooklyn Partnership"
+        ],
+        "key_points": [
+            "Strong support for City of Yes for Housing Opportunity zoning amendment",
+            "Downtown Brooklyn has added nearly 22,600 housing units with 77,100 more in pipeline",
+            "Support for revising height limitation rules in Downtown Brooklyn special district",
+            "Agreement with maintaining height limitations on south side of Schermerhorn Street for transition to low-rise Boerum Hill",
+            "Strong support for removing minimum parking requirements for new residential developments citywide",
+            "Reminder of successful 2012 reduction of parking requirements in Downtown Brooklyn",
+            "Support for office to residential conversion (not fully elaborated due to time constraints)"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Regina Myer, strongly supports the City of Yes for Housing Opportunity zoning amendment.\n2. She mentions that Downtown Brooklyn has added significant housing units (22,600) with more in the pipeline (77,100).\n3. She specifically supports revising height limitation rules in the Downtown Brooklyn special district.\n4. The speaker strongly supports removing minimum parking requirements for new residential developments citywide.\n5. She mentions office to residential conversion but doesn't elaborate due to time constraints.\n\nNow, let's compare these points to the reference talking points:\n\n1. The testimony doesn't directly mention Universal Affordability Preference (UAP).\n2. There's strong alignment on lifting parking minimums. The speaker explicitly supports this, which matches the reference talking points.\n3. Transit-Oriented Development (TOD) isn't directly mentioned, but the support for more housing in Downtown Brooklyn aligns with this concept.\n4. \"Town Center\" Zoning isn't explicitly mentioned.\n5. Accessory Dwelling Units (ADUs) aren't mentioned.\n6. Office-to-residential conversion is briefly mentioned, but not elaborated upon.\n7. Shared Housing (SROs) isn't mentioned.\n\nThe testimony most strongly aligns with the talking points on lifting parking minimums. There's also some alignment with the general idea of increasing housing density, which is present in several of the talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "We are strongly in support of removing removing the minimum parking requirements for new residential developments citywide to allow for more housing options and hopefully getting to lower construction costs.",
+                "analysis": "This quote directly supports the talking point about lifting parking minimums. It uses similar language and reasoning, mentioning both increased housing options and lower costs.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "We want to support the revision of the height limitation rules in the downtown Brooklyn special district, specifically. Certain areas along Livingston Skimmerhorn Street And Flap Bush Avenue were identified in the proposal before you to have restrictive zoning envelopes and we support eliminating the height limits on Livingston, the north side of Skirma Horn and the 400 foot. Restriction along Flatbush Avenue Extension to encourage more housing.",
+                "analysis": "While this quote doesn't directly match any specific talking point, it supports the general idea of increasing housing density in transit-rich areas, which aligns with the Transit-Oriented Development concept.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "In terms of office to residential conversion, the average office vacancy rate",
+                "analysis": "This quote begins to address office-to-residential conversion, which is one of the reference talking points. However, the speaker ran out of time and couldn't elaborate, so the alignment is tenuous.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            }
+        ],
+        "analysis": "The testimony shows some alignment with the reference talking points, particularly regarding the removal of parking minimums. The speaker, Regina Myer, explicitly supports this policy change, using similar reasoning to the reference talking points (allowing for more housing options and lower construction costs). \n\nThere's also some alignment with the general concept of increasing housing density, particularly in areas well-served by transit. While the speaker doesn't use the term \"Transit-Oriented Development,\" her support for revising height limitations in Downtown Brooklyn to encourage more housing aligns with this concept.\n\nThe speaker briefly mentions office-to-residential conversion, which is one of the reference talking points, but doesn't have time to elaborate on it.\n\nHowever, the testimony doesn't touch on several key points from the reference talking points, such as Universal Affordability Preference, \"Town Center\" Zoning, Accessory Dwelling Units, or Shared Housing (SROs). \n\nOverall, while there's strong alignment on some points, particularly parking minimums, the testimony doesn't cover the full range of topics in the reference talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

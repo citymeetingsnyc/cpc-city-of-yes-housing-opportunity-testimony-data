@@ -1,0 +1,44 @@
+{
+    "testimony": {
+        "name": "Francesca Brown",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/francesca-brown-from-camba-housing-ventures-on",
+        "start_time_in_seconds": 4860.893,
+        "end_time_in_seconds": 4944.9834,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "CAMBA Housing Ventures"
+        ],
+        "key_points": [
+            "Support for the City of Yes for Housing Opportunity initiative",
+            "Appreciation for the work of Mayor Adams, his team, and the Department of City Planning",
+            "Importance of local neighborhood conversations and community stakeholder participation",
+            "Commitment to creating equitable and inclusive communities",
+            "Canva Housing Ventures' experience working with HPD, HDC, and city planning for nearly 20 years",
+            "Dedication to addressing the housing crisis by providing safe, sustainable neighborhood assets"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Francesca Brown, represents CAMBA Housing Ventures, a nonprofit supportive and affordable housing developer.\n\n2. She expresses support for the \"City of Yes\" initiative, praising it as an \"ambitious and much needed initiative that addresses our city's housing crisis.\"\n\n3. The testimony mentions \"expanding housing opportunities for the most vulnerable New Yorkers\" and \"creating equitable and inclusive communities.\"\n\n4. The speaker talks about working with city agencies to expand housing supply and address the housing crisis.\n\n5. However, the testimony does not go into specific details about the various aspects of the \"City of Yes\" proposal, such as Universal Affordability Preference, lifting parking minimums, or Transit-Oriented Development.\n\nNow, let's compare this to the reference talking points:\n\n1. The testimony aligns with the overall goal of addressing the housing crisis, which is a theme across all the talking points.\n\n2. The speaker's emphasis on affordable housing aligns with the Universal Affordability Preference (UAP) talking point, although she doesn't mention it specifically.\n\n3. The testimony doesn't directly mention any of the specific proposals like lifting parking minimums, Transit-Oriented Development, or office-to-residential conversions.\n\n4. The speaker's mention of \"expanding housing opportunities for the most vulnerable New Yorkers\" could be seen as indirectly supporting ideas like Shared Housing (SROs), but this is not explicitly stated.\n\n5. The testimony is generally supportive of the \"City of Yes\" initiative but lacks specific references to the talking points provided.",
+        "talking_point_evidence": [
+            {
+                "quote": "I'm here today to express Tampa Housing Ventures' port for the city of Yeset Opportunities for local neighborhood conversations.",
+                "analysis": "This quote shows general support for the 'City of Yes' initiative, but doesn't align with any specific talking point. It's a broad statement of support without details.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            },
+            {
+                "quote": "We are committed to creating equitable and inclusive communities and power resources and opportunities to flourish.",
+                "analysis": "This quote aligns with the overall goal of addressing the housing crisis and creating more affordable housing options, which is a theme in the UAP talking point. However, it doesn't specifically mention any of the proposals.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "We will continue to work in order to address the housing crisis by providing more safe, sustainable neighborhood assets.",
+                "analysis": "This quote supports the general idea of addressing the housing crisis, which is a common theme across all talking points. However, it doesn't specifically align with any particular proposal.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony from Francesca Brown, representing CAMBA Housing Ventures, shows general support for the \"City of Yes\" initiative and its goal of addressing the housing crisis in New York City. However, the testimony lacks specific references to the detailed proposals outlined in the reference talking points.\n\nThe speaker expresses support for expanding housing opportunities, particularly for vulnerable New Yorkers, and creating equitable and inclusive communities. This aligns with the overall goals of the \"City of Yes\" initiative and particularly resonates with the Universal Affordability Preference (UAP) talking point, although UAP is not explicitly mentioned.\n\nWhile the testimony is supportive of the initiative, it does not delve into specific proposals such as lifting parking minimums, Transit-Oriented Development, office-to-residential conversions, or Shared Housing. The speaker focuses more on their organization's commitment to addressing the housing crisis rather than advocating for particular policy changes.\n\nGiven this analysis, the testimony can be classified as supporting the talking points in a broad sense, but not showing high alignment with the specific proposals outlined in the reference talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

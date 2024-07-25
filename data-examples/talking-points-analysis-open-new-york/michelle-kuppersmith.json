@@ -1,0 +1,50 @@
+{
+    "testimony": {
+        "name": "Michelle Kuppersmith",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/michelle-kuppersmith-resident-of-southern",
+        "start_time_in_seconds": 11273.277,
+        "end_time_in_seconds": 11448.828,
+        "for_or_against": "For",
+        "borough": "Manhattan",
+        "neighborhood": "Lower East Side",
+        "stated_affiliations": [
+            "Manhattan Community Board 3"
+        ],
+        "key_points": [
+            "Support for the entire City of Yes housing proposal",
+            "Refuting claims about affordable housing developments in her district",
+            "Personal family history of housing challenges in New York",
+            "Importance of affordable housing for keeping families in New York",
+            "Support for specific elements of the proposal (transit-oriented development, flexible parking requirements, housing standard changes)",
+            "City of Yes is based on fair housing report addressing segregation",
+            "Criticism of 'neighborhood character' preservation as a racist and classist concept"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Michelle Kuppersmith, explicitly states support for the entire City of Yes housing proposal.\n2. She addresses several key aspects of the proposal that align with the reference talking points:\n   - Mentions allowing apartments near transit centers (Transit-Oriented Development)\n   - Discusses flexibility for developers regarding parking spots (Lifting Parking Minimums)\n   - Mentions changing housing standards for apartments with kitchens and bathrooms with windows (potentially related to Shared Housing/SROs)\n3. She emphasizes the need for affordable housing and mentions developments with subsidized units.\n4. The speaker highlights the historical context of housing challenges in NYC and the need for change.\n5. She references the fair housing report, which aligns with the overall goals of the City of Yes proposal.\n6. The testimony doesn't explicitly mention all aspects of the reference talking points (e.g., Universal Affordability Preference, Office-to-Residential conversions, or ADUs), but the overall sentiment strongly supports the proposal.\n\nGiven these observations, the testimony appears to be closely aligned with the reference talking points, even if it doesn't cover all specific points.",
+        "talking_point_evidence": [
+            {
+                "quote": "City of Yoss is an important step to make sure that no family ever needs make the decision to leave New York, allowing apartments to turn transit centers. That's a no brainer",
+                "analysis": "This quote directly supports the Transit-Oriented Development (TOD) talking point. The speaker characterizes it as a 'no brainer,' which aligns with the positive framing in the reference talking points.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "giving developers flexibility to build only as many parking spots as they need, another no brainer.",
+                "analysis": "This quote directly addresses the Lifting Parking Minimums talking point. The speaker's characterization of it as a 'no brainer' aligns closely with the positive framing in the reference talking points.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "Changing housing standards so we can have apartments with kitchens and bathrooms with windows? A no brainer.",
+                "analysis": "While not explicitly mentioning Shared Housing or SROs, this quote suggests support for changing housing standards, which could be related to the Shared Housing talking point. The connection is not as direct, but it supports the overall idea of flexibility in housing options.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "City of Yes was developed based on the city's fair housing together report, which was done through years of extensive engagement and came up with ways to end years of dejure and de facto segregation in our city",
+                "analysis": "This quote doesn't directly relate to a specific talking point, but it supports the overall goals of the City of Yes proposal and its aim to address historical housing inequities, which is a theme present in several of the talking points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony is very closely related to the reference talking points, often making the same claims and arguments. While the speaker doesn't cover every aspect of the talking points, she explicitly supports the entire City of Yes housing proposal and elaborates on several key components that align with the reference talking points. The language used is similar in its positive framing of the proposal's elements, often describing them as \"no brainers.\" The speaker's personal anecdotes and historical context add depth to her arguments, but the core points align strongly with the provided talking points. It is plausible that the person is using the reference talking points as a basis for their testimony, even if not verbatim.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}

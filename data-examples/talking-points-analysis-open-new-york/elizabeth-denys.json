@@ -1,0 +1,50 @@
+{
+    "testimony": {
+        "name": "Elizabeth Denys",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/elizabeth-denys-from-open-new-york-on-transit",
+        "start_time_in_seconds": 2394.6694,
+        "end_time_in_seconds": 2568.547,
+        "for_or_against": "For",
+        "borough": "Brooklyn",
+        "neighborhood": "Flatbush",
+        "stated_affiliations": [
+            "Open New York"
+        ],
+        "key_points": [
+            "Support for the City of Yes for Housing Opportunity initiative",
+            "Concern about housing shortage and skyrocketing rents forcing people to leave the city",
+            "Support for transit-oriented development and lifting parking minimums",
+            "Support for allowing 3 to 5 story apartment buildings near transit, which are contextual with existing buildings in Flatbush",
+            "Support for Accessory Dwelling Units (ADUs) as a way to add housing in lower density neighborhoods",
+            "ADUs can help families live closer together and provide additional income for homeowners",
+            "Urges approval of the proposal in its strongest possible form"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Elizabeth Denys, is a board member of Open New York, a pro-housing organization.\n2. She expresses concern about the housing shortage and high rents in NYC.\n3. She strongly supports the \"City of Yes for Housing Opportunity\" initiative.\n4. She focuses on three main topics: transit-oriented development, lifting parking minimums, and accessory dwelling units (ADUs).\n5. On transit-oriented development, she supports creating 3-5 story apartment buildings near transit, which aligns with the reference talking points.\n6. On lifting parking minimums, she argues it reduces building costs and supports sustainable, car-free living, which closely matches the reference talking points.\n7. On ADUs, she supports their implementation, citing benefits for families and homeowners, which aligns with the reference talking points.\n8. She doesn't mention other aspects of the initiative like Universal Affordability Preference, \"Town Center\" Zoning, Office-to-Residential conversions, or Shared Housing.\n\nNow, let's compare this to the reference talking points:",
+        "talking_point_evidence": [
+            {
+                "quote": "I'm really excited about the entirety of the city of yes for housing opportunity initiative, and I urge the city planning commission to approve this proposal in its strongest possible form.",
+                "analysis": "This quote shows strong support for the entire initiative, which aligns with the overall message of the reference talking points. However, it doesn't mention any specific points, so it's a general statement of support.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Creating apartment buildings near transit is the best of new development. They create sustainable walkable communities where people don't need to own cars.",
+                "analysis": "This quote directly supports the Transit-Oriented Development (TOD) talking point. It uses similar language about creating sustainable, walkable communities and reducing car dependency.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "Lifting parking minimums also helps reduce the cost of building homes and thus the resulting rents where cars aren't needed to get around.",
+                "analysis": "This quote directly aligns with the Lifting Parking Minimums talking point. It mentions both the cost reduction aspect and the reduced need for cars in certain areas.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "ADUs will help families live closer to one another by creating spaces for young adults and aging relatives, and they also help homeowners themselves creating new revenue streams to help offset increasing home maintenance costs and cover mortgage and property tax payments.",
+                "analysis": "This quote closely aligns with the Accessory Dwelling Units (ADUs) talking point. It mentions benefits for families living closer together and financial benefits for homeowners, which are key points in the reference talking points.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            }
+        ],
+        "analysis": "The testimony by Elizabeth Denys is closely related to the reference talking points, particularly on the topics of Transit-Oriented Development, Lifting Parking Minimums, and Accessory Dwelling Units. She uses similar arguments and language to support these aspects of the \"City of Yes for Housing Opportunity\" initiative.\n\nHowever, the testimony doesn't cover all aspects of the reference talking points. It doesn't mention Universal Affordability Preference, \"Town Center\" Zoning, Office-to-Residential conversions, or Shared Housing. This suggests that while the testimony is strongly aligned with the talking points it does cover, it's not a comprehensive representation of all the reference talking points.\n\nThe speaker's affiliation with Open New York, a pro-housing organization, likely contributes to the alignment between her testimony and the reference talking points. Her personal experiences and concerns about housing in NYC also reinforce the arguments made in the talking points.\n\nOverall, while the testimony doesn't cover all aspects of the reference talking points, it strongly supports and closely aligns with the points it does address, using similar language and arguments.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}

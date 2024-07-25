@@ -1,0 +1,58 @@
+{
+    "testimony": {
+        "name": "Chad Purkey",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/chad-purkey-from-the-association-for-better-new",
+        "start_time_in_seconds": 27649.309,
+        "end_time_in_seconds": 27780.574,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Association for Better New York (ABNY)"
+        ],
+        "key_points": [
+            "The city is in a housing crisis that requires impactful yet measured responses",
+            "Support for all text amendments in the proposal due to increased balance in zoning resolution",
+            "The proposal offers better balance between prescriptive regulations and expanded options for property owners",
+            "Supports relegalizing building types like apartments over stores",
+            "Advocates for easier housing conversions",
+            "Supports giving more autonomy to single-family homeowners and religious/nonprofit institutions",
+            "Encourages allowing more varied housing types, including smaller shared housing",
+            "Supports extending affordability bonuses to more neighborhoods",
+            "The proposal offers a balance between boldness and thoughtful policy solutions",
+            "The reform will offer long-term benefits to residents across all city neighborhoods"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Chad Purkey from the Association for Better New York (ABNY), expresses support for the \"City of Yes for Housing Opportunity\" proposal.\n\n2. He acknowledges the housing crisis in New York City and emphasizes the need for \"impactful yet measured responses.\"\n\n3. The testimony strongly supports all text amendments in the proposal, highlighting the increased balance they introduce in the zoning resolution.\n\n4. Purkey mentions several specific points that align with the reference talking points:\n   a. Relegalizing building types like apartments over stores (aligns with \"Town Center\" Zoning)\n   b. Allowing conversions to be replicated more broadly (aligns with Office-to-Residential)\n   c. Giving single-family homeowners more autonomy (aligns with Accessory Dwelling Units)\n   d. Allowing New Yorkers to choose more varied housing types, including smaller shared housing (aligns with Shared Housing/SROs)\n   e. Allowing more communities to benefit from affordability bonuses (aligns with Universal Affordability Preference)\n\n5. The testimony emphasizes the balance between boldness and thoughtful policy solutions, prioritizing permission over directives.\n\n6. While the testimony doesn't go into specific details about each point, it does touch on several key aspects of the reference talking points, showing a high level of alignment with the overall goals and benefits of the \"City of Yes\" proposal.",
+        "talking_point_evidence": [
+            {
+                "quote": "This would mean relegalizing building types that nonsensically today are essentially banned despite them being present in large spots of our city like apartments over stores.",
+                "analysis": "This quote directly supports the 'Town Center' Zoning talking point, which aims to allow better, mixed-use buildings on commercial corridors. The testimony uses similar language to the talking point, mentioning the current ban on apartments over stores, which the proposal aims to change.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "Allowing proven successful housing creation like conversions to be replicated more broadly and easily",
+                "analysis": "This quote aligns with the Office-to-Residential talking point. While it doesn't specifically mention office conversions, it does support the idea of expanding successful conversion practices, which is a key aspect of the Office-to-Residential proposal.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Allowing single family homeowners and religious or nonprofit institutions with campus is more autonomy in choosing how they use their properties to meet their short and long term needs for their families and their communities.",
+                "analysis": "This quote supports the Accessory Dwelling Units (ADUs) talking point. It emphasizes giving homeowners more autonomy in using their properties, which aligns with the ADU proposal's goal of allowing additional units on single-family properties.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Allowing New Yorkers to choose more varied housing types, including smaller shared housing",
+                "analysis": "This quote directly supports the Shared Housing (SRO) talking point. It specifically mentions allowing smaller shared housing, which is exactly what the SRO proposal aims to achieve.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "Allowing more communities to reap benefits from affordability bonuses that today are excluded from parts to many neighborhoods.",
+                "analysis": "This quote aligns with the Universal Affordability Preference (UAP) talking point. While it doesn't go into specifics, it supports the idea of expanding affordability bonuses to more neighborhoods, which is a key aspect of the UAP proposal.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows a high level of alignment with the reference talking points. While it doesn't go into specific details about each point, it touches on several key aspects of the \"City of Yes for Housing Opportunity\" proposal. The speaker expresses strong support for the entire package of reforms, emphasizing the balance between bold action and thoughtful policy solutions.\n\nThe testimony directly addresses or alludes to five of the seven main talking points: Town Center Zoning, Office-to-Residential conversions, Accessory Dwelling Units, Shared Housing (SROs), and Universal Affordability Preference. The language used in the testimony often mirrors or closely aligns with the language in the reference talking points, indicating a high degree of similarity in messaging and goals.\n\nIt's worth noting that the testimony doesn't explicitly mention Transit-Oriented Development or Lifting Parking Minimums. However, this omission doesn't necessarily indicate disagreement with these points; rather, it may be due to time constraints or a focus on other aspects of the proposal.\n\nOverall, the testimony presents a cohesive argument in favor of the \"City of Yes\" proposal that aligns closely with the provided reference talking points, both in terms of specific policy recommendations and overarching goals.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}

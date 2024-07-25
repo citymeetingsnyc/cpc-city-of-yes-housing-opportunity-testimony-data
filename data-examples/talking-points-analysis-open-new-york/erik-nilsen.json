@@ -1,0 +1,47 @@
+{
+    "testimony": {
+        "name": "Erik Nilsen",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/erik-nilsen-resident-of-bushwick-brooklyn-on-full",
+        "start_time_in_seconds": 48009.06,
+        "end_time_in_seconds": 48138.58,
+        "for_or_against": "For",
+        "borough": "Brooklyn",
+        "neighborhood": "Bushwick",
+        "stated_affiliations": [],
+        "key_points": [
+            "Supports all aspects of City of Yes and urges passing the strongest form possible",
+            "Housing costs have been a major concern for himself and friends, leading to feelings of instability",
+            "Wants more housing built everywhere to address affordability concerns",
+            "Appreciates the dynamic nature of New York City and believes change is necessary for growth",
+            "Concerned about the city remaining interesting and affordable, mentioning high rental costs",
+            "Believes embracing change is part of living in New York City"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Erik Nilsen, is a lifelong New Yorker and a homeowner in Bushwick, Brooklyn.\n2. He expresses full support for the City of Yes proposal, urging for the strongest form possible.\n3. He mentions that housing costs have been a major concern for him and his friends throughout their lives in NYC.\n4. Erik advocates for more housing to be built everywhere to address affordability concerns.\n5. He appreciates the dynamic nature of NYC and wants it to remain so, which he believes requires allowing changes and growth.\n6. The speaker doesn't use specific terminology from the reference talking points, but his general sentiments align with several of them.\n\nNow, let's compare this to the reference talking points:\n\n1. The testimony aligns with the overall goal of increasing housing supply and affordability, which is a theme across all the talking points.\n2. While not mentioning specific proposals like UAP, TOD, or lifting parking minimums, the speaker's desire for more housing \"everywhere\" supports these concepts.\n3. The testimony doesn't go into specifics about office-to-residential conversions, ADUs, or shared housing, but the general support for more housing options could be seen as indirectly supporting these ideas.\n4. The speaker's emphasis on allowing the city to change and grow aligns with the general spirit of the City of Yes proposal, which aims to update zoning laws to allow for more housing options.\n\nWhile the testimony doesn't use the same language or specific proposals as the reference talking points, the overall sentiment and goals are very much in line with them.",
+        "talking_point_evidence": [
+            {
+                "quote": "I'm actually gonna go full full throated support in in terms of of all of city of yes and urge you to to pass the strongest form of it possible.",
+                "analysis": "This quote directly expresses support for the City of Yes proposal, which encompasses all the talking points. While it doesn't mention specific aspects, it shows strong alignment with the overall goals of the proposal.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "So that's why I really want there to just be more housing built everywhere to address affordability concerns everywhere across the city.",
+                "analysis": "This quote aligns with the general theme of increasing housing supply to address affordability, which is present in multiple talking points such as UAP, TOD, and office-to-residential conversions. While not identical to any specific talking point, it strongly supports the overall goals.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Also, I just appreciate I like living New York City because of how dynamic it is. And I don't know how dynamic it's gonna be when when when it's gonna cost $5000 a month to rent one bedroom.",
+                "analysis": "This quote indirectly supports the need for more affordable housing options, which aligns with various talking points like UAP, shared housing, and ADUs. It emphasizes the importance of affordability in maintaining the city's dynamic nature.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Lot of other people in this call don't seem to be want those changes to occur, but I just think it's just a part of living in New York City that things change and you have to just embrace it.",
+                "analysis": "While not directly referencing a specific talking point, this quote supports the overall spirit of the City of Yes proposal, which aims to update zoning laws and allow for changes in housing development. It aligns with the idea that change is necessary for addressing housing issues.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            }
+        ],
+        "analysis": "The testimony shows a clear support for the City of Yes proposal and its goals of increasing housing supply and affordability. While the speaker doesn't use specific terminology or mention particular aspects of the proposal, his overall message aligns well with the reference talking points.\n\nThe testimony emphasizes the need for more housing \"everywhere\" to address affordability concerns, which is a central theme in many of the talking points. The speaker's appreciation for the dynamic nature of New York City and his willingness to embrace change also aligns with the spirit of the proposal, which aims to update zoning laws to allow for more housing options.\n\nAlthough the testimony doesn't go into specifics about individual components like UAP, TOD, or lifting parking minimums, the general support for more housing and openness to change could be seen as indirectly supporting these ideas.\n\nThe level of alignment is not as high as it could be if the speaker had used specific terminology or referenced particular aspects of the proposal. However, the overall sentiment and goals expressed in the testimony are very much in line with the reference talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

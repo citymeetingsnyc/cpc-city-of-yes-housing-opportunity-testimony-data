@@ -1,0 +1,46 @@
+{
+    "testimony": {
+        "name": "Jack Connors",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/jack-connors-from-the-permanent-citizens-advisory",
+        "start_time_in_seconds": 52173.535,
+        "end_time_in_seconds": 52358.41,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Permanent Citizens Advisory Committee to the MTA"
+        ],
+        "key_points": [
+            "Support for City of Yes for Housing Opportunity proposal",
+            "Affordable housing crisis hurts MTA riders, with longer commute times compared to other cities",
+            "Racial disparities in commute times, with Black New Yorkers having longer commutes",
+            "Proposal addresses inequities by returning to transit-focused housing policies",
+            "Encourages transit-oriented development and removal of parking mandates",
+            "Potential to improve lives of current and future transit riders",
+            "Calls for additional initiatives like expanding bus lanes and Fair Fares program",
+            "Emphasizes the need to ensure transit infrastructure is accessible to working New Yorkers"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "To analyze the similarity between the testimony and the reference talking points, I'll go through the testimony and identify key points that align with or relate to the reference talking points:\n\n1. The testimony strongly supports the City of Yes for Housing Opportunity proposal, which aligns with the overall positive stance in the reference talking points.\n\n2. The testimony mentions \"transit focused housing policies\" and \"transit oriented development,\" which directly relates to the Transit-Oriented Development (TOD) talking point.\n\n3. The testimony discusses the absence of parking mandates, which aligns closely with the Lifting Parking Minimums talking point.\n\n4. The testimony mentions \"accessory dwelling units,\" which is directly related to the Accessory Dwelling Units (ADUs) talking point.\n\n5. The testimony emphasizes the connection between housing and transit, which is a theme present in several of the reference talking points, particularly TOD and Lifting Parking Minimums.\n\n6. The testimony doesn't specifically mention Universal Affordability Preference, Office-to-Residential conversions, \"Town Center\" Zoning, or Shared Housing/SROs.\n\n7. The testimony focuses heavily on transit-related issues, which is not a primary focus of the reference talking points, though it is mentioned in relation to TOD and Lifting Parking Minimums.\n\nOverall, while the testimony doesn't cover all the points in the reference talking points, it strongly aligns with several key ideas, particularly around transit-oriented development and removing parking mandates. The language used is not identical, but the underlying concepts are very similar in these areas.",
+        "talking_point_evidence": [
+            {
+                "quote": "City of yes for housing opportunity addresses these glaring inequities by returning to the transit focused housing policies that enabled our rail networks expansion in the early 20th century.",
+                "analysis": "This quote directly supports the concept of Transit-Oriented Development (TOD) mentioned in the reference talking points. While the language is not identical, the idea of connecting housing policies with transit is the same.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "During that time, policies included in the city, yes, for housing opportunities such as accessory dwelling units, transit oriented development, and the absence of parking mandates were known by a different name. Common sense.",
+                "analysis": "This quote explicitly mentions three key points from the reference talking points: accessory dwelling units (ADUs), transit oriented development (TOD), and the absence of parking mandates. The language is very similar to the reference points, though it frames these as historical policies rather than new proposals.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "Getting back to basics will help the city and the MTA as both continue to recover. From the from pandemic ridership losses by bringing riders closer to stations, thereby encouraging and improving ridership and simultaneously fair revenue.",
+                "analysis": "This quote supports the idea of Transit-Oriented Development, emphasizing the benefits of having people live close to transit stations. While not using identical language, it aligns closely with the TOD talking point about creating sustainable and walkable communities and encouraging transit ridership.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows a significant alignment with several key points from the reference talking points, particularly in relation to transit-oriented development and lifting parking mandates. The speaker explicitly mentions and supports concepts such as accessory dwelling units, transit-oriented development, and the absence of parking mandates, which are central to the City of Yes for Housing Opportunity proposal.\n\nHowever, the testimony focuses more heavily on transit-related issues and the benefits to MTA riders, which is not a primary focus of the reference talking points. The testimony does not cover all aspects of the reference talking points, notably missing discussion on Universal Affordability Preference, Office-to-Residential conversions, \"Town Center\" Zoning, or Shared Housing/SROs.\n\nWhile the exact language used in the testimony is not identical to the reference talking points, the underlying concepts and support for the proposal are very similar, especially in the areas that are covered. The testimony provides a strong endorsement of the proposal from a transit-oriented perspective, which aligns well with several of the reference talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

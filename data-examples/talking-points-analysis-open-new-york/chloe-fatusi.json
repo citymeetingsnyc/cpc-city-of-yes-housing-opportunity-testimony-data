@@ -1,0 +1,37 @@
+{
+    "testimony": {
+        "name": "Chloe Fatusi",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/chloe-fatusi-resident-of-cobble-hill-brooklyn-on",
+        "start_time_in_seconds": 27372.43,
+        "end_time_in_seconds": 27447.055,
+        "for_or_against": "For",
+        "borough": "Brooklyn",
+        "neighborhood": "Cobble Hill",
+        "stated_affiliations": [],
+        "key_points": [
+            "Support for City of Yes initiative",
+            "Concerned about friends' and children's ability to stay in the city",
+            "Housing supply and cost directly impact affordability",
+            "Excited about lifting parking minimums",
+            "Need to move away from car dependency",
+            "City stepping up to solve housing problems"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Chloe Fatusi, expresses support for the \"City of Yes\" proposal.\n2. She mentions being worried about friends' and her kids' ability to stay in the city, indicating concern about housing affordability.\n3. She specifically mentions being excited about lifting parking minimums.\n4. She acknowledges the need to move away from car dependency.\n5. The speaker doesn't go into deep detail about other aspects of the proposal.\n\nNow, let's compare this to the reference talking points:\n\n1. The testimony aligns closely with the \"Lifting Parking Minimums\" talking point. The speaker explicitly mentions this and shows enthusiasm for it.\n2. The speaker's concern about housing affordability and supply aligns with the general theme of the talking points, although she doesn't mention specific programs like UAP or TOD.\n3. The speaker's mention of moving away from car dependency aligns with points made in the \"Lifting Parking Minimums\" section about reducing car reliance and addressing climate issues.\n4. The testimony doesn't directly mention or align with other specific talking points like Office-to-Residential conversions, ADUs, or Shared Housing.\n\nOverall, while the testimony shows strong support for the proposal and aligns closely with one specific talking point, it doesn't cover the breadth of points mentioned in the reference document.",
+        "talking_point_evidence": [
+            {
+                "quote": "I'm especially excited to see parking minimums lifted, not only because it will help build more housing, but because it is a recognition of a need to move away from car dependency.",
+                "analysis": "This quote directly aligns with the 'Lifting Parking Minimums' talking point. The speaker expresses excitement about this specific aspect of the proposal and mentions two key benefits: increasing housing supply and reducing car dependency. These align closely with the points made in the reference talking points about allowing more housing to be built and addressing climate concerns related to car usage.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "I know that even as a homeowner, my ability to afford living in New York is direct impacted by the supply and cost of housing and city.",
+                "analysis": "While this quote doesn't directly reference a specific talking point, it aligns with the overall theme of the proposal, which aims to increase housing supply and affordability. This sentiment is present in various talking points like UAP, TOD, and others that aim to increase housing options.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows a moderate level of alignment with the reference talking points. While the speaker strongly supports the \"City of Yes\" proposal and specifically endorses lifting parking minimums, which aligns closely with one of the major talking points, she doesn't delve into many of the other specific aspects of the proposal mentioned in the reference document.\n\nThe speaker's primary focus on parking minimums and general housing affordability suggests that she may be familiar with some aspects of the proposal, but perhaps not the full extent of the talking points provided. Her testimony supports the overall goals of the proposal but doesn't demonstrate the same level of detailed knowledge or argumentation present in the reference talking points.\n\nIt's worth noting that the limited scope of her testimony doesn't necessarily indicate disagreement with other aspects of the proposal; rather, she chose to focus on the elements that resonated most with her personal experience and concerns.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

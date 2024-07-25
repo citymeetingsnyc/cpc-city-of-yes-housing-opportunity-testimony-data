@@ -1,0 +1,43 @@
+{
+    "testimony": {
+        "name": "Barika Williams",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/barika-williams-from-the-association-for",
+        "start_time_in_seconds": 36574.344,
+        "end_time_in_seconds": 36798.594,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Association for Neighborhood & Housing Development (ANHD)"
+        ],
+        "key_points": [
+            "Support for the text amendment with modifications",
+            "Recommendation to adjust income averaging in UAP to include mandated deep affordability",
+            "Suggestion to extend the higher 77% density bump across the board in UAP areas",
+            "Concern about lack of required affordability in lower density areas under current framework",
+            "Recommendation to require mandated affordability in DOD (Detached Only Districts)"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "1. The testimony focuses primarily on the Universal Affordability Preference (UAP) aspect of the proposal.\n2. The speaker, Barika Williams, expresses support for the overall intention of the text amendment, which aligns with the reference talking points.\n3. She specifically mentions income averaging and density bonuses, which are key components of the UAP talking points.\n4. The testimony goes into more technical details about UAP than the reference talking points, suggesting a deeper understanding of the policy.\n5. While the testimony doesn't explicitly mention other aspects of the proposal (like parking minimums or TOD), it doesn't contradict them either.\n6. The speaker's organization, ANHD, seems to be generally supportive of the proposal with some suggested modifications.\n7. The testimony emphasizes the importance of deep affordability, which aligns with the reference talking points' priority on affordable housing.",
+        "talking_point_evidence": [
+            {
+                "quote": "We support the intention of the text amendment to introduce more opportunity for housing development and importantly affordability in New York City Neighborhoods and across New York City Neighborhoods, particularly and importantly, in those that have not done their fair share in the recent decades.",
+                "analysis": "This quote directly supports the overall intention of the UAP program as described in the reference talking points. It emphasizes the importance of creating more affordable housing opportunities across the city, which is a key point in the UAP description.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "On UAP specifically, one of the things that we're recommending is that the income averaging, as Cherilyn, pointed out, it's not a 60% it's a percent averaging be adjusted to include a mandated deaffordability proportion, right?",
+                "analysis": "This quote discusses a specific aspect of the UAP program - income averaging. While the reference talking points don't go into this level of detail, the speaker's recommendation aligns with the overall goal of creating more deeply affordable housing, which is mentioned in the talking points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "You have a max f a r in errors, and then you have a max affordable in ears, and actually those are not consistent by various different districts. Heard a lot. You all have heard a lot from people who feel very strongly against density, but a lot of these UAP areas are actually places that have consistently said we will take density for affordability.",
+                "analysis": "This quote relates to the density bonus aspect of UAP, which is mentioned in the reference talking points. The speaker is pointing out that many communities are willing to accept increased density in exchange for affordability, which supports the talking point about 'A little bit denser buildings - and not necessarily even taller buildings - is well worth it to get this new housing.'",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony by Barika Williams shows a significant alignment with the reference talking points, particularly regarding the Universal Affordability Preference (UAP) aspect of the \"City of Yes for Housing Opportunity\" proposal. While the testimony doesn't cover all aspects of the proposal mentioned in the talking points, it strongly supports the core intentions of creating more affordable housing opportunities across New York City.\n\nThe speaker expresses explicit support for the text amendment's goals, which aligns closely with the reference talking points. She goes into more technical detail about aspects of the UAP program, such as income averaging and density bonuses, demonstrating a deep understanding of the policy and its potential impacts.\n\nThe testimony emphasizes the importance of deep affordability and ensuring that all neighborhoods contribute to affordable housing development, which resonates with the reference talking points' priority on getting \"deeply affordable housing in new developments.\"\n\nWhile the speaker suggests some modifications to the proposal, these are generally in line with the overall goals outlined in the talking points, aiming to strengthen the affordability components of the program.\n\nThe testimony doesn't contradict any of the other aspects of the proposal mentioned in the reference talking points (such as parking minimums, TOD, etc.), but it also doesn't explicitly address them, focusing primarily on UAP.\n\nOverall, the testimony can be characterized as supportive of the proposal's main intentions, with suggestions for modifications that would potentially strengthen its affordability outcomes.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

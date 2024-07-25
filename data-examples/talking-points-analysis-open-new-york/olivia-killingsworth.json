@@ -1,0 +1,46 @@
+{
+    "testimony": {
+        "name": "Olivia Killingsworth",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/olivia-killingsworth-actor-and-open-new-york",
+        "start_time_in_seconds": 43407.418,
+        "end_time_in_seconds": 43580.06,
+        "for_or_against": "For",
+        "borough": "Brooklyn",
+        "neighborhood": "South Brooklyn",
+        "stated_affiliations": [
+            "Open New York",
+            "Actor's Equity",
+            "SAG-AFTRA"
+        ],
+        "key_points": [
+            "Support for City of Yes for Housing Opportunity initiative",
+            "Importance of affordable housing for artists and creative professionals",
+            "Advocacy for shared housing and SROs (Single Room Occupancy units)",
+            "Personal experience living in micro apartments and its positive impact",
+            "Concern about the city's ability to welcome new generations of creative workers",
+            "Impact of housing affordability on the vibrancy and creative culture of New York City"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze this testimony step by step:\n\n1. The speaker, Olivia Killingsworth, is a professional actor and a member of Open New York.\n2. She expresses strong support for the City of Yes for Housing Opportunity initiative.\n3. She emphasizes the struggles of artists and creative professionals to afford housing in New York City.\n4. She specifically mentions and supports the provisions to allow shared housing and SROs (Single Room Occupancy units).\n5. She shares personal experience of living in a building with micro-apartments and how it was transformational for low-income artists and people transitioning out of homelessness.\n6. She argues that small, affordable housing options are crucial for maintaining the city's creative vibrancy and attracting new talent.\n\nNow, let's compare this to the reference talking points:\n\n1. The testimony aligns closely with the \"Shared Housing (aka 'Single-Room Occupancy' [SROs])\" talking point. The speaker strongly advocates for this type of housing, which matches the reference point almost identically.\n2. The speaker's emphasis on affordability for artists and creative professionals aligns with the general theme of affordability present in multiple talking points, particularly the \"Universal Affordability Preference (UAP)\" point.\n3. While the speaker doesn't explicitly mention other aspects like parking minimums, transit-oriented development, or office-to-residential conversions, her overall support for the City of Yes initiative implies agreement with these points.\n4. The testimony doesn't contradict any of the reference talking points and strongly supports at least one of them (SROs).\n\nGiven this analysis, the testimony shows a high alignment with the reference talking points, particularly on the topic of shared housing/SROs.",
+        "talking_point_evidence": [
+            {
+                "quote": "I especially wanna focus on the provisions to allow shared housing and SROs or single room occupancy units. I understand apartments with shared kitchens and bathrooms aren't for everyone. But this kind of housing can be a real boom for people just starting out.",
+                "analysis": "This quote directly addresses the 'Shared Housing (aka 'Single-Room Occupancy' [SROs])' talking point. The speaker is explicitly supporting the reintroduction of SROs, which aligns perfectly with the reference talking point that advocates for bringing back apartments with shared kitchens and bathrooms.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "In the sixties, we made SROs illegal. Because we thought it would push out the low income people who lived in those types of apartments that didn't work. It was immoral and dumb, and we ended up with a homeless critics and rising costs for everyone.",
+                "analysis": "This quote closely mirrors the historical context provided in the reference talking point about SROs. It mentions the same timeframe (1960s) and criticizes the decision to make SROs illegal, just as the reference point does. The speaker also draws the same conclusion about the negative impacts on homelessness and housing costs.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "And I can say from personal experience, having lived in a building full of micro apartments, For both low income artists and folks transitioning out of homelessness, it's transformational.",
+                "analysis": "While this quote doesn't directly mirror any specific talking point, it supports the general argument for SROs and shared housing. It aligns with the reference point's emphasis on SROs as a solution for low-income individuals and those transitioning out of homelessness.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony is very closely related to the reference talking points, particularly on the topic of Shared Housing/SROs. The speaker makes almost identical arguments to those presented in the reference talking points, including the historical context of banning SROs in the 1960s and the negative consequences that followed. She also emphasizes the importance of affordable housing options for artists and creative professionals, which aligns with the overall theme of affordability present in many of the reference talking points.\n\nWhile the speaker doesn't explicitly mention all aspects of the City of Yes for Housing Opportunity initiative covered in the reference talking points, her strong support for the initiative implies agreement with its various components. The language and arguments used, especially regarding SROs, are very similar to those in the reference talking points, suggesting that the speaker may be familiar with or influenced by these talking points.\n\nGiven the strong alignment on the SRO topic and the overall support for the initiative, it is plausible that the person is using the reference talking points in their testimony, at least in part.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}

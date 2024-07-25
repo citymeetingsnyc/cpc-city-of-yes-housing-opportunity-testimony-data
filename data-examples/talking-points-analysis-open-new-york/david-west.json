@@ -1,0 +1,29 @@
+{
+    "testimony": {
+        "name": "David West",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/david-west-from-zoning-and-design-committee-on",
+        "start_time_in_seconds": 21361.02,
+        "end_time_in_seconds": 21551.219,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "REBNY's Zoning and Design Committee"
+        ],
+        "key_points": [
+            "Supportive of the overall initiative, particularly changes in R6 through R9 districts",
+            "Concerns about height and setback changes in medium and high density districts",
+            "Issues with the proposed text regarding towers and street walls",
+            "Suggestion to exempt residential towers from certain provisions or modify encroachment zone limits",
+            "Request to restore all current exemptions for street walls",
+            "Concern that mandatory setbacks may make buildings more expensive and less efficient",
+            "Broad support for Housing Opportunity initiative with suggestions for improvement"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "1. The testimony is from David West, an architect speaking on behalf of the Redney's zoning and design committee.\n2. The testimony focuses on heightened setback changes for medium and high density districts.\n3. Overall, the speaker is supportive of the proposed changes.\n4. The speaker takes issue with two matters: hours and street walls.\n5. The testimony doesn't directly mention any of the specific talking points provided in the reference list.\n6. The speaker's concerns are more technical and specific to architectural design aspects.\n7. There is no mention of affordability, parking minimums, transit-oriented development, town center zoning, accessory dwelling units, office-to-residential conversions, or shared housing.\n8. The closest alignment might be with the general support for increased housing production, which is a theme in some of the reference talking points.\n\nBased on this analysis, the testimony does not seem to be closely aligned with the provided reference talking points.",
+        "talking_point_evidence": [],
+        "analysis": "The testimony provided by David West does not closely align with the reference talking points. While the speaker expresses general support for the zoning changes and mentions increased housing production, which is a theme in some of the reference talking points, the testimony focuses on specific architectural and design aspects of the proposed changes. The speaker's concerns are more technical in nature, discussing issues like setbacks, street walls, and building design flexibility.\n\nThe reference talking points cover broader policy issues such as affordability, parking minimums, transit-oriented development, and various types of zoning changes. None of these specific points are directly addressed in the testimony.\n\nGiven the lack of direct references or similarities to the provided talking points, it appears that the testimony is not closely related to the reference talking points.",
+        "similarity": "NOT_ALIGNED"
+    }
+}

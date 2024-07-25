@@ -1,0 +1,55 @@
+{
+    "testimony": {
+        "name": "Peter Estes",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/peter-estes-representing-bj-jones-of-the-new-new",
+        "start_time_in_seconds": 17382.182,
+        "end_time_in_seconds": 17574.742,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "The New New York"
+        ],
+        "key_points": [
+            "Strong support for the City of Yes for Housing Opportunity",
+            "Aligns with the New New York panel's action plan for equitable recovery",
+            "Helps tackle 3 key initiatives: reducing barriers to housing growth, increasing supportive housing supply, and making business districts more live-work-play",
+            "Allows for contextual missing middle small apartment buildings near transit",
+            "Simplifies housing development on faith-based institution campuses",
+            "Universal affordability preference paired with 485x incentive can be a game changer for affordable and supportive housing",
+            "Allows modest apartment buildings above businesses on Commercial Streets",
+            "Makes office to residential conversions easier",
+            "Creates new high-density zoning districts with strong affordability requirements",
+            "Addresses decades-long imbalance between housing demand and supply",
+            "Will benefit New Yorkers at all income levels",
+            "Ensures New York remains a livable city and magnet for global talent"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "To analyze the similarity between the testimony and the reference talking points, I'll go through the testimony and compare it to each of the main points in the reference document:\n\n1. The testimony strongly supports the \"City of Yes for Housing Opportunity\" initiative, which aligns with the overall positive stance in the reference talking points.\n\n2. The testimony mentions \"universal affordability preference paired estate incentive 485x\" which seems to relate to the Universal Affordability Preference (UAP) in the reference points.\n\n3. The testimony discusses allowing \"modest apartment buildings above businesses on Commercial Streets\" which aligns with the \"Town Center\" Zoning concept in the reference points.\n\n4. The testimony mentions making \"office to residential conversions much easier\" which directly corresponds to the Office-to-Residential section in the reference points.\n\n5. The testimony talks about allowing \"contextual missing middle small apartment buildings near transit\" which aligns with the Transit-Oriented Development (TOD) concept in the reference points.\n\n6. The testimony doesn't specifically mention lifting parking minimums, ADUs, or shared housing/SROs, which are present in the reference talking points.\n\n7. The overall tone and approach of the testimony is very similar to the reference talking points, emphasizing the necessity of these changes to address the housing crisis and create more vibrant, inclusive neighborhoods.\n\nGiven these observations, there seems to be a high degree of alignment between the testimony and the reference talking points, although the testimony doesn't cover all the points mentioned in the reference document.",
+        "talking_point_evidence": [
+            {
+                "quote": "The universal affordability preference paired estate incentive 485x can be a game changer for affordable and supportive housing in New York.",
+                "analysis": "This quote directly references the Universal Affordability Preference (UAP) mentioned in the reference talking points. While it doesn't go into as much detail, it presents the concept as a 'game changer' for affordable housing, which aligns with the positive framing in the reference points.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "The plan before us today allows modest apartment buildings above businesses on Commercial Streets makes needed and common sense office to residential conversions much easier and in high demand areas creates new high density zoning districts, which come with strong affordability requirements.",
+                "analysis": "This quote encompasses two key points from the reference talking points: the 'Town Center' Zoning concept (allowing apartments above businesses on commercial streets) and the Office-to-Residential conversions. The language and framing are very similar to the reference points, presenting these as common-sense solutions.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "City of US for housing opportunity works towards this in a number of important ways such as allowing for contextual missing middle small apartment buildings near transit",
+                "analysis": "This quote aligns closely with the Transit-Oriented Development (TOD) concept from the reference talking points. It mentions small apartment buildings near transit, which is a key aspect of TOD as described in the reference document.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "This package will address a decades long imbalance between housing demand and supply. Instead of unchecked costs pushing people out of New York City, we can spur housing growth that will benefit New Yorkers at all income levels and ensure New York remains a livable city and magnet for global talent for generations to come.",
+                "analysis": "While this quote doesn't reference a specific talking point, it echoes the overall sentiment and rationale presented in the reference document. It emphasizes the need to address the housing crisis and create more affordable options, which is a recurring theme in the reference talking points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony is very closely related to the reference talking points, often making the same claims and arguments. The language is similar in many instances, and it is plausible that the person is using the reference talking points in their testimony. \n\nThe testimony covers several key points from the reference document, including:\n1. Universal Affordability Preference (UAP)\n2. Transit-Oriented Development (TOD)\n3. \"Town Center\" Zoning\n4. Office-to-Residential conversions\n\nThe overall framing of the issues and the proposed solutions is very similar to the reference talking points. Both emphasize the necessity of these changes to address the housing crisis, create more affordable options, and develop more vibrant, inclusive neighborhoods.\n\nHowever, it's worth noting that the testimony doesn't cover all the points mentioned in the reference document. For instance, it doesn't specifically address lifting parking minimums, Accessory Dwelling Units (ADUs), or shared housing/SROs. \n\nDespite these omissions, the high degree of alignment in the covered topics and the similar language and framing suggest that the testimony is very closely related to the reference talking points.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}

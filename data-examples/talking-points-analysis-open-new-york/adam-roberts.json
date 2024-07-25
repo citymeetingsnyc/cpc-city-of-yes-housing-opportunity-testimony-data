@@ -1,0 +1,44 @@
+{
+    "testimony": {
+        "name": "Adam Roberts",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/adam-roberts-from-community-housing-improvement",
+        "start_time_in_seconds": 19030.832,
+        "end_time_in_seconds": 19170.035,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Community Housing Improvement Program (CHIP)"
+        ],
+        "key_points": [
+            "Support for the zoning text amendment, particularly additional floor area ratio for basements and cellars near transit",
+            "Potential for creating new affordable basement and cellar units in rent-stabilized buildings",
+            "Additional income from new units would help cover maintenance costs for rent-stabilized buildings facing financial crisis",
+            "Support for expansion of Universal Affordability Preference to create modern housing for current and new tenants",
+            "Need for addressing barriers to relocating current tenants to effectively implement the zoning text amendment",
+            "Importance of creating new rent-stabilized housing with modern accessibility features"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "\n1. The testimony focuses on supporting the zoning text amendment, particularly aspects that would benefit rent-stabilized housing.\n2. The speaker mentions additional floor area ratio (FAR) for basements and cellars near transit, which aligns with the Transit-Oriented Development (TOD) talking point.\n3. The testimony emphasizes the creation of affordable housing, which is a theme present in several reference talking points.\n4. The speaker discusses the Universal Affordability Preference, which is directly mentioned in the reference talking points.\n5. The testimony doesn't mention parking minimums, office-to-residential conversions, shared housing, or accessory dwelling units.\n6. The overall tone and content of the testimony align with some of the reference talking points, but it's more focused on specific aspects related to rent-stabilized housing.\n",
+        "talking_point_evidence": [
+            {
+                "quote": "In particular, that additional floor area ratio will count towards basements and sellers for buildings located near transit.",
+                "analysis": "This quote directly relates to the Transit-Oriented Development (TOD) talking point, which discusses allowing small apartment buildings in low-density areas near transit. The testimony supports this idea by mentioning additional floor area ratio for basements and cellars near transit.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "The addition of SAR near transit and the expansion of the Universal affordability preference will create modern housing for current tenants and new housing for new tenants.",
+                "analysis": "This quote directly mentions the Universal Affordability Preference, which is one of the main talking points in the reference list. It supports the idea that this preference will lead to the creation of new affordable housing.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "Adding SAR to these buildings will create countless new affordable basement and seller units.",
+                "analysis": "While not directly quoting a specific talking point, this statement aligns with the overall theme of creating more affordable housing options, which is present in several of the reference talking points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows a moderate level of alignment with the reference talking points. While it doesn't cover all the points mentioned in the reference list, it strongly supports the zoning text amendment and focuses on aspects that align with some of the key talking points, particularly those related to Transit-Oriented Development and the Universal Affordability Preference. The testimony emphasizes the creation of affordable housing and the benefits of additional floor area ratio near transit, which are themes present in the reference talking points. However, the testimony is more focused on the specific concerns of rent-stabilized housing providers and doesn't touch on many of the other points mentioned in the reference list, such as parking minimums, office-to-residential conversions, or shared housing.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

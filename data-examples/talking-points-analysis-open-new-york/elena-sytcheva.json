@@ -1,0 +1,45 @@
+{
+    "testimony": {
+        "name": "Elena Sytcheva",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/elena-sytcheva-on-the-city-of-yes-initiative-and",
+        "start_time_in_seconds": 51093.047,
+        "end_time_in_seconds": 51200.2,
+        "for_or_against": "For",
+        "borough": "Brooklyn",
+        "neighborhood": "Greenpoint",
+        "stated_affiliations": [],
+        "key_points": [
+            "Support for the City of Yes initiative",
+            "Personal experience as a lifelong Brooklyn resident",
+            "Concern about the lack of affordable housing for the current generation",
+            "Friends and colleagues being forced to leave their neighborhoods due to cost of living increases",
+            "Support for creating permanent affordability through UAP",
+            "Support for making parking optional instead of required",
+            "Support for transit-oriented development",
+            "Belief that the proposal will provide much-needed affordable housing",
+            "Urging the commission to approve the proposal in its strongest form"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Elena Sytcheva, is testifying in favor of the City of Yes initiative.\n2. She mentions her background as a lifelong Brooklyn resident and her current situation as a renter in Greenpoint.\n3. She expresses concern about the housing crisis in New York City, citing low vacancy rates and skyrocketing rents.\n4. Elena specifically mentions three aspects of the proposal:\n   a. Creating permanent affordability through UAP (Universal Affordability Preference)\n   b. Making parking optional instead of required\n   c. Transit-oriented development\n5. These three points directly align with the reference talking points provided.\n6. She emphasizes that these solutions will help New Yorkers remain in their communities and allow the city to welcome new residents.\n7. The speaker urges the commission to approve the proposal in its strongest form.\n\nNow, let's compare this to the reference talking points:\n\n1. UAP: Elena mentions this by name and highlights its importance for creating permanent affordable housing, which aligns with the reference points.\n2. Lifting Parking Minimums: She refers to this as \"making parking optional instead of required,\" which directly corresponds to the reference talking points.\n3. Transit-Oriented Development: Elena mentions this concept, which is also a key point in the reference talking points.\n4. The speaker doesn't mention other aspects like \"Town Center\" Zoning, ADUs, Office-to-Residential conversions, or Shared Housing.\n\nOverall, the testimony shows strong alignment with three main points from the reference talking points, using similar language and arguments.",
+        "talking_point_evidence": [
+            {
+                "quote": "I believe this proposal will provide much needed affordable housing for New York. Is by creating permanent affordability through UAP",
+                "analysis": "This quote directly mentions UAP and its goal of creating permanent affordability, which is identical to the reference talking point on Universal Affordability Preference.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "making parking optional instead of required",
+                "analysis": "This quote is nearly identical to the reference talking point on Lifting Parking Minimums, which describes it as 'No longer requiring new housing to include expensive parking spaces if the owners don't think their tenants or buyers want them.'",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "and the common sense solution of transit oriented development",
+                "analysis": "This quote directly mentions transit-oriented development, which is one of the key points in the reference talking points. While it doesn't go into detail, it supports the concept as a 'common sense solution.'",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony is very closely related to the reference talking points, often making the same claims and arguments. The speaker, Elena Sytcheva, specifically mentions three key aspects of the City of Yes initiative that are directly aligned with the reference talking points: Universal Affordability Preference (UAP), lifting parking minimums, and transit-oriented development. \n\nThe language used is similar to that in the reference talking points, particularly when discussing UAP and parking requirements. The speaker's emphasis on these points and her urging of the commission to approve the proposal in its strongest form suggest that she is likely using the reference talking points as a basis for her testimony.\n\nWhile the testimony doesn't cover all the points mentioned in the reference document, the ones it does address are presented with high fidelity to the provided talking points. This suggests a strong alignment between the testimony and the reference material.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}

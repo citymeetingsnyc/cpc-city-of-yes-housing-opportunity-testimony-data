@@ -1,0 +1,34 @@
+{
+    "testimony": {
+        "name": "Cormack McKay",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/cormack-mckay-visitor-and-possible-future-resident",
+        "start_time_in_seconds": 51788.86,
+        "end_time_in_seconds": 51980.938,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [],
+        "key_points": [
+            "Support for the City of Yes proposal with additional amendments",
+            "Concern about deliberately leaving property empty and its negative effects on the city",
+            "Proposal for a vacant property tax or fine of $1 per square foot per day or 100% of expected rent",
+            "Suggestion to encourage rapid renovation and development of empty sites",
+            "Promotion of prefabrication and off-site construction methods",
+            "Proposal for a citizen reporting program for vacant properties",
+            "Suggestion to convert vacant commercial properties to emergency residential or tourist accommodation within 30-90 days",
+            "Recommendation for short-term tourist accommodation in buildings not suitable for long-term residential use"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Cormack McKay, is a visitor and potential future resident of New York.\n2. He supports the proposal with some additional amendments.\n3. His main points are:\n   a. Addressing the issue of deliberately empty properties\n   b. Proposing fines or taxes for vacant properties\n   c. Encouraging rapid renovation and development of empty sites\n   d. Promoting prefabrication and off-site construction methods\n   e. Converting vacant offices and commercial properties to residential or tourist accommodation\n4. Now, let's compare these points to the reference talking points:\n   - The testimony doesn't directly address Universal Affordability Preference (UAP)\n   - It doesn't mention lifting parking minimums\n   - It doesn't discuss Transit-Oriented Development (TOD)\n   - The idea of converting empty offices to residential use aligns with the Office-to-Residential talking point\n   - The testimony doesn't mention \"Town Center\" zoning, Accessory Dwelling Units (ADUs), or Shared Housing (SROs)\n5. The closest alignment is with the Office-to-Residential conversion point, but the testimony goes beyond this to include all vacant properties and proposes specific measures like fines and taxes.\n6. The overall focus of the testimony is on reducing vacancy and increasing housing supply, which is in line with the general goal of the \"City of Yes for Housing Opportunity\" proposal, but it doesn't closely follow the specific talking points provided.",
+        "talking_point_evidence": [
+            {
+                "quote": "All sites, offices, and commercial property should be converted to emergency residential at accommodation, our tourist visitor accommodation within 30 days of becoming vacant, with allowances of up to 90 days for refurbishment in a 15 year period.",
+                "analysis": "This quote supports the idea of office-to-residential conversion, which is one of the reference talking points. However, the testimony proposes a more aggressive timeline and includes all commercial properties, not just offices. It also adds the option of tourist accommodation, which isn't mentioned in the talking points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony is somewhat related to the reference talking points, but it focuses on a specific aspect (vacant properties) and proposes measures that are not explicitly mentioned in the talking points. While there is some overlap with the Office-to-Residential conversion point, the testimony goes beyond this and doesn't address most of the other key points in the reference talking points. The speaker supports the overall goal of increasing housing availability but approaches it from a different angle than the provided talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

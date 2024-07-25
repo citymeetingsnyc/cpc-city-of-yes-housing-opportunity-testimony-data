@@ -1,0 +1,53 @@
+{
+    "testimony": {
+        "name": "Molly Anderson",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/molly-anderson-from-low-income-investment-fund-on",
+        "start_time_in_seconds": 35754.855,
+        "end_time_in_seconds": 35935.215,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Low Income Investment Fund",
+            "National Community Development Finance Institution"
+        ],
+        "key_points": [
+            "Strong support for City of Yes for Housing Opportunity proposal",
+            "New York City is experiencing a severe housing and affordability crisis",
+            "Existing housing policies are unsustainable",
+            "The affordability crisis disproportionately impacts Black and Latino families",
+            "Some neighborhoods have opted out of adding new housing, perpetuating exclusionary zoning policies",
+            "Net loss of affordable housing units in recent years",
+            "City of Yes for Housing Opportunity is a vital step towards addressing housing issues",
+            "Need for citywide zoning reforms to allow more housing to be built across all neighborhoods",
+            "Building more housing is necessary for a fair and inclusive city"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "First, let's analyze the testimony for its alignment with the reference talking points:\n\n1. The testimony strongly supports the \"City of Yes for Housing Opportunity\" proposal, which aligns with the overall message of the reference talking points.\n\n2. The speaker emphasizes the severe housing and affordability crisis in NYC, mentioning the low vacancy rate and high percentage of rent-burdened households. This aligns with the general context provided in the reference talking points.\n\n3. The testimony highlights the disproportionate impact on Black and Latino families, which is not explicitly mentioned in the reference talking points but supports the overall narrative of addressing housing inequality.\n\n4. The speaker mentions the need for more housing across all neighborhoods, which aligns with the Transit-Oriented Development (TOD) and \"Town Center\" Zoning points in the reference talking points.\n\n5. The testimony does not specifically mention any of the individual proposals like Universal Affordability Preference (UAP), lifting parking minimums, or Accessory Dwelling Units (ADUs).\n\n6. The speaker emphasizes the need for more affordable housing, which aligns with the UAP talking point, although not explicitly mentioned.\n\n7. The testimony mentions the loss of affordable housing units due to expiring affordability restrictions and conversions to market-rate units, which indirectly supports the need for permanent affordable housing as mentioned in the UAP talking point.\n\n8. The speaker represents an organization (Low Income Investment Fund) that focuses on community development and racial equity, which aligns with the overall goals of the \"City of Yes\" proposal.\n\nWhile the testimony strongly supports the \"City of Yes\" proposal and emphasizes the need for more affordable housing, it does not directly reference many of the specific points mentioned in the reference talking points. The overall message and context are aligned, but the testimony lacks the detailed policy proposals found in the reference talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "I am here today to express Lyft's strong support for the city of yes for housing opportunity proposal and to urge you to vote in favor of these critical zoning reforms that will allow for the creation of more housing in our neighborhoods.",
+                "analysis": "This quote directly supports the overall message of the reference talking points, which advocate for the 'City of Yes for Housing Opportunity' proposal. While it doesn't mention specific policies, it aligns with the general goal of creating more housing through zoning reforms.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "New York City is experiencing a severe and growing housing and affordability crisis with a vacancy rate of only 1.4% the lowest in 56 years and approximately 43% of New York City households being rent burdened.",
+                "analysis": "This quote supports the context provided in the reference talking points about the housing crisis in NYC. While it doesn't directly reference a specific talking point, it aligns with the overall narrative used to justify the proposed changes.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "For far too long, some neighborhoods have opted out of adding new housing perpetuating exclusionary zoning policies. In the last year, 10 community districts produced as much new housing as the remaining 49 community districts combined.",
+                "analysis": "This quote supports the idea of Transit-Oriented Development (TOD) and 'Town Center' Zoning in the reference talking points, which aim to allow more housing in various neighborhoods. It highlights the need for more equitable distribution of new housing across the city.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "The city of Yes for Housing Opportunity is a vital step towards addressing these issues by implementing citywide zoning reforms that will allow for more housing to be built across all neighborhoods.",
+                "analysis": "This quote directly supports the overall message of the reference talking points, emphasizing the importance of citywide zoning reforms to increase housing supply. While it doesn't mention specific policies, it aligns with the general goal of the 'City of Yes' proposal.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows a moderate level of alignment with the reference talking points. While it strongly supports the \"City of Yes for Housing Opportunity\" proposal and emphasizes the need for more affordable housing across all neighborhoods, it does not directly reference many of the specific policy proposals mentioned in the talking points.\n\nThe testimony focuses on the overall housing crisis, affordability issues, and the need for zoning reforms to allow more housing construction. This aligns with the general context and goals of the reference talking points. However, the speaker does not mention specific proposals like Universal Affordability Preference (UAP), lifting parking minimums, Transit-Oriented Development (TOD), or Accessory Dwelling Units (ADUs).\n\nThe testimony does touch on some themes present in the reference talking points, such as the need for more housing in all neighborhoods and addressing exclusionary zoning policies. This indirectly supports ideas like TOD and \"Town Center\" Zoning, although not explicitly.\n\nThe speaker's emphasis on affordable housing and racial equity aligns with the overall goals of the \"City of Yes\" proposal, but the testimony lacks the detailed policy recommendations found in the reference talking points.\n\nGiven these observations, the testimony can be classified as supporting the talking points, but not showing high alignment due to the lack of specific policy mentions and details.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

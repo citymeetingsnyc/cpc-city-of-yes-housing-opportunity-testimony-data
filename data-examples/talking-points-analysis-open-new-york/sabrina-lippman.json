@@ -1,0 +1,45 @@
+{
+    "testimony": {
+        "name": "Sabrina Lippman",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/sabrina-lippman-ceo-of-habitat-for-humanity-new",
+        "start_time_in_seconds": 11089.223,
+        "end_time_in_seconds": 11247.16,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Habitat for Humanity New York City and Westchester County"
+        ],
+        "key_points": [
+            "Strong support for the City of Yes proposal",
+            "Importance of affordable housing and home ownership",
+            "New York City's low homeownership rate compared to national average",
+            "Support for accessory dwelling units and district fixes",
+            "Support for universal affordability preference",
+            "Support for missing middle housing through town center zoning and transit-oriented development",
+            "Proposal as a step towards building a more equitable and affordable New York"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Sabrina Lippman, is the CEO of Habitat for Humanity New York City and Westchester County.\n2. She expresses strong support for the City of Yes proposal and urges the commission to vote in favor of the zoning reforms.\n3. She emphasizes the importance of affordable housing and homeownership.\n4. The speaker mentions specific strategies that align with the reference talking points:\n   a. Permitting accessory dwelling units (ADUs)\n   b. Implementing a universal affordability preference\n   c. Supporting \"missing middle\" housing through town center zoning and transit-oriented development\n5. The testimony doesn't directly mention all the talking points provided, such as lifting parking minimums or office-to-residential conversions.\n6. However, the overall message of the testimony strongly aligns with the general theme of the talking points, which is to support zoning reforms that will create more affordable housing opportunities.\n\nNow, let's identify specific quotes that relate to the reference talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "implementing a universal affordability preference to allow buildings to add at least 20% more housing if the additional homes are permanently affordable",
+                "analysis": "This quote directly references the Universal Affordability Preference (UAP) talking point. It mentions the key aspects of the UAP, including the extra floor area and the requirement for permanent affordable housing.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "permitting accessory dwelling units and district fixes, This will provide more space for multigenerational families",
+                "analysis": "This quote directly mentions Accessory Dwelling Units (ADUs) and aligns with the talking point about allowing homeowners to add backyard cottages or convert garages. It also touches on the benefit of accommodating multigenerational families, which is mentioned in the ADU talking points.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "enable and support the missing middle housing. Conducive to condo and cooperative development through town center zoning and transit oriented development",
+                "analysis": "This quote references both the 'Town Center' Zoning and Transit-Oriented Development (TOD) talking points. While it doesn't go into specific details, it clearly supports these concepts as ways to create more housing opportunities.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony is very closely related to the reference talking points, often making the same claims and arguments. The speaker, representing Habitat for Humanity, strongly supports the City of Yes proposal and specifically mentions several key elements that are identical or very similar to the provided talking points. These include the Universal Affordability Preference, Accessory Dwelling Units, Town Center Zoning, and Transit-Oriented Development.\n\nWhile the testimony doesn't cover all the talking points provided (such as lifting parking minimums or office-to-residential conversions), it aligns very closely with the overall message and goals of the talking points. The speaker emphasizes the importance of creating more affordable housing opportunities and supports the zoning reforms that would enable this.\n\nThe language used in the testimony, particularly when discussing specific zoning changes, is very similar to that in the talking points. This suggests that the speaker may be familiar with or directly using some of the reference talking points in their testimony.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}

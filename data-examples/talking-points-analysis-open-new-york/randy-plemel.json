@@ -1,0 +1,51 @@
+{
+    "testimony": {
+        "name": "Randy Plemel",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/randy-plemel-resident-of-long-island-city-on-city",
+        "start_time_in_seconds": 28736.748,
+        "end_time_in_seconds": 28894.03,
+        "for_or_against": "For",
+        "borough": "Queens",
+        "neighborhood": "Long Island City",
+        "stated_affiliations": [],
+        "key_points": [
+            "Support for City of Yes for Housing Opportunity due to need for more housing and wider range of legal housing types",
+            "Personal experience with high rent and frequent moves due to housing crisis",
+            "Support for building neighborhoods that resemble traditional New York City",
+            "Emphasis on incremental change across the city rather than dramatic shifts",
+            "Support for distributing new housing across all neighborhoods, not just Long Island City",
+            "Approval of provisions for various types of housing, including affordable and market-rate homes",
+            "Support for ending costly parking mandates",
+            "Endorsement of transit-oriented development and main street provisions for sustainable, walkable neighborhoods",
+            "Support for ADU and shared housing provisions to accommodate diverse living arrangements",
+            "Need for a wider variety of home types and sizes to support different families and income levels"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step and compare it to the reference talking points:\n\n1. The speaker, Randy Plemel, explicitly supports the \"City of Yes for Housing Opportunity\" proposal.\n\n2. He mentions several key points that align with the reference talking points:\n   a. Need for more housing and a wider range of housing types\n   b. Support for ending costly parking mandates\n   c. Support for transit-oriented development\n   d. Support for ADUs and shared housing provisions\n\n3. Let's examine each point in detail:\n\n   a. More housing and diverse housing types:\n   - The speaker mentions the need for \"way more housing and a wider range of legal housing types\"\n   - This aligns with the overall theme of the reference talking points\n\n   b. Ending parking mandates:\n   - The speaker explicitly supports \"the end of costly parking mandates\"\n   - This directly aligns with the \"Lifting Parking Minimums\" talking point\n\n   c. Transit-oriented development:\n   - The speaker supports \"transit oriented development and main streets\"\n   - This aligns with the \"Transit-Oriented Development\" talking point\n\n   d. ADUs and shared housing:\n   - The speaker mentions support for \"ADU and shared housing provisions\"\n   - This aligns with both the \"Accessory Dwelling Units\" and \"Shared Housing\" talking points\n\n4. The speaker also touches on themes present in other talking points:\n   - Mentions affordable housing, which relates to the \"Universal Affordability Preference\" talking point\n   - Discusses building homes \"across the city,\" which aligns with the general theme of distributed development\n\n5. The language used by the speaker is not identical to the reference talking points, but the ideas and arguments are very similar.\n\nGiven this analysis, it appears that the testimony is closely aligned with the reference talking points, often making the same arguments, though using different language.",
+        "talking_point_evidence": [
+            {
+                "quote": "I support the end of costly parking mandates. If builders want to build parking, they can. Let's just not require them to build that parking.",
+                "analysis": "This quote directly supports the 'Lifting Parking Minimums' talking point. The speaker uses similar language and makes the same argument that parking should not be required but can still be built if desired.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "The provisions to allow for transit oriented development and main streets also make sense because it's the best kind of new development It creates sustainable and walkable neighborhoods, provides places for jobs, encourages transit ridership, and reduces the demand for car ownership, and associated traffic from driving.",
+                "analysis": "This quote closely aligns with the 'Transit-Oriented Development' talking point. The speaker uses similar arguments about creating sustainable communities, encouraging transit use, and reducing car dependency.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "The ADU and shared housing provisions also allow New Yorkers the freedom to live in the way that they desire. Not in some antiquated notion for long ago of what a family unit might look like.",
+                "analysis": "This quote supports both the 'Accessory Dwelling Units' and 'Shared Housing' talking points. While not using identical language, it conveys the same idea of providing more flexible housing options for diverse needs.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "The city of yes, for housing opportunity allows new homes to be built across the city so that no one neighborhood like my neighborhood in Long Island City is asked to carry all the new homes.",
+                "analysis": "This quote supports the general theme of distributed development present in multiple talking points. It aligns with the idea of building housing across the city, rather than concentrating it in specific areas.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony is very closely related to the reference talking points, often making the same claims and arguments. While the exact language differs, the speaker touches on many of the key points outlined in the reference talking points, including support for ending parking mandates, promoting transit-oriented development, allowing ADUs and shared housing, and the need for more diverse housing types across the city.\n\nThe speaker explicitly supports the \"City of Yes for Housing Opportunity\" proposal and provides arguments that closely align with several of the reference talking points. They demonstrate a clear understanding of the proposal's main elements and express support for them using similar reasoning to that provided in the talking points.\n\nAlthough the speaker doesn't use identical language to the reference talking points, the core ideas and arguments are very similar. This suggests that the speaker may be familiar with the talking points or has been influenced by similar messaging.\n\nGiven the high degree of alignment between the testimony and the reference talking points, it is plausible that the person is using the reference talking points or similar materials as a basis for their testimony.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}

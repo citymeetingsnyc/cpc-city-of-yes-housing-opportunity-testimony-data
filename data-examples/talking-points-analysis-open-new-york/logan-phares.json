@@ -1,0 +1,51 @@
+{
+    "testimony": {
+        "name": "Logan Phares",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/logan-phares-political-director-of-open-new-york",
+        "start_time_in_seconds": 40970.086,
+        "end_time_in_seconds": 41091.64,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Open New York"
+        ],
+        "key_points": [
+            "Support for the City of Yes for Housing Opportunity zoning amendment",
+            "Current inequitable distribution of affordable housing across NYC council districts",
+            "The amendment will allow every neighborhood to participate in solving the housing shortage",
+            "The plan allows for more housing of every type in low, medium, and high-density communities",
+            "Zoning changes are critical but not sufficient to solve the housing crisis",
+            "Need for additional funding and policies to protect tenants and support fair housing",
+            "Acknowledgment of NYC's supply problem rooted in restrictive zoning",
+            "Urging the Commission to approve the proposal in full"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "1. Let's analyze the testimony against the reference talking points:\n2. The testimony focuses on the need for more housing, especially affordable housing, which aligns with several of the reference talking points.\n3. The speaker mentions \"more income restricted workforce housing, more backyard cottages, and more of the cheapest forms of housing\" which relates to UAP, ADUs, and Shared Housing points.\n4. The testimony emphasizes equitable development across all neighborhoods, which aligns with the Transit-Oriented Development and Town Center Zoning points.\n5. The speaker mentions updating zoning rules to meet New Yorkers' needs, which is a common theme across all the reference talking points.\n6. While the testimony doesn't explicitly mention parking minimums, office-to-residential conversions, or SROs, it does advocate for more housing of every type and updating zoning rules.\n7. The overall message of the testimony supports the general direction of the City of Yes for Housing Opportunity proposal, which is in line with the reference talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "This form of an equitable development simply cannot continue if we want the city to work for everyone who lives here.",
+                "analysis": "This quote supports the general idea of equitable development across all neighborhoods, which is a theme present in several of the reference talking points, particularly Transit-Oriented Development and Town Center Zoning.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "The city, yes, for housing opportunity, updates our zoning rules to meet the needs of New Yorkers in an equitable way allowing for more housing of every type.",
+                "analysis": "This quote directly supports the overall goal of the City of Yes for Housing Opportunity proposal, which is reflected in all the reference talking points. It specifically mentions updating zoning rules and allowing for more housing of every type.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "This means more income restricted workforce housing, more backyard cottages to support homeowners, and more of the cheapest forms of housing to get New Yorkers out of our shelter system and onto their feet.",
+                "analysis": "This quote directly relates to several reference talking points. 'Income restricted workforce housing' aligns with the Universal Affordability Preference (UAP) point. 'Backyard cottages' refers to Accessory Dwelling Units (ADUs). 'Cheapest forms of housing' could relate to the Shared Housing (SROs) point.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "The plan will allow for more housing and low density, medium density and high density communities without definitely changing the character of any of these neighborhoods.",
+                "analysis": "This quote supports the ideas presented in the Transit-Oriented Development and Town Center Zoning points, which aim to add housing in various density areas while maintaining neighborhood character.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony is closely related to the reference talking points, supporting many of the same ideas and arguments. While it doesn't cover all the specific points mentioned in the reference talking points, it strongly advocates for the overall goals of the City of Yes for Housing Opportunity proposal. The speaker emphasizes the need for more housing, especially affordable housing, and supports updating zoning rules to allow for diverse housing types across all neighborhoods. This aligns with several key points from the reference talking points, including Universal Affordability Preference, Transit-Oriented Development, Town Center Zoning, and Accessory Dwelling Units. The testimony doesn't use the exact language from the talking points, but it conveys similar ideas and supports the same overall objectives.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

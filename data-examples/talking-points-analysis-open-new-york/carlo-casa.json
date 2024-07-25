@@ -1,0 +1,55 @@
+{
+    "testimony": {
+        "name": "Carlo Casa",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/carlo-casa-director-of-policy-and-research-at-new",
+        "start_time_in_seconds": 9796.855,
+        "end_time_in_seconds": 9933.014,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "New York Building Congress"
+        ],
+        "key_points": [
+            "The City of Yes for Housing Opportunity is a rational initiative addressing the housing crisis",
+            "The initiative incorporates community input from over 175 community board meetings",
+            "The policy has the potential to create over 100,000 new homes",
+            "Removes outdated parking mandates that increase housing production costs",
+            "Promotes transit-oriented development by legalizing 3 to 5 storey apartments near public transit",
+            "Encourages modest housing density in sensible locations citywide",
+            "Uses zoning as a tool rather than an obstacle to meet New Yorkers' needs"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step and compare it with the reference talking points:\n\n1. The testimony strongly supports the \"City of Yes for Housing Opportunity\" initiative.\n2. It mentions several key points that align with the reference talking points:\n   a. Allowing smaller scale housing above storefronts (aligns with \"Town Center\" Zoning)\n   b. Permitting ADUs (Accessory Dwelling Units)\n   c. Simplifying office to residential conversions\n   d. Removing parking mandates (aligns with Lifting Parking Minimums)\n   e. Promoting transit-oriented development (aligns with Transit-Oriented Development)\n3. The testimony provides specific details that closely match the reference talking points:\n   a. Mentions the potential to create over 100,000 new homes\n   b. States that parking mandates increase housing costs by $100,000 per space (reference mentions $67,500 to $150,000)\n   c. Emphasizes the flexibility in parking requirements, allowing developers to meet site-specific needs\n   d. Supports 3 to 5 storey apartments near public transit (matches TOD talking points)\n4. The testimony uses similar language and arguments as the reference talking points, such as:\n   a. Emphasizing affordability and housing opportunities for all\n   b. Highlighting the benefits for the environment and commutes\n   c. Describing the initiative as \"reasonable, flexible, and long overdue\"\n\nOverall, the testimony shows a high level of alignment with the reference talking points, often making the same claims and using similar language.",
+        "talking_point_evidence": [
+            {
+                "quote": "By allowing smaller scale housing to be built above storefronts, permitting ADUs, and simplifying the conversion of offices to residential spaces.",
+                "analysis": "This quote directly references three key points from the reference talking points: 'Town Center' Zoning, Accessory Dwelling Units (ADUs), and Office-to-Residential conversions. The language used is nearly identical to the reference points, indicating a very close alignment.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "The city of Yes also removes outdated parking mandates, which today, increase the cost of housing production by roughly $100,000 per parking space.",
+                "analysis": "This quote closely aligns with the 'Lifting Parking Minimums' talking point. It uses similar language about removing outdated parking mandates and mentions a specific cost figure that falls within the range provided in the reference ($67,500 to $150,000).",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "The city of yes also promotes transit oriented development, by legalizing 3 to 5 storey apartments near public transit.",
+                "analysis": "This quote directly corresponds to the 'Transit-Oriented Development' talking point. It mentions the same building heights (3 to 5 stories) and emphasizes proximity to public transit, using nearly identical language to the reference.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "This policy has the potential to create over 100,000 much needed new homes.",
+                "analysis": "While this specific number isn't mentioned in the reference talking points, it supports the overall argument for increasing housing supply, which is a theme throughout the reference points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "The proposal does not ban developers from building parking rather it allows for more flexibility so that project managers can best meet the needs of each unique site rather than a one size fits all approach.",
+                "analysis": "This quote closely aligns with the 'Lifting Parking Minimums' talking point, emphasizing flexibility and site-specific needs. It uses similar arguments to the reference, though not identical language.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony is very closely related to the reference talking points, often making the exact same claims and arguments. The speaker covers multiple key aspects of the \"City of Yes for Housing Opportunity\" initiative, including transit-oriented development, lifting parking minimums, allowing ADUs, simplifying office-to-residential conversions, and promoting mixed-use development in commercial areas. The language used is often similar to the reference talking points, and the arguments presented align closely with the provided reference material. It is highly plausible that the person is using the reference talking points in their testimony, given the level of detail and the specific points addressed.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}

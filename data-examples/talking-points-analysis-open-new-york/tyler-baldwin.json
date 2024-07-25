@@ -1,0 +1,44 @@
+{
+    "testimony": {
+        "name": "Tyler Baldwin",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/tyler-baldwin-from-astoria-queens-on-support-for",
+        "start_time_in_seconds": 17284.32,
+        "end_time_in_seconds": 17374.299,
+        "for_or_against": "For",
+        "borough": "Queens",
+        "neighborhood": "Astoria",
+        "stated_affiliations": [],
+        "key_points": [
+            "City of Yes will provide much-needed housing supply in an era of record low vacancy rates and record-high rents",
+            "New York City is facing a cost of living crisis, causing middle-class families to leave the city",
+            "The under-5 population has fallen by 18% since April 2020",
+            "Housing affordability affects vulnerable populations, with 8% of transgender adults experiencing homelessness in the past year",
+            "New housing creation provides opportunities for good jobs and family formation",
+            "Public servants are being pushed out due to the high cost of living",
+            "The amendment will help essential workers like NYPD officers and firefighters afford housing in the city",
+            "The proposal will allow for building generational wealth through coops and condos"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Tyler Baldwin, expresses support for the \"City of Yes\" proposal.\n2. They mention the need for increased housing supply due to low vacancy rates and high rents.\n3. The testimony talks about middle-class families leaving the city due to high costs of living.\n4. They cite a statistic about the under-5 population falling by 18% since April 2020.\n5. The speaker mentions the issue of homelessness, particularly among transgender adults.\n6. They emphasize that \"any new housing is good housing.\"\n7. The testimony touches on the importance of housing for public service workers like NYPD officers and firefighters.\n8. The speaker urges the City Planning Commission to approve the proposal in full.\n\nNow, let's compare this to the reference talking points:\n\n1. The testimony aligns with the general theme of increasing housing supply and affordability, which is present in multiple reference talking points.\n2. While the speaker doesn't explicitly mention specific elements like Universal Affordability Preference (UAP) or Transit-Oriented Development (TOD), their overall message supports these concepts.\n3. The testimony doesn't directly reference parking minimums, office-to-residential conversions, or Accessory Dwelling Units (ADUs).\n4. The speaker's emphasis on \"any new housing is good housing\" aligns with the general pro-housing stance of the reference talking points.\n5. The mention of public service workers being able to afford housing in the city relates to the \"Town Center\" zoning point, which aims to create more mixed-use, walkable communities.\n\nOverall, while the testimony doesn't use the exact language or specific policy points from the reference talking points, it strongly supports the general pro-housing message and aligns with several key themes.",
+        "talking_point_evidence": [
+            {
+                "quote": "City AVS will provide much needed housing supply in an era of record low vacancy rates and a record high rents.",
+                "analysis": "This quote supports the general theme of increasing housing supply, which is present in multiple reference talking points. While it doesn't use identical language, it aligns with the overall goal of the 'City of Yes' proposal.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Any new housing is good housing.",
+                "analysis": "This statement strongly supports the pro-housing stance present in all the reference talking points. While not identical to any specific point, it encapsulates the overall message of the talking points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "The NYPD officer that will be able to forward an apartment in the neighborhood that they still the fire the fireman that is able to rent an apartment with their partner and start a family near the city, near the family, with neo family and building generational wealth through coops and condos.",
+                "analysis": "This quote, while not directly referencing any specific talking point, supports the idea of creating more housing options for workers in the city. It aligns with the 'Town Center' zoning concept, which aims to create more mixed-use, walkable communities where people can live near their workplaces.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows a moderate level of alignment with the reference talking points. While it doesn't use the same specific policy language or details, it strongly supports the overall goal of increasing housing supply and affordability in New York City. The speaker emphasizes the need for more housing, which is a central theme in the reference talking points.\n\nThe testimony touches on several issues that are addressed in the talking points, such as the housing crisis, affordability for working-class residents, and the importance of creating housing opportunities in various neighborhoods. However, it doesn't go into the same level of detail or mention specific policies like UAP, TOD, or parking minimum removals.\n\nThe speaker's emphasis on \"any new housing is good housing\" aligns well with the pro-development stance of the talking points, even if it doesn't mention specific types of housing (like ADUs or office-to-residential conversions) that are highlighted in the reference document.\n\nWhile the alignment isn't extremely high due to the lack of specific policy mentions, the overall message and intent of the testimony strongly supports the goals outlined in the reference talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

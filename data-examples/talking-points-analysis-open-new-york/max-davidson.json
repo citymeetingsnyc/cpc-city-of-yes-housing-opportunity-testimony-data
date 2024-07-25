@@ -1,0 +1,55 @@
+{
+    "testimony": {
+        "name": "Max Davidson",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/max-davidson-on-supporting-city-of-yes-for-housing",
+        "start_time_in_seconds": 27469.121,
+        "end_time_in_seconds": 27618.066,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [],
+        "key_points": [
+            "Support for City of Yes initiative to address housing shortage",
+            "New York's legacy as a haven for immigrants is at risk due to housing crisis",
+            "Housing shortage gives too much power to landlords over tenants",
+            "City of Yes provides a first step towards rebalancing power towards tenants",
+            "Support for increasing density and height for transit-oriented development, especially in affluent white neighborhoods",
+            "Recommendation to expand UAP and identify opportunities to deepen levels of affordability",
+            "Suggestion to explore ways to add market-rate units in exchange for deeper affordability",
+            "Proposal to average affordability levels between developments in different neighborhoods",
+            "Encouragement to strengthen the City of Yes initiative to meet the needs of all New Yorkers"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Here's my step-by-step analysis of how the testimony relates to the reference talking points:\n\n1. The testimony strongly supports the \"City of Yes\" proposal, which aligns with the overall message of the reference talking points.\n\n2. The speaker mentions the housing shortage in NYC, which is a central theme in the reference talking points.\n\n3. The testimony discusses the need for more affordable housing options, which aligns with the UAP (Universal Affordability Preference) section of the talking points.\n\n4. The speaker advocates for increasing density and height for transit-oriented development, which directly relates to the Transit-Oriented Development (TOD) section of the talking points.\n\n5. The testimony mentions expanding UAP and exploring ways to deepen affordability levels, which is closely related to the UAP section of the talking points.\n\n6. The speaker suggests allowing additional market-rate units in exchange for deeper affordability, which is a creative expansion on the UAP concept.\n\n7. The testimony doesn't explicitly mention parking minimums, office-to-residential conversions, ADUs, or shared housing, which are covered in the reference talking points.\n\n8. The speaker's emphasis on racial equity and making sure every neighborhood contributes to solving the housing crisis aligns with the overall spirit of the talking points, even if not explicitly mentioned.\n",
+        "talking_point_evidence": [
+            {
+                "quote": "I'm speaking in support of the city of Yes.",
+                "analysis": "This quote directly supports the overall message of the reference talking points, which are in favor of the 'City of Yes' proposal.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "New York City's housing shortage, and we risk becoming a playground for the wealthy.",
+                "analysis": "This quote aligns with the overall theme of the reference talking points, which emphasize the need to address the housing shortage and affordability issues.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "I support his proposal to increase density and height for transit oriented development, particularly in affluent white neighborhoods that were down zoned under the Bloomberg administration ratio.",
+                "analysis": "This quote directly relates to the Transit-Oriented Development (TOD) section of the talking points, supporting the idea of allowing small apartment buildings in low-density areas near transit.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Additionally, I want to recommend DCP or to expand UAP and identify creative opportunities to deepen levels of affordability.",
+                "analysis": "This quote directly references the UAP (Universal Affordability Preference) mentioned in the talking points and suggests expanding it, which aligns with the overall goal of increasing affordable housing.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "To offer 2 recommendations, perhaps DCP can explore ways to make to add additional as of right market rate units on the condition that that allows for deeper affordability at 50% or 40% AMI.",
+                "analysis": "While this specific recommendation is not in the talking points, it aligns with the spirit of the UAP section, which aims to increase affordable housing options.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony is closely related to the reference talking points, particularly in its strong support for the \"City of Yes\" proposal and its focus on addressing the housing shortage and affordability issues in New York City. The speaker's emphasis on increasing density, transit-oriented development, and expanding affordable housing options aligns well with several key points in the reference document.\n\nHowever, the testimony does not cover all aspects of the reference talking points. It doesn't mention specific initiatives like lifting parking minimums, office-to-residential conversions, ADUs, or shared housing. Instead, it focuses more on expanding and deepening affordability measures, particularly through the UAP program.\n\nThe speaker also introduces some ideas that are not explicitly mentioned in the talking points, such as averaging affordability levels between developments in different neighborhoods and addressing racial equity in zoning decisions. These additions, while not directly from the talking points, are in line with the overall spirit of the \"City of Yes\" proposal.\n\nOverall, while the testimony doesn't cover all aspects of the reference talking points, it strongly supports the main themes and adds some additional perspectives that align with the overall goals of the proposal.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

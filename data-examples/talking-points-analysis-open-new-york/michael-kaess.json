@@ -1,0 +1,49 @@
+{
+    "testimony": {
+        "name": "Michael Kaess",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/michael-kaess-on-city-of-yes-zoning-reforms-and",
+        "start_time_in_seconds": 7448.4146,
+        "end_time_in_seconds": 7588.983,
+        "for_or_against": "For",
+        "borough": "Bronx",
+        "neighborhood": "Morris Park",
+        "stated_affiliations": [],
+        "key_points": [
+            "Supports the City of Yes proposal as a step to address past zoning mistakes",
+            "Current zoning code is too strict, limiting housing options",
+            "City of Yes will allow existing zoning designations to work more effectively",
+            "Supports provisions for ADUs, ending residential parking mandates, transit-oriented development, and town center zoning",
+            "City of Yes will empower homeowners to do more with their property",
+            "Argues that the proposal is modest given the scale of the housing crisis",
+            "Urges the City Planning Commission to resist watering down the proposal and instead make it stronger",
+            "Criticizes fear-mongering and lack of solutions from opponents"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step and compare it to the reference talking points:\n\n1. The speaker, Michael Kaess, is a resident of Morris Park in the Bronx.\n2. He mentions that past downzoning has hampered their community for 20 years.\n3. He supports the City of Yes proposal, stating it will be a major step forward in addressing past mistakes.\n4. He mentions several key points that align with the reference talking points:\n   a. ADUs (Accessory Dwelling Units)\n   b. Ending residential parking mandates\n   c. Transit-oriented development\n   d. Town center zoning\n5. He argues that the current zoning code is too strict, with many existing buildings considered too big.\n6. He emphasizes that City of Yes will empower homeowners to do more with their property.\n7. He describes the proposal as modest but important, and asks the commission to resist watering it down.\n\nNow, let's compare these points to the reference talking points:\n\n1. The testimony aligns closely with the overall message of the reference talking points, supporting the City of Yes proposal.\n2. There's a direct mention of ending parking minimums, which is a key point in the reference talking points.\n3. Transit-oriented development is mentioned, which is another major point in the reference material.\n4. Town center zoning is also explicitly mentioned, aligning with the reference talking points.\n5. ADUs are briefly mentioned, which is another point from the reference material.\n6. The testimony doesn't go into as much detail on each point as the reference talking points, but the overall message and support for the proposal are very similar.\n7. The speaker's emphasis on the proposal being modest yet important echoes the tone of the reference talking points.\n\nGiven these observations, the testimony shows a high level of alignment with the reference talking points, both in terms of specific policy points mentioned and the overall message of support for the City of Yes proposal.",
+        "talking_point_evidence": [
+            {
+                "quote": "I support all the provisions, including ADUs, ending the residential parking mandate trended oriented development and town center zoning.",
+                "analysis": "This quote directly mentions four key points from the reference talking points: ADUs, ending parking minimums, transit-oriented development, and town center zoning. The speaker is explicitly stating support for these provisions, which aligns perfectly with the reference talking points.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "City of Yes will empower homeowners to be able to do more with their own property.",
+                "analysis": "This quote aligns closely with the talking points about ADUs, which emphasize allowing homeowners to maximize the value of their property. While not using the exact same language, the sentiment is very similar.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Because right now, the zoning code is far too strict, where even many longstanding 1 or 2 single family homes are considered too big under the current code",
+                "analysis": "This quote supports the general argument in the reference talking points that current zoning is too restrictive. It specifically relates to the points about ADUs and the need for more flexible zoning, although it doesn't use the same examples.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Unfortunately, a lot of fear has been spread. I've seen unscrupulous folks come to civic associations in the East Bronx to scare my neighbors, who have no solutions of their own except to push neighborhoods like mine to secede from New York City, which is insane just to avoid new housing.",
+                "analysis": "While this quote doesn't directly reference a specific talking point, it aligns with the overall tone of the reference material, which anticipates and counters potential opposition to the City of Yes proposal. It supports the general argument for the necessity of the proposed changes.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows a high level of alignment with the reference talking points. The speaker, Michael Kaess, explicitly supports the City of Yes proposal and mentions several key points that are central to the reference talking points, including ADUs, ending parking minimums, transit-oriented development, and town center zoning. \n\nWhile the testimony doesn't go into as much detail on each point as the reference talking points do, the overall message and support for the proposal are very similar. The speaker's emphasis on the proposal being modest yet important echoes the tone of the reference talking points.\n\nThe testimony also addresses potential opposition to the proposal, which aligns with the anticipatory nature of some of the reference talking points. The speaker's personal anecdotes and local context add authenticity to the arguments, but the core messages remain closely aligned with the provided talking points.\n\nGiven the explicit mention of multiple key points from the reference talking points and the overall supportive stance towards the City of Yes proposal, this testimony demonstrates a high level of alignment with the reference material.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}

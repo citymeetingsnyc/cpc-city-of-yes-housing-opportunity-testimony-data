@@ -1,0 +1,45 @@
+{
+    "testimony": {
+        "name": "Luke Lavanway",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/luke-lavanway-resident-of-fort-greene-brooklyn-on",
+        "start_time_in_seconds": 35316.996,
+        "end_time_in_seconds": 35535.44,
+        "for_or_against": "For",
+        "borough": "Brooklyn",
+        "neighborhood": "Fort Greene",
+        "stated_affiliations": [],
+        "key_points": [
+            "Supports City of Yes with no conditions due to severe housing crisis",
+            "Personal experiences with competitive and stressful rental market",
+            "Need for more housing units to stop displacement and gentrification",
+            "Supports Universal Affordability Preference (UAP) for permanently affordable housing",
+            "Criticizes those opposing development as causing gentrification and displacement",
+            "Argues that neighborhoods must evolve to meet changing needs",
+            "Supports the plan for adding more housing in every neighborhood",
+            "Suggests that the plan may not go far enough to address the housing crisis",
+            "Urges approval of City of Yes in its strongest form"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step in relation to the reference talking points:\n\n1. The speaker, Luke Lavanway, strongly supports the City of Yes for Housing Opportunity proposal without conditions.\n\n2. He mentions his personal experiences with the housing crisis in NYC, including bidding wars for rentals and overcrowded open houses.\n\n3. Lavanway specifically highlights the Universal Affordability Preference (UAP) aspect of the proposal, which aligns directly with the first talking point in the reference list.\n\n4. He emphasizes the need for more housing units to be built, which is a central theme across all the reference talking points.\n\n5. The speaker criticizes those who oppose development, arguing that they are causing gentrification, displacement, and homelessness. This aligns with the general pro-development stance of the reference talking points.\n\n6. Lavanway supports the idea of \"a little more housing in every neighborhood,\" which relates to several points in the reference list, including Transit-Oriented Development and \"Town Center\" Zoning.\n\n7. He mentions that the plan may not go far enough, estimating it would result in 90,000 additional units when the gap is closer to 200,000 units. This shows a strong alignment with the overall goals of the reference talking points, even suggesting more aggressive action.\n\n8. The testimony doesn't specifically mention other aspects of the proposal such as lifting parking minimums, office-to-residential conversions, or shared housing. However, the speaker's strong support for the overall plan suggests he would likely support these measures as well.\n",
+        "talking_point_evidence": [
+            {
+                "quote": "I'd like to specifically highlight the universal affordability preference or UAP aspect of City of Yes for housing opportunity, which if adopted should not only result in significantly more units being built, but will also help the groups that are most vulnerable. By adding permanently affordable housing units.",
+                "analysis": "This quote directly references the Universal Affordability Preference (UAP) talking point, emphasizing its potential to increase housing units and help vulnerable groups with permanently affordable housing. The language and argument are very similar to the reference talking point.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "Housing experts agree that the fundamental problem is we don't have enough units of housing, so we need to reform our housing rules to allow 100 of 1000 of additional units to be built.",
+                "analysis": "This quote aligns closely with the overall theme of the reference talking points, which all aim to increase housing supply through various means. While not identical to any single talking point, it supports the general argument present in all of them.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Every neighborhood must do its part to meet the housing needs of our city, and that is exactly what city of yes for housing is all about. A little more housing in every neighborhood.",
+                "analysis": "This quote supports the ideas present in several talking points, particularly Transit-Oriented Development and 'Town Center' Zoning, which aim to add housing in various neighborhoods. While not using the same language, it strongly supports the concepts.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony by Luke Lavanway is very closely related to the reference talking points. While he doesn't cover all aspects of the City of Yes for Housing Opportunity proposal, his strong support for the plan and specific mention of the Universal Affordability Preference (UAP) show a high level of alignment with the reference talking points.\n\nLavanway's emphasis on the need for more housing units, his support for development in all neighborhoods, and his criticism of those opposing development all closely mirror the themes present in the reference talking points. His mention of the UAP is particularly noteworthy as it directly corresponds to one of the main points in the reference list.\n\nAlthough he doesn't specifically mention some aspects of the proposal (such as lifting parking minimums or office-to-residential conversions), his overall stance and arguments are very much in line with the reference talking points. In fact, his suggestion that the plan might not go far enough indicates an even stronger pro-development stance than the talking points themselves.\n\nThe language and arguments used by Lavanway, while not always identical to the reference points, consistently support the same goals and ideas. This suggests that he is either very familiar with the talking points or has independently arrived at very similar conclusions.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}

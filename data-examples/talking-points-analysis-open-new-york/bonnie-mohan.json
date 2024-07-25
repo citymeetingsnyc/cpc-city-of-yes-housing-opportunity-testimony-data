@@ -1,0 +1,42 @@
+{
+    "testimony": {
+        "name": "Bonnie Mohan",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/bonnie-mohan-cofounder-and-executive-director-of",
+        "start_time_in_seconds": 20375.803,
+        "end_time_in_seconds": 20535.889,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Health and Housing Consortium"
+        ],
+        "key_points": [
+            "Strong support for City of Yes for Housing Opportunity",
+            "Affordable and supportive housing is deeply needed across all boroughs",
+            "High numbers of people in shelters, on streets, or in unstable housing situations",
+            "Lack of affordable housing is a primary reason for families entering shelters",
+            "The consortium trains frontline workers on navigating NYC's homeless housing systems",
+            "Current housing vouchers are flawed and often not accepted by landlords",
+            "City of Yes plan is seen as a lifeline for those at risk of or experiencing homelessness",
+            "The plan is rooted in respect for communities and neighborhoods",
+            "Urges the city planning commission to support the plan to help build a New York where everyone can thrive"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The testimony strongly supports the City of Yes for Housing Opportunity plan.\n2. It emphasizes the urgent need for affordable housing in NYC, citing statistics on homelessness and shelter occupancy.\n3. The speaker mentions the difficulty in accessing affordable housing, even with housing vouchers.\n4. The testimony doesn't directly mention specific aspects of the plan like Universal Affordability Preference, parking minimums, or Transit-Oriented Development.\n5. However, it does align with the overall goal of increasing affordable housing availability, which is a central theme in the reference talking points.\n6. The testimony mentions that the plan is \"rooted in respect for communities and neighborhoods,\" which aligns with the general sentiment in the reference talking points about improving communities.\n\nWhile the testimony doesn't use the exact language or specific points from the reference talking points, it strongly supports the same overall goal of increasing affordable housing in NYC.",
+        "talking_point_evidence": [
+            {
+                "quote": "The city of yes for housing opportunity plan is a lifeline for thousands of new Yorkers teetering on the edge of homelessness and for those already struggling within our homeless systems.",
+                "analysis": "This quote supports the overall goal of the City of Yes for Housing Opportunity plan, which is to increase affordable housing. While it doesn't mention specific aspects like UAP or TOD, it aligns with the general intent of the talking points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "We are a communal city, and this plan is rooted in respect for communities and neighborhoods.",
+                "analysis": "This quote aligns with the sentiment expressed in several talking points about improving communities and creating vibrant, walkable neighborhoods. It doesn't reference a specific talking point but supports the overall community-focused approach.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony strongly supports the City of Yes for Housing Opportunity plan and emphasizes the urgent need for affordable housing in NYC. While it doesn't directly mention specific aspects of the plan outlined in the reference talking points (such as Universal Affordability Preference, parking minimums, or Transit-Oriented Development), it aligns with the overall goal of increasing affordable housing availability.\n\nThe testimony provides statistical evidence of the housing crisis in NYC and highlights the difficulties faced by those seeking affordable housing. This aligns with the general theme of the reference talking points, which aim to address these issues through various zoning changes and policy adjustments.\n\nThe speaker's emphasis on the plan being \"rooted in respect for communities and neighborhoods\" resonates with the community-focused approach mentioned in several of the reference talking points, particularly those related to Transit-Oriented Development and \"Town Center\" zoning.\n\nWhile the testimony doesn't use the exact language or specific points from the reference talking points, it strongly supports the same overall goal of increasing affordable housing in NYC and improving community well-being. The alignment is more in the general intent and desired outcomes rather than in specific policy details.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

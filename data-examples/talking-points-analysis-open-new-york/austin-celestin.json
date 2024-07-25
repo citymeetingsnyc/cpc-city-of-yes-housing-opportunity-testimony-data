@@ -1,0 +1,50 @@
+{
+    "testimony": {
+        "name": "Austin Celestin",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/austin-celestin-urban-planning-graduate-student-at",
+        "start_time_in_seconds": 9639.794,
+        "end_time_in_seconds": 9764.733,
+        "for_or_against": "For",
+        "borough": "Manhattan",
+        "neighborhood": "Upper West Side",
+        "stated_affiliations": [
+            "NYU Wagner"
+        ],
+        "key_points": [
+            "Current housing situation is unaffordable for many, including the speaker and his family",
+            "Low vacancy rates, slow construction pace, high rents, and increasing homelessness are major issues",
+            "Current zoning plan has reduced buildable capacity by 80% and led to housing loss in some neighborhoods",
+            "The City of Yes proposal caters to different neighborhood needs and capacities",
+            "Proposal includes various strategies like transit-oriented development, commercial conversions, ADUs, and lifting parking mandates",
+            "The plan is modest but ambitious, covering about 20% of the housing need",
+            "Urges the City Planning Commission to approve the City of Yes proposal and consider doing even more"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Austin Celestin, is an urban planning graduate student at NYU Wagner.\n2. He expresses a desire to raise a family in the city but finds it unaffordable due to lack of housing.\n3. He mentions record low vacancies, low construction pace, high rents, and increasing homelessness.\n4. He criticizes the current zoning plan that reduced buildable capacity by 80%.\n5. He supports the proposal, praising its varied approach to different neighborhood needs:\n   - Transit-oriented development\n   - Commercial conversions\n   - ADUs for low-density areas\n   - Campus infill\n   - Removal of parking mandates\n   - New high-density districts\n6. He suggests the proposal is modest, covering about 20% of the housing need.\n7. He urges the city planning commission to vote yes on the proposal.\n\nNow, let's compare this to the reference talking points:\n\n1. The testimony aligns closely with several key points from the reference talking points.\n2. Particularly strong alignment is seen on:\n   - Lifting Parking Minimums\n   - Transit-Oriented Development\n   - \"Town Center\" Zoning (implied in his support for varied approaches)\n   - Office-to-Residential conversions\n3. The speaker doesn't explicitly mention some points like Universal Affordability Preference, ADUs, or Shared Housing, but his overall support for the proposal implies agreement with these aspects as well.\n4. The testimony's emphasis on the housing crisis and the need for more housing aligns with the general thrust of the reference talking points.\n\nGiven this analysis, the testimony shows a high level of alignment with the reference talking points, even though it doesn't cover all points explicitly.",
+        "talking_point_evidence": [
+            {
+                "quote": "the underappreciated aspect of whipping parking mandates, which makes housing more expensive more expensive.",
+                "analysis": "This quote directly supports the reference talking point about lifting parking minimums. The speaker recognizes that parking mandates increase housing costs, which is a key argument in the reference talking points.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "transforming the development for those Attleboro communities near subways.",
+                "analysis": "This quote aligns with the Transit-Oriented Development (TOD) talking point. While not using the exact terminology, it supports the idea of developing areas near public transit, which is a core aspect of TOD.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Commercial conversions for Midtown Manhattan",
+                "analysis": "This quote supports the Office-to-Residential conversion talking point. While not elaborating on the details, it shows alignment with the idea of converting commercial spaces to residential use.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "It covers about 20% of our housing need. It is the most ambitious plan since the 19 sixties.",
+                "analysis": "While not directly quoting a specific talking point, this statement supports the overall message of the reference talking points that the proposal is a significant step forward in addressing the housing crisis.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony by Austin Celestin shows a high level of alignment with the reference talking points. While he doesn't cover every single point mentioned in the reference document, his overall message and the specific points he does mention are very closely related to the key themes and arguments presented in the talking points.\n\nCelestin's testimony focuses on the urgent need for more housing in New York City, which is the underlying theme of all the reference talking points. He explicitly mentions and supports several key aspects of the proposal that are directly addressed in the talking points, such as lifting parking mandates, transit-oriented development, and commercial-to-residential conversions.\n\nHis support for the proposal's varied approach to different neighborhood needs aligns with the nuanced strategies outlined in the talking points, such as the \"Town Center\" zoning and Transit-Oriented Development. While he doesn't use the exact terminology from the talking points, the concepts he supports are the same.\n\nThe testimony doesn't explicitly mention some aspects like the Universal Affordability Preference or Accessory Dwelling Units, but his overall enthusiastic support for the proposal and his emphasis on the need for more affordable housing suggest that he would likely be in favor of these aspects as well.\n\nCelestin's personal anecdotes about the difficulty of affording housing in the city and his mention of record low vacancies and high rents reinforce the urgency expressed in the talking points about the need for comprehensive zoning reform.\n\nIn conclusion, while the testimony doesn't cover every single point in the reference document, it strongly supports the overall message and many of the key arguments, showing a high level of alignment with the reference talking points.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}

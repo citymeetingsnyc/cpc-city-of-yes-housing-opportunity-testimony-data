@@ -1,0 +1,46 @@
+{
+    "testimony": {
+        "name": "Kyle Jeremiah",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/kyle-jeremiah-from-bowery-residence-committee-brc",
+        "start_time_in_seconds": 33753.42,
+        "end_time_in_seconds": 33945.285,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Bowery Residence Committee",
+            "BRC"
+        ],
+        "key_points": [
+            "Support for City of Yes for Housing Opportunity proposal",
+            "Need for affordable housing to address homelessness crisis",
+            "Benefits of relegalizing shared housing and permitting more studio and one-bedroom apartments",
+            "Importance of converting underused spaces into housing",
+            "Support for modern SRO housing to increase affordable housing supply",
+            "Benefits of converting vacant offices and non-residential buildings into homes",
+            "Urging support for the initiative to create a more equitable and livable New York City"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Kyle Jeremiah, is testifying in support of the \"City of Yes for Housing Opportunity\" proposal.\n\n2. He highlights the current homelessness crisis in NYC, mentioning that over 80,000 individuals seek refuge in the city's shelter system each night.\n\n3. The speaker emphasizes the high cost of housing and the difficulty for many to transition from shelters to permanent housing.\n\n4. He mentions that BRC assisted over 1000 New Yorkers experiencing homelessness transition to more independent housing last year, but was limited by the insufficient supply of affordable housing.\n\n5. The speaker then outlines several benefits of the \"City of Yes for Housing Opportunity\" initiative:\n   a) Relegalizing shared housing and permitting more studio and one-bedroom apartments\n   b) Allowing conversion of underused spaces into housing\n   c) Making it easier to build modern SRO housing\n   d) Enabling conversion of vacant offices and other nonresidential buildings into homes\n\n6. These points align closely with several of the reference talking points, particularly:\n   - Shared Housing (SROs)\n   - Office-to-Residential conversions\n   - The overall goal of increasing affordable housing supply\n\n7. The testimony doesn't explicitly mention some of the other talking points like Universal Affordability Preference, Lifting Parking Minimums, Transit-Oriented Development, \"Town Center\" Zoning, or Accessory Dwelling Units.\n\n8. However, the overall message of the testimony strongly supports the general aim of the \"City of Yes for Housing Opportunity\" proposal, which is to increase affordable housing options in NYC.",
+        "talking_point_evidence": [
+            {
+                "quote": "In particular, BRC is thrilled that the city is proposing to make it easier to build a modern 21st century version of SRO housing. For those with no homes, SROs would dramatically increase the supply and reduce the per unit cost of creating housing allowing us to build more housing that is affordable to those who needed most.",
+                "analysis": "This quote directly supports the reference talking point about Shared Housing (SROs). The speaker emphasizes the benefits of SROs in increasing affordable housing supply and reducing costs, which aligns closely with the points made in the reference talking points.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "Lastly, enabling the conversion of vacant offices and other nonresidential buildings into homes will increase housing supply, boost property values and create more vibrant neighborhoods, particularly in areas impacted by the pandemic.",
+                "analysis": "This quote supports the reference talking point about Office-to-Residential conversions. While it doesn't go into as much detail as the reference talking points, it highlights the same benefits of increasing housing supply and creating more vibrant neighborhoods.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "First, relegalizing shared housing and permitting more studio and one bedroom apartments will provide affordable living options for recent graduates downsizing older adults and those who prefer living alone. This will help reduce the homelessness crisis and free up larger apartments for families",
+                "analysis": "This quote aligns with the general theme of increasing affordable housing options, which is present in several of the reference talking points. It specifically mentions shared housing, which relates to the SRO talking point, and also touches on the idea of providing more options for different types of residents, which is a theme in several of the reference talking points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony by Kyle Jeremiah shows a strong alignment with the reference talking points, particularly in its support for the \"City of Yes for Housing Opportunity\" proposal. While the testimony doesn't cover all the specific points mentioned in the reference talking points, it strongly emphasizes the need for more affordable housing options and supports key elements of the proposal.\n\nThe testimony directly addresses and supports the talking points on Shared Housing (SROs) and Office-to-Residential conversions. It also indirectly supports the overall goals of increasing affordable housing supply and providing more housing options for different types of residents, which are themes present in several of the reference talking points.\n\nThe speaker's emphasis on the current homelessness crisis and the need for more affordable housing options aligns with the general thrust of the reference talking points, even when not addressing specific policies.\n\nWhile the testimony doesn't mention some of the other specific policies (like Universal Affordability Preference, Lifting Parking Minimums, or Transit-Oriented Development), its overall message is very much in line with the goals of the \"City of Yes for Housing Opportunity\" proposal as outlined in the reference talking points.\n\nGiven the strong alignment on key points and the overall supportive stance towards the proposal, this testimony can be classified as having a high alignment with the reference talking points.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}

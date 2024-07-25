@@ -1,0 +1,34 @@
+{
+    "testimony": {
+        "name": "Paul Selver",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/paul-selver-chair-of-zoning-and-design-committee",
+        "start_time_in_seconds": 17588.695,
+        "end_time_in_seconds": 17775.04,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Real Estate Board of New York",
+            "Kramer Levin"
+        ],
+        "key_points": [
+            "Proposal for a vesting provision in the City of YES for Housing Opportunity zoning change",
+            "Current vesting standards are outdated and need to be updated to reflect modern challenges in real estate development",
+            "Proposed vesting provision based on principles of fairness and due process",
+            "Four main parts of the proposal: filing work permit within 6 months, 20% enlargement allowance, extended timelines for large and 421A buildings, and protection against frivolous challenges",
+            "Need to protect investments in producing affordable housing under current Inclusionary Housing program"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Paul Selver, is representing the Real Estate Board of New York.\n2. The testimony is primarily focused on a proposal for a vesting provision related to the \"City of YES for housing opportunities\" zoning change.\n3. The speaker discusses the need to update vesting provisions due to changes in the development environment over the past few generations.\n4. The testimony outlines a specific proposal for vesting rights, including timelines for filing work permit applications and securing approvals.\n5. The speaker mentions protection for investments in producing affordable housing under the current Inclusionary Housing program.\n\nNow, let's compare this to the reference talking points:\n1. The testimony doesn't directly address most of the specific points mentioned in the reference talking points.\n2. There's a brief mention of affordable housing at the end, which could be related to the Universal Affordability Preference (UAP) talking point, but it's not elaborated upon.\n3. The testimony doesn't discuss parking minimums, transit-oriented development, town center zoning, accessory dwelling units, office-to-residential conversions, or shared housing.\n4. The focus of the testimony is on protecting developers' investments and ensuring a smooth transition between current zoning and the new \"City of YES\" proposal, which is not directly addressed in the reference talking points.\n\nGiven this analysis, the testimony appears to have limited alignment with the provided reference talking points. While it does touch on the broader theme of zoning changes for housing opportunities, it doesn't directly support or echo the specific points outlined in the reference document.",
+        "talking_point_evidence": [
+            {
+                "quote": "My colleagues will speak about the need to protect investments in producing affordable housing under today's Incrutable housing program.",
+                "analysis": "This quote briefly mentions affordable housing, which could be related to the Universal Affordability Preference (UAP) talking point. However, the connection is tenuous as it doesn't directly address the specific points mentioned in the UAP talking point. The focus here seems to be on protecting existing investments rather than promoting new affordable housing initiatives.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            }
+        ],
+        "analysis": "The testimony is primarily focused on proposing vesting provisions for the \"City of YES for housing opportunities\" zoning change. While this topic is related to zoning and housing, it doesn't closely align with the specific talking points provided in the reference document. The testimony briefly mentions affordable housing, but doesn't elaborate on it in a way that clearly supports the reference talking points. The majority of the testimony discusses technical aspects of vesting rights and timelines, which are not addressed in the provided talking points. Given this analysis, the testimony does not appear to be closely aligned with the reference talking points.",
+        "similarity": "NOT_ALIGNED"
+    }
+}

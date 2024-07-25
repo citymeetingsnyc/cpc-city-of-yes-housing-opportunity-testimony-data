@@ -1,0 +1,47 @@
+{
+    "testimony": {
+        "name": "Daniel Cohen",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/daniel-cohen-from-the-upper-west-side-on-support",
+        "start_time_in_seconds": 10971.182,
+        "end_time_in_seconds": 11061.569,
+        "for_or_against": "For",
+        "borough": "Manhattan",
+        "neighborhood": "Upper West Side",
+        "stated_affiliations": [],
+        "key_points": [
+            "Supports City of Yes because it would make housing more affordable by alleviating the city's housing shortage",
+            "Strongly in favor of repealing parking mandates, which is environmentally friendly and economically progressive",
+            "Argues that mandatory parking increases rents for all, including those who don't own cars",
+            "Supports legalizing SROs (Single Room Occupancy) as an affordable housing option",
+            "Has personal experience living in an SRO when unable to afford a full apartment",
+            "Hopes City of Yes passes in its full form without any modifications"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step and compare it with the reference talking points:\n\n1. The speaker, Daniel Cohen, strongly supports the City of Yes proposal, stating it would make housing more affordable by alleviating the housing shortage.\n\n2. He highlights two specific parts of the proposal:\n\n   a. Repealing parking mandates:\n   - This aligns closely with the \"Lifting Parking Minimums\" talking point.\n   - He mentions it's environmentally friendly and economically progressive, which matches the reference points about climate crisis and reducing costs.\n   - He argues that forced parking increases rents, which is identical to the talking point about parking costs being passed on to renters.\n   - He notes that it's regressive, forcing less wealthy non-car owners to subsidize wealthier car owners, which is a similar argument to the talking points.\n\n   b. Legalizing SROs (Single Room Occupancy):\n   - This directly corresponds to the \"Shared Housing (aka \"Single-Room Occupancy\" [SROs])\" talking point.\n   - He shares personal experience of living in an SRO when he couldn't afford a full apartment, which supports the talking point about SROs being a low-cost housing option.\n   - His argument that legalizing SROs would add more affordable housing aligns with the talking points about addressing housing and homelessness crises.\n\n3. The speaker doesn't mention other aspects of the proposal such as Universal Affordability Preference, Transit-Oriented Development, \"Town Center\" Zoning, Accessory Dwelling Units, or Office-to-Residential conversions.\n\nGiven this analysis, the testimony shows high alignment with two specific talking points (parking minimums and SROs) but doesn't cover the full range of points in the reference document.",
+        "talking_point_evidence": [
+            {
+                "quote": "The first is repeal and parking mandates. So so not only is this environmental for environmentally friendly, it's also economically progressive. Parking spots don't get billed for free. So when we force developers to build parking, they pass on the costs in the form of higher rents.",
+                "analysis": "This quote directly aligns with the 'Lifting Parking Minimums' talking point. It mentions environmental benefits and increased costs passed on to renters, which are key arguments in the reference talking points.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "People who own cars would be paying for the parking anyway, but people who don't own cars cars have to pay extra rent for something they don't need. And since people who don't own cars tend to be less wealthy than people who do, the ultimate economic effect is that the less wealthy are subsidizing the more wealthy.",
+                "analysis": "This quote supports the 'Lifting Parking Minimums' talking point by elaborating on the regressive nature of parking mandates. While not identical to the reference points, it strongly supports the argument that parking mandates are unnecessary and economically unfair.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "The second part that I really like is legalizing SROs, and The reason I wanted to highlight this is because I myself have lived in in an SRO in the past when I couldn't afford a full apartment to myself because the SRO was more affordable.",
+                "analysis": "This quote directly relates to the 'Shared Housing (aka \"Single-Room Occupancy\" [SROs])' talking point. It provides personal testimony supporting the argument that SROs are a necessary low-cost housing option, which aligns closely with the reference talking points.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "Legalizing SROs is a great way to add more housing that's affordable to people who let people who like myself in the past. Aren't wealthy enough to afford a full apartment to to themselves.",
+                "analysis": "This quote further supports the SRO talking point by emphasizing how legalizing SROs would add more affordable housing options. This aligns with the reference point about addressing housing and homelessness crises.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows a high level of alignment with two specific aspects of the reference talking points: lifting parking minimums and legalizing SROs. The speaker's arguments closely mirror those provided in the reference document, often making the same claims and using similar reasoning.\n\nFor the parking minimums, the testimony covers environmental benefits, economic progressiveness, and the regressive nature of forcing non-car owners to subsidize car owners through higher rents. These points are nearly identical to those in the reference talking points.\n\nRegarding SROs, the speaker provides personal experience to support the talking points about SROs being a necessary low-cost housing option and their potential to address the housing crisis.\n\nHowever, the testimony does not cover other aspects of the City of Yes proposal mentioned in the reference talking points, such as Universal Affordability Preference, Transit-Oriented Development, \"Town Center\" Zoning, Accessory Dwelling Units, or Office-to-Residential conversions.\n\nWhile the alignment is very high for the topics covered, the limited scope of the testimony (focusing on only two aspects of the proposal) prevents it from being classified as having the highest level of alignment with the full set of reference talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

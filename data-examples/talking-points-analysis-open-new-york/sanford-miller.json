@@ -1,0 +1,40 @@
+{
+    "testimony": {
+        "name": "Sanford Miller",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/sanford-miller-from-manhattan-community-board-4-on",
+        "start_time_in_seconds": 46215.656,
+        "end_time_in_seconds": 46403.12,
+        "for_or_against": "For",
+        "borough": "Manhattan",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Manhattan Community Board 4",
+            "Health care team"
+        ],
+        "key_points": [
+            "Concerned about rising rental costs in the city",
+            "Supports increasing housing supply across the city (both market-rate and affordable)",
+            "Supports dropping parking requirements to reduce housing costs and increase housing production",
+            "Endorses the UAP (Unified Affordable Housing Program) as a nuanced approach to increase affordable housing in high-density districts",
+            "Appreciates how UAP preserves special districts while allowing for 20% additional density",
+            "Impressed with the presentation and execution of UAP mapping across the city"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Sanford Miller, is a renter concerned about rising rent costs in NYC.\n2. He supports the \"City of Yes\" proposal for increasing housing supply across the city.\n3. He specifically mentions and supports dropping parking requirements.\n4. He also mentions and supports the UAP (Universal Affordability Preference) program.\n5. The speaker's points align closely with two of the reference talking points: Lifting Parking Minimums and Universal Affordability Preference (UAP).\n\nNow, let's compare these points to the reference talking points:\n\n1. Parking Requirements:\n   - The speaker mentions the $67,000 cost estimate for building parking, which is directly from the reference talking points.\n   - He argues that parking mandates increase housing costs and force people to pay for parking they don't use, which aligns with the reference points.\n\n2. UAP:\n   - The speaker praises the UAP program as a nuanced way to get more affordable housing in high-density districts.\n   - He mentions the 20% density increase, which is not explicitly stated in the reference points but aligns with the general idea of extra floor area for affordable housing.\n\nThe testimony does not mention other talking points like Transit-Oriented Development, \"Town Center\" Zoning, ADUs, Office-to-Residential conversions, or Shared Housing.",
+        "talking_point_evidence": [
+            {
+                "quote": "Want to talk about the dropping of parking requirements is something I'd probably support, both from a trended perspective and from a housing perspective. As I think other people have mentioned, it costs $67,000, I believe, with the estimate. It's built apart from vitamin Hannon, but it's astronomical. And surely does. Both prevent housing from being built and increase the cost of housing that is built. And parking mandates require people to pay for housing or taking parking that they're not even using.",
+                "analysis": "This quote directly addresses the issue of parking requirements and closely aligns with the reference talking points on Lifting Parking Minimums. The speaker mentions the exact cost ($67,000) stated in the talking points and echoes the arguments about increased housing costs and forcing people to pay for unused parking.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "Another call too that I think is. I wanna call out is UAP, which I believe is I I will honestly, I think it is a very nuanced way to get some more affordable housing in large parts of the city. They call the high density districts. I as a I am on the Manhattan Community Board board. I do not speak to the board. Not to be for the board right now. But I was very impressed with the presentation on UNT. Connecticut before has a lot of special districts. And the application UIT to the special districts. You preserve the concept of the special districts and and reflected them while still allowing for that additional 20% density on what would have otherwise been allowed and get us that marginal affordable housing.",
+                "analysis": "This quote discusses the UAP program and supports its implementation. While it doesn't use the exact language from the reference talking points, it does align with the general idea of providing extra floor area for affordable housing. The speaker's mention of 20% additional density is not explicitly stated in the reference points but supports the overall concept.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony is closely related to the reference talking points, particularly on the topics of lifting parking minimums and the Universal Affordability Preference (UAP) program. The speaker directly echoes some of the key arguments and even cites specific figures from the reference talking points, especially regarding parking costs. While the testimony doesn't cover all the topics mentioned in the reference talking points, the ones it does address are discussed in a manner that closely aligns with the provided arguments. The speaker's support for these initiatives and the similarity in reasoning suggest a high level of alignment with the reference talking points, even if the exact language used is not identical.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

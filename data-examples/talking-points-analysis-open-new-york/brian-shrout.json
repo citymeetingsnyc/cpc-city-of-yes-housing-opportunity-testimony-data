@@ -1,0 +1,25 @@
+{
+    "testimony": {
+        "name": "Brian Shrout",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/brian-shrout-on-landmark-transfer-mechanism-in",
+        "start_time_in_seconds": 39640.79,
+        "end_time_in_seconds": 39788.418,
+        "for_or_against": "For",
+        "borough": "Manhattan",
+        "neighborhood": "Upper East Side",
+        "stated_affiliations": [],
+        "key_points": [
+            "Support for the Landmark Transfer mechanism in the City of Yes for Housing Opportunity proposal",
+            "Historical context of landmark transfers: only 12 transfers from 1968 to 2015",
+            "Geographical limitation of previous transfers to Midtown and FiDi areas",
+            "Lack of landmark transfers in other parts of Manhattan and outer boroughs",
+            "Need for more flexibility in the landmark transfer mechanism to benefit landmark buildings like churches, synagogues, and museums across the city"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Brian Shrout, is generally supportive of the proposal.\n2. He specifically focuses on the Landmark Transfer mechanism.\n3. He mentions that only 12 transfers occurred from 1968 to 2015, and possibly a few more since then.\n4. The transfers were geographically confined to Midtown and FiDi due to specific nuances in high-density districts.\n5. He points out that the rest of Manhattan and outer boroughs have had zero landmark transfers since 1968.\n6. The speaker supports the proposal to provide more flexibility for landmark buildings (churches, synagogues, museums) to transfer development rights.\n\nNow, let's compare this to the reference talking points:\n\n1. The testimony doesn't directly mention any of the specific talking points provided (UAP, Parking Minimums, TOD, Town Center Zoning, ADUs, Office-to-Residential, Shared Housing).\n2. The focus on Landmark Transfer mechanism is not explicitly mentioned in the reference talking points.\n3. The speaker's support for more flexibility in transferring development rights from landmark buildings aligns with the general spirit of the \"City of Yes for Housing Opportunity\" proposal, which aims to increase housing opportunities and flexibility in zoning.\n4. However, the specific mechanism discussed (Landmark Transfer) is not one of the main points in the provided talking points.\n\nGiven this analysis, the testimony is not closely aligned with the specific reference talking points provided. While it supports the overall goal of increasing housing opportunities and zoning flexibility, it focuses on a different aspect not mentioned in the reference talking points.",
+        "talking_point_evidence": [],
+        "analysis": "The testimony is not closely related to the reference talking points provided. While the speaker, Brian Shrout, expresses support for the \"City of Yes for Housing Opportunity\" proposal, his focus is entirely on the Landmark Transfer mechanism, which is not mentioned in the reference talking points. \n\nThe speaker's argument for more flexibility in transferring development rights from landmark buildings aligns with the general spirit of increasing housing opportunities and zoning flexibility. However, this specific mechanism is not one of the main points outlined in the provided talking points.\n\nThe testimony does not discuss any of the key issues mentioned in the reference talking points, such as Universal Affordability Preference, lifting parking minimums, Transit-Oriented Development, \"Town Center\" zoning, Accessory Dwelling Units, office-to-residential conversions, or shared housing/SROs.\n\nGiven the lack of direct correlation between the testimony and the provided talking points, it would be inaccurate to classify this as having high alignment or even supporting the specific talking points. The testimony is focused on a different aspect of zoning reform that, while potentially related to the broader goals of the \"City of Yes for Housing Opportunity\" proposal, is not directly addressed in the given talking points.",
+        "similarity": "NOT_ALIGNED"
+    }
+}

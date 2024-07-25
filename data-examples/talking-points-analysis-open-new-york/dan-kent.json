@@ -1,0 +1,49 @@
+{
+    "testimony": {
+        "name": "Dan Kent",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/dan-kent-president-and-ceo-of-lantern-organization",
+        "start_time_in_seconds": 29008.012,
+        "end_time_in_seconds": 29196.002,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Lantern Organization"
+        ],
+        "key_points": [
+            "Supports the Universal Affordability preference provision",
+            "New York City has the highest rate of homelessness despite being a leader in affordable housing production",
+            "Current zoning code and land use process reduces housing supply",
+            "Low vacancy rates contribute to homelessness and high rents",
+            "Need to allow more development of market-rate housing alongside affordable housing",
+            "New York City's housing production rate is much lower than other cities like Austin or Seattle",
+            "Current rules prevent housing from being built",
+            "Market-rate housing and private developers should be seen as part of the solution",
+            "The proposal is thoughtful and asks every neighborhood to contribute a little",
+            "Small changes like new apartment buildings or ADUs won't significantly alter neighborhoods",
+            "Increasing housing supply will help relieve pressure on New Yorkers struggling with affordability"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "To analyze the testimony in relation to the reference talking points, I'll go through the main points made in the testimony and compare them to the provided talking points:\n\n1. The testimony strongly supports the Universal Affordability Preference (UAP) provision, which aligns with the first talking point.\n2. The speaker emphasizes the need for more market-rate housing, which is not directly mentioned in the talking points but supports the overall goal of increasing housing supply.\n3. The testimony highlights the low vacancy rates and low housing production in NYC compared to other cities, which indirectly supports many of the talking points about increasing housing supply.\n4. The speaker advocates for changing zoning rules to allow more housing production, which aligns with several talking points, especially Transit-Oriented Development and \"Town Center\" Zoning.\n5. The testimony mentions allowing ADUs, which directly relates to the Accessory Dwelling Units (ADUs) talking point.\n6. The overall message of the testimony is that more housing of all types is needed in every neighborhood, which aligns with the general theme of the talking points.\n\nWhile the testimony doesn't cover all the specific points mentioned in the reference talking points, it strongly supports the overall message and several key points.",
+        "talking_point_evidence": [
+            {
+                "quote": "And first, I'd like to applaud the Universal Affordability preference provision This provision will help lantern and our peer organizations produce even more affordable in support of housing in New York City.",
+                "analysis": "This quote directly supports the Universal Affordability Preference (UAP) talking point, emphasizing its importance in producing more affordable housing.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "We need to produce more housing of all types in every neighborhood.",
+                "analysis": "This statement aligns with the overall message of the talking points, particularly supporting Transit-Oriented Development, 'Town Center' Zoning, and the general need for increased housing supply.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "If a couple of your neighbors get ADUs, your neighborhood's still gonna be a lovely place to live.",
+                "analysis": "This quote directly mentions ADUs and supports the talking point about Accessory Dwelling Units, emphasizing their positive impact on neighborhoods.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows a high level of alignment with the reference talking points. While it doesn't cover all the specific points mentioned in the talking points, it strongly supports the overall message of increasing housing supply and affordability in New York City. The speaker directly endorses the Universal Affordability Preference provision and mentions ADUs, which are key points in the reference talking points. Additionally, the testimony's emphasis on the need for more market-rate housing and changing zoning rules aligns with the general theme of the talking points, particularly those related to Transit-Oriented Development and \"Town Center\" Zoning. The speaker's argument for increasing housing production and reducing barriers to development is consistent with the goals expressed in the reference talking points.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}

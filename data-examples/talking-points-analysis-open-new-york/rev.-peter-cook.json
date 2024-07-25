@@ -1,0 +1,47 @@
+{
+    "testimony": {
+        "name": "Rev. Peter Cook",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/rev-peter-cook-of-new-york-state-council-of",
+        "start_time_in_seconds": 24394.521,
+        "end_time_in_seconds": 24579.129,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "New York State Council of Churches",
+            "Interfaith Affordable Housing Collaborative",
+            "Mayor's Task Force on Religious Properties"
+        ],
+        "key_points": [
+            "Support for the City of Yes text amendment",
+            "Importance of addressing zoning barriers to build affordable housing",
+            "Support for universal preference and increased density with 20% permanently affordable housing at 60% AMI",
+            "Support for provisions making it easier for congregations to build affordable housing",
+            "Support for landmark provision allowing congregations to transfer development rights",
+            "Caution against overselling the City of Yes initiative",
+            "Recognition that increasing supply is not the only solution for affordability"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Rev. Peter Cook, represents faith-based organizations working on affordable housing.\n2. He mentions working with the mayor's task force on religious properties, which offered recommendations to the City of Yes proposal.\n3. The Council of Churches generally supports the text amendment.\n4. He specifically supports the universal preference and the allowance to increase density with 20% more housing that is permanently affordable at an average of 60% AMI.\n5. He supports provisions that make it easier for congregations to build affordable housing.\n6. He supports the landmark provision allowing congregations to transfer development rights to nearby properties in exchange for funds to fix aging properties.\n7. He cautions against overselling the City of Yes and acknowledges that increasing supply is not the only way to deal with affordability.\n\nNow, let's compare this to the reference talking points:\n\n1. The testimony aligns closely with the Universal Affordability Preference (UAP) talking point, specifically mentioning support for increased density with affordable housing requirements.\n2. The testimony does not mention parking minimums, transit-oriented development, or \"town center\" zoning.\n3. While not explicitly using the term \"ADUs\", the support for provisions making it easier for congregations to build affordable housing could be related to this concept.\n4. The testimony does not mention office-to-residential conversions or shared housing/SROs.\n5. The overall tone of the testimony is supportive of the City of Yes proposal, which aligns with the general stance of the reference talking points.\n\nBased on this analysis, we can identify some specific quotes that align with the reference talking points and determine the overall similarity.",
+        "talking_point_evidence": [
+            {
+                "quote": "We support the universal preference and the allowance to increase density with provision that you must build 60 per you must present build 20 percent more housing that is permanently affordable at an average of 60%. AMI.",
+                "analysis": "This quote directly aligns with the Universal Affordability Preference (UAP) talking point. It mentions increased density and permanent affordability, which are key aspects of the UAP.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "We're generally supportive of provisions and make it easier for congregations to build affordable housing and we also support the landmark provision that lets congregations transfer development rights to properties which are close by in exchange for funds to fix up aging properties.",
+                "analysis": "While not explicitly mentioned in the reference talking points, this quote supports the general idea of making it easier to build affordable housing, which is a theme throughout the talking points. The transfer of development rights is a unique point not covered in the reference talking points.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Finally, I make a plea to the city to not oversell city of yes, and be as clear as you can about what the text amendment can and can't do.",
+                "analysis": "This quote shows a more cautious approach to the City of Yes proposal, which is not directly addressed in the reference talking points. However, it still indicates support for the proposal while acknowledging its limitations.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            }
+        ],
+        "analysis": "The testimony shows a significant alignment with some of the reference talking points, particularly regarding the Universal Affordability Preference (UAP). The speaker explicitly supports increased density with affordable housing requirements, which is a key aspect of the UAP talking point. \n\nHowever, the testimony does not cover many of the other talking points such as parking minimums, transit-oriented development, office-to-residential conversions, or shared housing. The speaker focuses more on aspects related to religious organizations and their role in affordable housing development.\n\nWhile the overall tone is supportive of the City of Yes proposal, which aligns with the general stance of the reference talking points, the testimony is more limited in scope and adds some cautions about overselling the proposal's impact.\n\nGiven these observations, the testimony supports the talking points to some extent but does not show high alignment across all areas covered in the reference talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "testimony": {
+        "name": "Eric Rosenbaum",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/eric-rosenbaum-president-and-ceo-of-project",
+        "start_time_in_seconds": 9451.538,
+        "end_time_in_seconds": 9616.748,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Project Renewal"
+        ],
+        "key_points": [
+            "Stable housing is the foundation for resilient families and communities",
+            "Lack of affordable housing contributes to mental health issues, overdose crises, and public safety problems",
+            "Historical housing discrimination has created profound inequity, especially for people of color",
+            "City of Yes proposals can address affordable housing availability and reduce homelessness",
+            "Increasing affordability will address root causes of mental health challenges, substance disorders, and criminal justice involvement",
+            "The alternative is increased spending on shelters, mental health treatment, and jails",
+            "City of Yes will make New York City more affordable and safer for families at all income levels"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step in relation to the reference talking points:\n\n1. The testimony is from Eric Rosenbaum, President and CEO of Project Renewal, a homeless service provider.\n\n2. He strongly supports the \"City of Yes\" proposal, which aligns with the overall positive stance in the reference talking points.\n\n3. The testimony focuses on the importance of affordable housing, its impact on homelessness, mental health, substance abuse, and public safety. This aligns with the general theme of the reference talking points, especially the emphasis on affordability.\n\n4. Rosenbaum discusses historical housing inequities, which isn't directly mentioned in the reference talking points but provides context for the need for change.\n\n5. He mentions that the \"City of Yes proposals can make a real difference in overhauling zoning regulations and addressing the availability of affordable housing.\" This aligns with several points in the reference talking points, particularly the Universal Affordability Preference (UAP) and Transit-Oriented Development (TOD).\n\n6. The testimony doesn't go into specific details about the proposals, unlike the reference talking points which outline various aspects like parking minimums, TOD, town center zoning, ADUs, office-to-residential conversions, and shared housing.\n\n7. Rosenbaum's emphasis on affordability and its potential to reduce homelessness aligns closely with the overall theme of the reference talking points, especially the UAP section.\n\nWhile the testimony doesn't use the exact language or cover all the specific points mentioned in the reference talking points, it strongly supports the overall goal of increasing affordable housing and aligns with the general sentiment of the talking points.",
+        "talking_point_evidence": [
+            {
+                "quote": "The city of yes proposals can make a real difference in overhauling zoning regulations and addressing the availability of affordable housing.",
+                "analysis": "This quote directly supports the overall theme of the reference talking points, particularly aligning with the Universal Affordability Preference (UAP) and other zoning changes mentioned. While it doesn't use the exact language, it captures the essence of what the talking points are promoting.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "Increasing affordability will reduce homelessness and address this key root cause of generational mental health challenges substitute disorders and criminal justice involvement.",
+                "analysis": "This quote supports the general theme of affordability in the reference talking points, particularly aligning with the UAP section. It extends the argument by linking affordability to broader social issues, which isn't explicitly stated in the talking points but supports their overall goal.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "With the city of yes, New York City will become more affordable and safer. A city where families at all income levels kind of thoughts.",
+                "analysis": "This quote aligns with the overall sentiment of the reference talking points, particularly the emphasis on affordability for all income levels. It supports the general goal of the 'City of Yes' proposal without going into specific details.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony is supporting the same claims and arguments as the talking points, but it does not make the exact same ones or use very similar language. The speaker, Eric Rosenbaum, strongly supports the \"City of Yes\" proposal and emphasizes the importance of affordable housing, which aligns with the core message of the reference talking points. However, his testimony focuses more on the broader impact of affordable housing on issues like homelessness, mental health, and public safety, rather than detailing specific zoning changes mentioned in the talking points. While there is clear support for the overall goals of the proposal, the testimony doesn't delve into the specific points like UAP, parking minimums, TOD, or other detailed aspects mentioned in the reference talking points. The alignment is more in the general sentiment and overarching goals rather than in specific policy details.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

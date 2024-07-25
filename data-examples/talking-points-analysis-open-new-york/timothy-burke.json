@@ -1,0 +1,49 @@
+{
+    "testimony": {
+        "name": "Timothy Burke",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/timothy-burke-president-of-nyc-new-liberals-on",
+        "start_time_in_seconds": 40864.91,
+        "end_time_in_seconds": 40951.223,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "NYC New Liberals"
+        ],
+        "key_points": [
+            "Strong support for City of Yes for Housing Opportunity as currently written",
+            "New York City has a severe housing shortage with only 1.4% rental vacancy",
+            "Need for more housing supply at all income levels",
+            "Reforming outdated zoning code to legalize housing",
+            "Housing is connected to transportation, education, health and safety, and economic issues",
+            "City of Yes for Housing Opportunity is an important first step in ending the housing crisis"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "1. The testimony strongly supports the \"City of Yes for Housing Opportunity\" proposal.\n2. The speaker mentions several key points that align with the reference talking points:\n   - Emphasizes the severe housing shortage in NYC (1.4% vacancy rate)\n   - Advocates for reforming zoning codes to legalize more housing\n   - Supports increasing housing supply at all income levels\n   - Recognizes housing as a multifaceted issue (transportation, education, health, economy)\n3. While the testimony doesn't go into specific details about the proposal's components, it aligns with the overall goals and rationale behind the reference talking points.\n4. The speaker's organization (NYC New Liberals) seems to have similar views to those expressed in the reference talking points.\n5. There are no direct quotes that exactly match the reference talking points, but the general sentiment and support for the proposal are very similar.",
+        "talking_point_evidence": [
+            {
+                "quote": "New York City has a severe housing shortage, a rental vacancy of only 1.4% among the lowest in the country, which causes our rents to be among the highest in the country and the world.",
+                "analysis": "This quote supports the overall rationale behind the 'City of Yes for Housing Opportunity' proposal, emphasizing the need for more housing supply. While it doesn't directly reference a specific talking point, it aligns with the general argument for zoning reforms and increased housing production.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "The best way to get that is to legalize housing by reforming our outdated zoning code.",
+                "analysis": "This statement supports the overall goal of the 'City of Yes' proposal, which aims to reform zoning codes. It aligns with the rationale behind various talking points like Universal Affordability Preference, Transit-Oriented Development, and 'Town Center' Zoning, although it doesn't mention them specifically.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "We need more housing at all income levels from subsidized affordable to market rate.",
+                "analysis": "This quote supports the idea of diverse housing options, which is present in various talking points such as Universal Affordability Preference and Shared Housing. It aligns with the overall goal of increasing housing supply across different affordability levels.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "While many of the comments today, including my own, have focused on ending the housing crisis, it's important to note that housing is also a transfer patient issue. The school is an education issue. It's a health and safety issue. It's an economic issue.",
+                "analysis": "This statement recognizes the multifaceted nature of the housing crisis, which is implied in various talking points. It supports the idea that housing reforms have wide-ranging benefits, aligning with arguments made for Transit-Oriented Development and 'Town Center' Zoning.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony is generally supportive of the \"City of Yes for Housing Opportunity\" proposal and aligns with many of the ideas presented in the reference talking points. While the speaker doesn't go into specific details about the proposal's components, their overall message strongly advocates for zoning reforms to increase housing supply and address the housing crisis in New York City.\n\nThe testimony emphasizes the severity of the housing shortage, the need for zoning reform, and the importance of increasing housing supply at all income levels. These points are consistent with the overarching themes in the reference talking points, particularly those related to Universal Affordability Preference, Transit-Oriented Development, and 'Town Center' Zoning.\n\nThe speaker also touches on the multifaceted nature of the housing crisis, mentioning its impacts on transportation, education, health, and the economy. This aligns with the broader arguments made in the reference talking points about the benefits of various zoning reforms.\n\nHowever, the testimony doesn't directly mention or elaborate on specific components of the proposal such as lifting parking minimums, accessory dwelling units, or office-to-residential conversions. The alignment is more in the general support for zoning reform and increased housing supply rather than in the specific details of the proposal.\n\nGiven the strong support for the proposal and the alignment with the overall goals and rationale behind the reference talking points, the testimony can be classified as supporting the talking points, even though it doesn't make the exact same arguments or use very similar language.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

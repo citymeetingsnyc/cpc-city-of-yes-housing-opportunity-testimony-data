@@ -1,0 +1,47 @@
+{
+    "testimony": {
+        "name": "Eric Lee",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/eric-lee-director-of-policy-and-planning-at",
+        "start_time_in_seconds": 42482.496,
+        "end_time_in_seconds": 42663.695,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Homeless Services United"
+        ],
+        "key_points": [
+            "The main driver of homelessness is the inability to afford housing",
+            "HSU endorses the City of Yes housing plan in full",
+            "The plan will eliminate zoning barriers and unlock the ability to create more affordable housing units throughout the 5 boroughs",
+            "New York City's housing is in an affordability crisis with nearly 600,000 households spending more than half their income on rent",
+            "More than 145,000 people slept in shelters in a single night in December of the previous year",
+            "The city's vacancy rate for housing is the lowest it's been since 1968",
+            "The City of Yes Plan is projected to support the creation of 150,000 new units of housing across the next 15 years in all five boroughs",
+            "Recommends prioritizing resources for more robust operational affordable housing for very low income and extremely low income households",
+            "Emphasizes the importance of ensuring that affordable housing is truly affordable for lower income New Yorkers"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Eric Lee, represents Homeless Services United, advocating for affordable housing and services for homeless individuals.\n\n2. He explicitly endorses the \"City of Yes\" housing plan, which aligns with several reference talking points.\n\n3. The testimony highlights the affordability crisis, high shelter occupancy, and low vacancy rates, which relate to the need for more housing options mentioned in the talking points.\n\n4. Lee mentions the addition of $2 billion to the city's budget for affordable housing, which indirectly supports the goals of the \"City of Yes\" plan.\n\n5. The testimony emphasizes the need for more housing capacity, citing that New York City grew by 275,000 households while only adding 60,000 housing units since 2021.\n\n6. Lee projects that the \"City of Yes\" plan will support the creation of 150,000 new housing units across the next 15 years, which aligns with the goals mentioned in the talking points.\n\n7. The speaker recommends prioritizing affordable housing for very low and extremely low-income households, which relates to the Universal Affordability Preference (UAP) in the talking points.\n\n8. While the testimony doesn't explicitly mention specific elements like lifting parking minimums, transit-oriented development, or accessory dwelling units, it does support the overall goals of increasing affordable housing and addressing the housing crisis.\n\nGiven this analysis, we can now identify specific quotes that align with the reference talking points and determine the overall similarity.",
+        "talking_point_evidence": [
+            {
+                "quote": "HSU endorses the city of yes housing plan in full, which is made to eliminate zoning barriers and eliminate and unlock the ability to create more housing of more units of a portable housing throughout the 5 boroughs.",
+                "analysis": "This quote directly supports the overall goals of the 'City of Yes' plan mentioned in the talking points, particularly the emphasis on eliminating zoning barriers to create more housing.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "The city of Yes Plan will help to address this lag and is projected to support the creation of 150,000 new units of housing across the next 15 years across all five boroughs.",
+                "analysis": "This quote aligns with the general goals of increasing housing supply mentioned in various talking points, though it doesn't match any specific point verbatim.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "We acknowledge this, but we also recommend that the administration prioritize resources to facilitate more robust operational affordable housing for very low income and extremely low income households.",
+                "analysis": "This quote relates to the Universal Affordability Preference (UAP) talking point, which emphasizes the importance of creating permanent affordable housing, especially for lower-income residents.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows a significant level of support for the \"City of Yes\" housing plan and its goals of increasing affordable housing and addressing the housing crisis in New York City. While the speaker doesn't explicitly mention all the specific elements outlined in the reference talking points (such as lifting parking minimums or transit-oriented development), they do endorse the plan \"in full\" and emphasize its potential to create a large number of new housing units.\n\nThe testimony focuses primarily on the need for affordable housing and addressing homelessness, which aligns with the overall goals of the plan. The speaker's emphasis on prioritizing housing for very low and extremely low-income households resonates with the Universal Affordability Preference (UAP) mentioned in the talking points.\n\nHowever, the testimony doesn't go into the same level of detail as the reference talking points regarding specific zoning changes or policy mechanisms. Instead, it provides a broader endorsement of the plan's goals and potential outcomes.\n\nGiven these observations, while the testimony strongly supports the \"City of Yes\" plan, it doesn't exhibit the high level of specific alignment that would indicate direct use of the reference talking points. The speaker seems to be advocating from their organization's perspective, which naturally aligns with many of the plan's goals.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "testimony": {
+        "name": "Emanuel Kokinakis",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/emanuel-kokinakis-from-mega-contracting",
+        "start_time_in_seconds": 44385.98,
+        "end_time_in_seconds": 44525.535,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "MEGA Contracting Development"
+        ],
+        "key_points": [
+            "The City of Yes proposal is necessary and beneficial for affordable housing development",
+            "Current provisions have required unnecessary ULURPs and rezonings for 100% affordable projects",
+            "The proposal will allow for mixed income development, generating low income affordable housing without city subsidy",
+            "The current 485x tax break alone is not sufficient for financial feasibility of new developments in outer boroughs",
+            "The proposal will benefit 100% affordable units providing truly affordable low income housing",
+            "Parking benefits in the proposal will make previously infeasible projects feasible"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze the testimony step by step:\n\n1. The speaker, Emanuel Kokinakis, is from MEGA Contracting Development, an affordable housing builder and developer.\n2. He mentions that under current provisions, they've undergone U Alerts and rezoning in every borough for 100% affordable projects, which would have been unnecessary if this proposal had been adopted earlier.\n3. He emphasizes that the current tax break (485 x) alone is not enough for financial feasibility of new developments, especially in the outer boroughs.\n4. He states that the City of Yes proposal will allow for mixed-income development, generating low-income affordable housing without city subsidy.\n5. He mentions that the proposal will benefit 100% affordable units providing truly affordable low-income housing.\n6. He also mentions the parking benefits, stating that they will make previously infeasible projects feasible.\n\nNow, let's compare these points to the reference talking points:\n\n1. The testimony aligns closely with the Universal Affordability Preference (UAP) talking point, especially regarding mixed-income and 100% affordable buildings.\n2. The mention of parking benefits aligns with the Lifting Parking Minimums talking point.\n3. The focus on affordable housing and mixed-income development is consistent with several talking points, including UAP and Transit-Oriented Development.\n4. The testimony doesn't explicitly mention other aspects like TOD, Town Center Zoning, ADUs, Office-to-Residential conversions, or Shared Housing.\n\nOverall, the testimony shows strong alignment with some key talking points, particularly regarding affordable housing and parking minimums.",
+        "talking_point_evidence": [
+            {
+                "quote": "Had this been adopted sooner. I think we're facing a very unique time where, unfortunately, development for workforce market rate housing and middle income and low income affordable housing. Is that a precipice where the current tax breaks, the 485 x is currently adopted, is in itself not enough to move the needle for financial feasibility of new developments, particularly in the boroughs.",
+                "analysis": "This quote directly supports the UAP talking point about making affordable housing more efficient and easier to finance. It highlights the current challenges in developing affordable housing and how the new proposal could address these issues.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "This city of yes proposal will allow for mixed income development, which will generate low income affordable housing, without the new to city subsidy.",
+                "analysis": "This quote closely aligns with the UAP talking point about both mixed-income and 100% affordable buildings being able to take advantage of the new zoning. It emphasizes the benefit of creating affordable housing without additional city subsidies.",
+                "closeness_to_reference_talking_point": "IDENTICAL_POINT"
+            },
+            {
+                "quote": "So we absolutely are for this proposal and think that also the parking benefits, which render a lot of projects infeasible, will now become fusible.",
+                "analysis": "This quote directly supports the Lifting Parking Minimums talking point. It echoes the idea that current parking requirements make some projects infeasible, and removing these requirements will allow more housing to be built.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            }
+        ],
+        "analysis": "The testimony shows a strong alignment with the reference talking points, particularly in relation to affordable housing development and parking requirement changes. The speaker, representing an affordable housing developer, provides practical insights that closely mirror the intentions of the City of Yes proposal.\n\nThe testimony strongly supports the Universal Affordability Preference (UAP) talking point by highlighting how the proposal will benefit both mixed-income and 100% affordable developments. It emphasizes the current challenges in financing affordable housing projects and how the new proposal could address these issues without additional city subsidies.\n\nThe speaker also directly addresses the Lifting Parking Minimums talking point, noting that the parking benefits in the proposal will make previously infeasible projects feasible. This aligns closely with the reference talking point about how current parking mandates are outdated and expensive.\n\nWhile the testimony doesn't explicitly mention all aspects of the proposal (such as Transit-Oriented Development, Town Center Zoning, ADUs, Office-to-Residential conversions, or Shared Housing), it strongly supports the core elements related to affordable housing development and parking changes.\n\nThe practical, industry-based perspective provided in the testimony lends credibility to the benefits outlined in the reference talking points, particularly regarding the financial feasibility of affordable housing projects under the new proposal.",
+        "similarity": "HIGH_ALIGNMENT"
+    }
+}

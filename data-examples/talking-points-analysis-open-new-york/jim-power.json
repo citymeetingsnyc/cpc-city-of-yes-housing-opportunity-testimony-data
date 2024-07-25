@@ -1,0 +1,44 @@
+{
+    "testimony": {
+        "name": "Jim Power",
+        "citymeetings_url": "https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing/jim-power-from-kramer-levin-on-concerns-about-the",
+        "start_time_in_seconds": 24080.678,
+        "end_time_in_seconds": 24229.244,
+        "for_or_against": "For",
+        "borough": "Unknown",
+        "neighborhood": "Unknown",
+        "stated_affiliations": [
+            "Kramer Levin"
+        ],
+        "key_points": [
+            "Supports many components of the housing opportunity proposal",
+            "Concerned about the proposed UAP formula for zoning lots with existing buildings",
+            "The current proposal may disincentivize housing development in certain scenarios",
+            "Suggests an alternative approach where the required affordable percentage is applied only to the enlarged portion of the zoning lot",
+            "Argues that the alternative approach would incentivize developers to build out the full amount of residential floor area available",
+            "Recommends considering alternatives to the UAP formula for infill sites"
+        ]
+    },
+    "extracted_data": {
+        "chain_of_thought": "Let's analyze this testimony step by step:\n\n1. The speaker, Jim Power, represents clients who own property in R10 equivalent zoning districts.\n2. He expresses support for many components of the housing opportunity proposal.\n3. His main concern is about the Universal Affordability Preference (UAP) formula, specifically how it applies to zoning lots with existing buildings.\n4. He argues that the current proposal might disincentivize housing development in certain scenarios.\n5. He provides a detailed example of how the current UAP formula might lead to less affordable housing being built in some cases.\n6. He suggests an alternative approach where the required affordable percentage would only apply to the enlarged portion of the zoning lot, similar to MIH regulations.\n7. His overall aim seems to be to incentivize developers to build out the full amount of residential floor area available, resulting in additional market-rate and affordable housing.\n\nNow, let's compare this to the reference talking points:\n\n1. The testimony is primarily focused on the UAP, which is one of the main points in the reference talking points.\n2. The speaker supports the overall goal of addressing the housing crisis, which aligns with the general sentiment of the talking points.\n3. However, the specific concerns and suggestions made by the speaker are not directly mentioned in the reference talking points.\n4. The reference talking points present UAP in a very positive light, whereas the testimony points out potential issues with its implementation.\n5. The testimony doesn't mention any of the other topics covered in the reference talking points (parking minimums, transit-oriented development, town center zoning, ADUs, office-to-residential conversions, or shared housing).\n",
+        "talking_point_evidence": [
+            {
+                "quote": "We support many components of the housing opportunity proposal and believe it will help address the city's housing crisis.",
+                "analysis": "This quote shows general support for the housing proposal, which aligns with the overall sentiment of the reference talking points. However, it doesn't directly reference any specific talking point.",
+                "closeness_to_reference_talking_point": "SUPPORTS_POINT"
+            },
+            {
+                "quote": "However, we are concerned that the proposed UAP formula as it applies to zoning lots with existing buildings to remain may have the unintended effect of disincentivizing housing development.",
+                "analysis": "This quote directly addresses the UAP, which is a key point in the reference talking points. However, it presents a concern not mentioned in the reference talking points, which only highlight positive aspects of UAP.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            },
+            {
+                "quote": "We urge the commission to consider alternatives to the UAP formula as it applies to these infill sites.",
+                "analysis": "This quote suggests modifications to the UAP formula, which is not mentioned in the reference talking points. The talking points present UAP as a straightforward positive, while this testimony suggests it needs refinement.",
+                "closeness_to_reference_talking_point": "TENUOUS_LINK"
+            }
+        ],
+        "analysis": "The testimony is partially aligned with the reference talking points, but it also diverges significantly in some areas. While the speaker supports the overall goal of addressing the housing crisis, which is in line with the general sentiment of the talking points, he raises specific concerns about the UAP formula that are not addressed in the reference talking points.\n\nThe testimony focuses almost exclusively on the UAP, which is only one aspect of the reference talking points. The speaker's detailed analysis and suggestions for improving the UAP formula show a level of engagement with the topic that goes beyond what's presented in the reference talking points.\n\nImportantly, the testimony doesn't mention any of the other key points from the reference talking points, such as lifting parking minimums, transit-oriented development, town center zoning, ADUs, office-to-residential conversions, or shared housing.\n\nThe testimony appears to come from a perspective of property owners and developers, focusing on the practicalities and potential unintended consequences of the UAP formula. This differs from the more general, positive presentation of UAP in the reference talking points.\n\nWhile there is some alignment in the overall goal of increasing housing supply, including affordable housing, the specific approach and concerns raised in the testimony are not closely aligned with the reference talking points.",
+        "similarity": "SUPPORTS_TALKING_POINTS"
+    }
+}
