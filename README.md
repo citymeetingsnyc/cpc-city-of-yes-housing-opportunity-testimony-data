@@ -2,7 +2,9 @@
 
 [All testimonies are viewable here on citymeetings.nyc](https://citymeetings.nyc/city-planning-commission/2024-07-10-city-of-yes-public-hearing).
 
-This repo contains the following dataset:
+Here's a post about an analysis published in this repo: [Can you figure out where people's talking points come from with LLMs?](https://vikramoberoi.com/posts/can-you-figure-out-where-peoples-talking-points-com-from-with-llms/)
+
+## What's this dataset?
 
 - [The transcript](https://github.com/citymeetingsnyc/cpc-city-of-yes-housing-opportunity-testimony-data/blob/main/transcript.json) of a 15-hour NYC City Planning Commission hearing on City of Yes for Housing Opportunity (YouTube: [Part 1](https://www.youtube.com/watch?v=70a3WS0l_GI), [Part 2](https://www.youtube.com/watch?v=2SMvuto6tEw))
 - [211 identified speakers](https://github.com/citymeetingsnyc/cpc-city-of-yes-housing-opportunity-testimony-data/blob/main/speakers.json) from the meeting.
@@ -14,7 +16,8 @@ This repo contains the following dataset:
 There's also code that demonstrates how to use LLMs to extract data from these testimonies:
 
 - `proposal_elements_analysis.py` extracts which of the 8 elements of the zoning proposal were discussed in a given testimony.
-- `talking_points_analysis.py` compares each testimony against a set of talking points to determine how aligned they are.
+- `talking_points_analysis.py` compares each testimony against a set of talking points to determine how aligned they are ([written about in this post](https://vikramoberoi.com/posts/can-you-figure-out-where-peoples-talking-points-com-from-with-llms/)).
+- `analyze.py` is the entry point used to run these analyses (see directions below).
 
 Example output from these analyses is in `data-examples/`
 
