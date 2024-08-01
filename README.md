@@ -8,7 +8,7 @@ Here's a post about an analysis published in this repo: [Can you figure out wher
 
 - [The transcript](https://github.com/citymeetingsnyc/cpc-city-of-yes-housing-opportunity-testimony-data/blob/main/transcript.json) of a 15-hour NYC City Planning Commission hearing on City of Yes for Housing Opportunity (YouTube: [Part 1](https://www.youtube.com/watch?v=70a3WS0l_GI), [Part 2](https://www.youtube.com/watch?v=2SMvuto6tEw))
 - [211 identified speakers](https://github.com/citymeetingsnyc/cpc-city-of-yes-housing-opportunity-testimony-data/blob/main/speakers.json) from the meeting.
-- [Data about all 203 testimonies](https://github.com/citymeetingsnyc/cpc-city-of-yes-housing-opportunity-testimony-data/blob/main/testimonies.json):
+- Data about all 203 testimonies ([JSON](https://github.com/citymeetingsnyc/cpc-city-of-yes-housing-opportunity-testimony-data/blob/main/testimonies.json), [CSV](https://github.com/citymeetingsnyc/cpc-city-of-yes-housing-opportunity-testimony-data/blob/main/testimonies.csv)):
   - Start and end times
   - The name of the person testifying
   - Various attributes extracted from each testimony using language models
