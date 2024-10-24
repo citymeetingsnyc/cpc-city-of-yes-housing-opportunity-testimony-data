@@ -5,3 +5,4 @@ logs/
 __pycache__/
 extracted-data/*
 other/
+.DS_store
