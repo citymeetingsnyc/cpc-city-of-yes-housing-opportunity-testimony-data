@@ -12,6 +12,7 @@ from rich.prompt import Confirm
 import proposal_elements_analysis
 import talking_points_analysis
 from models import Transcript
+import for_against_analysis
 
 FORMAT = "%(message)s"
 logging.basicConfig(
@@ -93,6 +94,20 @@ def talking_points_report(extracted_data_dir, reference_talking_points_path):
             extracted_data_dir,
             reference_talking_points_path,
         )
+    )
+
+
+@cli.command()
+@click.option(
+    "--model-provider", default="ANTHROPIC", help="Model provider (ANTHROPIC or OPENAI)"
+)
+@click.option("--model-name", default="claude-3-5-sonnet-20240620", help="Model name")
+def for_or_against(model_provider, model_name):
+    """Analyze testimonies to determine if they are for or against the City of Yes proposal."""
+    run_analysis(
+        for_against_analysis.extract,
+        model_provider=model_provider,
+        model_name=model_name,
     )
 
 
