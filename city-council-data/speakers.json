@@ -1,0 +1,2018 @@
+[
+    {
+        "label": "0",
+        "name": "UNKNOWN",
+        "role": "Sergeant at Arms",
+        "organization": "NYC City Council"
+    },
+    {
+        "label": "1",
+        "name": "Kevin C. Riley",
+        "role": "Council Member",
+        "organization": "NYC City Council"
+    },
+    {
+        "label": "2",
+        "name": "Patrick Boyle",
+        "role": "Senior Director",
+        "organization": "Enterprise Community Partners"
+    },
+    {
+        "label": "3",
+        "name": "Thomas Devaney",
+        "role": "Senior Director of Land Use & Planning",
+        "organization": "Municipal Art Society of New York"
+    },
+    {
+        "label": "4",
+        "name": "Emily Goldstein",
+        "role": "Director of Organizing and Advocacy",
+        "organization": "Association for Neighborhood And Housing Development (ANHD)"
+    },
+    {
+        "label": "5",
+        "name": "Matthew Dunbar",
+        "role": "Chief Strategy Officer",
+        "organization": "Habitat for Humanity NYC and Westchester County"
+    },
+    {
+        "label": "6",
+        "name": "Matthew Murphy",
+        "role": "Executive Director",
+        "organization": "NYU Furman Center"
+    },
+    {
+        "label": "7",
+        "name": "Sam Burtnick",
+        "role": "Representative",
+        "organization": "HANAC"
+    },
+    {
+        "label": "8",
+        "name": "Mark Levine",
+        "role": "Manhattan Borough President",
+        "organization": "City of New York"
+    },
+    {
+        "label": "9",
+        "name": "George Tormo",
+        "role": "Co-President",
+        "organization": "Midland Beach Civic Association"
+    },
+    {
+        "label": "10",
+        "name": "Zool Zulkowitz",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "11",
+        "name": "George Janes",
+        "role": "Urban Planner",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "12",
+        "name": "Megan Fitzpatrick",
+        "role": "Director of Preservation and Research",
+        "organization": "Landmark West!"
+    },
+    {
+        "label": "13",
+        "name": "Cheyanne Deopersaud",
+        "role": "Representative",
+        "organization": "Center for Fair Futures"
+    },
+    {
+        "label": "14",
+        "name": "Zeynep Turan",
+        "role": "Representative",
+        "organization": "FRIENDS of the Upper East Side"
+    },
+    {
+        "label": "15",
+        "name": "Lucie Levine",
+        "role": "Representative",
+        "organization": "Historic Districts Council"
+    },
+    {
+        "label": "16",
+        "name": "Charles Ny",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "17",
+        "name": "Arlene Schlesinger",
+        "role": "Member of the Public",
+        "organization": "Hollis Hills Civic Association"
+    },
+    {
+        "label": "18",
+        "name": "Paul Devlin",
+        "role": "Co-Chair",
+        "organization": "Hell's Kitchen Land Use Committee, Manhattan Community Board 4"
+    },
+    {
+        "label": "19",
+        "name": "Chad Purkey",
+        "role": "Interim Executive Director",
+        "organization": "Association for a Better New York (ABNY)"
+    },
+    {
+        "label": "20",
+        "name": "Howard Slatkin",
+        "role": "Executive Director",
+        "organization": "Citizens Housing and Planning Council"
+    },
+    {
+        "label": "21",
+        "name": "Emily Kurtz",
+        "role": "Chief Housing and Development Officer",
+        "organization": "RiseBoro Community Partnership"
+    },
+    {
+        "label": "22",
+        "name": "Tom Wright",
+        "role": "President and CEO",
+        "organization": "Regional Plan Association"
+    },
+    {
+        "label": "23",
+        "name": "Sanford Miller",
+        "role": "Board Member",
+        "organization": "Manhattan Community Board 4"
+    },
+    {
+        "label": "24",
+        "name": "Michelle de la Uz",
+        "role": "Executive Director",
+        "organization": "Fifth Avenue Committee"
+    },
+    {
+        "label": "25",
+        "name": "Bria Donohue",
+        "role": "Senior Manager of Government Affairs",
+        "organization": "American Institute of Architects, New York"
+    },
+    {
+        "label": "26",
+        "name": "Ronnie Wolf",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "27",
+        "name": "Jennifer Pettit",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "28",
+        "name": "Peter Miller",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "29",
+        "name": "Paul DiBenedetto",
+        "role": "Chair",
+        "organization": "Queens Community Board 11"
+    },
+    {
+        "label": "30",
+        "name": "Naomi Bushman",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "31",
+        "name": "Matthew Robinson",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "32",
+        "name": "Shahana Hanif",
+        "role": "Council Member",
+        "organization": "NYC City Council"
+    },
+    {
+        "label": "33",
+        "name": "June Moses",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "34",
+        "name": "Talya Schwartz",
+        "role": "Strategist",
+        "organization": "Open Plans"
+    },
+    {
+        "label": "35",
+        "name": "Robert F. Holden",
+        "role": "Council Member",
+        "organization": "NYC City Council"
+    },
+    {
+        "label": "36",
+        "name": "Toby Hyde",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "37",
+        "name": "Christopher Marte",
+        "role": "Council Member",
+        "organization": "NYC City Council"
+    },
+    {
+        "label": "38",
+        "name": "Vickie Paladino",
+        "role": "Council Member",
+        "organization": "NYC City Council"
+    },
+    {
+        "label": "39",
+        "name": "Mercedes Narcisse",
+        "role": "Council Member",
+        "organization": "NYC City Council"
+    },
+    {
+        "label": "40",
+        "name": "Julio Herrera",
+        "role": "Executive Assistant",
+        "organization": "The Black Institute"
+    },
+    {
+        "label": "41",
+        "name": "Cassandra O'Hearn",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "42",
+        "name": "Joseph Rosenberg",
+        "role": "Director",
+        "organization": "Catholic Community Relations Council"
+    },
+    {
+        "label": "43",
+        "name": "Sara Lind",
+        "role": "Co-Executive Director",
+        "organization": "OpenPlans"
+    },
+    {
+        "label": "44",
+        "name": "Maddie DeCerbo",
+        "role": "Representative",
+        "organization": "Real Estate Board of New York (REBNY)"
+    },
+    {
+        "label": "45",
+        "name": "Annemarie Gray",
+        "role": "Executive Director",
+        "organization": "Open New York"
+    },
+    {
+        "label": "46",
+        "name": "Rachel Fee",
+        "role": "Executive Director",
+        "organization": "New York Housing Conference"
+    },
+    {
+        "label": "47",
+        "name": "Anthony Ortolano",
+        "role": "Member",
+        "organization": "SEIU 32BJ"
+    },
+    {
+        "label": "48",
+        "name": "Kazi Hossain",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "49",
+        "name": "Barbara Larkin",
+        "role": "Vice President",
+        "organization": "Queens Civic Congress"
+    },
+    {
+        "label": "50",
+        "name": "Mary Anne McGowan",
+        "role": "President",
+        "organization": "Clove Lakes Civic Association"
+    },
+    {
+        "label": "51",
+        "name": "Diah Mehera",
+        "role": "Director of Marketing and Communications",
+        "organization": "Tech: NYC"
+    },
+    {
+        "label": "52",
+        "name": "Chris Coppa",
+        "role": "Member",
+        "organization": "Clove Lakes Civic Association"
+    },
+    {
+        "label": "53",
+        "name": "Evidelia Boyd",
+        "role": "President",
+        "organization": "Rosedale Civic Association"
+    },
+    {
+        "label": "54",
+        "name": "Bernadette Ferrara",
+        "role": "President",
+        "organization": "Van Ness Neighborhood Alliance"
+    },
+    {
+        "label": "55",
+        "name": "Bruce Rosen",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "56",
+        "name": "Joann Ariola",
+        "role": "Council Member",
+        "organization": "NYC City Council"
+    },
+    {
+        "label": "57",
+        "name": "Antonio Reynoso",
+        "role": "Borough President",
+        "organization": "NYC City Council"
+    },
+    {
+        "label": "58",
+        "name": "Gale A. Brewer",
+        "role": "Council Member",
+        "organization": "NYC City Council"
+    },
+    {
+        "label": "59",
+        "name": "Kate Van Tassel ",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "60",
+        "name": "Edwin Westley",
+        "role": "Board Member",
+        "organization": "Queens Community Board 3"
+    },
+    {
+        "label": "61",
+        "name": "Sade Falebita",
+        "role": "Managing Director",
+        "organization": "Downtown Community Television Center (DCTV)"
+    },
+    {
+        "label": "62",
+        "name": "Roxanne Delgado",
+        "role": "Activist",
+        "organization": "Friends of Pelham Parkway"
+    },
+    {
+        "label": "63",
+        "name": "Romario Rodriguez",
+        "role": "Member",
+        "organization": "Hotel and Gaming Trades Council"
+    },
+    {
+        "label": "64",
+        "name": "Valerie Mason",
+        "role": "Chair",
+        "organization": "Manhattan Community Board 8"
+    },
+    {
+        "label": "65",
+        "name": "Clayton Sanford",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "66",
+        "name": "Chi Oss\u00e9",
+        "role": "Council Member",
+        "organization": "NYC City Council"
+    },
+    {
+        "label": "67",
+        "name": "Mark Anaya",
+        "role": "Vice President",
+        "organization": "Neponsit Property Owners Association"
+    },
+    {
+        "label": "68",
+        "name": "Yahel Carmon",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "69",
+        "name": "Renee Kinsella",
+        "role": "Representative",
+        "organization": "29th Street Association"
+    },
+    {
+        "label": "70",
+        "name": "Alia Soomro",
+        "role": "Deputy Director for NYC Policy",
+        "organization": "New York League of Conservation Voters"
+    },
+    {
+        "label": "71",
+        "name": "Julie Chou",
+        "role": "Vice Chair of Land Use, Housing, And Zoning Committee",
+        "organization": "Manhattan Community Board 5"
+    },
+    {
+        "label": "72",
+        "name": "Rosa Chang",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "73",
+        "name": "Gregory Smithsimon",
+        "role": "Professor",
+        "organization": "Center for the Study of Brooklyn"
+    },
+    {
+        "label": "74",
+        "name": "Charlene Davis",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "75",
+        "name": "Mark Greenberg",
+        "role": "Executive Director",
+        "organization": "Interfaith Assembly on Homelessness and Housing"
+    },
+    {
+        "label": "76",
+        "name": "Gordon Lee",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "77",
+        "name": "Layla Law-Gisiko",
+        "role": "President",
+        "organization": "The City Club of New York"
+    },
+    {
+        "label": "78",
+        "name": "Renee DeSantis",
+        "role": "Trustee",
+        "organization": "Community First Development Coalition"
+    },
+    {
+        "label": "79",
+        "name": "Alfred Brand",
+        "role": "Chairman",
+        "organization": "Kew Gardens Civic Association"
+    },
+    {
+        "label": "80",
+        "name": "Paul Briscoe",
+        "role": "Candidate for Congress",
+        "organization": "New York District 10"
+    },
+    {
+        "label": "81",
+        "name": "Ronald Colangelo",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "82",
+        "name": "Jackson Chabot",
+        "role": "Director of Advocacy and Organizing",
+        "organization": "Open Plans"
+    },
+    {
+        "label": "83",
+        "name": "Eric Shiner",
+        "role": "President",
+        "organization": "Powerhouse Arts"
+    },
+    {
+        "label": "84",
+        "name": "Derek Marcus",
+        "role": "Representative",
+        "organization": "TF Cornerstone"
+    },
+    {
+        "label": "85",
+        "name": "Braden Crooks",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "86",
+        "name": "Latonia Harris",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "87",
+        "name": "Michael Sutherland",
+        "role": "Policy Analyst",
+        "organization": "Open Plans"
+    },
+    {
+        "label": "88",
+        "name": "Andrew Berman",
+        "role": "Representative",
+        "organization": "Village Preservation"
+    },
+    {
+        "label": "89",
+        "name": "Maria Deinnocentiis ",
+        "role": "President",
+        "organization": "Utopia Estates Civic Association"
+    },
+    {
+        "label": "90",
+        "name": "Amy Gross",
+        "role": "President",
+        "organization": "Amy Gross Architects"
+    },
+    {
+        "label": "91",
+        "name": "Linda Lee",
+        "role": "Council Member",
+        "organization": "NYC City Council"
+    },
+    {
+        "label": "92",
+        "name": "Eric Dinowitz",
+        "role": "Council Member",
+        "organization": "NYC City Council"
+    },
+    {
+        "label": "93",
+        "name": "UNKNOWN",
+        "role": "Council Staff",
+        "organization": "NYC City Council"
+    },
+    {
+        "label": "94",
+        "name": "Laure Travers",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "95",
+        "name": "Alice Barrett Mitchell",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "96",
+        "name": "Elaine Young",
+        "role": "President",
+        "organization": "West Cunningham Park Civic Association"
+    },
+    {
+        "label": "97",
+        "name": "Tammy Meltzer",
+        "role": "Chair",
+        "organization": "Manhattan Community Board 1"
+    },
+    {
+        "label": "98",
+        "name": "Patricia Loftman",
+        "role": "President",
+        "organization": "Park West Village Tenants Association"
+    },
+    {
+        "label": "99",
+        "name": "Anna Barrett Mitchell",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "100",
+        "name": "Eric Goshow",
+        "role": "Fellow",
+        "organization": "American Institute of Architects New York"
+    },
+    {
+        "label": "101",
+        "name": "Emily Klein",
+        "role": "AVP for Policy And Government Affairs",
+        "organization": "Community Preservation Corporation"
+    },
+    {
+        "label": "102",
+        "name": "Gigi Gerefetari",
+        "role": "Hotel Worker",
+        "organization": "Courtyard Marriott"
+    },
+    {
+        "label": "103",
+        "name": "MacKenzie Fillow",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "104",
+        "name": "Jason Stahl",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "105",
+        "name": "Connie Murray",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "106",
+        "name": "Susan Breindel",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "107",
+        "name": "Andrea Goldwyn",
+        "role": "Representative",
+        "organization": "New York Landmarks Conservancy"
+    },
+    {
+        "label": "108",
+        "name": "Ronda Wist",
+        "role": "Board Member",
+        "organization": "FRIENDS of the Upper East Side"
+    },
+    {
+        "label": "109",
+        "name": "Daniel Mayo",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "110",
+        "name": "Julie Reyes",
+        "role": "Chairperson",
+        "organization": "Bronx Community Board No. 8"
+    },
+    {
+        "label": "111",
+        "name": "Susan Lunn",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "112",
+        "name": "Susan Zinder",
+        "role": "Representative",
+        "organization": "B'nai Adath Kol Beth Yisrael"
+    },
+    {
+        "label": "113",
+        "name": "Catherine Trapani",
+        "role": "Assistant Vice President for Public Policy",
+        "organization": "Volunteers of America-Greater New York"
+    },
+    {
+        "label": "114",
+        "name": "Jacob Brooks",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "115",
+        "name": "Rashida Tyler",
+        "role": "Deputy Executive Director",
+        "organization": "New York State Council of Churches"
+    },
+    {
+        "label": "116",
+        "name": "Baruch Yehudah",
+        "role": "Rabbi",
+        "organization": "B'nai Adath Kol Beth Yisrael"
+    },
+    {
+        "label": "117",
+        "name": "Erica Turner",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "118",
+        "name": "Jaime Williams",
+        "role": "Assembly Member",
+        "organization": "New York State Assembly"
+    },
+    {
+        "label": "119",
+        "name": "Amanda Agoglia",
+        "role": "President",
+        "organization": "Neponsit Property Owners Association"
+    },
+    {
+        "label": "120",
+        "name": "Adeola Deloatch",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "121",
+        "name": "Daniel Cohen",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "122",
+        "name": "Lynn Schulman",
+        "role": "Council Member",
+        "organization": "NYC City Council"
+    },
+    {
+        "label": "123",
+        "name": "LaShaun Ellis",
+        "role": "Community Activist",
+        "organization": "MTOPP"
+    },
+    {
+        "label": "124",
+        "name": "Judine Johnson-Harriott",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "125",
+        "name": "Sean Scott",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "126",
+        "name": "Rohan Kalyani",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "127",
+        "name": "Paul Peart",
+        "role": "Senior Pastor",
+        "organization": "New Testament Temple Church of God"
+    },
+    {
+        "label": "128",
+        "name": "Shamina Lavingia",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "129",
+        "name": "Darrick Borowski",
+        "role": "Architect",
+        "organization": "New York Housing Committee"
+    },
+    {
+        "label": "130",
+        "name": "DJ Falkson",
+        "role": "Member",
+        "organization": "Open New York"
+    },
+    {
+        "label": "131",
+        "name": "Sadia Rahman",
+        "role": "Representative",
+        "organization": "BASE Coalition"
+    },
+    {
+        "label": "132",
+        "name": "Cathy Cebek",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "133",
+        "name": "Laura Spalter",
+        "role": "Representative",
+        "organization": "Protect Bronx Neighborhoods from Overdevelopment"
+    },
+    {
+        "label": "134",
+        "name": "Alicia Spears",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "135",
+        "name": "George Calderaro",
+        "role": "Board Member",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "136",
+        "name": "Angela Kravtchenko",
+        "role": "Board Member, 1st Chair",
+        "organization": "Brooklyn Community Board 13"
+    },
+    {
+        "label": "137",
+        "name": "Ilan Rabinovich",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "138",
+        "name": "Tyler Baldwin",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "139",
+        "name": "Michelle Kuppersmith",
+        "role": "Member",
+        "organization": "Manhattan Community Board 3"
+    },
+    {
+        "label": "140",
+        "name": "Emily Eisner",
+        "role": "Economist",
+        "organization": "Fiscal Policy Institute"
+    },
+    {
+        "label": "141",
+        "name": "Lora Tenenbaum",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "142",
+        "name": "Esther Gimelfarb",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "143",
+        "name": "Carin Bail",
+        "role": "Member",
+        "organization": "Hollis Hill Civic Association"
+    },
+    {
+        "label": "144",
+        "name": "Kevin Jones",
+        "role": "Associate State Director of Advocacy",
+        "organization": "AARP New York"
+    },
+    {
+        "label": "145",
+        "name": "Celines Miranda",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "146",
+        "name": "Linda Cohen",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "147",
+        "name": "Tom Duane",
+        "role": "Former State Senator and City Council Member",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "148",
+        "name": "Paul Graziano",
+        "role": "Urban Planner",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "149",
+        "name": "Adrienne Adams",
+        "role": "Council Member",
+        "organization": "NYC City Council"
+    },
+    {
+        "label": "150",
+        "name": "Isaac Adlerstein",
+        "role": "Executive Director",
+        "organization": "Broadway Community"
+    },
+    {
+        "label": "151",
+        "name": "Guillermo Gomez",
+        "role": "Representative",
+        "organization": "Urban Design Forum"
+    },
+    {
+        "label": "152",
+        "name": "Rachel Simpson",
+        "role": "Architect",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "153",
+        "name": "Margy Brown",
+        "role": "Executive Director",
+        "organization": "UHAB"
+    },
+    {
+        "label": "154",
+        "name": "Jack Bolembach",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "155",
+        "name": "Thomas Diana",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "156",
+        "name": "Vienna Levitan",
+        "role": "Member",
+        "organization": "Ridgewood Property Owners Civic Association"
+    },
+    {
+        "label": "157",
+        "name": "Michelle Alleyne",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "158",
+        "name": "Terry Troia",
+        "role": "Reverend",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "159",
+        "name": "Migdalia Cortez",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "160",
+        "name": "Austin Celestin",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "161",
+        "name": "Ben Wetzler",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "162",
+        "name": "Thomas Lopez-Pierre",
+        "role": "President/CEO",
+        "organization": "Black Real Estate Forum LLC"
+    },
+    {
+        "label": "163",
+        "name": "John Woelfling",
+        "role": "Architect",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "164",
+        "name": "Rita C. Joseph",
+        "role": "Council Member",
+        "organization": "NYC City Council"
+    },
+    {
+        "label": "165",
+        "name": "William Scarborough",
+        "role": "President",
+        "organization": "Addisleigh Park Civic Organization"
+    },
+    {
+        "label": "166",
+        "name": "Vanessa L. Gibson",
+        "role": "Bronx Borough President",
+        "organization": "City of New York"
+    },
+    {
+        "label": "167",
+        "name": "Jess Coleman",
+        "role": "Board Member",
+        "organization": "Manhattan Community Board 1"
+    },
+    {
+        "label": "168",
+        "name": "Kyle Jeremiah",
+        "role": "Director of External Affairs",
+        "organization": "Bowery Residence Committee (BRC)"
+    },
+    {
+        "label": "169",
+        "name": "Jane Buchanan",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "170",
+        "name": "Lindsey McCormack",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "171",
+        "name": "Michael Kaess",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "172",
+        "name": "John Lynch",
+        "role": "Member",
+        "organization": "Juniper Civic Association"
+    },
+    {
+        "label": "173",
+        "name": "Phil Wong",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "174",
+        "name": "Zishun Ning",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "175",
+        "name": "David Mulkins",
+        "role": "President",
+        "organization": "Bowery Alliance of Neighbors"
+    },
+    {
+        "label": "176",
+        "name": "Corey Bearak",
+        "role": "Member",
+        "organization": "Queens Community Board 13"
+    },
+    {
+        "label": "177",
+        "name": "Suwen Cheong",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "178",
+        "name": "Adam Brodheim",
+        "role": "Member of Land Use Committee",
+        "organization": "Manhattan Community Board 7"
+    },
+    {
+        "label": "179",
+        "name": "Leo Guttmann",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "180",
+        "name": "Peter Estes",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "181",
+        "name": "Gregory Marvin",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "182",
+        "name": "Dee Vandenburg",
+        "role": "President",
+        "organization": "Staten Island Taxpayers' Association"
+    },
+    {
+        "label": "183",
+        "name": "Claudia Valentino",
+        "role": "President",
+        "organization": "Forest Hills Community And Civic Association"
+    },
+    {
+        "label": "184",
+        "name": "Colette Wong",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "185",
+        "name": "Renee Monrose",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "186",
+        "name": "Diane Viggiano",
+        "role": "Vice President",
+        "organization": "Old Town Civic Association of Staten Island"
+    },
+    {
+        "label": "187",
+        "name": "Carol Donovan",
+        "role": "President",
+        "organization": "Richmondtown & Clarke Ave. Civic Association"
+    },
+    {
+        "label": "188",
+        "name": "Kevin Wolfe",
+        "role": "Deputy Director of Advocacy",
+        "organization": "Center for New York City Neighborhoods"
+    },
+    {
+        "label": "189",
+        "name": "Dan Miller",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "190",
+        "name": "Chloe Sarnoff",
+        "role": "Director of Policy Research and Initiatives",
+        "organization": "Robin Hood"
+    },
+    {
+        "label": "191",
+        "name": "Sunny Ng",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "192",
+        "name": "Saaif Alam",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "193",
+        "name": "Sharon Pope-Marshall",
+        "role": "Executive Director",
+        "organization": "CIVITAS"
+    },
+    {
+        "label": "194",
+        "name": "Laura Sewell",
+        "role": "Director",
+        "organization": "East Village Community Coalition"
+    },
+    {
+        "label": "195",
+        "name": "John Mudd",
+        "role": "Executive Director",
+        "organization": "Midtown South Community Council"
+    },
+    {
+        "label": "196",
+        "name": "Sarah McKenna",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "197",
+        "name": "Julie Stein",
+        "role": "Executive Director",
+        "organization": "Union Square Partnership"
+    },
+    {
+        "label": "198",
+        "name": "Tyler Lewis",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "199",
+        "name": "Chloe Phitoussi",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "200",
+        "name": "Elizabeth Denys",
+        "role": "Board Member",
+        "organization": "Open New York"
+    },
+    {
+        "label": "201",
+        "name": "Pilar DeJesus",
+        "role": "Vice President",
+        "organization": "East Harlem Preservation"
+    },
+    {
+        "label": "202",
+        "name": "David Lawrence",
+        "role": "Representative",
+        "organization": "Ironclad Artists"
+    },
+    {
+        "label": "203",
+        "name": "Allie Ryan",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "204",
+        "name": "Stephen Crim",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "205",
+        "name": "Matthew Denys",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "206",
+        "name": "Kurtis Weatherford",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "207",
+        "name": "Vishnu Reddy",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "208",
+        "name": "Luke Lavanway",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "209",
+        "name": "Joseph Kleinplatz",
+        "role": "Professor",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "210",
+        "name": "Christopher Leon Johnson",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "211",
+        "name": "David Holowka",
+        "role": "Member",
+        "organization": "Manhattan Community Board 4"
+    },
+    {
+        "label": "212",
+        "name": "Olivia Killingsworth",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "213",
+        "name": "Gabriel Dougherty",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "214",
+        "name": "Alex Armlovich",
+        "role": "Housing Policy Manager",
+        "organization": "Niskanen Center"
+    },
+    {
+        "label": "215",
+        "name": "Dan Kent",
+        "role": "CEO",
+        "organization": "Lantern Organization"
+    },
+    {
+        "label": "216",
+        "name": "Puneet Lath",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "217",
+        "name": "Bill Cryer",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "218",
+        "name": "Shaun Abreu",
+        "role": "Council Member",
+        "organization": "NYC City Council"
+    },
+    {
+        "label": "219",
+        "name": "Rochelle Thompson",
+        "role": "Artist",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "220",
+        "name": "Daniel Arnow",
+        "role": "Representative",
+        "organization": "Entertainment Community Fund"
+    },
+    {
+        "label": "221",
+        "name": "Geoffrey Thomas",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "222",
+        "name": "Daniel Golliher",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "223",
+        "name": "Emilia Decaudin",
+        "role": "Member",
+        "organization": "New York City DSA"
+    },
+    {
+        "label": "224",
+        "name": "Jorge Romero",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "225",
+        "name": "Kayt Tiskus",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "226",
+        "name": "Barbara Blair",
+        "role": "President",
+        "organization": "Garment District Alliance"
+    },
+    {
+        "label": "227",
+        "name": "Roland Nimis",
+        "role": "Acting Director of Housing Unit",
+        "organization": "Bronx Legal Services"
+    },
+    {
+        "label": "228",
+        "name": "Michael Plottel",
+        "role": "Architect and Fellow",
+        "organization": "American Institute of Architects"
+    },
+    {
+        "label": "229",
+        "name": "Lindsay Lamb",
+        "role": "Member",
+        "organization": "Prospect Park South Association"
+    },
+    {
+        "label": "230",
+        "name": "Victoria Hillstrom",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "231",
+        "name": "Joseph Vaini",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "232",
+        "name": "Cliff Bruckenstein",
+        "role": "Member",
+        "organization": "Brooklyn Community Board 15"
+    },
+    {
+        "label": "233",
+        "name": "James (JP) Freeley",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "234",
+        "name": "Marc Pittsley",
+        "role": "Architect",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "235",
+        "name": "Jessica Rothkuo",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "236",
+        "name": "Ernie Smith",
+        "role": "Employee",
+        "organization": "Embroidery Company in the Garment District"
+    },
+    {
+        "label": "237",
+        "name": "Craig Gurian",
+        "role": "Executive Director",
+        "organization": "Anti-Discrimination Center"
+    },
+    {
+        "label": "238",
+        "name": "James Dill",
+        "role": "Executive Director",
+        "organization": "Housing and Services, Inc."
+    },
+    {
+        "label": "239",
+        "name": "Gui Marques",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "240",
+        "name": "Sherida Paulsen",
+        "role": "Senior Principal",
+        "organization": "PKSB Architects"
+    },
+    {
+        "label": "241",
+        "name": "Joe Enright",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "242",
+        "name": "Shams DaBaron",
+        "role": "Housing Advocate",
+        "organization": "Da Housing Hero"
+    },
+    {
+        "label": "243",
+        "name": "Carolyn Iodice",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "244",
+        "name": "Andy Zhang",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "245",
+        "name": "Rev. Carlene Thorbs",
+        "role": "Chairperson",
+        "organization": "Queens Community Board 12"
+    },
+    {
+        "label": "246",
+        "name": "Zachary Thomas",
+        "role": "Member",
+        "organization": "Manhattan Community Board 3"
+    },
+    {
+        "label": "247",
+        "name": "Roberta Gelb",
+        "role": "President",
+        "organization": "Chelsea Reform Democratic Club"
+    },
+    {
+        "label": "248",
+        "name": "Joseph McAllister",
+        "role": "President",
+        "organization": "South Beach Civic Association"
+    },
+    {
+        "label": "249",
+        "name": "Virginia Crawford",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "250",
+        "name": "Michael Zoorob",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "251",
+        "name": "Jenny Dubnau",
+        "role": "Member",
+        "organization": "Western Queens Community Land Trust"
+    },
+    {
+        "label": "252",
+        "name": "Lo van der Valk",
+        "role": "Representative",
+        "organization": "Carnegie Hill Neighbors"
+    },
+    {
+        "label": "253",
+        "name": "Mark Anderson",
+        "role": "President",
+        "organization": "Westerleigh Improvement Society"
+    },
+    {
+        "label": "254",
+        "name": "Karen Argenti",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "255",
+        "name": "Jonathan Ortiz",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "256",
+        "name": "Marieke Thomas",
+        "role": "High School Teacher",
+        "organization": "NYC Department of Education (DOE)"
+    },
+    {
+        "label": "257",
+        "name": "Lana Irons",
+        "role": "Psychiatrist",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "258",
+        "name": "Kirsti Jutila",
+        "role": " Former City Planner (Retired)",
+        "organization": "NYC Department of City Planning"
+    },
+    {
+        "label": "259",
+        "name": "Margo Margolis",
+        "role": "Certified Artist",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "260",
+        "name": "Hien Piotrowski",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "261",
+        "name": "Robert Jeffery",
+        "role": "Member",
+        "organization": "Brooklyn Community Board 1"
+    },
+    {
+        "label": "262",
+        "name": "Samir Lavingia",
+        "role": "Member",
+        "organization": "Manhattan Community Board 5"
+    },
+    {
+        "label": "263",
+        "name": "Pedro Rodriguez",
+        "role": "Member",
+        "organization": "Queens Community Board 6"
+    },
+    {
+        "label": "264",
+        "name": "Marie Marsina",
+        "role": "Board Member",
+        "organization": "Douglaston Civic Association"
+    },
+    {
+        "label": "265",
+        "name": "Lucy Koteen",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "266",
+        "name": "Richard Gibbs",
+        "role": "Real Estate Broker",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "267",
+        "name": "Elisa Koenderman",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "268",
+        "name": "Jacqueline Dolly",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "269",
+        "name": "Leigh Behnke",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "270",
+        "name": "Jesse Lang",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "271",
+        "name": "Eustacia Smith",
+        "role": "Member",
+        "organization": "West Side Federation for Senior and Supportive Housing"
+    },
+    {
+        "label": "272",
+        "name": "Stanley Liao",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "273",
+        "name": "Theo Chino",
+        "role": "First Secretary",
+        "organization": "Social Democrats of America"
+    },
+    {
+        "label": "274",
+        "name": "Nick Felker",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "275",
+        "name": "Salvatore Franchino",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "276",
+        "name": "Igor Nikitenko",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "277",
+        "name": "Eddie Siegel",
+        "role": "Member",
+        "organization": "Manhattan Community Board 2"
+    },
+    {
+        "label": "278",
+        "name": "Henry Euler",
+        "role": "President",
+        "organization": "Auburndale Improvement Association"
+    },
+    {
+        "label": "279",
+        "name": "Daisy Colon",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "280",
+        "name": "Abigail Cliche",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "281",
+        "name": "Ayaz Lavingia",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "282",
+        "name": "Erik Nilsen",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "283",
+        "name": "Juan Rivero",
+        "role": "Representative",
+        "organization": "Village Preservation"
+    },
+    {
+        "label": "284",
+        "name": "Joanne Sullivan",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "285",
+        "name": "Yiatin Chu",
+        "role": "President",
+        "organization": "Asian Wave Alliance"
+    },
+    {
+        "label": "286",
+        "name": "Isabel Kirsch",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "287",
+        "name": "William Meehan",
+        "role": "Member",
+        "organization": "Brooklyn Community Board 8"
+    },
+    {
+        "label": "288",
+        "name": "Alan Gerber",
+        "role": "Member",
+        "organization": "Brooklyn Community Board 8"
+    },
+    {
+        "label": "289",
+        "name": "Felix Stetsenko",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "290",
+        "name": "Doris Hughes",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "291",
+        "name": "Maria Fiocca",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "292",
+        "name": "Steve Barrison",
+        "role": "Land Use Real Estate Attorney",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "293",
+        "name": "Cara Eckholm",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "294",
+        "name": "Sam Zimmerman",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "295",
+        "name": "Mollye Liu",
+        "role": "Member",
+        "organization": "Manhattan Community Board 3"
+    },
+    {
+        "label": "296",
+        "name": "Theresa Westerdahl",
+        "role": "Member",
+        "organization": "Brooklyn Community Board 9"
+    },
+    {
+        "label": "297",
+        "name": "Felicia Johnson",
+        "role": "District Manager",
+        "organization": "Queens Community Board 14"
+    },
+    {
+        "label": "298",
+        "name": "Rob Mazzuchin",
+        "role": "President",
+        "organization": "Marine Park Community Organization"
+    },
+    {
+        "label": "299",
+        "name": "Sadie Kol",
+        "role": "Representative",
+        "organization": "Ridgewood Property Association"
+    },
+    {
+        "label": "300",
+        "name": "Elena Sytcheva",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "301",
+        "name": "Yehuda Pollack",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "302",
+        "name": "Jeremy Kaplan",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "303",
+        "name": "William Matheson",
+        "role": "President",
+        "organization": "Gerritsen Beach Property Owners Association"
+    },
+    {
+        "label": "304",
+        "name": "Nichola Cox",
+        "role": "Board Member",
+        "organization": "Brooklyn Community Board 9"
+    },
+    {
+        "label": "305",
+        "name": "David Pecoraro",
+        "role": "Member",
+        "organization": "Queens Community Board 13"
+    },
+    {
+        "label": "306",
+        "name": "Mark Young",
+        "role": "President",
+        "organization": "South Midwood Residents' Association"
+    },
+    {
+        "label": "307",
+        "name": "John Sheridan",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "308",
+        "name": "Ariana S.",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "309",
+        "name": "Jack Spadaro",
+        "role": "Vice President",
+        "organization": "Bay Improvement Group"
+    },
+    {
+        "label": "310",
+        "name": "Jean Hahn",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "311",
+        "name": "Thomas Caffrey",
+        "role": "Executive Director",
+        "organization": "Committee for Environmentally Sound Development"
+    },
+    {
+        "label": "312",
+        "name": "Israel Peskowitz",
+        "role": "Member",
+        "organization": "Queens Community Board 8"
+    },
+    {
+        "label": "313",
+        "name": "Bonnie Harper",
+        "role": "Government Attorney",
+        "organization": "A Public Authority"
+    },
+    {
+        "label": "314",
+        "name": "Roisin Ford",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "315",
+        "name": "Daniel Fischer",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "316",
+        "name": "Andrew Stern",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "317",
+        "name": "Ryder Kessler",
+        "role": "Co-Executive Director",
+        "organization": "Abundance New York"
+    },
+    {
+        "label": "318",
+        "name": "Ramona Ferreyra",
+        "role": "Representative",
+        "organization": "Save Section 9"
+    },
+    {
+        "label": "319",
+        "name": "Joan Gilbert",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "320",
+        "name": "Neil Miller",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "321",
+        "name": "Sachi Takahashi",
+        "role": "Board Member",
+        "organization": "Open New York"
+    },
+    {
+        "label": "322",
+        "name": "Amit Bagga",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "323",
+        "name": "Charles Ober",
+        "role": "Vice President",
+        "organization": "Ridgewood Property Owners and Civic Association"
+    },
+    {
+        "label": "324",
+        "name": "Nicholas Oo",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "325",
+        "name": "Kevin LaCherra",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "326",
+        "name": "Eric Miao",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "327",
+        "name": "David Gordon",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "328",
+        "name": "Raul Rivera",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "329",
+        "name": "Ed Goydas",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "330",
+        "name": "Alexa Avil\u00e9s",
+        "role": "Council Member",
+        "organization": "NYC City Council"
+    },
+    {
+        "label": "331",
+        "name": "Grace Marrero",
+        "role": "Activist",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "332",
+        "name": "Nancy Kong",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "333",
+        "name": "Ken A",
+        "role": "Member of the Public",
+        "organization": "UNKNOWN"
+    },
+    {
+        "label": "334",
+        "name": "Dena Tasse-Winter",
+        "role": "Director of Research and Preservation",
+        "organization": "Village Preservation"
+    },
+    {
+        "label": "335",
+        "name": "Juan O'Neill",
+        "role": "Urban Policy and Planning Graduate",
+        "organization": "The New School"
+    }
+]

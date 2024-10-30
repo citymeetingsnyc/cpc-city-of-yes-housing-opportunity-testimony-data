@@ -28,6 +28,18 @@ TESTIMONIES_PATH = "testimonies.json"
 EXTRACTED_DATA_DIR = "extracted-data"
 
 
+def speakers_path(source_data_dir: str) -> str:
+    return f"{source_data_dir}/speakers.json"
+
+
+def transcript_path(source_data_dir: str) -> str:
+    return f"{source_data_dir}/transcript.json"
+
+
+def testimonies_path(source_data_dir: str) -> str:
+    return f"{source_data_dir}/testimonies.json"
+
+
 @click.group()
 def cli():
     """Analyze testimonies based on different criteria."""
@@ -35,6 +47,7 @@ def cli():
 
 
 @cli.command()
+@click.argument("source_data_dir", type=click.Path(exists=True))
 @click.option(
     "--model-provider", default="ANTHROPIC", help="Model provider (ANTHROPIC or OPENAI)"
 )
@@ -44,17 +57,19 @@ def cli():
     type=click.Choice(["FOR", "AGAINST"], case_sensitive=False),
     help="Filter testimonies by whether they are for or against the proposal",
 )
-def proposal_elements(model_provider, model_name, stance=None):
+def proposal_elements(source_data_dir, model_provider, model_name, stance=None):
     """Analyze testimonies for which City of Yes proposal elements they discuss."""
     run_analysis(
         proposal_elements_analysis.extract,
+        source_data_dir=source_data_dir,
         model_provider=model_provider,
         model_name=model_name,
         stance=stance,
     )
 
 
-@cli.command() # Note - we'll likely delete this as we use the newer and improved version
+@cli.command()
+@click.argument("source_data_dir", type=click.Path(exists=True))
 @click.argument("reference_talking_points_path", type=click.Path(exists=True))
 @click.option(
     "--model-provider", default="ANTHROPIC", help="Model provider (ANTHROPIC or OPENAI)"
@@ -66,7 +81,11 @@ def proposal_elements(model_provider, model_name, stance=None):
     help="Filter testimonies by whether they are for or against the proposal",
 )
 def talking_points(
-    reference_talking_points_path, model_provider, model_name, stance=None
+    source_data_dir,
+    reference_talking_points_path,
+    model_provider,
+    model_name,
+    stance=None,
 ):
     """Analyze testimonies for how closely they reference reference talking points.
 
@@ -77,6 +96,7 @@ def talking_points(
 
     run_analysis(
         talking_points_analysis.extract,
+        source_data_dir=source_data_dir,
         reference_talking_points=reference_talking_points,
         model_provider=model_provider,
         model_name=model_name,
@@ -85,12 +105,16 @@ def talking_points(
 
 
 @cli.command()
+@click.argument("source_data_dir", type=click.Path(exists=True))
 @click.argument("extracted_data_dir", type=click.Path(exists=True))
 @click.argument("reference_talking_points_path", type=click.Path(exists=True))
-def talking_points_report(extracted_data_dir, reference_talking_points_path):
+def talking_points_report(
+    source_data_dir, extracted_data_dir, reference_talking_points_path
+):
     """Generate a report from the talking points analysis."""
     print(
         talking_points_analysis.generate_report(
+            source_data_dir,
             extracted_data_dir,
             reference_talking_points_path,
         )
@@ -110,7 +134,10 @@ def for_against(model_provider, model_name):
     )
 
 def run_analysis(
-    extract_fn: Callable[[Transcript, str], BaseModel], stance=None, **extract_fn_args
+    extract_fn: Callable[[Transcript, str], BaseModel],
+    source_data_dir=None,
+    stance=None,
+    **extract_fn_args,
 ):
     if not os.path.exists(EXTRACTED_DATA_DIR):
         os.makedirs(EXTRACTED_DATA_DIR)
@@ -125,9 +152,10 @@ def run_analysis(
 
     # Load the transcript and testimonies
     transcript = Transcript.from_speakers_and_transcript_path(
-        SPEAKERS_PATH, TRANSCRIPT_PATH
+        speakers_path(source_data_dir), transcript_path(source_data_dir)
     )
-    with open(TESTIMONIES_PATH, "r") as f:
+
+    with open(testimonies_path(source_data_dir), "r") as f:
         testimonies = json.load(f)
 
     # Prompt the user to process a certain number of testimonies or all
