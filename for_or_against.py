@@ -1,7 +1,7 @@
 """
 This script analyzes a transcript of testimonies regarding the NYC City of Yes for Housing Opportunity proposal.
 
-It determines whether each speaker is for or against the proposal based on their testimony, extracts relevant information such as borough, neighborhood, stated affiliations, and elements discussed, and outputs the analysis in a structured JSON format.
+It determines whether each speaker is for or against the proposal based on their testimony, extracts relevant claims for and against the proposal, and outputs the analysis in a structured JSON format.
 
 Usage:
     poetry run python for_or_against.py --transcript path/to/transcript.json --output path/to/output.json --limit N
@@ -13,7 +13,7 @@ Arguments:
     --limit: (Optional) Maximum number of speakers to analyze.
 """
 
-from typing import List, Dict, Optional, Literal
+from typing import List, Dict, Optional
 from datetime import datetime
 from pydantic import BaseModel, Field
 from anthropic import Anthropic
@@ -35,44 +35,6 @@ class ForOrAgainstStance(BaseModel):
     )
     for_or_against: str = Field(
         description="'for' if the individual is for City of Yes, 'against' if the individual is against City of Yes."
-    )
-    borough: Literal[
-        "Manhattan", "Queens", "Brooklyn", "Bronx", "Staten Island", "Unknown"
-    ] = Field(
-        description="The borough in which the individual giving testimony lives. If it is not clear in which borough the individual lives, use 'Unknown'. If you can extrapolate the borough the individual lives in from the neighborhood they stated that they live in or the community board that they are in, use that."
-    )
-    neighborhood: str = Field(
-        description="The neighborhood in which the individual giving testimony lives. If it is not clear in which neighborhood the individual lives, use 'Unknown'."
-    )
-    stated_affiliations: List[str] = Field(
-        description="""
-        The affiliations that the individual giving testimony has stated that they have.
-
-        An affiliation can include an organization/association or government body they are a part of.
-
-        An affiliation does not include where the individual lives, or their role.
-
-        Affiliations are purely entities that the individual states they are a part of.
-
-        This value should be a list of these affiliations.
-        """
-    )
-    elements_discussed: List[str] = Field(
-        description="""
-        The elements of the City of Yes for Housing Opportunity proposal that the individual discussed in their testimony.
-
-        Possible elements include:
-        - Universal Affordability Preference (UAP)
-        - Residential Conversions
-        - Town Center Zoning
-        - Removing Parking Mandates
-        - Accessory Dwelling Units (ADUs)
-        - Transit-Oriented Development
-        - Campuses
-        - Small and Shared Housing
-
-        If none of these elements are discussed, use an empty list.
-        """
     )
 
 
@@ -115,18 +77,10 @@ The City of Yes for Housing Opportunity proposal includes:
 
 Analyze the speaker's statements carefully to determine their stance.
 
-If the testimony mentions where the individual lives, identify the borough in which they reside. The possible boroughs are:
-- Manhattan
-- Queens
-- Brooklyn
-- Bronx
-- Staten Island
-If you cannot determine the borough, mark it as 'Unknown'. If the neighborhood or community board provides clues, use that information to determine the borough.
-
-Additionally, extract the following information:
-- Neighborhood: Identify the neighborhood where the speaker resides. If unclear, use 'Unknown'.
-- Stated Affiliations: List any organizations, associations, or government bodies the speaker is affiliated with, as mentioned in their testimony.
-- Elements Discussed: List the specific elements of the City of Yes proposal that the speaker discusses in their testimony.
+Extract the following information from the testimony:
+- Claims Against City of Yes: List any arguments or statements that oppose the proposal.
+- Claims For City of Yes: List any arguments or statements that support the proposal.
+- Analysis of Testimony: Provide a brief analysis of the overall stance and key points made by the speaker.
 
 Ensure that all extracted information is accurate and based solely on the testimony provided.
 """
@@ -197,10 +151,10 @@ def analyze_transcript_stances(transcript_path: str, limit: Optional[int] = None
                     {"role": "system", "content": SYSTEM_PROMPT},
                     {
                         "role": "user",
-                        "content": f"Please analyze this testimony to determine if the speaker is for or against the City of Yes proposal, identify their borough and neighborhood, list any stated affiliations, and enumerate the elements of the proposal they discussed:\n\n{testimony}"
+                        "content": f"Please analyze this testimony to determine if the speaker is for or against the City of Yes proposal and extract the claims against and for the proposal along with your analysis:\n\n{testimony}"
                     },
                 ],
-                "max_tokens": 8192
+                "max_tokens": 8192  
             }
 
             response, _ = client.chat.completions.create_with_completion(**kwargs)
@@ -236,21 +190,26 @@ def analyze_transcript_stances(transcript_path: str, limit: Optional[int] = None
     return analysis_output
 
 
-def save_analysis(analysis: AnalysisOutput, output_path: str = "stance_analysis_results.json"):
-    """Save analysis results to a JSON file."""
-    with open(output_path, 'w') as f:
-        json.dump(analysis.model_dump(), f, indent=2)
-
-
 @click.command()
 @click.option('--transcript', default='transcript.json', help='Path to transcript JSON file')
 @click.option('--limit', type=int, help='Number of speakers to analyze')
-@click.option('--output', default='stance_analysis_results.json', help='Output JSON file path')
+@click.option('--output', default=None, help='Output JSON file path')
 def main(transcript, limit, output):
     """Analyze transcript stances using Click."""
     try:
+        # Determine the output path once
+        if output is None:
+            script_name = os.path.splitext(os.path.basename(__file__))[0]
+            output = f"{script_name}_stances.json"
+        
+        # Perform the analysis
         analysis_results = analyze_transcript_stances(transcript, limit)
-        save_analysis(analysis_results, output)
+        
+        # Save the analysis results to the output path
+        with open(output, 'w') as f:
+            json.dump(analysis_results.model_dump(), f, indent=2)
+        
+        # Inform the user
         print(f"\nAnalysis complete. Results saved to {output}")
         print("\nSummary:")
         print(json.dumps(analysis_results.summary, indent=2))
