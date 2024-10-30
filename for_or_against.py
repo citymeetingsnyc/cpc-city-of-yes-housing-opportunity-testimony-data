@@ -5,6 +5,7 @@ It determines whether each speaker is for or against the proposal based on their
 
 Usage:
     poetry run python for_or_against.py --transcript path/to/transcript.json --output path/to/output.json --limit N
+    Example - poetry run python for_or_against.py --transcript ./transcript.json --limit 5
 
 Arguments:
     --transcript: Path to the transcript JSON file containing the testimonies.
@@ -16,6 +17,7 @@ from typing import List, Dict, Optional, Literal
 from datetime import datetime
 from pydantic import BaseModel, Field
 from anthropic import Anthropic
+import click
 import instructor
 import json
 import os
@@ -240,21 +242,21 @@ def save_analysis(analysis: AnalysisOutput, output_path: str = "stance_analysis_
         json.dump(analysis.model_dump(), f, indent=2)
 
 
-if __name__ == "__main__":
-    import argparse
-
-    parser = argparse.ArgumentParser(description='Analyze transcript stances')
-    parser.add_argument('--transcript', default='transcript.json', help='Path to transcript JSON file')
-    parser.add_argument('--limit', type=int, help='Number of speakers to analyze')
-    parser.add_argument('--output', default='stance_analysis_results.json', help='Output JSON file path')
-
-    args = parser.parse_args()
-
+@click.command()
+@click.option('--transcript', default='transcript.json', help='Path to transcript JSON file')
+@click.option('--limit', type=int, help='Number of speakers to analyze')
+@click.option('--output', default='stance_analysis_results.json', help='Output JSON file path')
+def main(transcript, limit, output):
+    """Analyze transcript stances using Click."""
     try:
-        analysis_results = analyze_transcript_stances(args.transcript, args.limit)
-        save_analysis(analysis_results, args.output)
-        print(f"\nAnalysis complete. Results saved to {args.output}")
+        analysis_results = analyze_transcript_stances(transcript, limit)
+        save_analysis(analysis_results, output)
+        print(f"\nAnalysis complete. Results saved to {output}")
         print("\nSummary:")
         print(json.dumps(analysis_results.summary, indent=2))
     except Exception as e:
         print(f"An error occurred: {str(e)}")
+
+
+if __name__ == "__main__":
+    main()
