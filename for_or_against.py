@@ -2,13 +2,11 @@ import logging
 import os
 from typing import List, Literal, Dict
 from datetime import datetime
-
 import instructor
 from anthropic import Anthropic
 from openai import OpenAI
 from pydantic import BaseModel, Field
 from rich.logging import RichHandler
-
 from common import serialize_transcript
 from models import Transcript
 
@@ -21,9 +19,7 @@ logger = logging.getLogger(__name__)
 
 # New System Prompt
 SYSTEM_PROMPT = """You are analyzing testimony about the NYC City of Yes for Housing Opportunity proposal.
-
 Your task is to determine whether each speaker is for or against the proposal based on their statements.
-
 The City of Yes for Housing Opportunity proposal includes:
 - Universal Affordability Preference (UAP)
 - Residential Conversions
@@ -33,14 +29,11 @@ The City of Yes for Housing Opportunity proposal includes:
 - Transit-Oriented Development
 - Campuses
 - Small and Shared Housing
-
 Analyze the speaker's statements carefully to determine their stance.
-
 Extract the following information from the testimony:
 - Claims Against City of Yes: List any arguments or statements that oppose the proposal.
 - Claims For City of Yes: List any arguments or statements that support the proposal.
 - Analysis of Testimony: Provide a brief analysis of the overall stance and key points made by the speaker.
-
 Ensure that all extracted information is accurate and based solely on the testimony provided.
 """
 
@@ -70,6 +63,7 @@ class AnalysisOutput(BaseModel):
             "version": "1.1"
         }
     )
+    extracted_data: AnalysisResult
 
 def extract(
     testimony_transcript: Transcript,
@@ -87,7 +81,6 @@ def extract(
 
     logger.info("Analyzing testimony for stance on City of Yes proposal:")
     logger.info(serialize_transcript(testimony_transcript))
-
     serialized_transcript = serialize_transcript(testimony_transcript)
 
     kwargs = {
@@ -101,7 +94,7 @@ def extract(
             },
         ],
     }
-
+    
     if model_provider == "ANTHROPIC":
         kwargs["max_tokens"] = 4096
 

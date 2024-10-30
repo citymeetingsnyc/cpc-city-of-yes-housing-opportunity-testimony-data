@@ -80,6 +80,7 @@ def proposal_elements(source_data_dir, model_provider, model_name, stance=None):
     type=click.Choice(["FOR", "AGAINST"], case_sensitive=False),
     help="Filter testimonies by whether they are for or against the proposal",
 )
+
 def talking_points(
     source_data_dir,
     reference_talking_points_path,
@@ -120,15 +121,17 @@ def talking_points_report(
         )
     )
 
-@cli.command() # NEW - this should hopefully take in for_or_against.py and run it easily 
+@cli.command()
+@click.argument("source_data_dir", type=click.Path(exists=True))  # Add this line
 @click.option(
     "--model-provider", default="ANTHROPIC", help="Model provider (ANTHROPIC or OPENAI)"
 )
 @click.option("--model-name", default="claude-3-5-sonnet-20241022", help="Model name")
-def for_against(model_provider, model_name):
+def for_against(source_data_dir, model_provider, model_name):  # Add source_data_dir here
     """Analyze testimonies to determine if they are for or against the proposal."""
     run_analysis(
         for_or_against.extract,
+        source_data_dir=source_data_dir,  # Add this line
         model_provider=model_provider,
         model_name=model_name,
     )
