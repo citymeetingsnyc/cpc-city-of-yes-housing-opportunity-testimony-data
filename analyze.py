@@ -12,6 +12,7 @@ from rich.prompt import Confirm
 import proposal_elements_analysis
 import talking_points_analysis
 from models import Transcript
+import for_or_against  # Testing the imports
 
 FORMAT = "%(message)s"
 logging.basicConfig(
@@ -37,7 +38,7 @@ def cli():
 @click.option(
     "--model-provider", default="ANTHROPIC", help="Model provider (ANTHROPIC or OPENAI)"
 )
-@click.option("--model-name", default="claude-3-5-sonnet-20240620", help="Model name")
+@click.option("--model-name", default="claude-3-5-sonnet-20241022", help="Model name")
 @click.option(
     "--stance",
     type=click.Choice(["FOR", "AGAINST"], case_sensitive=False),
@@ -53,12 +54,12 @@ def proposal_elements(model_provider, model_name, stance=None):
     )
 
 
-@cli.command()
+@cli.command() # Note - we'll likely delete this as we use the newer and improved version
 @click.argument("reference_talking_points_path", type=click.Path(exists=True))
 @click.option(
     "--model-provider", default="ANTHROPIC", help="Model provider (ANTHROPIC or OPENAI)"
 )
-@click.option("--model-name", default="claude-3-5-sonnet-20240620", help="Model name")
+@click.option("--model-name", default="claude-3-5-sonnet-20241022", help="Model name") # Newest verison of Claude, as of October
 @click.option(
     "--stance",
     type=click.Choice(["FOR", "AGAINST"], case_sensitive=False),
@@ -95,6 +96,18 @@ def talking_points_report(extracted_data_dir, reference_talking_points_path):
         )
     )
 
+@cli.command() # NEW - this should hopefully take in for_or_against.py and run it easily 
+@click.option(
+    "--model-provider", default="ANTHROPIC", help="Model provider (ANTHROPIC or OPENAI)"
+)
+@click.option("--model-name", default="claude-3-5-sonnet-20241022", help="Model name")
+def for_against(model_provider, model_name):
+    """Analyze testimonies to determine if they are for or against the proposal."""
+    run_analysis(
+        for_or_against.extract,
+        model_provider=model_provider,
+        model_name=model_name,
+    )
 
 def run_analysis(
     extract_fn: Callable[[Transcript, str], BaseModel], stance=None, **extract_fn_args
@@ -163,10 +176,6 @@ def run_analysis(
         processed_count += 1
 
     print(f"Processed {processed_count} testimonies.")
-
-
-
-
 
 
 if __name__ == "__main__":
