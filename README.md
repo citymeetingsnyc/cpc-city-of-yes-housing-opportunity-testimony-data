@@ -27,6 +27,21 @@ This project uses [poetry](https://python-poetry.org/) to manage dependencies.
 
 First, run `poetry install` to create a virtual environment and install all the dependencies.
 
+### Environment Setup
+
+The project requires either Anthropic and OpenAI API keys to run the analyses, however it is currently configured to use Anthropic. 
+
+1. Copy `.env.example` to create your own `.env` file:
+```bash
+cp .env.example .env
+```
+
+2. Edit `.env` and add your API keys:
+```
+ANTHROPIC_API_KEY=your-anthropic-api-key-here
+OPENAI_API_KEY=your-openai-api-key-here
+```
+
 ### Extracting elements of the proposal from each testimony
 
 Run: `poetry run python analyze.py proposal-elements`

@@ -12,6 +12,7 @@ from rich.prompt import Confirm
 import proposal_elements_analysis
 import talking_points_analysis
 from models import Transcript
+import for_or_against  # Testing the imports
 
 FORMAT = "%(message)s"
 logging.basicConfig(
@@ -50,7 +51,7 @@ def cli():
 @click.option(
     "--model-provider", default="ANTHROPIC", help="Model provider (ANTHROPIC or OPENAI)"
 )
-@click.option("--model-name", default="claude-3-5-sonnet-20240620", help="Model name")
+@click.option("--model-name", default="claude-3-5-sonnet-20241022", help="Model name")
 @click.option(
     "--stance",
     type=click.Choice(["FOR", "AGAINST"], case_sensitive=False),
@@ -73,12 +74,13 @@ def proposal_elements(source_data_dir, model_provider, model_name, stance=None):
 @click.option(
     "--model-provider", default="ANTHROPIC", help="Model provider (ANTHROPIC or OPENAI)"
 )
-@click.option("--model-name", default="claude-3-5-sonnet-20240620", help="Model name")
+@click.option("--model-name", default="claude-3-5-sonnet-20241022", help="Model name") # Newest verison of Claude, as of October
 @click.option(
     "--stance",
     type=click.Choice(["FOR", "AGAINST"], case_sensitive=False),
     help="Filter testimonies by whether they are for or against the proposal",
 )
+
 def talking_points(
     source_data_dir,
     reference_talking_points_path,
@@ -119,6 +121,20 @@ def talking_points_report(
         )
     )
 
+@cli.command()
+@click.argument("source_data_dir", type=click.Path(exists=True))  # Add this line
+@click.option(
+    "--model-provider", default="ANTHROPIC", help="Model provider (ANTHROPIC or OPENAI)"
+)
+@click.option("--model-name", default="claude-3-5-sonnet-20241022", help="Model name")
+def for_against(source_data_dir, model_provider, model_name):  # Add source_data_dir here
+    """Analyze testimonies to determine if they are for or against the proposal."""
+    run_analysis(
+        for_or_against.extract,
+        source_data_dir=source_data_dir,  # Add this line
+        model_provider=model_provider,
+        model_name=model_name,
+    )
 
 def run_analysis(
     extract_fn: Callable[[Transcript, str], BaseModel],
@@ -137,6 +153,7 @@ def run_analysis(
             logger.info("Operation cancelled. Existing files will not be overwritten.")
             return
 
+    # Load the transcript and testimonies
     transcript = Transcript.from_speakers_and_transcript_path(
         speakers_path(source_data_dir), transcript_path(source_data_dir)
     )
@@ -144,23 +161,52 @@ def run_analysis(
     with open(testimonies_path(source_data_dir), "r") as f:
         testimonies = json.load(f)
 
-    for testimony in testimonies:
+    # Prompt the user to process a certain number of testimonies or all
+    user_input = input("Enter the number of testimonies to process (or type 'all' to process all): ")
+
+    if user_input.lower() == "all":
+        num_to_process = len(testimonies)
+    else:
+        try:
+            num_to_process = int(user_input)
+            if num_to_process <= 0:
+                raise ValueError("Number must be greater than zero.")
+        except ValueError as e:
+            print(f"Invalid input: {e}")
+            return
+
+    # Process the testimonies, limited by the user-specified count
+    processed_count = 0
+    for idx, testimony in enumerate(testimonies):
+        if idx >= num_to_process:
+            break
+
         if stance and testimony["for_or_against"].lower() != stance.lower():
             continue
 
+        # Get the testimony transcript
         testimony_transcript = transcript.from_start_time_to_end_time(
             testimony["start_time_in_seconds"], testimony["end_time_in_seconds"]
         )
+        # Extract data from the testimony
         extracted_data = extract_fn(testimony_transcript, **extract_fn_args)
 
+        # Combine the testimony and extracted data
         testimony_with_extracted_data = {
             "testimony": testimony,
             "extracted_data": extracted_data.model_dump(),
         }
 
+        # Create a file name based on the person's name
         name_slug = testimony["name"].replace(" ", "-").lower()
+
+        # Save the extracted data to a JSON file
         with open(f"{EXTRACTED_DATA_DIR}/{name_slug}.json", "w") as f:
             json.dump(testimony_with_extracted_data, f, indent=4)
+
+        processed_count += 1
+
+    print(f"Processed {processed_count} testimonies.")
 
 
 if __name__ == "__main__":
