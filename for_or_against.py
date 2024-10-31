@@ -96,7 +96,7 @@ def extract(
     }
     
     if model_provider == "ANTHROPIC":
-        kwargs["max_tokens"] = 4096
+        kwargs["max_tokens"] = 8192 # Max token count may be needed
 
     response, completion = client.chat.completions.create_with_completion(**kwargs)
 
