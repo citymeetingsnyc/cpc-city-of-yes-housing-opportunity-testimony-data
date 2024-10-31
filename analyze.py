@@ -13,6 +13,7 @@ import proposal_elements_analysis
 import talking_points_analysis
 from models import Transcript
 import for_or_against  # Testing the imports
+import borough_analysis  
 
 FORMAT = "%(message)s"
 logging.basicConfig(
@@ -121,6 +122,7 @@ def talking_points_report(
         )
     )
 
+# For or against analysis
 @cli.command()
 @click.argument("source_data_dir", type=click.Path(exists=True))  # Add this line
 @click.option(
@@ -132,6 +134,22 @@ def for_against(source_data_dir, model_provider, model_name):  # Add source_data
     run_analysis(
         for_or_against.extract,
         source_data_dir=source_data_dir,  # Add this line
+        model_provider=model_provider,
+        model_name=model_name,
+    )
+
+# Borough analysis
+@cli.command()
+@click.argument("source_data_dir", type=click.Path(exists=True))
+@click.option(
+    "--model-provider", default="ANTHROPIC", help="Model provider (ANTHROPIC or OPENAI)"
+)
+@click.option("--model-name", default="claude-3-5-sonnet-20241022", help="Model name")
+def borough(source_data_dir, model_provider, model_name):
+    """Analyze testimonies to determine which borough each speaker lives in."""
+    run_analysis(
+        borough_analysis.extract,
+        source_data_dir=source_data_dir,
         model_provider=model_provider,
         model_name=model_name,
     )
