@@ -17,7 +17,7 @@ from testimony_stance_analyzers import for_or_against
 from testimony_stance_analyzers import borough_analysis  
 from testimony_stance_analyzers import neighborhood_analysis
 from testimony_stance_analyzers import stated_affiliations
-
+from testimony_stance_analyzers import elements_discussed
 
 FORMAT = "%(message)s"
 logging.basicConfig(
@@ -158,7 +158,7 @@ def borough(source_data_dir, model_provider, model_name):
         model_name=model_name,
     )
 
-# Neighborhood Analysis
+# Neighborhood analysis
 @cli.command()
 @click.argument("source_data_dir", type=click.Path(exists=True))
 @click.option(
@@ -174,7 +174,7 @@ def neighborhood(source_data_dir, model_provider, model_name):
         model_name=model_name,
     )
 
-# Stated Affiliations
+# Stated affiliations
 @cli.command()
 @click.argument("source_data_dir", type=click.Path(exists=True))
 @click.option(
@@ -185,6 +185,22 @@ def affiliations(source_data_dir, model_provider, model_name):
     """Analyze testimonies to determine the stated affiliations of each speaker."""
     run_analysis(
         stated_affiliations.extract,
+        source_data_dir=source_data_dir,
+        model_provider=model_provider,
+        model_name=model_name,
+    )
+
+# Elements discussed
+@cli.command()
+@click.argument("source_data_dir", type=click.Path(exists=True))
+@click.option(
+    "--model-provider", default="ANTHROPIC", help="Model provider (ANTHROPIC or OPENAI)"
+)
+@click.option("--model-name", default="claude-3-5-sonnet-20241022", help="Model name")
+def elements(source_data_dir, model_provider, model_name):
+    """Analyze testimonies to identify which City of Yes elements each speaker discusses."""
+    run_analysis(
+        elements_discussed.extract,
         source_data_dir=source_data_dir,
         model_provider=model_provider,
         model_name=model_name,
