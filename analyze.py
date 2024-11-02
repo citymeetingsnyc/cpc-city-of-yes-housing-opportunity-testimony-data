@@ -12,8 +12,11 @@ from rich.prompt import Confirm
 import proposal_elements_analysis
 import talking_points_analysis
 from models import Transcript
-import for_or_against  # Testing the imports
-import borough_analysis  
+
+from testimony_stance_analyzers import for_or_against
+from testimony_stance_analyzers import borough_analysis  
+from testimony_stance_analyzers import neighborhood_analysis
+
 
 FORMAT = "%(message)s"
 logging.basicConfig(
@@ -153,6 +156,23 @@ def borough(source_data_dir, model_provider, model_name):
         model_provider=model_provider,
         model_name=model_name,
     )
+
+# Neighborhood Analysis
+@cli.command()
+@click.argument("source_data_dir", type=click.Path(exists=True))
+@click.option(
+    "--model-provider", default="ANTHROPIC", help="Model provider (ANTHROPIC or OPENAI)"
+)
+@click.option("--model-name", default="claude-3-5-sonnet-20241022", help="Model name")
+def neighborhood(source_data_dir, model_provider, model_name):
+    """Analyze testimonies to determine which neighborhood each speaker lives in."""
+    run_analysis(
+        neighborhood_analysis.extract,
+        source_data_dir=source_data_dir,
+        model_provider=model_provider,
+        model_name=model_name,
+    )
+
 
 def run_analysis(
     extract_fn: Callable[[Transcript, str], BaseModel],
