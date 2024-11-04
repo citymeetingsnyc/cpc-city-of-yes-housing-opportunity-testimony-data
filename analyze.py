@@ -13,11 +13,11 @@ import proposal_elements_analysis
 import talking_points_analysis
 from models import Transcript
 
-from testimony_stance_analyzers import for_or_against
-from testimony_stance_analyzers import borough_analysis  
-from testimony_stance_analyzers import neighborhood_analysis
-from testimony_stance_analyzers import stated_affiliations
-from testimony_stance_analyzers import elements_discussed
+from analyzers import for_or_against
+from analyzers import borough_analysis  
+from analyzers import neighborhood_analysis
+from analyzers import stated_affiliations
+from analyzers import elements_discussed
 
 FORMAT = "%(message)s"
 logging.basicConfig(
