@@ -9,10 +9,14 @@ from pydantic import BaseModel
 from rich.logging import RichHandler
 from rich.prompt import Confirm
 
-import proposal_elements_analysis
 import talking_points_analysis
 from models import Transcript
-import for_or_against  # Testing the imports
+
+from analyzers import for_or_against
+from analyzers import borough_analysis  
+from analyzers import neighborhood_analysis
+from analyzers import stated_affiliations
+from analyzers import elements_discussed
 
 FORMAT = "%(message)s"
 logging.basicConfig(
@@ -44,29 +48,6 @@ def testimonies_path(source_data_dir: str) -> str:
 def cli():
     """Analyze testimonies based on different criteria."""
     pass
-
-
-@cli.command()
-@click.argument("source_data_dir", type=click.Path(exists=True))
-@click.option(
-    "--model-provider", default="ANTHROPIC", help="Model provider (ANTHROPIC or OPENAI)"
-)
-@click.option("--model-name", default="claude-3-5-sonnet-20241022", help="Model name")
-@click.option(
-    "--stance",
-    type=click.Choice(["FOR", "AGAINST"], case_sensitive=False),
-    help="Filter testimonies by whether they are for or against the proposal",
-)
-def proposal_elements(source_data_dir, model_provider, model_name, stance=None):
-    """Analyze testimonies for which City of Yes proposal elements they discuss."""
-    run_analysis(
-        proposal_elements_analysis.extract,
-        source_data_dir=source_data_dir,
-        model_provider=model_provider,
-        model_name=model_name,
-        stance=stance,
-    )
-
 
 @cli.command()
 @click.argument("source_data_dir", type=click.Path(exists=True))
@@ -121,6 +102,7 @@ def talking_points_report(
         )
     )
 
+# For or against analysis
 @cli.command()
 @click.argument("source_data_dir", type=click.Path(exists=True))  # Add this line
 @click.option(
@@ -135,6 +117,71 @@ def for_against(source_data_dir, model_provider, model_name):  # Add source_data
         model_provider=model_provider,
         model_name=model_name,
     )
+
+# Borough analysis
+@cli.command()
+@click.argument("source_data_dir", type=click.Path(exists=True))
+@click.option(
+    "--model-provider", default="ANTHROPIC", help="Model provider (ANTHROPIC or OPENAI)"
+)
+@click.option("--model-name", default="claude-3-5-sonnet-20241022", help="Model name")
+def borough(source_data_dir, model_provider, model_name):
+    """Analyze testimonies to determine which borough each speaker lives in."""
+    run_analysis(
+        borough_analysis.extract,
+        source_data_dir=source_data_dir,
+        model_provider=model_provider,
+        model_name=model_name,
+    )
+
+# Neighborhood analysis
+@cli.command()
+@click.argument("source_data_dir", type=click.Path(exists=True))
+@click.option(
+    "--model-provider", default="ANTHROPIC", help="Model provider (ANTHROPIC or OPENAI)"
+)
+@click.option("--model-name", default="claude-3-5-sonnet-20241022", help="Model name")
+def neighborhood(source_data_dir, model_provider, model_name):
+    """Analyze testimonies to determine which neighborhood each speaker lives in."""
+    run_analysis(
+        neighborhood_analysis.extract,
+        source_data_dir=source_data_dir,
+        model_provider=model_provider,
+        model_name=model_name,
+    )
+
+# Stated affiliations
+@cli.command()
+@click.argument("source_data_dir", type=click.Path(exists=True))
+@click.option(
+    "--model-provider", default="ANTHROPIC", help="Model provider (ANTHROPIC or OPENAI)"
+)
+@click.option("--model-name", default="claude-3-5-sonnet-20241022", help="Model name")
+def affiliations(source_data_dir, model_provider, model_name):
+    """Analyze testimonies to determine the stated affiliations of each speaker."""
+    run_analysis(
+        stated_affiliations.extract,
+        source_data_dir=source_data_dir,
+        model_provider=model_provider,
+        model_name=model_name,
+    )
+
+# Elements discussed
+@cli.command()
+@click.argument("source_data_dir", type=click.Path(exists=True))
+@click.option(
+    "--model-provider", default="ANTHROPIC", help="Model provider (ANTHROPIC or OPENAI)"
+)
+@click.option("--model-name", default="claude-3-5-sonnet-20241022", help="Model name")
+def elements(source_data_dir, model_provider, model_name):
+    """Analyze testimonies to identify which City of Yes elements each speaker discusses."""
+    run_analysis(
+        elements_discussed.extract,
+        source_data_dir=source_data_dir,
+        model_provider=model_provider,
+        model_name=model_name,
+    )
+
 
 def run_analysis(
     extract_fn: Callable[[Transcript, str], BaseModel],
