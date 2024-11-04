@@ -74,19 +74,10 @@ class AffiliationInfo(BaseModel):
         default_factory=list
     )
 
-class AnalysisResult(BaseModel):
+class AnalysisOutput(BaseModel):
     speaker_id: str
     testimony: str
     analysis: AffiliationInfo
-
-class AnalysisOutput(BaseModel):
-    metadata: Dict = Field(
-        default_factory=lambda: {
-            "analysis_date": datetime.now().isoformat(),
-            "version": "1.0"
-        }
-    )
-    extracted_data: AnalysisResult
 
 def extract(
     testimony_transcript: Transcript,

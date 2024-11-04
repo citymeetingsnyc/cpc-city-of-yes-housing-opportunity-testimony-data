@@ -73,19 +73,10 @@ class BoroughInfo(BaseModel):
         description="The borough in which the individual giving testimony lives. If it is not clear in which borough the individual lives, use 'Unknown'. If you can extrapolate the borough the individual lives in from the neighborhood they stated that they live in or the community board that they are in, use that."
     )
 
-class AnalysisResult(BaseModel):
+class AnalysisOutput(BaseModel):
     speaker_id: str
     testimony: str
     analysis: BoroughInfo
-
-class AnalysisOutput(BaseModel):
-    metadata: Dict = Field(
-        default_factory=lambda: {
-            "analysis_date": datetime.now().isoformat(),
-            "version": "1.1"
-        }
-    )
-    extracted_data: AnalysisResult
 
 def extract(
     testimony_transcript: Transcript,

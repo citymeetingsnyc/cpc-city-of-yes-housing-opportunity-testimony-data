@@ -63,19 +63,10 @@ class ElementsInfo(BaseModel):
         description="Brief explanation of how the elements were identified in the testimony"
     )
 
-class AnalysisResult(BaseModel):
+class AnalysisOutput(BaseModel):
     speaker_id: str
     testimony: str
     analysis: ElementsInfo
-
-class AnalysisOutput(BaseModel):
-    metadata: Dict = Field(
-        default_factory=lambda: {
-            "analysis_date": datetime.now().isoformat(),
-            "version": "1.0"
-        }
-    )
-    extracted_data: AnalysisResult
 
 def extract(
     testimony_transcript: Transcript,

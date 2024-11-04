@@ -77,19 +77,10 @@ class NeighborhoodInfo(BaseModel):
         description="The neighborhood in which the individual giving testimony lives. If it is not clear in which neighborhood the individual lives, use 'Unknown'. Use commonly recognized neighborhood names."
     )
 
-class AnalysisResult(BaseModel):
+class AnalysisOutput(BaseModel):
     speaker_id: str
     testimony: str
     analysis: NeighborhoodInfo
-
-class AnalysisOutput(BaseModel):
-    metadata: Dict = Field(
-        default_factory=lambda: {
-            "analysis_date": datetime.now().isoformat(),
-            "version": "1.0"
-        }
-    )
-    extracted_data: AnalysisResult
 
 def extract(
     testimony_transcript: Transcript,

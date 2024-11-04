@@ -47,19 +47,10 @@ class ForOrAgainstStance(BaseModel):
         description="'for' if the individual is for City of Yes, 'against' if the individual is against City of Yes."
     )
 
-class AnalysisResult(BaseModel):
+class AnalysisOutput(BaseModel):
     speaker_id: str
     testimony: str
     analysis: ForOrAgainstStance
-
-class AnalysisOutput(BaseModel):
-    metadata: Dict = Field(
-        default_factory=lambda: {
-            "analysis_date": datetime.now().isoformat(),
-            "version": "1.1"
-        }
-    )
-    extracted_data: AnalysisResult
 
 def extract(
     testimony_transcript: Transcript,

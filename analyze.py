@@ -9,7 +9,6 @@ from pydantic import BaseModel
 from rich.logging import RichHandler
 from rich.prompt import Confirm
 
-import proposal_elements_analysis
 import talking_points_analysis
 from models import Transcript
 
@@ -49,29 +48,6 @@ def testimonies_path(source_data_dir: str) -> str:
 def cli():
     """Analyze testimonies based on different criteria."""
     pass
-
-
-@cli.command()
-@click.argument("source_data_dir", type=click.Path(exists=True))
-@click.option(
-    "--model-provider", default="ANTHROPIC", help="Model provider (ANTHROPIC or OPENAI)"
-)
-@click.option("--model-name", default="claude-3-5-sonnet-20241022", help="Model name")
-@click.option(
-    "--stance",
-    type=click.Choice(["FOR", "AGAINST"], case_sensitive=False),
-    help="Filter testimonies by whether they are for or against the proposal",
-)
-def proposal_elements(source_data_dir, model_provider, model_name, stance=None):
-    """Analyze testimonies for which City of Yes proposal elements they discuss."""
-    run_analysis(
-        proposal_elements_analysis.extract,
-        source_data_dir=source_data_dir,
-        model_provider=model_provider,
-        model_name=model_name,
-        stance=stance,
-    )
-
 
 @cli.command()
 @click.argument("source_data_dir", type=click.Path(exists=True))
